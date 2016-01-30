@@ -14,17 +14,20 @@ Supported versions:
 * Magento CE 2.0.1
 * Magento CE 2.0.0
 
+* Guidelines to follow: [Slovenjenje lugos](https://wiki.lugos.si/slovenjenje:pravila)
 
 ## Learn more about Magento translations
 
+Generating source file:
+
+```bash
+$ bin/magento i18n:collect-phrases -o source.csv -m ./
+```
+
 ### Magento 2.x
 
-* [Add language to Magento 1.x](http://merch.docs.magento.com/ce/user_guide/store-operations/language-add.html)
-* [Magento Connect - I18N and L10N section](https://www.magentocommerce.com/magento-connect/customer-experience/internationalization-localization.html) - Magento Connect is a market place to share extensions.
-* [Official Magento community effort to centralize translations](https://crowdin.com/project/magento-1)
-* [Official Magento 2.x translations](https://crowdin.com/project/magento-2)
 * [Magento user guide - Adding a Language](http://merch.docs.magento.com/ce/user_guide/store-operations/language-add.html)
-* [Magento Connect - Create Your Extension](https://www.magentocommerce.com/magento-connect/create_your_extension/)
+* [Translation mechanism in Magento 2](https://gist.github.com/antonmakarenko/7538216)
 
 
 ## Contributing
