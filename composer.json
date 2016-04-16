@@ -1,11 +1,14 @@
 {
-    "name": "symfony-si/language-sl_SI",
+    "name": "symfony-si/magento2-sl_si",
     "description": "Slovenian (Slovenia) language",
+    "homepage" : "https://github.com/symfony-si/magento2-sl_si",
     "version": "100.0.0",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ],
+    "license": "OSL-3.0",
+    "keywords" : [
+		    "magento2",
+		    "language pack",
+		    "sl_SI"
+	  ],
     "require": {
         "magento/framework": "100.0.*"
     },
