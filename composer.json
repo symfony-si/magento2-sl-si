@@ -1,6 +1,6 @@
 {
     "name": "symfony-si/magento2-sl_si",
-    "description": "Slovenian (Slovenia) language",
+    "description": "Slovenian (Slovenia) language package for Magento 2",
     "homepage" : "https://github.com/symfony-si/magento2-sl_si",
     "version": "100.0.0",
     "license": "OSL-3.0",
