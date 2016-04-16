@@ -1,6 +1,6 @@
 # Magento 2 Slovenian Translations
 
-![Progress](http://progressed.io/bar/0?title=completed)
+![Progress](http://progressed.io/bar/5?title=completed)
 [![Open Software License v. 3.0](https://img.shields.io/badge/License-OSL--3.0-blue.svg)](https://github.com/symfony-si/magento2-sl_si/blob/master/LICENSE)
 [![Translations at Crowdin](https://img.shields.io/badge/Crowdin-sl__SI-green.svg)](https://crowdin.com/project/magento-2)
 
