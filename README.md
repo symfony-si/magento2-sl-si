@@ -1,36 +1,45 @@
 # Magento 2 Slovenian Translations
 
-![Progress](http://progressed.io/bar/5?title=completed)
+![Progress](http://progressed.io/bar/23?title=completed)
 [![Open Software License v. 3.0](https://img.shields.io/badge/License-OSL--3.0-blue.svg)](https://github.com/symfony-si/magento2-sl_si/blob/master/LICENSE)
-[![Translations at Crowdin](https://img.shields.io/badge/Crowdin-sl__SI-green.svg)](https://crowdin.com/project/magento-2)
+[![Translations at Crowdin](https://img.shields.io/badge/Crowdin-sl__SI-red.svg)](https://crowdin.com/project/magento-2)
 
 ## Index
 
 * [About](#about)
 * [Installation](#installation)
-* [See also](#see-also)
+    * [Composer](#composer)
+    * [Manual Installation](#manual-installation)
+* [See Also](#see-also)
 * [Contributing and License](#contributing-and-license)
 
 ## About
 
 Slovenian translations for [Magento](https://magento.com/) Community Edition 2.x.
 
-Supported versions:
+Supported versions: Magento CE `2.0.4`, `2.0.3`, `2.0.2`, `2.0.1`, `2.0.0`.
 
-* Magento CE 2.0.4
-* Magento CE 2.0.1
-* Magento CE 2.0.0
-
-Guidelines to follow: [Slovenjenje lugos](https://wiki.lugos.si/slovenjenje:pravila)
+Translations follow guidelines [Slovenjenje lugos](https://wiki.lugos.si/slovenjenje:pravila).
 
 ## Installation
 
+### Composer
+
+Recommended way to install this language pack is to use Composer:
+
 ```bash
 $ composer require symfony-si/magento2-sl_si
+$ bin/magento setup:static-content:deploy sl_SI
 $ bin/magento cache:clean
 ```
 
-### See also
+### Manual Installation
+
+Download the [ZIP archive](https://github.com/symfony-si/magento2-sl_si/archive/master.zip)
+and extract it to `app/i18n/SymfonySi/sl_SI`.
+
+
+### See Also
 
 * [Magento user guide - Adding a Language](http://devdocs.magento.com/guides/v2.0/frontend-dev-guide/translations/xlate.html)
 * [Translation mechanism in Magento 2](https://gist.github.com/antonmakarenko/7538216)
@@ -42,4 +51,4 @@ $ bin/magento cache:clean
 Contributions are welcome. Please check [contributing](CONTRIBUTING.md) document
 for more info.
 
-This repository is released under the [OSL-3.0](LICENSE).
+This repository is released under the [OSL-3.0](https://github.com/symfony-si/magento2-sl_si/blob/master/LICENSE).
