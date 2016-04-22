@@ -1,0 +1,13 @@
+#!/usr/bin/env php
+<?php
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+use League\CommonMark\CommonMarkConverter;
+
+// Create HTML from MarkDown
+$readmeMd = file_get_contents(__DIR__.'/README.md');
+$converter = new CommonMarkConverter();
+$html = $converter->convertToHtml($readmeMd);
+
+file_put_contents(__DIR__.'/README.html', $html, LOCK_EX);

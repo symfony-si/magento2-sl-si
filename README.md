@@ -1,31 +1,40 @@
 # Magento 2 Slovenian Translations
 
-![Progress](http://progressed.io/bar/31?title=completed)
-[![Open Software License v. 3.0](https://img.shields.io/badge/License-OSL--3.0-blue.svg)](https://github.com/symfony-si/magento2-sl_si/blob/master/LICENSE)
-[![Translations at Crowdin](https://img.shields.io/badge/Crowdin-sl__SI-red.svg)](https://crowdin.com/project/magento-2)
+![Progress](http://progressed.io/bar/56?title=completed)
+[![Magento Marketplace](https://img.shields.io/badge/Magento-Marketplace-orange.svg)][marketplace]
+[![Open Software License v. 3.0](https://img.shields.io/badge/License-OSL--3.0-blue.svg)][license]
+[![Latest Release](https://img.shields.io/github/release/symfony-si/magento2-sl_si.svg)][latest-release]
 
-## Index
 
-* [About](#about)
-* [Installation](#installation)
-    * [Composer](#composer)
-    * [Manual Installation](#manual-installation)
-* [See Also](#see-also)
-* [Contributing and License](#contributing-and-license)
+**About**
 
-## About
+Slovenian (Slovenia) - `sl_SI` translations for [Magento][magento] Community Edition
+2.x.
 
-Slovenian translations for [Magento](https://magento.com/) Community Edition 2.x.
+Translations follow Slovenian grammar and translation rules from [Lugos][lugos].
 
-Supported versions: Magento CE `2.0.4`, `2.0.3`, `2.0.2`, `2.0.1`, `2.0.0`.
+Supported Magento versions: `2.0.4`, `2.0.3`, `2.0.2`, `2.0.1` and `2.0.0`.
 
-Translations follow guidelines [Slovenjenje lugos](https://wiki.lugos.si/slovenjenje:pravila).
+---
+
+**O prevodih**
+
+Slovenski (Slovenija) - `sl_SI` prevodi za [Magento][magento] Community Edition
+2.x.
+
+Prevodi sledijo slovenski slovnici in pravilom slovenjenja [Lugos][lugos].
+
+Podprte verzije Magento: `2.0.4`, `2.0.3`, `2.0.2`, `2.0.1` in `2.0.0`.
+
+---
+
 
 ## Installation
 
-### Composer
+**Option 1: Composer**
 
-Recommended way to install this language pack is to use Composer:
+To install this language package with [Composer](https://getcomposer.org), run
+the following in your Magento 2 root folder:
 
 ```bash
 $ composer require symfony-si/magento2-sl_si
@@ -33,22 +42,45 @@ $ bin/magento setup:static-content:deploy sl_SI
 $ bin/magento cache:clean
 ```
 
-### Manual Installation
+**Option 2: Manual Installation**
 
-Download the [ZIP archive](https://github.com/symfony-si/magento2-sl_si/archive/master.zip)
-and extract it to `app/i18n/SymfonySi/sl_SI`.
+Download the latest available [release][latest-release] and extract it to your
+Magento root folder at `app/i18n/SymfonySi/sl_SI`. Also don't forget to deploy
+static files for the locale and cleaning cache:
+
+```bash
+$ bin/magento setup:static-content:deploy sl_SI
+$ bin/magento cache:clean
+```
+
+
+**Option 3: Marketplace**
+
+Magento [Marketplace][marketplace] stores free and paid extensions. Coming up
+soon...
 
 
 ### See Also
 
 * [Magento user guide - Adding a Language](http://devdocs.magento.com/guides/v2.0/frontend-dev-guide/translations/xlate.html)
 * [Translation mechanism in Magento 2](https://gist.github.com/antonmakarenko/7538216)
-* [Magento Connect](https://www.magentocommerce.com/magento-connect/magento-2)
 * [Official Magento community effort to centralize translations](https://crowdin.com/project/magento-2)
+* [Magento Connect](https://www.magentocommerce.com/magento-connect/magento-2) - Magento
+  2 section on Magento Connect. There is a new Marketplace to search for Magento
+  2 extensions though.
+* [Magento 1 Slovenian Translations](https://github.com/symfony-si/magento1-sl-si)
+
 
 ## Contributing and License
 
-Contributions are welcome. Please check [contributing](CONTRIBUTING.md) document
-for more info.
+Project is open sourced and contributors are welcome. Please check [contributing](CONTRIBUTING.md)
+document for more info.
 
-This repository is released under the [OSL-3.0](https://github.com/symfony-si/magento2-sl_si/blob/master/LICENSE).
+This repository is released under the [Open Software License v. 3.0][license].
+
+
+[license]: https://github.com/symfony-si/magento2-sl_si/blob/master/LICENSE
+[lugos]: https://wiki.lugos.si/slovenjenje:pravila
+[magento]: https://magento.com/
+[marketplace]: https://marketplace.magento.com
+[latest-release]: https://github.com/symfony-si/magento2-sl_si/releases/latest

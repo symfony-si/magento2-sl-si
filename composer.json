@@ -4,15 +4,24 @@
     "homepage" : "https://github.com/symfony-si/magento2-sl_si",
     "version": "100.0.0",
     "license": "OSL-3.0",
+    "type": "magento2-language",
     "keywords" : [
 		    "magento2",
 		    "language pack",
 		    "sl_SI"
 	  ],
+    "authors": [
+        {
+            "name": "Peter Kokot",
+            "email": "peterkokot@gmail.com"
+        }
+    ],
     "require": {
-        "magento/framework": "100.0.*"
+        "magento/framework": "~100.0"
     },
-    "type": "magento2-language",
+    "require-dev": {
+        "league/commonmark": "^0.13"
+    },
     "autoload": {
         "files": [
             "registration.php"
