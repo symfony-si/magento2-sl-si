@@ -64,11 +64,13 @@ soon...
 
 * [Magento user guide - Adding a Language](http://devdocs.magento.com/guides/v2.0/frontend-dev-guide/translations/xlate.html)
 * [Translation mechanism in Magento 2](https://gist.github.com/antonmakarenko/7538216)
-* [Official Magento community effort to centralize translations](https://crowdin.com/project/magento-2)
 * [Magento Connect](https://www.magentocommerce.com/magento-connect/magento-2) - Magento
   2 section on Magento Connect. There is a new Marketplace to search for Magento
   2 extensions though.
 * [Magento 1 Slovenian Translations](https://github.com/symfony-si/magento1-sl-si)
+* [Crowdin](https://crowdin.com/project/magento-2) - Community effort to
+  centralize Magento translations. Inactive, new target languages are not being
+  added.
 
 
 ## Contributing and License
