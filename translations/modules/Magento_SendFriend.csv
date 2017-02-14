@@ -1,0 +1,49 @@
+"Page not found.","Strani ni mogoče najti.",module,Magento_SendFriend
+"You can\'t send messages more than %1 times an hour.","You can\'t send messages more than %1 times an hour.",module,Magento_SendFriend
+"The link to a friend was sent.","The link to a friend was sent.",module,Magento_SendFriend
+"We found some problems with the data.","We found some problems with the data.",module,Magento_SendFriend
+"Some emails were not sent.","Some emails were not sent.",module,Magento_SendFriend
+"You\'ve met your limit of %1 sends in an hour.","You\'ve met your limit of %1 sends in an hour.",module,Magento_SendFriend
+"Please enter a sender name.","Please enter a sender name.",module,Magento_SendFriend
+"Invalid Sender Email","Invalid Sender Email",module,Magento_SendFriend
+"Please enter a message.","Please enter a message.",module,Magento_SendFriend
+"Please specify at least one recipient.","Please specify at least one recipient.",module,Magento_SendFriend
+"Please enter a correct recipient email address.","Please enter a correct recipient email address.",module,Magento_SendFriend
+"No more than %1 emails can be sent at a time.","No more than %1 emails can be sent at a time.",module,Magento_SendFriend
+"Please define a correct product instance.","Please define a correct product instance.",module,Magento_SendFriend
+"Invalid Sender Information","Invalid Sender Information",module,Magento_SendFriend
+"Please define the correct sender information.","Please define the correct sender information.",module,Magento_SendFriend
+"IP Address","IP Address",module,Magento_SendFriend
+"Cookie (unsafe)","Cookie (unsafe)",module,Magento_SendFriend
+"No Product Exception.","No Product Exception.",module,Magento_SendFriend
+"No Category Exception.","No Category Exception.",module,Magento_SendFriend
+"Some error","Some error",module,Magento_SendFriend
+"Localized Exception.","Localized Exception.",module,Magento_SendFriend
+"Exception.","Exception.",module,Magento_SendFriend
+"Remove Recipent","Remove Recipent",module,Magento_SendFriend
+"Remove","Odstrani",module,Magento_SendFriend
+"Name","Ime",module,Magento_SendFriend
+"Email","E-pošta",module,Magento_SendFriend
+"* Required Fields","* Obvezna polja",module,Magento_SendFriend
+"Sender","Pošiljatelj",module,Magento_SendFriend
+"Message","Sporočilo",module,Magento_SendFriend
+"Invitee","Invitee",module,Magento_SendFriend
+"Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_SendFriend
+"Add Invitee","Add Invitee",module,Magento_SendFriend
+"Send Email","Pošlji e-pošto",module,Magento_SendFriend
+"Back","Nazaj",module,Magento_SendFriend
+"%name,","%name,",module,Magento_SendFriend
+"%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
+"Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
+"Email to a Friend","Pošlji prijatelju",module,Magento_SendFriend
+"Email Templates","Predloge e-pošt",module,Magento_SendFriend
+"Enabled","Omogočeno",module,Magento_SendFriend
+"Select Email Template","Izberite predlogo e-pošte",module,Magento_SendFriend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_SendFriend
+"Allow for Guests","Dovoliti za goste",module,Magento_SendFriend
+"Max Recipients","Največ prejemnikov",module,Magento_SendFriend
+"Max Products Sent in 1 Hour","Največ izdelkov poslanih v 1 uri",module,Magento_SendFriend
+"Limit Sending By","Omeji pošiljanje na",module,Magento_SendFriend
+"You can't send messages more than %1 times an hour.","You can't send messages more than %1 times an hour.",module,Magento_SendFriend
+"You've met your limit of %1 sends in an hour.","You've met your limit of %1 sends in an hour.",module,Magento_SendFriend
+"Welcome, %name","Welcome, %name",module,Magento_SendFriend

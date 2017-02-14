@@ -1,0 +1,139 @@
+"Save Review","Shrani mnenje",module,Magento_Review
+"New Review","Novo mnenje",module,Magento_Review
+"Review Details","Podrobnosti mnenja",module,Magento_Review
+"Product","Izdelek",module,Magento_Review
+"Product Rating","Ocena izdelka",module,Magento_Review
+"Status","Stanje",module,Magento_Review
+"Visibility","Vidnost",module,Magento_Review
+"Nickname","Vzdevek",module,Magento_Review
+"Summary of Review","Povzetek mnenja",module,Magento_Review
+"Review","Review",module,Magento_Review
+"Previous","Prejšnja",module,Magento_Review
+"Save and Previous","Shrani in na prejšnjo",module,Magento_Review
+"Save and Next","Shrani in naprej",module,Magento_Review
+"Next","Naslednja",module,Magento_Review
+"Delete Review","Delete Review",module,Magento_Review
+"Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_Review
+"Edit Review '%1'","Edit Review '%1'",module,Magento_Review
+"<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
+"Administrator","Administrator",module,Magento_Review
+"Guest","Gost",module,Magento_Review
+"Author","Avtor",module,Magento_Review
+"Summary Rating","Summary Rating",module,Magento_Review
+"Detailed Rating","Detailed Rating",module,Magento_Review
+"ID","ID",module,Magento_Review
+"Created","Ustvarjeno",module,Magento_Review
+"Title","Naslov",module,Magento_Review
+"Type","Vrsta",module,Magento_Review
+"SKU","SKU",module,Magento_Review
+"Action","Dejanje",module,Magento_Review
+"Edit","Uredi",module,Magento_Review
+"Delete","Izbriši",module,Magento_Review
+"Are you sure?","Ali ste prepričani?",module,Magento_Review
+"Update Status","Posodobi stanje",module,Magento_Review
+"Customer","Stranka",module,Magento_Review
+"Pending Reviews of Customer `%1`","Pending Reviews of Customer `%1`",module,Magento_Review
+"Pending Reviews","Pending Reviews",module,Magento_Review
+"All Reviews of Customer `%1`","All Reviews of Customer `%1`",module,Magento_Review
+"All Reviews of Product `%1`","All Reviews of Product `%1`",module,Magento_Review
+"All Reviews","All Reviews",module,Magento_Review
+"Name","Ime",module,Magento_Review
+"Product Store Name","Ime trgovine izdelka",module,Magento_Review
+"Price","Cena",module,Magento_Review
+"Quantity","Količina",module,Magento_Review
+"Websites","Spletne strani",module,Magento_Review
+"Manage Ratings","Manage Ratings",module,Magento_Review
+"Add New Rating","Add New Rating",module,Magento_Review
+"Save Rating","Save Rating",module,Magento_Review
+"Delete Rating","Delete Rating",module,Magento_Review
+"Edit Rating #%1","Edit Rating #%1",module,Magento_Review
+"New Rating","New Rating",module,Magento_Review
+"Rating Title","Rating Title",module,Magento_Review
+"Default Value","Privzeta vrednost",module,Magento_Review
+"Rating Visibility","Rating Visibility",module,Magento_Review
+"Is Active","Is Active",module,Magento_Review
+"Sort Order","Vrstni red",module,Magento_Review
+"Rating Information","Rating Information",module,Magento_Review
+"Product Reviews","Mnenja o izdelku",module,Magento_Review
+"Pending product review(s)","Pending product review(s)",module,Magento_Review
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Product: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
+"Summary of review: %1 <br/>","Summary of review: %1 <br/>",module,Magento_Review
+"Review: %1 <br/>","Review: %1 <br/>",module,Magento_Review
+"Store: %1 <br/>","Store: %1 <br/>",module,Magento_Review
+"Click <a href=""%1"">here</a> to see the review.","Click <a href=""%1"">here</a> to see the review.",module,Magento_Review
+"Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2",module,Magento_Review
+"Pending Reviews RSS","Pending Reviews RSS",module,Magento_Review
+"Reviews %1","Reviews %1",module,Magento_Review
+"Reviews","Reviews",module,Magento_Review
+"The review has been deleted.","The review has been deleted.",module,Magento_Review
+"Something went wrong  deleting this review.","Something went wrong  deleting this review.",module,Magento_Review
+"Customer Reviews","Customer Reviews",module,Magento_Review
+"Edit Review","Edit Review",module,Magento_Review
+"We can\'t retrieve the product ID.","We can\'t retrieve the product ID.",module,Magento_Review
+"Please select review(s).","Please select review(s).",module,Magento_Review
+"A total of %1 record(s) have been deleted.","Skupaj %1 vnosov je bilo izbrisanih.",module,Magento_Review
+"Something went wrong while deleting these records.","Something went wrong while deleting these records.",module,Magento_Review
+"A total of %1 record(s) have been updated.","Skupaj %1 vnosov je bilo posodobljenih.",module,Magento_Review
+"Something went wrong while updating these review(s).","Something went wrong while updating these review(s).",module,Magento_Review
+"You saved the review.","You saved the review.",module,Magento_Review
+"Something went wrong while saving this review.","Something went wrong while saving this review.",module,Magento_Review
+"The review was removed by another user or does not exist.","The review was removed by another user or does not exist.",module,Magento_Review
+"You deleted the rating.","You deleted the rating.",module,Magento_Review
+"Ratings","Ocene",module,Magento_Review
+"You saved the rating.","You saved the rating.",module,Magento_Review
+"My Product Reviews","My Product Reviews",module,Magento_Review
+"You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
+"We can\'t post your review right now.","We can\'t post your review right now.",module,Magento_Review
+"Storage key was not set","Storage key was not set",module,Magento_Review
+"Approved","Odobreno",module,Magento_Review
+"Pending","Na čakanju",module,Magento_Review
+"Not Approved","Ni odobreno",module,Magento_Review
+"Please enter a review summary.","Please enter a review summary.",module,Magento_Review
+"Please enter a nickname.","Please enter a nickname.",module,Magento_Review
+"Please enter a review.","Please enter a review.",module,Magento_Review
+"Rating isn't Available","Rating isn't Available",module,Magento_Review
+"Please specify a rating title for a store, or we\'ll just use the default value.","Please specify a rating title for a store, or we\'ll just use the default value.",module,Magento_Review
+"Assigned Options","Dodeljene možnosti",module,Magento_Review
+"Option Title:","Naslov možnosti:",module,Magento_Review
+"Product Name","Ime izdelka",module,Magento_Review
+"Rating","Ocena",module,Magento_Review
+"Actions","Dejanja",module,Magento_Review
+"See Details","Ogled podrobnosti",module,Magento_Review
+"You have submitted no reviews.","Niste poslali nobenega mnenja.",module,Magento_Review
+"Back","Nazaj",module,Magento_Review
+"My Recent Reviews","Moja nedavna mnenja",module,Magento_Review
+"View All","Poglej si vse",module,Magento_Review
+"Average Customer Rating:","Povprečna ocena kupcev:",module,Magento_Review
+"Your Review","Vaše mnenje",module,Magento_Review
+"Submitted on %1","Poslano %1",module,Magento_Review
+"Back to My Reviews","Nazaj na moje ocene",module,Magento_Review
+"Ratings Review Summary","Povzetek ocen mnenj",module,Magento_Review
+"Be the first to review this product","Bodite prvi in napišite mnenje o tem izdelku",module,Magento_Review
+"Write Your Own Review","Napišite vaše lastno mnenje",module,Magento_Review
+"* Required Fields","* Obvezna polja",module,Magento_Review
+"You're reviewing:","Pregledujete:",module,Magento_Review
+"Your Rating","Vaša ocena",module,Magento_Review
+"%1 %2","%1 %2",module,Magento_Review
+"Summary","Povzetek",module,Magento_Review
+"Submit Review","Pošlji mnenje",module,Magento_Review
+"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
+"Add Your Review","Add Your Review",module,Magento_Review
+"%1 Review(s)","%1 Review(s)",module,Magento_Review
+"Review by","Review by",module,Magento_Review
+"Posted on","Poslano",module,Magento_Review
+"Back to Main Product Info","Back to Main Product Info",module,Magento_Review
+"Average Customer Rating","Average Customer Rating",module,Magento_Review
+"Product Rating:","Product Rating:",module,Magento_Review
+"Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
+"Back to Product Reviews","Back to Product Reviews",module,Magento_Review
+"Allow Guests to Write Reviews","Dovoli gostom pisati mnenja",module,Magento_Review
+"Active","Aktivno",module,Magento_Review
+"Inactive","Neaktivno",module,Magento_Review
+"<a href="%1" onclick="this.target='blank'">%2 %3</a> <a href="mailto:%4">(%4)</a>","<a href="%1" onclick="this.target='blank'">%2 %3</a> <a href="mailto:%4">(%4)</a>",module,Magento_Review
+"We can't retrieve the product ID.","We can't retrieve the product ID.",module,Magento_Review
+"Cannot initialize product","Cannot initialize product",module,Magento_Review
+"We can't post your review right now.","We can't post your review right now.",module,Magento_Review
+"Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value.",module,Magento_Review
+"Only registered users can write reviews. Please <a href="%1">Sign in</a> or <a href="%2">create an account</a>","Only registered users can write reviews. Please <a href="%1">Sign in</a> or <a href="%2">create an account</a>",module,Magento_Review
+"By Customers","By Customers",module,Magento_Review
+"By Products","By Products",module,Magento_Review

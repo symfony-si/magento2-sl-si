@@ -1,0 +1,25 @@
+"Indexer Management","Upravljanje indeksa",module,Magento_Indexer
+"Update by Schedule","Posodobi po urniku",module,Magento_Indexer
+"Update on Save","Posodobi pri shranjevanju",module,Magento_Indexer
+"Reindex required","Potrebno ponovno indeksiranje",module,Magento_Indexer
+"Ready","Pripravljen",module,Magento_Indexer
+"Processing","Obdelava",module,Magento_Indexer
+"Never","Nikoli",module,Magento_Indexer
+"Index Management","Upravljanje indeksa",module,Magento_Indexer
+"Please select indexers.","Izberite indeksiranje.",module,Magento_Indexer
+"%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indeks(ov) so v načinu ""Posodobi po urniku"".",module,Magento_Indexer
+"We couldn't change indexer(s)' mode because of an error.","Načina indeksa ni mogoče spremeniti zaradi napake.",module,Magento_Indexer
+"%1 indexer(s) are in ""Update on Save"" mode.","%1 indeks(ov) je v načinu ""Posodobi pri shranjevanju"".",module,Magento_Indexer
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Eden ali več <a href=""%1"">indeksov je neveljavnih</a>. Poskrbite, da se vaše <a href=""%2"" target=""_blank"">periodično opravilo Magento</a> poganja.",module,Magento_Indexer
+"State for the same indexer","Stanje za isti indeks",module,Magento_Indexer
+"State for the same view","Stanje za isti pogled",module,Magento_Indexer
+"Some Exception Message","Nekatero sporočilo izjeme",module,Magento_Indexer
+"Test Phrase","Preskusni stavek",module,Magento_Indexer
+"Indexer","Indeks",module,Magento_Indexer
+"Description","Opis",module,Magento_Indexer
+"Mode","Način",module,Magento_Indexer
+"Status","Stanje",module,Magento_Indexer
+"Updated","Posodobljeno",module,Magento_Indexer
+"%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
+"Field '%1' not found","Field '%1' not found",module,Magento_Indexer
+"Change indexer mode","Change indexer mode",module,Magento_Indexer

@@ -1,0 +1,23 @@
+"We can\'t save the cron expression.","Izraza periodičnega opravila ni mogoče shraniti.",module,Magento_Cron
+"Daily","Dnevno",module,Magento_Cron
+"Weekly","Tedensko",module,Magento_Cron
+"Monthly","Mesečno",module,Magento_Cron
+"Invalid cron expression: %1","Neveljaven izraz periodičnega opravila: %1",module,Magento_Cron
+"Invalid cron expression, expecting \'match/modulus\': %1","Neveljaven izraz periodičnega opravila, pričakovano \'match/modulus\': %1",module,Magento_Cron
+"Invalid cron expression, expecting numeric modulus: %1","Neveljaven izraz periodičnega opravila, pričakovan številski modul: %1",module,Magento_Cron
+"Invalid cron expression, expecting \'from-to\' structure: %1","Neveljaven izraz periodičnega opravila, pričakovano \'from-to\' struktura: %1",module,Magento_Cron
+"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) - all the times are in minutes",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.",module,Magento_Cron
+"Cron configuration options for group: ","Cron configuration options for group: ",module,Magento_Cron
+"Generate Schedules Every","Generate Schedules Every",module,Magento_Cron
+"Schedule Ahead for","Schedule Ahead for",module,Magento_Cron
+"Missed if Not Run Within","Missed if Not Run Within",module,Magento_Cron
+"History Cleanup Every","History Cleanup Every",module,Magento_Cron
+"Success History Lifetime","Success History Lifetime",module,Magento_Cron
+"Failure History Lifetime","Failure History Lifetime",module,Magento_Cron
+"Use Separate Process","Use Separate Process",module,Magento_Cron
+"We can't save the cron expression.","We can't save the cron expression.",module,Magento_Cron
+"Invalid cron expression, expecting 'match/modulus': %1","Invalid cron expression, expecting 'match/modulus': %1",module,Magento_Cron
+"Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1",module,Magento_Cron
+"Cron (Scheduled Tasks)","Cron (Scheduled Tasks)",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.",module,Magento_Cron

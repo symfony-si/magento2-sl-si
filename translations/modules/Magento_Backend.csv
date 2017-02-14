@@ -1,0 +1,475 @@
+"Invalid Form Key. Please refresh the page.","Neveljaven ključ obrazca. Osvežite stran.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","Vnesli ste neveljaven skrivni ključ. Osvežite stran.",module,Magento_Backend
+"Cache Storage Management","Upravljanje predpomnilnika shrambe",module,Magento_Backend
+"Flush Magento Cache","Izprazni predpomnilnik Magento",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","Predpomnilnik shrambe lahko vsebuje dodatne podatke. Ali ste prepričani, da ga želite izprazniti?",module,Magento_Backend
+"Flush Cache Storage","Izpraznite predpomnilnik shrambe",module,Magento_Backend
+"Invalidated","Razveljavljeno",module,Magento_Backend
+"Orders","Naročila",module,Magento_Backend
+"Amounts","Zneski",module,Magento_Backend
+"Bestsellers","Uspešnice",module,Magento_Backend
+"Most Viewed Products","Najbolj pogledani izdelki",module,Magento_Backend
+"New Customers","Nove stranke",module,Magento_Backend
+"Customers","Stranke",module,Magento_Backend
+"Customer","Stranka",module,Magento_Backend
+"Guest","Gost",module,Magento_Backend
+"Items","Elementi",module,Magento_Backend
+"Total","Skupaj",module,Magento_Backend
+"Lifetime Sales","Prodaja celotne življenjske dobe",module,Magento_Backend
+"Average Order","Povprečno naročilo",module,Magento_Backend
+"Average","Povprečje",module,Magento_Backend
+"Product","Izdelek",module,Magento_Backend
+"Price","Cena",module,Magento_Backend
+"Quantity","Količina",module,Magento_Backend
+"Views","Ogledov",module,Magento_Backend
+"Revenue","Prihodki",module,Magento_Backend
+"Tax","Davek",module,Magento_Backend
+"Shipping","Dostava",module,Magento_Backend
+"Images (.gif, .jpg, .png)","Slike (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","Mediji (.avi, .flv, .swf)",module,Magento_Backend
+"All Files","Vse datoteke",module,Magento_Backend
+"Reset to Default","Ponastavi na privzeto",module,Magento_Backend
+"All Store Views","Ogledi celotne trgovine",module,Magento_Backend
+"What is this?","Kaj je to?",module,Magento_Backend
+"Save Account","Shranite račun",module,Magento_Backend
+"My Account","Moj račun",module,Magento_Backend
+"Account Information","Informacije o računu",module,Magento_Backend
+"User Name","Uporabniško ime",module,Magento_Backend
+"First Name","Ime",module,Magento_Backend
+"Last Name","Priimek",module,Magento_Backend
+"Email","E-pošta",module,Magento_Backend
+"User Email","E-pošta uporabnika",module,Magento_Backend
+"New Password","Novo geslo",module,Magento_Backend
+"Password Confirmation","Potrditev gesla",module,Magento_Backend
+"Interface Locale","Območne nastavitve vmesnika",module,Magento_Backend
+"Current User Identity Verification","Preverjanje identitete trenutnega uporabnika",module,Magento_Backend
+"Your Password","Vaše geslo",module,Magento_Backend
+"Save Cache Settings","Shrani nastavitve predpomnilnika",module,Magento_Backend
+"Catalog Rewrites","Prepisi kataloga",module,Magento_Backend
+"Refresh","Osveži",module,Magento_Backend
+"Images Cache","Predpomnilnik slik",module,Magento_Backend
+"Clear","Počisti",module,Magento_Backend
+"Search Index","Indeks iskanja",module,Magento_Backend
+"Rebuild","Obnovi",module,Magento_Backend
+"Inventory Stock Status","Stanje popisa zaloge",module,Magento_Backend
+"Rebuild Catalog Index","Znova zgradite index kataloga",module,Magento_Backend
+"Rebuild Flat Catalog Category","Znova zgradite kategorijo ravnega kataloga",module,Magento_Backend
+"Rebuild Flat Catalog Product","Znova zgradite izdelek ravnega kataloga",module,Magento_Backend
+"Cache Control","Nadzor predpomnilnika",module,Magento_Backend
+"All Cache","Celoten predpomnilnik",module,Magento_Backend
+"No change","Brez sprememb",module,Magento_Backend
+"Disable","Onemogoči",module,Magento_Backend
+"Enable","Omogoči",module,Magento_Backend
+"Add Design Change","Dodaj spremembo oblike",module,Magento_Backend
+"Back","Nazaj",module,Magento_Backend
+"Delete","Izbriši",module,Magento_Backend
+"Are you sure?","Ali ste prepričani?",module,Magento_Backend
+"Save","Shrani",module,Magento_Backend
+"Edit Design Change","Uredi spremembo oblike",module,Magento_Backend
+"New Store Design Change","Sprememba oblike nove trgovine",module,Magento_Backend
+"General Settings","Splošne nastavitve",module,Magento_Backend
+"Store","Trgovina",module,Magento_Backend
+"-- Please Select --","-- Izberite --",module,Magento_Backend
+"Custom Design","Oblika po meri",module,Magento_Backend
+"Date From","Datum od",module,Magento_Backend
+"Date To","Datum do",module,Magento_Backend
+"Design Change","Sprememba oblike",module,Magento_Backend
+"General","Splošno",module,Magento_Backend
+"Cancel","Prekliči",module,Magento_Backend
+"Delete %1 '%2'","Izbriši %1 ""%2""",module,Magento_Backend
+"Delete %1","Izbriši %1",module,Magento_Backend
+"Block Information","Informacije bloka",module,Magento_Backend
+"Backup Options","Možnosti varnostnega kopiranja",module,Magento_Backend
+"Create DB Backup","Ustvarite varnostno kopijo DB",module,Magento_Backend
+"Yes","Da",module,Magento_Backend
+"No","Ne",module,Magento_Backend
+"Delete Store","Izbriši trgovino",module,Magento_Backend
+"Delete Web Site","Izbriši spletno mesto",module,Magento_Backend
+"Save Web Site","Shrani spletno stran",module,Magento_Backend
+"Save Store","Shrani trgovino",module,Magento_Backend
+"Save Store View","Shrani pogled trgovine",module,Magento_Backend
+"Delete Store View","Izbriši pogled trgovine",module,Magento_Backend
+"Edit Web Site","Urejanje spletne strani",module,Magento_Backend
+"New Web Site","Novo spletno mesto",module,Magento_Backend
+"Edit Store","Urejanje trgovine",module,Magento_Backend
+"New Store","Nova trgovina",module,Magento_Backend
+"Edit Store View","Uredi pogled trgovine",module,Magento_Backend
+"New Store View","Nov pogled trgovine",module,Magento_Backend
+"Store Information","Informacije trgovine",module,Magento_Backend
+"Web Site","Spletno mesto",module,Magento_Backend
+"Name","Ime",module,Magento_Backend
+"Root Category","Korenska kategorija",module,Magento_Backend
+"Default Store View","Privzeti pogled trgovine",module,Magento_Backend
+"Store View Information","Informacije pogleda trgovine",module,Magento_Backend
+"Code","Koda",module,Magento_Backend
+"Status","Stanje",module,Magento_Backend
+"Disabled","Onemogočeno",module,Magento_Backend
+"Enabled","Omogočeno",module,Magento_Backend
+"Sort Order","Vrstni red",module,Magento_Backend
+"Web Site Information","Informacije spletne strani",module,Magento_Backend
+"Default Store","Privzeta trgovina",module,Magento_Backend
+"Set as Default","Nastavi kot privzeto",module,Magento_Backend
+"Stores","Trgovine",module,Magento_Backend
+"Create Website","Ustvari spletno stran",module,Magento_Backend
+"Create Store","Ustvari trgovino",module,Magento_Backend
+"Create Store View","Ustvari pogled trgovine",module,Magento_Backend
+"Home","Domov",module,Magento_Backend
+"Reset","Ponastavitev",module,Magento_Backend
+"Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_Backend
+"Add New Image","Dodajte novo sliko",module,Magento_Backend
+"Export block for grid %1 is not defined","Blok izvoza za mrežo %1 ni opredeljen",module,Magento_Backend
+"Reset Filter","Ponastavi filter",module,Magento_Backend
+"Search","Iskanje",module,Magento_Backend
+"Any","Vse",module,Magento_Backend
+"All Countries","Vse države",module,Magento_Backend
+"From","Iz",module,Magento_Backend
+"To","Za",module,Magento_Backend
+"Date selector","Izbirnik datuma",module,Magento_Backend
+"[ deleted ]","[ izbrisano ]",module,Magento_Backend
+"Select All","Izberi vse",module,Magento_Backend
+" [deleted]"," [izbrisano]",module,Magento_Backend
+"We couldn't find any records.","Nismo uspeli najti vnosov.",module,Magento_Backend
+"Add New","Dodaj novo",module,Magento_Backend
+"Invalid export type supplied for grid export block","Za blok izvoza mreže je podana neveljavna vrsta izvoza",module,Magento_Backend
+"Export","Izvoz",module,Magento_Backend
+"Please correct the column format and try again.","Popravite obliko stolpca in poskusite znova.",module,Magento_Backend
+"Please select items.","Izberite elemente.",module,Magento_Backend
+"Submit","Pošlji",module,Magento_Backend
+"Unknown block type","Neznana vrsta bloka",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","Popravite zavihek konfiguracije in poskusite znova. Id zavihka mora biti prazen",module,Magento_Backend
+"Please correct the tab configuration and try again.","Popravite zavihek konfiguracije in poskusite znova.",module,Magento_Backend
+"You have logged out.","Odjavili ste se.",module,Magento_Backend
+"Specified cache type(s) don't exist: %1","Določena vrsta predpomnilnika ne obstaja: %1",module,Magento_Backend
+"The image cache was cleaned.","Predpomnilnik slik je bil počiščen.",module,Magento_Backend
+"An error occurred while clearing the image cache.","Med praznjenjem pomnilnika slik je prišlo do napake.",module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.","Predpomnilnik JavaScript/CSS je počiščen.",module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.","Med čiščenjem predpomnilnika JavaScript/CSS je prišlo do napake.",module,Magento_Backend
+"The static files cache has been cleaned.","Predpomnilnik statičnih datotek je počiščen.",module,Magento_Backend
+"You flushed the cache storage.","Spraznili ste predpomnilnik shrambe.",module,Magento_Backend
+"The Magento cache storage has been flushed.","Shramba predpomnilnika Magento je bila izpraznjena.",module,Magento_Backend
+"Cache Management","Upravljanje predpomnilnika",module,Magento_Backend
+"%1 cache type(s) disabled.","Število onemogočenih vrst predpomnilnika: %1.",module,Magento_Backend
+"An error occurred while disabling cache.","Med onemogočanjem predpomnilnika je prišlo do napake.",module,Magento_Backend
+"%1 cache type(s) enabled.","Število omogočenih vrst predpomnilnika: %1.",module,Magento_Backend
+"An error occurred while enabling cache.","Med omogočanjem predpomnilnika je prišlo do napake.",module,Magento_Backend
+"%1 cache type(s) refreshed.","Število osveženih vrst predpomnilnika: %1.",module,Magento_Backend
+"An error occurred while refreshing cache.","Med osveževanjem predpomnilnika je prišlo do napake.",module,Magento_Backend
+"Dashboard","Nadzorna plošča",module,Magento_Backend
+"We updated lifetime statistic.","Posodobili smo statistiko življenjske dobe.",module,Magento_Backend
+"We can't refresh lifetime statistics.","Statistike življenjske dobe ni mogoče osvežiti.",module,Magento_Backend
+"invalid request","neveljavna zahteva",module,Magento_Backend
+"see error log for details","za podrobnosti glejte dnevnik napak",module,Magento_Backend
+"Service unavailable: %1","Storitev ni na voljo: %1",module,Magento_Backend
+"Error","Napaka",module,Magento_Backend
+"Access Denied.","Dostop zavrnjen.",module,Magento_Backend
+"You need more permissions to do this.","Za to potrebujete več dovoljenj.",module,Magento_Backend
+"No search modules were registered","Noben modul iskanja ni bil registriran",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","Preverite, da so vsi globalni administracijski iskalni moduli nameščeni in aktivirani.",module,Magento_Backend
+"You have entered an invalid password for current user.","Za trenutnega uporabnika ste vnesli neveljavno geslo.",module,Magento_Backend
+"You saved the account.","Shranili ste račun.",module,Magento_Backend
+"An error occurred while saving account.","Pri shranjevanju računa je prišlo do napake.",module,Magento_Backend
+"You deleted the design change.","Izbrisali ste spremembo oblike.",module,Magento_Backend
+"You can't delete the design change.","Spremembe oblike ne morete izbrisati.",module,Magento_Backend
+"Store Design","Oblika trgovine",module,Magento_Backend
+"Edit Store Design Change","Uredi spremembo oblike trgovine",module,Magento_Backend
+"You saved the design change.","Shranili ste spremembo oblike.",module,Magento_Backend
+"System","Sistem",module,Magento_Backend
+"Manage Stores","Upravljanje trgovin",module,Magento_Backend
+"The database was backed up.","Ustvarjena je bila varnostna kopija podatkovne baze.",module,Magento_Backend
+"We can't create a backup right now. Please try again later.","Trenutno ne moremo ustvariti varnostne kopije. Poskusite znova pozneje.",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Izbris %1 ne bo izbrisal informacij, povezanih z %1 (npr. kategorije, izdelki itd), vendar %1 se ne bo moglo obnoviti. Predlagano je, da ustvarite varnostno kopijo podatkovne baze preden izbrišete %1.",module,Magento_Backend
+"Something went wrong. Please try again.","Nekaj je šlo narobe. Prosimo, poskusite znova.",module,Magento_Backend
+"This store cannot be deleted.","Te trgovine ni mogoče izbrisati.",module,Magento_Backend
+"You deleted the store.","Izbrisali ste trgovino.",module,Magento_Backend
+"Unable to delete the store. Please try again later.","Trgovine ni mogoče izbrisati. Poskusite znova pozneje.",module,Magento_Backend
+"This store view cannot be deleted.","Tega pogleda trgovine ni mogoče izbrisati.",module,Magento_Backend
+"Store View","Pogled trgovine",module,Magento_Backend
+"You deleted the store view.","Izbrisali ste pogled trgovine.",module,Magento_Backend
+"Unable to delete the store view. Please try again later.","Pogleda trgovine ni mogoče izbrisati. Prosimo, poskusite znova pozneje.",module,Magento_Backend
+"This website cannot be deleted.","Te spletne strani ni mogoče izbrisati.",module,Magento_Backend
+"You deleted the website.","Spletno stran ste izbrisali.",module,Magento_Backend
+"Unable to delete the website. Please try again later.","Spletne strani ni mogoče izbrisati. Poskusite znova pozneje.",module,Magento_Backend
+"The website does not exist.","Spletna stran ne obstaja.",module,Magento_Backend
+"Before modifying the website code please make sure it is not used in index.php.","Preden spremenite kodo spletne strani, preverite, da ni uporabljena v index.php.",module,Magento_Backend
+"The store does not exist","Trgovina ne obstaja",module,Magento_Backend
+"Store view doesn't exist","Pogled trgovine ne obstaja",module,Magento_Backend
+"Before modifying the store view code please make sure it is not used in index.php.","Preden spremenite kodo pogleda trgovine, preverite, da ni uporabljena v index.php.",module,Magento_Backend
+"New ","Novo ",module,Magento_Backend
+"You saved the website.","Shranili ste spletno stran.",module,Magento_Backend
+"An inactive store view cannot be saved as default store view","Neaktivnega pogleda trgovine ni mogoče shraniti kot privzeti pogled trgovine",module,Magento_Backend
+"You saved the store.","Shranili ste trgovino.",module,Magento_Backend
+"The default store cannot be disabled","Privzete trgovine ni mogoče onemogočiti",module,Magento_Backend
+"You saved the store view.","Shranili ste pogled trgovine.",module,Magento_Backend
+"Something went wrong while saving. Please review the error log.","Med shranjevanjem je šlo nekaj narobe. Preglejte dnevnik napak.",module,Magento_Backend
+"Last 24 Hours","Zadnjih 24 ur",module,Magento_Backend
+"Last 7 Days","Zadnjih 7 dni",module,Magento_Backend
+"Current Month","Tekoči mesec",module,Magento_Backend
+"YTD","Leto do dne",module,Magento_Backend
+"2YTD","2 leti do dne",module,Magento_Backend
+"Authentication storage is incorrect.","Shramba preverjanja pristnosti je napačna.",module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","Niste se pravilno prijavili, ali pa je vaš račun začasno onemogočen.",module,Magento_Backend
+"Authentication error occurred.","Prišlo je do napake preverjanja pristnosti.",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Trajanje seje administracije mora biti manjše ali enako 31536000 sekundam (eno leto)",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","Trajanje seje administracije mora biti večje ali enako 60 sekundam",module,Magento_Backend
+"Order","Naročilo",module,Magento_Backend
+"Order #%1","Naročilo #%1",module,Magento_Backend
+"Access denied","Dostop zavrnjen",module,Magento_Backend
+"Please try to sign out and sign in again.","Poskusite se odjaviti in ponovno prijaviti.",module,Magento_Backend
+"If you continue to receive this message, please contact the store owner.","Če še vedno dobivate to sporočilo, se obrnite na lastnika trgovine.",module,Magento_Backend
+"You need more permissions to access this.","Za dostop do tega potrebujete več dovoljenj.",module,Magento_Backend
+"Welcome, please sign in","Dobrodošli, prosimo, prijavite se",module,Magento_Backend
+"Username","Uporabniško ime",module,Magento_Backend
+"user name","uporabniško ime",module,Magento_Backend
+"Password","Geslo",module,Magento_Backend
+"password","geslo",module,Magento_Backend
+"Sign in","Prijava",module,Magento_Backend
+"Select Range:","Izberite obseg:",module,Magento_Backend
+"No Data Found","Ni podatkov",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Grafikon je onemogočen. Če ga želite omogočiti, kliknite <a href=""%1"">tu</a>.",module,Magento_Backend
+"Last Orders","Zadnja naročila",module,Magento_Backend
+"Last Search Terms","Zadnji iskani izrazi",module,Magento_Backend
+"Top Search Terms","Najbolj uporabljani izrazi iskanja",module,Magento_Backend
+"There are no search keywords.","Na voljo ni nobene ključne besede.",module,Magento_Backend
+"View Statistics For:","Ogled statistike za:",module,Magento_Backend
+"All Websites","Vse spletne strani",module,Magento_Backend
+"Reload Data","Osveži podatke",module,Magento_Backend
+"Browse Files...","Prebrskaj datoteke...",module,Magento_Backend
+"Magento","Magento",module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Vse pravice pridržane.",module,Magento_Backend
+"ver. %1","ver. %1",module,Magento_Backend
+"Magento Admin Panel","Administracijska plošča Magento",module,Magento_Backend
+"Account Setting","Nastavitve računa",module,Magento_Backend
+"Customer View","Pogled stranke",module,Magento_Backend
+"Sign Out","Odjava",module,Magento_Backend
+"About the calendar","O koledarju",module,Magento_Backend
+"Close","Zapri",module,Magento_Backend
+"Go Today","Pojdite danes",module,Magento_Backend
+"Previous","Prejšnja",module,Magento_Backend
+"Next","Naslednja",module,Magento_Backend
+"WK","WK",module,Magento_Backend
+"Time","Čas",module,Magento_Backend
+"Hour","Ura",module,Magento_Backend
+"Minute","Minuta",module,Magento_Backend
+"JavaScript may be disabled in your browser.","V vašem brskalniku je verjetno onemogočen JavaScript.",module,Magento_Backend
+"To use this website you must first enable JavaScript in your browser.","Za uporabo te spletne strani najprej omogočite JavaScript v vašem brskalniku.",module,Magento_Backend
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","To je samo demonstracijska trgovina. Lahko brskate in naročate, vendar nič ne bo obdelano.",module,Magento_Backend
+"Report Bugs","Poročilo hroščev",module,Magento_Backend
+"Store View:","Pogled trgovine:",module,Magento_Backend
+"Stores Configuration","Nastavitve trgovin",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Potrdite področje preklapljanja. Vsi neshranjeni podatki bodo izgubljeni.",module,Magento_Backend
+"Additional Cache Management","Dodatno upravljanje predpomnilnika",module,Magento_Backend
+"Flush Catalog Images Cache","Izprazni predpomnilnik slik kataloga",module,Magento_Backend
+"Pregenerated product images files","Predhodno ustvarjene datoteke slik izdelkov",module,Magento_Backend
+"Flush JavaScript/CSS Cache","Izprazni predpomnilnik JavaScript/CSS",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file","JavaScript in CSS datoteke tem so združene v eno datoteko",module,Magento_Backend
+"Flush Static Files Cache","Izprazni predpomnilnik statičnih datotek",module,Magento_Backend
+"Preprocessed view files and static files","Vnaprej obdelane datoteke pogleda in statične datoteke",module,Magento_Backend
+"Catalog","Katalog",module,Magento_Backend
+"JavaScript/CSS","JavaScript/CSS",module,Magento_Backend
+"JavaScript/CSS Cache","Predpomnilnik JavaScript/CSS",module,Magento_Backend
+"No records found.","Ni najdenih zapisov.",module,Magento_Backend
+"Images","Slike",module,Magento_Backend
+"Big Image","Velika slika",module,Magento_Backend
+"Thumbnail","Sličica",module,Magento_Backend
+"Additional Settings","Dodatne nastavitve",module,Magento_Backend
+"records found","vnosi najdeni",module,Magento_Backend
+"selected","izbrani",module,Magento_Backend
+"per page","na stran",module,Magento_Backend
+"Previous page","Prejšnja stran",module,Magento_Backend
+"of %1","od %1",module,Magento_Backend
+"Next page","Naslednja stran",module,Magento_Backend
+"Export to:","Izvoz:",module,Magento_Backend
+"Actions","Dejanja",module,Magento_Backend
+"Mass Actions","Masovna dejanja",module,Magento_Backend
+"Unselect All","Odznači vse",module,Magento_Backend
+"Select Visible","Izberi vidno",module,Magento_Backend
+"Unselect Visible","Odznači vidno",module,Magento_Backend
+"Changes have been made to this section that have not been saved.","V tej sekciji so bile narejene spremembe, ki niso shranjene.",module,Magento_Backend
+"This tab contains invalid data. Please resolve this before saving.","Jeziček vsebuje neveljavne podatke. Razrešite to pred shranjevanjem.",module,Magento_Backend
+"The information in this tab has been changed.","Informacije v tem jezičku so bile spremenjene.",module,Magento_Backend
+"Loading...","Nalaganje...",module,Magento_Backend
+"Services","Storitve",module,Magento_Backend
+"Advanced","Napredno",module,Magento_Backend
+"Disable Modules Output","Onemogoči izpis modulov",module,Magento_Backend
+"Store Email Addresses","E-poštni naslov trgovine",module,Magento_Backend
+"Custom Email 1","E-pošta po meri 1",module,Magento_Backend
+"Sender Email","E-pošta pošiljatelja",module,Magento_Backend
+"Sender Name","Ime pošiljatelja",module,Magento_Backend
+"Custom Email 2","E-pošta po meri 2",module,Magento_Backend
+"General Contact","Splošni kontakt",module,Magento_Backend
+"Sales Representative","Prodajni zastopnik",module,Magento_Backend
+"Customer Support","Podpora strankam",module,Magento_Backend
+"Design","Oblika",module,Magento_Backend
+"Design Theme","Tema oblike",module,Magento_Backend
+"User-Agent Exceptions","User-Agent Exceptions",module,Magento_Backend
+"
+                        Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
+                    ","
+                        Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
+                    ",module,Magento_Backend
+"Find a string in client user-agent header and switch to specific design theme for that browser.","Find a string in client user-agent header and switch to specific design theme for that browser.",module,Magento_Backend
+"Pagination","Številčenje strani",module,Magento_Backend
+"Pagination Frame","Okvir številčenja strani",module,Magento_Backend
+"How many links to display at once.","How many links to display at once.",module,Magento_Backend
+"Pagination Frame Skip","Pagination Frame Skip",module,Magento_Backend
+"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.",module,Magento_Backend
+"Anchor Text for Previous","Anchor Text for Previous",module,Magento_Backend
+"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Alternative text for previous link in pagination menu. If empty, default arrow image will used.",module,Magento_Backend
+"Anchor Text for Next","Anchor Text for Next",module,Magento_Backend
+"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Alternative text for next link in pagination menu. If empty, default arrow image will used.",module,Magento_Backend
+"Developer","Razvijalec",module,Magento_Backend
+"Debug","Debug",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Enabled Template Path Hints for Storefront",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Enabled Template Path Hints for Admin",module,Magento_Backend
+"Add Block Names to Hints","Add Block Names to Hints",module,Magento_Backend
+"Template Settings","Nastavitve predloge",module,Magento_Backend
+"Allow Symlinks","Omogoči simbolne povezave",module,Magento_Backend
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",module,Magento_Backend
+"Minify Html","Minify Html",module,Magento_Backend
+"Translate Inline","Translate Inline",module,Magento_Backend
+"Enabled for Storefront","Enabled for Storefront",module,Magento_Backend
+"Enabled for Admin","Enabled for Admin",module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",module,Magento_Backend
+"JavaScript Settings","JavaScript Settings",module,Magento_Backend
+"Merge JavaScript Files","Merge JavaScript Files",module,Magento_Backend
+"Enable Javascript Bundling","Enable Javascript Bundling",module,Magento_Backend
+"Minify JavaScript Files","Minify JavaScript Files",module,Magento_Backend
+"CSS Settings","CSS Settings",module,Magento_Backend
+"Merge CSS Files","Merge CSS Files",module,Magento_Backend
+"Minify CSS Files","Minify CSS Files",module,Magento_Backend
+"Image Processing Settings","Image Processing Settings",module,Magento_Backend
+"Image Adapter","Image Adapter",module,Magento_Backend
+"Static Files Settings","Static Files Settings",module,Magento_Backend
+"Sign Static Files","Sign Static Files",module,Magento_Backend
+"Country Options","Country Options",module,Magento_Backend
+"Allow Countries","Dovoli države",module,Magento_Backend
+"Default Country","Privzeta država",module,Magento_Backend
+"European Union Countries","Države članic Evropske unije",module,Magento_Backend
+"Top destinations","Najpogosteje obiskani cilji",module,Magento_Backend
+"Locale Options","Področne možnosti",module,Magento_Backend
+"Timezone","Časovni pas",module,Magento_Backend
+"Locale","Področne nastavitve",module,Magento_Backend
+"First Day of Week","Prvi dan v tednu",module,Magento_Backend
+"Weekend Days","Dneva ob koncu tedna",module,Magento_Backend
+"Store Name","Ime trgovine",module,Magento_Backend
+"Store Phone Number","Telefonska številka trgovine",module,Magento_Backend
+"Store Hours of Operation","Delovni čas trgovine",module,Magento_Backend
+"Country","Država",module,Magento_Backend
+"Region/State","Država/regija",module,Magento_Backend
+"ZIP/Postal Code","Poštna številka",module,Magento_Backend
+"City","Mesto",module,Magento_Backend
+"Street Address","Naslov ulice",module,Magento_Backend
+"Street Address Line 2","Vrstica naslova ulice 2",module,Magento_Backend
+"VAT Number","ID za DDV",module,Magento_Backend
+"Single-Store Mode","Način ene trgovine",module,Magento_Backend
+"Enable Single-Store Mode","Omogoči način ene-trgovine",module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.","This setting will not be taken into account if system has more than one store view.",module,Magento_Backend
+"Mail Sending Settings","Mail Sending Settings",module,Magento_Backend
+"Disable Email Communications","Disable Email Communications",module,Magento_Backend
+"Host","Gostitelj",module,Magento_Backend
+"Port (25)","Vrata (25)",module,Magento_Backend
+"Set Return-Path","Nastavi Return-Path",module,Magento_Backend
+"Return-Path Email","E-pošta Return-Path",module,Magento_Backend
+"Admin","Admin",module,Magento_Backend
+"Admin User Emails","E-pošte administracijskih uporabnikov",module,Magento_Backend
+"Forgot Password Email Template","Forgot Password Email Template",module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Backend
+"Forgot and Reset Email Sender","Forgot and Reset Email Sender",module,Magento_Backend
+"Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)",module,Magento_Backend
+"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Backend
+"Startup Page","Začetna stran",module,Magento_Backend
+"Admin Base URL","Admin Base URL",module,Magento_Backend
+"Use Custom Admin URL","Use Custom Admin URL",module,Magento_Backend
+"Custom Admin URL","Custom Admin URL",module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/",module,Magento_Backend
+"Use Custom Admin Path","Use Custom Admin Path",module,Magento_Backend
+"Custom Admin Path","Custom Admin Path",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","You will have to sign in after you save your custom admin path.",module,Magento_Backend
+"Security","Varnost",module,Magento_Backend
+"Add Secret Key to URLs","Add Secret Key to URLs",module,Magento_Backend
+"Login is Case Sensitive","Login is Case Sensitive",module,Magento_Backend
+"Admin Session Lifetime (seconds)","Admin Session Lifetime (seconds)",module,Magento_Backend
+"Values less than 60 are ignored.","Values less than 60 are ignored.",module,Magento_Backend
+"Enable Charts","Omogoči grafikone",module,Magento_Backend
+"Web","Splet",module,Magento_Backend
+"Url Options","Možnosti URL",module,Magento_Backend
+"Add Store Code to Urls","Add Store Code to Urls",module,Magento_Backend
+"
+                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                    ","
+                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                    ",module,Magento_Backend
+"Auto-redirect to Base URL","Auto-redirect to Base URL",module,Magento_Backend
+"Search Engine Optimization","Search Engine Optimization",module,Magento_Backend
+"Use Web Server Rewrites","Use Web Server Rewrites",module,Magento_Backend
+"Base URLs","Base URLs",module,Magento_Backend
+"Base URL","Base URL",module,Magento_Backend
+"Specify URL or {{base_url}} placeholder.","Specify URL or {{base_url}} placeholder.",module,Magento_Backend
+"Base Link URL","Base Link URL",module,Magento_Backend
+"Base URL for Static View Files","Base URL for Static View Files",module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","May be empty or start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"Base URL for User Media Files","Base URL for User Media Files",module,Magento_Backend
+"Base URLs (Secure)","Base URLs (Secure)",module,Magento_Backend
+"Secure Base URL","Secure Base URL",module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"Secure Base Link URL","Secure Base Link URL",module,Magento_Backend
+"Secure Base URL for Static View Files","Secure Base URL for Static View Files",module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"Secure Base URL for User Media Files","Secure Base URL for User Media Files",module,Magento_Backend
+"Use Secure URLs on Storefront","Use Secure URLs on Storefront",module,Magento_Backend
+"Use Secure URLs in Admin","Use Secure URLs in Admin",module,Magento_Backend
+"Offloader header","Offloader header",module,Magento_Backend
+"Default Pages","Default Pages",module,Magento_Backend
+"Default Web URL","Default Web URL",module,Magento_Backend
+"Default No-route URL","Default No-route URL",module,Magento_Backend
+"Session Validation Settings","Session Validation Settings",module,Magento_Backend
+"Validate REMOTE_ADDR","Validate REMOTE_ADDR",module,Magento_Backend
+"Validate HTTP_VIA","Validate HTTP_VIA",module,Magento_Backend
+"Validate HTTP_X_FORWARDED_FOR","Validate HTTP_X_FORWARDED_FOR",module,Magento_Backend
+"Validate HTTP_USER_AGENT","Validate HTTP_USER_AGENT",module,Magento_Backend
+"Use SID on Storefront","Use SID on Storefront",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Allows customers to stay logged in when switching between different stores.",module,Magento_Backend
+"Cache Type","Vrsta predpomnilnika",module,Magento_Backend
+"Description","Opis",module,Magento_Backend
+"Tags","Oznake",module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Napaka 404</h1><p>Strani ni mogoče najti.</p>",module,Magento_Backend
+"Community Edition","Community Edition",module,Magento_Backend
+"Allow everything","Allow everything",module,Magento_Backend
+"Magento Admin","Magento Admin",module,Magento_Backend
+"Global Search","Global Search",module,Magento_Backend
+"Marketing","Marketing",module,Magento_Backend
+"SEO & Search","SEO & Search",module,Magento_Backend
+"User Content","User Content",module,Magento_Backend
+"Content","Content",module,Magento_Backend
+"Elements","Elements",module,Magento_Backend
+"Schedule","Schedule",module,Magento_Backend
+"Settings","Settings",module,Magento_Backend
+"All Stores","All Stores",module,Magento_Backend
+"Attributes","Attributes",module,Magento_Backend
+"Other Settings","Other Settings",module,Magento_Backend
+"Data Transfer","Data Transfer",module,Magento_Backend
+"Magento Connect","Magento Connect",module,Magento_Backend
+"Connect Manager","Connect Manager",module,Magento_Backend
+"Package Extensions","Package Extensions",module,Magento_Backend
+"Tools","Tools",module,Magento_Backend
+"Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
+"Currency","Currency",module,Magento_Backend
+"Communications","Communications",module,Magento_Backend
+"Minification is not applied in developer mode.","Minification is not applied in developer mode.",module,Magento_Backend
+"Enable JavaScript Bundling","Enable JavaScript Bundling",module,Magento_Backend
+"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","Please enter at least 60 and at most 31536000 (one year).",module,Magento_Backend
+"Enable HTTP Strict Transport Security (HSTS)","Enable HTTP Strict Transport Security (HSTS)",module,Magento_Backend
+"Upgrade Insecure Requests","Upgrade Insecure Requests",module,Magento_Backend
+"Default Theme","Default Theme",module,Magento_Backend
+"Applied Theme","Applied Theme",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions.",module,Magento_Backend
+"Design Rule","Design Rule",module,Magento_Backend
+"User Agent Rules","User Agent Rules",module,Magento_Backend
+"Magento_Ui/js/dynamic-rows/record","Magento_Ui/js/dynamic-rows/record",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",module,Magento_Backend
+"Theme Name","Theme Name",module,Magento_Backend
+"We could not detect a size.","Velikosti ni mogoče zaznati.",module,Magento_Backend
+"We don't recognize or support this file extension type.","Ta vrsta končnice datoteke ni prepoznavna ali podprta.",module,Magento_Backend

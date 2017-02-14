@@ -1,0 +1,41 @@
+"Swatch Helper: not valid parameter for product instantiation","Swatch Helper: not valid parameter for product instantiation",module,Magento_Swatches
+"Admin is a required field in the each row","Admin is a required field in the each row",module,Magento_Swatches
+"Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
+"Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
+"Use Product Image for Swatch if Possible","Use Product Image for Swatch if Possible",module,Magento_Swatches
+"Allows use fallback logic for replacing swatch image with product swatch or base image","Omogoča uporabo pomožne logike za zamenjavo slike vzorca z vzorcem izdelka ali osnovno sliko",module,Magento_Swatches
+"Visual Swatch","Visual Swatch",module,Magento_Swatches
+"Text Swatch","Text Swatch",module,Magento_Swatches
+"Manage Swatch (values of your attribute)","Manage Swatch (values of your attribute)",module,Magento_Swatches
+"Is Default","Je privzeto",module,Magento_Swatches
+"Add Swatch","Add Swatch",module,Magento_Swatches
+"Sort Option","Možnost razvrščanja",module,Magento_Swatches
+"Delete","Izbriši",module,Magento_Swatches
+"Swatch","Swatch",module,Magento_Swatches
+"Step 2: Attribute Values","2. korak: Vrednosti atributov",module,Magento_Swatches
+"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Izberite vrednosti iz vsakega atributa, da jih vključite v ta izdelek. Vsaka edinstvena kombinacija vrednosti ustvari edinstven SKU izdelka.",module,Magento_Swatches
+"Sort Variations","Variacije razvrščanja",module,Magento_Swatches
+"Options","Možnosti",module,Magento_Swatches
+"Select All","Izberi vse",module,Magento_Swatches
+"Deselect All","Odznači vse",module,Magento_Swatches
+"Remove Attribute","Odstrani atribut",module,Magento_Swatches
+"Save Option","Shrani možnost",module,Magento_Swatches
+"Remove Option","Odstrani možnost",module,Magento_Swatches
+"Create New Value","Ustvari novo vrednost",module,Magento_Swatches
+"Swatches per Product","Vzorcev na izdelek",module,Magento_Swatches
+"Manage Swatch (Values of Your Attribute)","Manage Swatch (Values of Your Attribute)",module,Magento_Swatches
+"The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Swatches
+"Choose a color","Choose a color",module,Magento_Swatches
+"Upload a file","Upload a file",module,Magento_Swatches
+"Clear","Clear",module,Magento_Swatches
+"Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.","Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.",module,Magento_Swatches
+"These changes affect all related products.","These changes affect all related products.",module,Magento_Swatches
+"Swatch Image","Slika vzorca",module,Magento_Swatches
+"Image","Slika",module,Magento_Swatches
+"Allowed file types: jpeg, gif, png.","Dovoljene vrste datotek: jpeg, gif, png.",module,Magento_Swatches
+"Image Opacity","Motnost slike",module,Magento_Swatches
+"Image Size","Velikost slike",module,Magento_Swatches
+"Example format: 200x300.","Primer formata: 200x300.",module,Magento_Swatches
+"Image Position","Pozicija slike",module,Magento_Swatches
+"Default Store View","Privzeti pogled trgovine",module,Magento_Swatches
+"Admin","Admin",module,Magento_Swatches

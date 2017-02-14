@@ -1,0 +1,47 @@
+"Url","Url",module,Magento_ProductVideo
+"Title","Naslov",module,Magento_ProductVideo
+"Description","Opis",module,Magento_ProductVideo
+"Preview Image","Preview Image",module,Magento_ProductVideo
+"Get Video Information","Get Video Information",module,Magento_ProductVideo
+"Hide from Product Page","Skrij iz strani izdelka",module,Magento_ProductVideo
+"Role","Vloga",module,Magento_ProductVideo
+"YouTube and Vimeo supported.","YouTube and Vimeo supported.",module,Magento_ProductVideo
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.",module,Magento_ProductVideo
+"Could not get preview image information. Please check your connection and try again.","Could not get preview image information. Please check your connection and try again.",module,Magento_ProductVideo
+"Click here to add videos.","Click here to add videos.",module,Magento_ProductVideo
+"New Video","Nov video",module,Magento_ProductVideo
+"Add Video","Dodaj video",module,Magento_ProductVideo
+"Add video","Dodaj video",module,Magento_ProductVideo
+"Click here or drag and drop to add images.","Kliknite tukaj ali povlecite in spustite, da dodate slike.",module,Magento_ProductVideo
+"Delete video","Izbriši video",module,Magento_ProductVideo
+"Delete image","Izbriši sliko",module,Magento_ProductVideo
+"Make Base","Naredi osnovno",module,Magento_ProductVideo
+"Hidden","Skrito",module,Magento_ProductVideo
+"Alt Text","Nadomestno besedilo",module,Magento_ProductVideo
+"Title:","Naslov:",module,Magento_ProductVideo
+"Uploaded:","Naloženo:",module,Magento_ProductVideo
+"Uploader:","Pošiljatelj:",module,Magento_ProductVideo
+"Duration:","Trajanje:",module,Magento_ProductVideo
+"Video Error","Napaka videa",module,Magento_ProductVideo
+"Unknown video type","Neznana vrsta videa",module,Magento_ProductVideo
+"Invalid video url","Neveljaven URL za video",module,Magento_ProductVideo
+"Youtube API key is invalid","Youtube API key is invalid",module,Magento_ProductVideo
+"Video cant be shown due to the following reason: ","Video cant be shown due to the following reason: ",module,Magento_ProductVideo
+"Video not found","Video not found",module,Magento_ProductVideo
+"Save","Shrani",module,Magento_ProductVideo
+"Cancel","Prekliči",module,Magento_ProductVideo
+"Delete","Izbriši",module,Magento_ProductVideo
+"Edit Video","Edit Video",module,Magento_ProductVideo
+"Images and Videos","Slike in video posnetki",module,Magento_ProductVideo
+"Product Video","Video izdelka",module,Magento_ProductVideo
+"YouTube API Key","Ključ YouTube API",module,Magento_ProductVideo
+"Autostart base video","Samodejni zagon osnovnega videa",module,Magento_ProductVideo
+"Show related video","Prikaži povezan video",module,Magento_ProductVideo
+"Auto restart video","Samodejni ponovni zagon videa",module,Magento_ProductVideo
+"Protocol isn't allowed","Protocol isn't allowed",module,Magento_ProductVideo
+"Browse to find or drag image here","Browse to find or drag image here",module,Magento_ProductVideo
+"Image Size","Image Size",module,Magento_ProductVideo
+"{size}","{size}",module,Magento_ProductVideo
+"Image Resolution","Image Resolution",module,Magento_ProductVideo
+"{width}^{height} px","{width}^{height} px",module,Magento_ProductVideo
+"Images And Videos","Images And Videos",module,Magento_ProductVideo

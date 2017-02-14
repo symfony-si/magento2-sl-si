@@ -1,0 +1,28 @@
+"Account Activity","Dejavnost računa",module,Magento_Security
+"All other open sessions for this account were terminated.","Vse ostale odprte seje za ta račun so bile zaprte.",module,Magento_Security
+"We couldn't logout because of an error.","Odjava ni uspela zaradi napake.",module,Magento_Security
+"Someone logged into this account from another device or browser. Your current session is terminated.","Nekdo se je prijavil v ta račun iz druge naprave ali brskalnika. Vaša trenutna seja je zaprta.",module,Magento_Security
+"Your current session is terminated by another user of this account.","Vaša trenutna seja je zaprta s strani drugega uporabnika tega računa.",module,Magento_Security
+"Your account is temporarily disabled.","Vaš račun je začasno onemogočen.",module,Magento_Security
+"Your current session has been expired.","Vaša trenutna seja je potekla.",module,Magento_Security
+"By IP and Email","Po IP-ju in e-pošti",module,Magento_Security
+"By IP","Po IP-ju",module,Magento_Security
+"By Email","Po e-pošti",module,Magento_Security
+"None","Noben",module,Magento_Security
+"Too many password reset requests. Please wait and try again or contact %1.","Preveč zahtevkov za zamenjavo gesla. Prosimo, počakajte in poskusite ponovno ali pa kontaktirajte %1.",module,Magento_Security
+"Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Nepravilen razred varnostnega preverjanja. Implementirati mora SecurityCheckerInterface",module,Magento_Security
+"some error","neka napaka",module,Magento_Security
+"This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","Ta administratorski račun je odprt na več kot eni lokaciji. Bodite pozorni, saj druge lokacije so lahko drugi brskalniki ali seje na istem računalniku.",module,Magento_Security
+"Concurrent session information:","Informacije sočasne seje:",module,Magento_Security
+"IP Address","Naslov IP",module,Magento_Security
+"Time of session start","Čas začetka seje",module,Magento_Security
+"Are you sure that you want to log out all other sessions?","Ste prepričani, da želite odjaviti vse ostale seje?",module,Magento_Security
+"Log out all other sessions","Odjava vseh ostalih sej",module,Magento_Security
+"This computer is using IP address %1.","Ta naprava uporablja naslov IP %1.",module,Magento_Security
+"Admin Account Sharing","Admin Account Sharing",module,Magento_Security
+"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.",module,Magento_Security
+"Password Reset Protection Type","Password Reset Protection Type",module,Magento_Security
+"Max Number of Password Reset Requests","Max Number of Password Reset Requests",module,Magento_Security
+"Limit the number of password reset request per hour. Use 0 to disable.","Limit the number of password reset request per hour. Use 0 to disable.",module,Magento_Security
+"Min Time Between Password Reset Requests","Min Time Between Password Reset Requests",module,Magento_Security
+"Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable.",module,Magento_Security

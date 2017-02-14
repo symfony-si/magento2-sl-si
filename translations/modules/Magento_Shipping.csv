@@ -1,0 +1,193 @@
+"New Shipment for Order #%1","New Shipment for Order #%1",module,Magento_Shipping
+"Submit Shipment","Submit Shipment",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.","You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.",module,Magento_Shipping
+"Products should be added to package(s)","Products should be added to package(s)",module,Magento_Shipping
+"The value that you entered is not valid.","The value that you entered is not valid.",module,Magento_Shipping
+"Add Tracking Number","Add Tracking Number",module,Magento_Shipping
+"Custom Value","Vrednost po meri",module,Magento_Shipping
+"Add","Dodaj",module,Magento_Shipping
+"Send Tracking Information","Pošlji informacije o sledenju",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","Are you sure you want to send a Shipment email to customer?",module,Magento_Shipping
+"Print","Natisni",module,Magento_Shipping
+"the shipment email was sent","the shipment email was sent",module,Magento_Shipping
+"the shipment email is not sent","the shipment email is not sent",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","Shipment #%1 | %3 (%2)",module,Magento_Shipping
+"Create Shipping Label...","Create Shipping Label...",module,Magento_Shipping
+"Print Shipping Label","Print Shipping Label",module,Magento_Shipping
+"Show Packages","Pokaži pakete",module,Magento_Shipping
+"About Your Shipment","O vaši pošiljki",module,Magento_Shipping
+"Order # %1","Naročilo # %1",module,Magento_Shipping
+"Back to My Orders","Nazaj na moja naročila",module,Magento_Shipping
+"View Another Order","Poglej drugo naročilo",module,Magento_Shipping
+"Please enter a comment.","Please enter a comment.",module,Magento_Shipping
+"Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
+"Please specify a carrier.","Navedite prevoznika.",module,Magento_Shipping
+"Please enter a tracking number.","Please enter a tracking number.",module,Magento_Shipping
+"Shipments","Pošiljke",module,Magento_Shipping
+"We can\'t initialize shipment for adding tracking number.","We can\'t initialize shipment for adding tracking number.",module,Magento_Shipping
+"Cannot add tracking number.","Cannot add tracking number.",module,Magento_Shipping
+"You created the shipping label.","You created the shipping label.",module,Magento_Shipping
+"An error occurred while creating shipping label.","An error occurred while creating shipping label.",module,Magento_Shipping
+"You sent the shipment.","You sent the shipment.",module,Magento_Shipping
+"Cannot send shipment information.","Cannot send shipment information.",module,Magento_Shipping
+"There are no shipping labels related to selected orders.","There are no shipping labels related to selected orders.",module,Magento_Shipping
+"New Shipment","Nova pošiljka",module,Magento_Shipping
+"We don\'t recognize or support the file extension in this shipment: %1.","We don\'t recognize or support the file extension in this shipment: %1.",module,Magento_Shipping
+"We can\'t initialize shipment for delete tracking number.","We can\'t initialize shipment for delete tracking number.",module,Magento_Shipping
+"We can\'t delete tracking number.","We can\'t delete tracking number.",module,Magento_Shipping
+"We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Shipping
+"We can\'t save the shipment right now.","We can\'t save the shipment right now.",module,Magento_Shipping
+"The shipment has been created.","The shipment has been created.",module,Magento_Shipping
+"Cannot save shipment.","Cannot save shipment.",module,Magento_Shipping
+"The order no longer exists.","The order no longer exists.",module,Magento_Shipping
+"Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice.",module,Magento_Shipping
+"Cannot do shipment for the order.","Cannot do shipment for the order.",module,Magento_Shipping
+"There are no shipping labels related to selected shipments.","There are no shipping labels related to selected shipments.",module,Magento_Shipping
+"Page not found.","Strani ni mogoče najti.",module,Magento_Shipping
+"Tracking Information","Tracking Information",module,Magento_Shipping
+"Sorry, but we can\'t deliver to the destination country with this shipping module.","Sorry, but we can\'t deliver to the destination country with this shipping module.",module,Magento_Shipping
+"The shipping module is not available.","The shipping module is not available.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the zip code.",module,Magento_Shipping
+"No packages for request","Za zahtevo ni nobenega paketa",module,Magento_Shipping
+"Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Shipping
+"All Allowed Countries","All Allowed Countries",module,Magento_Shipping
+"Specific Countries","Specific Countries",module,Magento_Shipping
+"Development","Development",module,Magento_Shipping
+"Live","Live",module,Magento_Shipping
+"Divide to equal weight (one request)","Divide to equal weight (one request)",module,Magento_Shipping
+"Use origin weight (few requests)","Use origin weight (few requests)",module,Magento_Shipping
+"Packages","Packages",module,Magento_Shipping
+"Package","Package",module,Magento_Shipping
+"Type","Vrsta",module,Magento_Shipping
+"Length","Length",module,Magento_Shipping
+"Signature Confirmation","Signature Confirmation",module,Magento_Shipping
+"Customs Value","Customs Value",module,Magento_Shipping
+"Width","Širina",module,Magento_Shipping
+"Contents","Contents",module,Magento_Shipping
+"Total Weight","Skupna teža",module,Magento_Shipping
+"Height","Višina",module,Magento_Shipping
+"Size","Size",module,Magento_Shipping
+"Girth","Girth",module,Magento_Shipping
+"Items in the Package","Items in the Package",module,Magento_Shipping
+"Product","Izdelek",module,Magento_Shipping
+"Weight","Teža",module,Magento_Shipping
+"Qty Ordered","Qty Ordered",module,Magento_Shipping
+"Qty","Količina",module,Magento_Shipping
+"No detail for number ""%1""","No detail for number ""%1""",module,Magento_Shipping
+"Shipping labels is not available.","Shipping labels is not available.",module,Magento_Shipping
+"Response info is not exist.","Response info is not exist.",module,Magento_Shipping
+"Invalid carrier: %1","Invalid carrier: %1",module,Magento_Shipping
+"We don\'t have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don\'t have enough information to create shipping labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
+"Per Order","Na naročilo",module,Magento_Shipping
+"Per Package","Per Package",module,Magento_Shipping
+"Fixed","Fiksno",module,Magento_Shipping
+"Percent","Odstotki",module,Magento_Shipping
+"Tracking information is unavailable.","Tracking information is unavailable.",module,Magento_Shipping
+"message","sporočilo",module,Magento_Shipping
+"Email has not been sent","Email has not been sent",module,Magento_Shipping
+"Payment &amp; Shipping Method","Payment &amp; Shipping Method",module,Magento_Shipping
+"Payment Information","Podatki o plačilu",module,Magento_Shipping
+"The order was placed using %1.","The order was placed using %1.",module,Magento_Shipping
+"Shipping Information","Informacije dostave",module,Magento_Shipping
+"Total Shipping Charges","Skupni stroški dostave",module,Magento_Shipping
+"Incl. Tax","Z davkom",module,Magento_Shipping
+"Items to Ship","Items to Ship",module,Magento_Shipping
+"Qty to Ship","Qty to Ship",module,Magento_Shipping
+"Ship","Dostavi",module,Magento_Shipping
+"Shipment Total","Shipment Total",module,Magento_Shipping
+"Shipment Comments","Shipment Comments",module,Magento_Shipping
+"Comment Text","Comment Text",module,Magento_Shipping
+"Shipment Options","Shipment Options",module,Magento_Shipping
+"Create Shipping Label","Create Shipping Label",module,Magento_Shipping
+"Append Comments","Dodaj komentarje",module,Magento_Shipping
+"Email Copy of Shipment","Email Copy of Shipment",module,Magento_Shipping
+"Invalid value(s) for Qty to Ship","Invalid value(s) for Qty to Ship",module,Magento_Shipping
+"Select All","Izberi vse",module,Magento_Shipping
+"Product Name","Ime izdelka",module,Magento_Shipping
+"Delete","Izbriši",module,Magento_Shipping
+"Create Packages","Create Packages",module,Magento_Shipping
+"Cancel","Prekliči",module,Magento_Shipping
+"Save","Shrani",module,Magento_Shipping
+"Add Package","Add Package",module,Magento_Shipping
+"Add Selected Product(s) to Package","Add Selected Product(s) to Package",module,Magento_Shipping
+"Add Products to Package","Add Products to Package",module,Magento_Shipping
+"USPS domestic shipments don\'t use package types.","USPS domestic shipments don\'t use package types.",module,Magento_Shipping
+"in","in",module,Magento_Shipping
+"cm","cm",module,Magento_Shipping
+"lb","lb",module,Magento_Shipping
+"kg","kg",module,Magento_Shipping
+"Delete Package","Delete Package",module,Magento_Shipping
+"Explanation","Explanation",module,Magento_Shipping
+"Carrier","Carrier",module,Magento_Shipping
+"Title","Naslov",module,Magento_Shipping
+"Number","Število",module,Magento_Shipping
+"Action","Dejanje",module,Magento_Shipping
+"Are you sure?","Ali ste prepričani?",module,Magento_Shipping
+"Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Magento_Shipping
+"Track Order","Track Order",module,Magento_Shipping
+"No shipping information available","No shipping information available",module,Magento_Shipping
+"Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
+"Track this shipment","Track this shipment",module,Magento_Shipping
+"Items Shipped","Items Shipped",module,Magento_Shipping
+"Order Total","Skupno naročilo",module,Magento_Shipping
+"Shipment History","Shipment History",module,Magento_Shipping
+"Qty Shipped","Poslana količina",module,Magento_Shipping
+"Print All Shipments","Print All Shipments",module,Magento_Shipping
+"Shipment #","Shipment #",module,Magento_Shipping
+"Print Shipment","Print Shipment",module,Magento_Shipping
+"Tracking Number(s):","Tracking Number(s):",module,Magento_Shipping
+"SKU","SKU",module,Magento_Shipping
+"Order tracking","Order tracking",module,Magento_Shipping
+"Tracking Number:","Tracking Number:",module,Magento_Shipping
+"Carrier:","Carrier:",module,Magento_Shipping
+"Error:","Error:",module,Magento_Shipping
+"Tracking information is currently not available. Please ","Tracking information is currently not available. Please ",module,Magento_Shipping
+"contact us","contact us",module,Magento_Shipping
+" for more information or "," for more information or ",module,Magento_Shipping
+"email us at ","email us at ",module,Magento_Shipping
+"Info:","Info:",module,Magento_Shipping
+"Track:","Track:",module,Magento_Shipping
+"Status:","Stanje:",module,Magento_Shipping
+"Delivered on:","Delivered on:",module,Magento_Shipping
+"Signed by:","Signed by:",module,Magento_Shipping
+"Delivered to:","Delivered to:",module,Magento_Shipping
+"Shipped or billed on:","Shipped or billed on:",module,Magento_Shipping
+"Service Type:","Service Type:",module,Magento_Shipping
+"Weight:","Weight:",module,Magento_Shipping
+"N/A","ni na voljo",module,Magento_Shipping
+"Track history","Track history",module,Magento_Shipping
+"Location","Location",module,Magento_Shipping
+"Date","Datum",module,Magento_Shipping
+"Local Time","Local Time",module,Magento_Shipping
+"Description","Opis",module,Magento_Shipping
+"There is no tracking available for this shipment.","There is no tracking available for this shipment.",module,Magento_Shipping
+"There is no tracking available.","There is no tracking available.",module,Magento_Shipping
+"Close Window","Zapri okno",module,Magento_Shipping
+"Shipping Settings","Nastavitve dostave",module,Magento_Shipping
+"Origin","Izvor",module,Magento_Shipping
+"Country","Država",module,Magento_Shipping
+"Region/State","Država/regija",module,Magento_Shipping
+"ZIP/Postal Code","Poštna številka",module,Magento_Shipping
+"City","Mesto",module,Magento_Shipping
+"Street Address","Naslov ulice",module,Magento_Shipping
+"Street Address Line 2","Vrstica naslova ulice 2",module,Magento_Shipping
+"Shipping Policy Parameters","Parametri politike dostave",module,Magento_Shipping
+"Apply custom Shipping Policy","Uporabi politiko dostave po meri",module,Magento_Shipping
+"Shipping Policy","Politika dostave",module,Magento_Shipping
+"Shipping Methods","Načini dostave",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",module,Magento_Shipping
+"We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number.",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","We don't recognize or support the file extension in this shipment: %1.",module,Magento_Shipping
+"We can't initialize shipment for delete tracking number.","We can't initialize shipment for delete tracking number.",module,Magento_Shipping
+"We can't delete tracking number.","We can't delete tracking number.",module,Magento_Shipping
+"We can't load track with retrieving identifier right now.","We can't load track with retrieving identifier right now.",module,Magento_Shipping
+"We can't save the shipment right now.","We can't save the shipment right now.",module,Magento_Shipping
+""Shipment Document Validation Error(s):\n" .",""Shipment Document Validation Error(s):\n" .",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module.",module,Magento_Shipping
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
+"USPS domestic shipments don't use package types.","USPS domestic shipments don't use package types.",module,Magento_Shipping
+". ':'",". ':'",module,Magento_Shipping
+"See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
+"Shipping Settings Section","Shipping Settings Section",module,Magento_Shipping
+"Shipping Policy Parameters Section","Shipping Policy Parameters Section",module,Magento_Shipping
+"Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping

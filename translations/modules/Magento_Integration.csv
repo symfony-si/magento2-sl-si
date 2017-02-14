@@ -1,0 +1,126 @@
+"Integrations","Integracije",module,Magento_Integration
+"Add New Integration","Dodaj novo integracijo",module,Magento_Integration
+"API","API",module,Magento_Integration
+"Save","Shrani",module,Magento_Integration
+"Save & Activate","Shrani in aktiviraj",module,Magento_Integration
+"New Integration","Nova integracija",module,Magento_Integration
+"Edit Integration '%1'","Urejanje integracije '%1'",module,Magento_Integration
+"Integration Info","Informacije integracije",module,Magento_Integration
+"General","Splošno",module,Magento_Integration
+"Name","Ime",module,Magento_Integration
+"Email","E-pošta",module,Magento_Integration
+"Callback URL","URL povratnega klica",module,Magento_Integration
+"Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Vnesite URL, kamor se lahko pošlje poverilnice Oauth, ko se uporablja Oauth za izmenjavo žetona. Toplo priporočamo uporabo https://.",module,Magento_Integration
+"Identity link URL","URL povezave identitete",module,Magento_Integration
+"URL to redirect user to link their 3rd party account with this Magento integration credentials.","URL preusmeritve uporabnika na njegov tretje osebni račun s temi poverilnicami integracije Magento.",module,Magento_Integration
+"Integration Details","Podrobnosti povezovanja",module,Magento_Integration
+"Basic Settings","Osnovne nastavitve",module,Magento_Integration
+"Integration Tokens for Extensions","Žetoni integracije za razširitve",module,Magento_Integration
+"Consumer Key","Potrošniški ključ",module,Magento_Integration
+"Consumer Secret","Potrošniška skrivna vrednost",module,Magento_Integration
+"Access Token","Žeton za dostop",module,Magento_Integration
+"Access Token Secret","Skrivna vrednost žetona za dostop",module,Magento_Integration
+"Uninstall the extension to remove this integration","Odstranite razširitev, da odstranite to integracijo",module,Magento_Integration
+"Remove","Odstrani",module,Magento_Integration
+"View","Pogled",module,Magento_Integration
+"Edit","Uredi",module,Magento_Integration
+"Activate","Aktiviraj",module,Magento_Integration
+"Reauthorize","Ponovno avtoriziraj",module,Magento_Integration
+"Uninstall the extension to remove integration '%1'.","Odstranite dodatek, da odstranite integracijo '%1'.",module,Magento_Integration
+"This integration no longer exists.","Ta integracija več ne obstaja.",module,Magento_Integration
+"The integration '%1' has been deleted.","Integracija '%1' je bila izbrisana.",module,Magento_Integration
+"Integration ID is not specified or is invalid.","ID integracije ni naveden ali pa je neveljaven.",module,Magento_Integration
+"Internal error. Check exception log for details.","Notranja napaka. Preverite dnevnik izjem za podrobnosti.",module,Magento_Integration
+"View ""%1"" Integration","Poglej integracijo ""%1""",module,Magento_Integration
+"Edit ""%1"" Integration","Uredi integracijo ""%1""",module,Magento_Integration
+"Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Opozorilo! Integracije, ki ne uporabljajo HTTPS niso varne in potencialno izpostavljajo zasebne ali osebne prepoznavne informacije",module,Magento_Integration
+"The integration \'%1\' has been saved.","Integracija \'%1\' je bila shranjena.",module,Magento_Integration
+"The integration was not saved.","Integracija ni bila shranjena.",module,Magento_Integration
+"The integration '%1' has been re-authorized.","Integracija '%1' je bila ponovno dovoljena.",module,Magento_Integration
+"The integration '%1' has been activated.","Integracija '%1' je bila aktivirana.",module,Magento_Integration
+"Integration '%1' has been sent for re-authorization.","Integracija '%1' je bilo poslana za ponovno dovoljenje.",module,Magento_Integration
+"Integration '%1' has been sent for activation.","Integracija '%1' je bila poslana v aktiviranje.",module,Magento_Integration
+"You did not sign in correctly or your account is temporarily disabled.","Niste se pravilno prijavili, ali pa je vaš račun začasno onemogočen.",module,Magento_Integration
+"This user has no tokens.","Ta uporabnik nima žetonov.",module,Magento_Integration
+"The tokens could not be revoked.","Žetonov ni mogoče preklicati.",module,Magento_Integration
+"Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Med podeljevanjem dovoljenj je šlo žal nekaj narobe. Več lahko izveste več v dnevniku izjem.",module,Magento_Integration
+"Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Med brisanjem vlog in dovoljenj je šlo nekaj narobe. Več lahko izveste v dnevniku izjem.",module,Magento_Integration
+"This customer has no tokens.","Ta kupec nima nobenega žetona.",module,Magento_Integration
+"Inactive","Neaktivno",module,Magento_Integration
+"Active","Aktivno",module,Magento_Integration
+"Integration with name \'%1\' exists.","Integracija z imenom \'%1\' obstaja.",module,Magento_Integration
+"Integration with ID \'%1\' does not exist.","Integracija z ID \'%1\' ne obstaja.",module,Magento_Integration
+"Invalid Callback URL","Neveljaven URL povratnega klica",module,Magento_Integration
+"Invalid Rejected Callback URL","Neveljaven URL zavrnjenega povratnega klica",module,Magento_Integration
+"Incorrect timestamp value in the oauth_timestamp parameter","Napačna vrednost časovnega žiga v parametru oauth_timestamp",module,Magento_Integration
+"The nonce is already being used by the consumer with ID %1","Enkratnik že uporablja potrošnik z ID %1",module,Magento_Integration
+"An error occurred validating the nonce","Med preverjanjem enkratnika je prišlo do napake",module,Magento_Integration
+"Cannot convert to access token due to token is not request type","Ni mogoče pretvoriti v dostopni žeton, ker žeton ni vrste zahteve",module,Magento_Integration
+"Consumer key has expired","Potrošniški ključ je potekel",module,Magento_Integration
+"Cannot create request token because consumer token is not a verifier token","Žetona zahteve ni mogoče ustvariti, ker potrošniški žeton, ni žeton za preverjanje",module,Magento_Integration
+"Request token is not associated with the specified consumer","Žeton zahteve ni povezan z določenim potrošnikom",module,Magento_Integration
+"Token is already being used","Žeton je že v uporabi",module,Magento_Integration
+"Cannot get access token because consumer token is not a request token","Ni mogoče dobiti dostopnega žetona, ker potrošniški žeton ni žeton zahteve",module,Magento_Integration
+"Token is not associated with the specified consumer","Žeton ni povezan z določenim potrošnikom",module,Magento_Integration
+"Token is not an access token","Žeton ni dostopni žeton",module,Magento_Integration
+"Access token has been revoked","Dostopni žeton je preklican",module,Magento_Integration
+"Consumer key is not the correct length","Potrošniški ključ ni pravilne dolžine",module,Magento_Integration
+"A consumer having the specified key does not exist","Potrošnik z določenim ključem ne obstaja",module,Magento_Integration
+"Verifier is invalid","Preveritelj je neveljaven",module,Magento_Integration
+"Verifier is not the correct length","Preveritelj ni prave dolžine",module,Magento_Integration
+"Token verifier and verifier token do not match","Preveritelj žetona in žeton preveritelja se ne ujemata",module,Magento_Integration
+"A consumer with the ID %1 does not exist","Potrošnik z ID %1 ne obstaja",module,Magento_Integration
+"Token is not the correct length","Žeton ni pravilne dolžine",module,Magento_Integration
+"Specified token does not exist","Navedeni žeton ne obstaja",module,Magento_Integration
+"A token with consumer ID %1 does not exist","Žeton z ID potrošnika %1 ne obstaja",module,Magento_Integration
+"Unexpected error. Unable to create oAuth consumer account.","Nepričakovana napaka. Ni mogoče ustvariti potrošniškega računa oAuth.",module,Magento_Integration
+"Unexpected error. Unable to load oAuth consumer account.","Nepričakovana napaka. Ni mogoče naložiti potrošniškega računa oAuth.",module,Magento_Integration
+"A consumer with ID %1 does not exist","Potrošnik z ID %1 ne obstaja",module,Magento_Integration
+"Unable to post data to consumer due to an unexpected error","Zaradi nepričakovane napake potrošniku ni mogoče poslati podatkov",module,Magento_Integration
+"Consumer with ID \'%1\' does not exist.","Potrošnik z ID \'%1\' ne obstaja.",module,Magento_Integration
+"Invalid token to except","Neveljaven žeton za sprejetje",module,Magento_Integration
+"Integration with ID '%1' doesn't exist.","Integracija z ID '%1' ne obstaja.",module,Magento_Integration
+"A token with consumer ID 0 does not exist","A token with consumer ID 0 does not exist",module,Magento_Integration
+"The integration you selected asks you to approve access to the following:","The integration you selected asks you to approve access to the following:",module,Magento_Integration
+"No permissions requested","No permissions requested",module,Magento_Integration
+"Are you sure ?","Ali ste prepričani?",module,Magento_Integration
+"Are you sure you want to delete this integration? You can't undo this action.","Ali ste prepričani, da želite izbrisati to integracijo? Tega dejanja ni mogoče razveljaviti.",module,Magento_Integration
+"Please setup or sign in into your 3rd party account to complete setup of this integration.","Da zaključite nastavitev te integracije, nastavite ali pa se prijavite v vaš tretje osebni račun.",module,Magento_Integration
+"Available APIs","API-ji na voljo",module,Magento_Integration
+"Resource Access","Dostop vira",module,Magento_Integration
+"Custom","Po meri",module,Magento_Integration
+"All","Vse",module,Magento_Integration
+"Resources","Viri",module,Magento_Integration
+"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Integration
+"Allow","Omogoči",module,Magento_Integration
+"Done","Opravljeno",module,Magento_Integration
+"OAuth","OAuth",module,Magento_Integration
+"Cleanup Settings","Nastavitve čiščenja",module,Magento_Integration
+"Cleanup Probability","Verjetnost čiščenja",module,Magento_Integration
+"Expiration Period","Obdobje poteka",module,Magento_Integration
+"Consumer Settings","Potrošniške nastavitve",module,Magento_Integration
+"OAuth consumer credentials HTTP Post maxredirects","HTTP Post maxredirects za potrošniške poverilnice OAuth",module,Magento_Integration
+"OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration
+"Integrations Configuration","Nastavitve integracij",module,Magento_Integration
+"Integration configuration file.","Datoteka nastavitev integracije.",module,Magento_Integration
+"Integrations API Configuration","Nastavitve API-ja za integracije",module,Magento_Integration
+"Integrations API configuration file.","Konfiguracijska datoteka API-ja za integracije.",module,Magento_Integration
+"No Integrations Found","Ni najdenih integracij",module,Magento_Integration
+"Status","Stanje",module,Magento_Integration
+"Current User Identity Verification","Current User Identity Verification",module,Magento_Integration
+"Your Password","Your Password",module,Magento_Integration
+"Cannot edit integrations created via config file.","Cannot edit integrations created via config file.",module,Magento_Integration
+"The integration '%1' has been saved.","The integration '%1' has been saved.",module,Magento_Integration
+"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Integration
+"Reset","Reset",module,Magento_Integration
+"Integration with name '%1' exists.","Integration with name '%1' exists.",module,Magento_Integration
+"Integration with ID '%1' does not exist.","Integration with ID '%1' does not exist.",module,Magento_Integration
+"One or more <a href="%1">integrations</a> have been reset because of a change to their xml configs.","One or more <a href="%1">integrations</a> have been reset because of a change to their xml configs.",module,Magento_Integration
+"Consumer with ID '%1' does not exist.","Consumer with ID '%1' does not exist.",module,Magento_Integration
+"Your account is temporarily disabled.","Your account is temporarily disabled.",module,Magento_Integration
+"You have entered an invalid password for current user.","You have entered an invalid password for current user.",module,Magento_Integration
+"Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
+"Extensions","Extensions",module,Magento_Integration
+"Integration configuration file","Integration configuration file",module,Magento_Integration
+"Integrations API configuration file","Integrations API configuration file",module,Magento_Integration
+"We couldn't find any records.","We couldn't find any records.",module,Magento_Integration

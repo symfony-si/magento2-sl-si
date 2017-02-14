@@ -1,0 +1,53 @@
+"Gift Messages is not applicable for empty cart","Sporočila daril niso na voljo za prazen voziček",module,Magento_GiftMessage
+"Gift Messages is not applicable for virtual products","Sporočila daril niso na voljo za virtualne izdelke",module,Magento_GiftMessage
+"Gift Message is not available","Sporočilo darila ni na voljo",module,Magento_GiftMessage
+"Could not add gift message to shopping cart","Sporočila darila ni bilo mogoče dodati v košarico",module,Magento_GiftMessage
+"There is no item with provided id in the cart","V košarici ni nobenega elementa s podanim ID",module,Magento_GiftMessage
+"There is no product with provided  itemId: %1 in the cart","V košarici ni nobenega izdelka s podanim itemId: %1",module,Magento_GiftMessage
+"There is no item with provided id in the order","V naročilu ni nobenega elementa s podanim id",module,Magento_GiftMessage
+"There is no item with provided id in the order or gift message isn\'t allowed","V naročilu ni nobenega elementa s podanim id ali pa sporočilo darila ni dovoljeno",module,Magento_GiftMessage
+"Could not add gift message to order: ""%1""","Sporočila darila ni bilo mogoče dodati naročilu: ""%1""",module,Magento_GiftMessage
+"There is no order with provided id or gift message isn\'t allowed","There is no order with provided id or gift message isn\'t allowed",module,Magento_GiftMessage
+"There is no order with provided id","There is no order with provided id",module,Magento_GiftMessage
+"Gift Messages is not applicable for empty order","Sporočil daril ni mogoče uporabiti za prazno naročilo",module,Magento_GiftMessage
+"Could not add gift message to order's item: ""%1""","Darila sporočila ni bilo mogoče dodati elementu naročila: ""%1""",module,Magento_GiftMessage
+"Unknown entity type","Neznana vrsta entitete",module,Magento_GiftMessage
+"From","Iz",module,Magento_GiftMessage
+"To","Za",module,Magento_GiftMessage
+"Message","Sporočilo",module,Magento_GiftMessage
+"Cancel","Prekliči",module,Magento_GiftMessage
+"OK","V redu",module,Magento_GiftMessage
+"Gift Options","Možnosti darila",module,Magento_GiftMessage
+"Gift Message","Sporočilo darila",module,Magento_GiftMessage
+"Do you have any gift items in your order?","Ali imate v vašem naročilu kakršna koli darila?",module,Magento_GiftMessage
+"Add gift options","Dodaj možnosti darila",module,Magento_GiftMessage
+"Gift Options for the Entire Order","Možnosti darila za celotno naročilo",module,Magento_GiftMessage
+"Leave this box blank if you don\'t want to leave a gift message for the entire order.","To polje pustite prazno, če ne želite pustiti sporočila darila za celotno naročilo.",module,Magento_GiftMessage
+"Gift Options for Individual Items","Možnosti darila za posamezne elemente",module,Magento_GiftMessage
+"<span>Item %1</span> of %2","<span>Element %1</span> od %2",module,Magento_GiftMessage
+"Leave a box blank if you don\'t want to add a gift message for that item.","Pustite polje prazno, če ne želite dodati sporočilo darila za ta element.",module,Magento_GiftMessage
+"Add Gift Options for the Entire Order","Dodaj možnosti darila za celotno naročilo",module,Magento_GiftMessage
+"You can leave this box blank if you don\'t want to add a gift message for this address.","Tega polja ne morete pustiti praznega, če ne želite dodati sporočila darila za ta naslov.",module,Magento_GiftMessage
+"Add gift options for Individual Items","Dodaj možnosti darila za posamezne elemente",module,Magento_GiftMessage
+"You can leave this box blank if you don\'t want to add a gift message for the item.","To polje lahko pustite prazno, če ne želite dodati sporočila darila za ta element.",module,Magento_GiftMessage
+"Allow Gift Messages on Order Level","Allow Gift Messages on Order Level",module,Magento_GiftMessage
+"Allow Gift Messages for Order Items","Allow Gift Messages for Order Items",module,Magento_GiftMessage
+"Gift Messages are not applicable for empty cart","Gift Messages are not applicable for empty cart",module,Magento_GiftMessage
+"Gift Messages are not applicable for virtual products","Gift Messages are not applicable for virtual products",module,Magento_GiftMessage
+"There is no item with provided id in the order or gift message isn't allowed","There is no item with provided id in the order or gift message isn't allowed",module,Magento_GiftMessage
+"There is no order with provided id or gift message isn't allowed","There is no order with provided id or gift message isn't allowed",module,Magento_GiftMessage
+"Gift Messages are not applicable for empty order","Gift Messages are not applicable for empty order",module,Magento_GiftMessage
+"Test label","Test label",module,Magento_GiftMessage
+"Use Config Settings","Use Config Settings",module,Magento_GiftMessage
+"Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_GiftMessage
+"Leave a box blank if you don't want to add a gift message for that item.","Leave a box blank if you don't want to add a gift message for that item.",module,Magento_GiftMessage
+"You can leave this box blank if you don't want to add a gift message for this address.","You can leave this box blank if you don't want to add a gift message for this address.",module,Magento_GiftMessage
+"You can leave this box blank if you don't want to add a gift message for the item.","You can leave this box blank if you don't want to add a gift message for the item.",module,Magento_GiftMessage
+"Gift Message (optional)","Gift Message (optional)",module,Magento_GiftMessage
+"To:","To:",module,Magento_GiftMessage
+"From:","From:",module,Magento_GiftMessage
+"Message:","Message:",module,Magento_GiftMessage
+"Update","Update",module,Magento_GiftMessage
+"Gift options","Gift options",module,Magento_GiftMessage
+"Edit","Edit",module,Magento_GiftMessage
+"Delete","Delete",module,Magento_GiftMessage

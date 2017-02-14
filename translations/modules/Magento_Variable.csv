@@ -1,0 +1,21 @@
+"Custom Variables","Spremenljivke po meri",module,Magento_Variable
+"Add New Variable","Dodaj novo spremenljivko",module,Magento_Variable
+"Save and Continue Edit","Shrani in nadaljuj urejanje",module,Magento_Variable
+"Custom Variable ""%1""","Custom Variable ""%1""",module,Magento_Variable
+"New Custom Variable","New Custom Variable",module,Magento_Variable
+"Variable","Variable",module,Magento_Variable
+"Variable Code","Variable Code",module,Magento_Variable
+"Variable Name","Variable Name",module,Magento_Variable
+"Use Default Variable Values","Use Default Variable Values",module,Magento_Variable
+"No","Ne",module,Magento_Variable
+"Yes","Da",module,Magento_Variable
+"Variable HTML Value","Variable HTML Value",module,Magento_Variable
+"Variable Plain Value","Variable Plain Value",module,Magento_Variable
+"You deleted the custom variable.","You deleted the custom variable.",module,Magento_Variable
+"You saved the custom variable.","You saved the custom variable.",module,Magento_Variable
+"Variable Code must be unique.","Variable Code must be unique.",module,Magento_Variable
+"Validation has failed.","Validation has failed.",module,Magento_Variable
+"%1","%1",module,Magento_Variable
+"Insert Variable...","Vstavi spremenljivko ...",module,Magento_Variable
+"Variable ID","ID spremenljivke",module,Magento_Variable
+"Name","Ime",module,Magento_Variable

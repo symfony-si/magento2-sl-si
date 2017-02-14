@@ -1,0 +1,108 @@
+"Percent Discount","Odstotni popust",module,Magento_Bundle
+"-- Select --","-- Izberite --",module,Magento_Bundle
+"Dynamic","Dinamično",module,Magento_Bundle
+"Fixed","Fiksno",module,Magento_Bundle
+"Create New Option","Ustvari novo možnost",module,Magento_Bundle
+"Bundle Items","Skupek elementov",module,Magento_Bundle
+"Add Products to Option","Dodaj izdelke v možnost",module,Magento_Bundle
+"Close","Zapri",module,Magento_Bundle
+"Delete Option","Izbriši možnost",module,Magento_Bundle
+"What are you looking for?","Kaj iščete?",module,Magento_Bundle
+"ID","ID",module,Magento_Bundle
+"Product","Izdelek",module,Magento_Bundle
+"SKU","SKU",module,Magento_Bundle
+"Price","Cena",module,Magento_Bundle
+"Delete","Izbriši",module,Magento_Bundle
+"Use Default Value","Uporabi privzeto vrednost",module,Magento_Bundle
+"There is no defined renderer for ""%1"" option type.","Za vrsto možnosti ""%1"" ni definiranega nobenega upodabljalnika.",module,Magento_Bundle
+"Only implemented for bundle product","Uporabljeno samo za paket izdelkov",module,Magento_Bundle
+"Product with specified sku: ""%1"" is not a bundle product","Izdelek z določeno SKU: ""%1"" ni paket izdelka",module,Magento_Bundle
+"Bundle product could not contain another composite product","Izdelek paketa ne more vsebovati drugega sestavljenega izdelka",module,Magento_Bundle
+"Id field of product link is required","Polje ID povezave izdelka je zahtevano",module,Magento_Bundle
+"Can not find product link with id ""%1""","Povezave izdelka z ID ""%1"" ni mogoče najti",module,Magento_Bundle
+"Could not save child: ""%1""","Ni bilo mogoče shraniti podrejenega elementa: ""%1""",module,Magento_Bundle
+"Product with specified sku: ""%1"" does not contain option: ""%2""","Izdelek z določenim SKU: ""%1"" ne vsebuje možnosti: ""%2""",module,Magento_Bundle
+"Child with specified sku: ""%1"" already assigned to product: ""%2""","Podrejeni element z določenim SKU: ""%1"" je že dodeljen izdelku: ""%2""",module,Magento_Bundle
+"Product with specified sku: %1 is not a bundle product","Izdelek z določenim SKU: ""%1"" ni izdelek paketa",module,Magento_Bundle
+"Requested bundle option product doesn't exist","Zahtevani izdelek možnosti paketa ne obstaja",module,Magento_Bundle
+"%fieldName is a required field.","%fieldName je obvezno polje.",module,Magento_Bundle
+"Requested option doesn't exist","Zahtevana možnost ne obstaja",module,Magento_Bundle
+"Cannot delete option with id %1","Možnosti z ID %1 ni mogoče izbrisati",module,Magento_Bundle
+"Could not save option","Možnosti ni bilo mogoče shraniti",module,Magento_Bundle
+"As Low as","Tako nizko, kot",module,Magento_Bundle
+"Price Range","Cenovni razred",module,Magento_Bundle
+"Please specify product option(s).","Navedite možnosti izdelka.",module,Magento_Bundle
+"The options you selected are not available.","Izbrane možnosti niso na voljo.",module,Magento_Bundle
+"The required options you selected are not available.","Zahtevane možnosti, ki ste jih izbrali, niso na voljo.",module,Magento_Bundle
+"Please select all required options.","Izberite vse potrebne možnosti.",module,Magento_Bundle
+"We can't add this item to your shopping cart right now.","Tega elementa trenutno ni mogoče dodati v vašo košarico.",module,Magento_Bundle
+"N/A","ni na voljo",module,Magento_Bundle
+"Percent","Odstotki",module,Magento_Bundle
+"We can't save custom-defined options for bundles with dynamic pricing.","Po meri definiranih možnosti ne moremo shraniti za pakete z dinamičnimi cenami.",module,Magento_Bundle
+"Cancel","Prekliči",module,Magento_Bundle
+"Add Selected Products","Dodaj izbrane izdelke",module,Magento_Bundle
+"Add Option","Dodaj možnost",module,Magento_Bundle
+"None","Brez",module,Magento_Bundle
+"Quantity:","Količina:",module,Magento_Bundle
+"Choose a selection...","Izberite izbor...",module,Magento_Bundle
+"Ship Bundle Items","Pošlji elemente paketa",module,Magento_Bundle
+"Separately","Ločeno",module,Magento_Bundle
+"Together","Skupaj",module,Magento_Bundle
+"Option Title","Naslov možnosti",module,Magento_Bundle
+"Default Title","Privzeti naslov",module,Magento_Bundle
+"Store View Title","Naslov pogleda trgovine",module,Magento_Bundle
+"Input Type","Vrsta vnosa",module,Magento_Bundle
+"Drop-down","Spustni meni",module,Magento_Bundle
+"Radio Buttons","Izbirni gumbi",module,Magento_Bundle
+"Checkbox","Potrditveno polje",module,Magento_Bundle
+"Multiple Select","Izbira večih možnosti",module,Magento_Bundle
+"Required","Zahtevano",module,Magento_Bundle
+"Is Default","Privzeto",module,Magento_Bundle
+"Position","Položaj",module,Magento_Bundle
+"There are no products in this option.","V tej možnosti ni nobenih izdelkov.",module,Magento_Bundle
+"New Option","Nova možnost",module,Magento_Bundle
+"Default","Privzeto",module,Magento_Bundle
+"Name","Ime",module,Magento_Bundle
+"Price Type","Vrsta cene",module,Magento_Bundle
+"Default Quantity","Privzeta količina",module,Magento_Bundle
+"User Defined","Uporabniško določeno",module,Magento_Bundle
+"Ordered","Naročeno",module,Magento_Bundle
+"Invoiced","Fakturirano",module,Magento_Bundle
+"Shipped","Poslano",module,Magento_Bundle
+"Refunded","Povrnjeno",module,Magento_Bundle
+"Canceled","Preklicano",module,Magento_Bundle
+"As low as","Tako nizko, kot",module,Magento_Bundle
+"Regular Price","Redna cena",module,Magento_Bundle
+"From","Iz",module,Magento_Bundle
+"To","Za",module,Magento_Bundle
+"Buy %1 with %2 discount each","Kupite %1, vsakega s popustom %2",module,Magento_Bundle
+"Go back to product details","Nazaj na podrobnosti izdelka",module,Magento_Bundle
+"Customize and Add to Cart","Prilagodite in dodajte v košarico",module,Magento_Bundle
+"* Required Fields","* Obvezna polja",module,Magento_Bundle
+"Your Customization","Vaša prilagoditev",module,Magento_Bundle
+"Availability","Razpoložljivost",module,Magento_Bundle
+"In stock","Na zalogi",module,Magento_Bundle
+"Out of stock","Ni na zalogi",module,Magento_Bundle
+"Summary","Povzetek",module,Magento_Bundle
+"%1 x %2","%1 x %2",module,Magento_Bundle
+"Availability:","Razpoložljivost:",module,Magento_Bundle
+"Quantity","Količina",module,Magento_Bundle
+"Customize %1","Prilagodite %1",module,Magento_Bundle
+"No options of this product are available.","Za ta izdelek ni na voljo nobene možnosti.",module,Magento_Bundle
+"Gift Message","Sporočilo darila",module,Magento_Bundle
+"From:","Od:",module,Magento_Bundle
+"To:","Za:",module,Magento_Bundle
+"Message:","Sporočilo:",module,Magento_Bundle
+"Product Name","Ime izdelka",module,Magento_Bundle
+"Subtotal","Delna vsota",module,Magento_Bundle
+"Discount Amount","Znesek popusta",module,Magento_Bundle
+"Row Total","Vsota skupaj",module,Magento_Bundle
+"Qty Invoiced","Fakturirana količina",module,Magento_Bundle
+"Qty Shipped","Poslana količina",module,Magento_Bundle
+"Select...","Select...",module,Magento_Bundle
+"Status","Status",module,Magento_Bundle
+"Thumbnail","Thumbnail",module,Magento_Bundle
+"Type","Type",module,Magento_Bundle
+"Add Products to New Option","Dodaj izdelke k novi možnosti",module,Magento_Bundle
+"Add Products to Option ""%1""","Dodaja izdelke k možnosti ""%1""",module,Magento_Bundle
+"Add Selected Products","Dodaj izbrane izdelke",module,Magento_Bundle

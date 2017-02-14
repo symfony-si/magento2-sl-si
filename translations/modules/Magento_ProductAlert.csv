@@ -1,0 +1,42 @@
+"You saved the alert subscription.","You saved the alert subscription.",module,Magento_ProductAlert
+"There are not enough parameters.","There are not enough parameters.",module,Magento_ProductAlert
+"We can\'t update the alert subscription right now.","We can\'t update the alert subscription right now.",module,Magento_ProductAlert
+"Alert subscription has been saved.","Alert subscription has been saved.",module,Magento_ProductAlert
+"You deleted the alert subscription.","You deleted the alert subscription.",module,Magento_ProductAlert
+"We can\'t find the product.","Izdelka ni mogoče najti.",module,Magento_ProductAlert
+"You will no longer receive price alerts for this product.","You will no longer receive price alerts for this product.",module,Magento_ProductAlert
+"Unable to update the alert subscription.","Unable to update the alert subscription.",module,Magento_ProductAlert
+"You will no longer receive stock alerts for this product.","You will no longer receive stock alerts for this product.",module,Magento_ProductAlert
+"The product was not found.","The product was not found.",module,Magento_ProductAlert
+"You will no longer receive stock alerts.","You will no longer receive stock alerts.",module,Magento_ProductAlert
+"Invalid block type: %1","Invalid block type: %1",module,Magento_ProductAlert
+"Price change alert! We wanted you to know that prices have changed for these products:","Price change alert! We wanted you to know that prices have changed for these products:",module,Magento_ProductAlert
+"Price:","Price:",module,Magento_ProductAlert
+"Click here to stop alerts for this product.","Click here to stop alerts for this product.",module,Magento_ProductAlert
+"Unsubscribe from all price alerts","Unsubscribe from all price alerts",module,Magento_ProductAlert
+"In stock alert! We wanted you to know that these products are now available:","In stock alert! We wanted you to know that these products are now available:",module,Magento_ProductAlert
+"Unsubscribe from all stock alerts","Unsubscribe from all stock alerts",module,Magento_ProductAlert
+"Product alerts cron warnings","Product alerts cron warnings",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_ProductAlert
+"Product Alerts","Opozorila izdelka",module,Magento_ProductAlert
+"Allow Alert When Product Price Changes","Omogoči opozorilo, ko se cena izdelka spremeni",module,Magento_ProductAlert
+"Allow Alert When Product Comes Back in Stock","Omogoči opozorilo, ko izdelek pride nazaj na zalogo",module,Magento_ProductAlert
+"Price Alert Email Template","Predloga e-pošte opozorila o ceni",module,Magento_ProductAlert
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_ProductAlert
+"Stock Alert Email Template","Predloga e-pošte opozorila zaloge",module,Magento_ProductAlert
+"Alert Email Sender","Pošiljatelj e-pošte opozorila",module,Magento_ProductAlert
+"Product Alerts Run Settings","Zagonske nastavitve opozoril izdelkov",module,Magento_ProductAlert
+"Frequency","Pogostost",module,Magento_ProductAlert
+"Start Time","Začetni čas",module,Magento_ProductAlert
+"Error Email Recipient","Prejemnik e-pošte napake",module,Magento_ProductAlert
+"Error Email Sender","Pošiljatelj e-pošte napake",module,Magento_ProductAlert
+"Error Email Template","Predloga e-pošte napake",module,Magento_ProductAlert
+"Sign up for price alert","Prijavite se za opozorilo cene",module,Magento_ProductAlert
+"Sign up to be notified when this product is back in stock.","Prijavite se, da boste obveščeni, ko bo ta izdelek nazaj na zalogi.",module,Magento_ProductAlert
+"We can't update the alert subscription right now.","We can't update the alert subscription right now.",module,Magento_ProductAlert
+"We can't find the product.","We can't find the product.",module,Magento_ProductAlert
+"Product alerts Cron error","Product alerts Cron error",module,Magento_ProductAlert
+"Products price changed alert","Products price changed alert",module,Magento_ProductAlert
+"Products back in stock alert","Products back in stock alert",module,Magento_ProductAlert
+"Notify me when the price drops","Notify me when the price drops",module,Magento_ProductAlert
+"Notify me when this product is in stock","Notify me when this product is in stock",module,Magento_ProductAlert

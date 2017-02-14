@@ -1,0 +1,27 @@
+"Page not found.","Strani ni mogoče najti.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Hvala, ker ste nas kontaktirali z vašimi komentarji in vprašanji. Odzvali se vam bomo zelo kmalu.",module,Magento_Contact
+"We can\'t process your request right now. Sorry, that\'s all we know.","Vašega zahtevka trenutno ne moremo obdelati. Žal, to je vse kar vemo.",module,Magento_Contact
+"* Required Fields","* Obvezna polja",module,Magento_Contact
+"Write Us","Pišite nam",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Zapišite nam opombo in odgovorili vam čim prej.",module,Magento_Contact
+"Name","Ime",module,Magento_Contact
+"Email","E-pošta",module,Magento_Contact
+"Phone Number","Telefonska številka",module,Magento_Contact
+"What’s on your mind?","O čem razmišljate?",module,Magento_Contact
+"Submit","Pošlji",module,Magento_Contact
+"Name: %name","Name: %name",module,Magento_Contact
+"Email: %email","Email: %email",module,Magento_Contact
+"Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
+"Comment: %comment","Comment: %comment",module,Magento_Contact
+"Contacts","Contacts",module,Magento_Contact
+"Contact Us","Contact Us",module,Magento_Contact
+"Enable Contact Us","Enable Contact Us",module,Magento_Contact
+"Email Options","Email Options",module,Magento_Contact
+"Send Emails To","Send Emails To",module,Magento_Contact
+"Email Sender","Email Sender",module,Magento_Contact
+"Email Template","Email Template",module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
+"Contact Form","Contact Form",module,Magento_Contact
+"Contacts Section","Contacts Section",module,Magento_Contact

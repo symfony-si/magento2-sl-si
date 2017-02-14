@@ -1,0 +1,13 @@
+"Dynamic","Dinamično",module,Magento_GoogleAdwords
+"Constant","Stalno",module,Magento_GoogleAdwords
+"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Vrednost barve pretvorbe ni veljavna ""%1"". Nastavite šestnajstiško 6-mestno vrednost.",module,Magento_GoogleAdwords
+"Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","Vrednost ID pretvorbe ni veljavna ""%1"". ID pretvorbe mora biti celo število.",module,Magento_GoogleAdwords
+"Google AdWords","Google AdWords",module,Magento_GoogleAdwords
+"Enable","Omogoči",module,Magento_GoogleAdwords
+"Conversion ID","ID pretvorbe",module,Magento_GoogleAdwords
+"Conversion Language","Jezik pretvorbe",module,Magento_GoogleAdwords
+"Conversion Format","Oblika pretvorbe",module,Magento_GoogleAdwords
+"Conversion Color","Barva pretvorbe",module,Magento_GoogleAdwords
+"Conversion Label","Oznaka pretvorbe",module,Magento_GoogleAdwords
+"Conversion Value Type","Vrsta vrednosti pretvorbe",module,Magento_GoogleAdwords
+"Conversion Value","Vrednost pretvorbe",module,Magento_GoogleAdwords

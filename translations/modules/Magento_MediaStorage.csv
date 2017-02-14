@@ -1,0 +1,26 @@
+"Synchronize","Synchronize",module,Magento_MediaStorage
+"Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
+"Synchronizing...","Synchronizing...",module,Magento_MediaStorage
+"The timeout limit for response from synchronize process was reached.","The timeout limit for response from synchronize process was reached.",module,Magento_MediaStorage
+"File %1 does not exist","File %1 does not exist",module,Magento_MediaStorage
+"File %1 is not readable","File %1 is not readable",module,Magento_MediaStorage
+"File System","File System",module,Magento_MediaStorage
+"Database","Podatkovna baza",module,Magento_MediaStorage
+"database ""%1""","database ""%1""",module,Magento_MediaStorage
+"Parent directory does not exist: %1","Parent directory does not exist: %1",module,Magento_MediaStorage
+"File system","File system",module,Magento_MediaStorage
+"Unable to save file ""%1"" at ""%2""","Unable to save file ""%1"" at ""%2""",module,Magento_MediaStorage
+"Wrong file info format","Wrong file info format",module,Magento_MediaStorage
+"Path ""%value%"" is protected and cannot be used.","Path ""%value%"" is protected and cannot be used.",module,Magento_MediaStorage
+"Path ""%value%"" is not available and cannot be used.","Path ""%value%"" is not available and cannot be used.",module,Magento_MediaStorage
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\\").","Path ""%value%"" may not include parent directory traversal (""../"", ""..\\").",module,Magento_MediaStorage
+"Please set available and/or protected paths list(s) before validation.","Please set available and/or protected paths list(s) before validation.",module,Magento_MediaStorage
+"File with an extension ""%value%"" is protected and cannot be uploaded","File with an extension ""%value%"" is protected and cannot be uploaded",module,Magento_MediaStorage
+"Unable to create directory: %1","Unable to create directory: %1",module,Magento_MediaStorage
+"Unable to save file: %1","Unable to save file: %1",module,Magento_MediaStorage
+"Storage Configuration for Media","Storage Configuration for Media",module,Magento_MediaStorage
+"Media Storage","Shramba medijev",module,Magento_MediaStorage
+"Select Media Database","Select Media Database",module,Magento_MediaStorage
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.",module,Magento_MediaStorage
+"Environment Update Time","Environment Update Time",module,Magento_MediaStorage
+"Path "%value%" may not include parent directory traversal ("../", "..\").","Path "%value%" may not include parent directory traversal ("../", "..\").",module,Magento_MediaStorage

@@ -1,0 +1,19 @@
+"Not you?","To niste vi?",module,Magento_Persistent
+"Your shopping cart has been updated with new prices.","Your shopping cart has been updated with new prices.",module,Magento_Persistent
+"Welcome, %1!","Pozdravljeni, %1!",module,Magento_Persistent
+"We cannot load the configuration from file %1.","We cannot load the configuration from file %1.",module,Magento_Persistent
+"Method ""%1"" is not defined in ""%2""","Method ""%1"" is not defined in ""%2""",module,Magento_Persistent
+"To check out, please sign in using your email address.","To check out, please sign in using your email address.",module,Magento_Persistent
+"Remember Me","Remember Me",module,Magento_Persistent
+"What\'s this?","What\'s this?",module,Magento_Persistent
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
+"Persistent Shopping Cart","Obstojna košarica",module,Magento_Persistent
+"General Options","Splošne možnosti",module,Magento_Persistent
+"Enable Persistence","Omogoči obstojnost",module,Magento_Persistent
+"Persistence Lifetime (seconds)","Življenjska doba obstojnosti (sekunde)",module,Magento_Persistent
+"Enable ""Remember Me""","Omogoči ""Zapomni si me""",module,Magento_Persistent
+"""Remember Me"" Default Value","""Zapomni si me"" privzeta vrednost",module,Magento_Persistent
+"Clear Persistence on Sign Out","Pri odjavi počisti obstojnost",module,Magento_Persistent
+"Persist Shopping Cart","Obstojna košarica",module,Magento_Persistent
+"What's this?","What's this?",module,Magento_Persistent
+"Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent

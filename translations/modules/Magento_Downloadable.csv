@@ -1,0 +1,121 @@
+"Downloadable Information","Informacije prenosa",module,Magento_Downloadable
+"Add New Link","Dodaj novo povezavo",module,Magento_Downloadable
+"Upload Files","Naloži datoteke",module,Magento_Downloadable
+"All Files","Vse datoteke",module,Magento_Downloadable
+"Unlimited","Neomejeno",module,Magento_Downloadable
+"Something went wrong while getting the requested content.","Med pridobivanjem zahtevane vsebine je šlo nekaj narobe.",module,Magento_Downloadable
+"My Downloadable Products","Moji prenosljivi izdelki",module,Magento_Downloadable
+"We can't find the link you requested.","Povezave, ki ste jo zahtevali, ni mogoče najti.",module,Magento_Downloadable
+"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Vpišite se, da prenesete vaš izdelek ali opravite nakup <a href=""%1"">%2</a>.",module,Magento_Downloadable
+"Please sign in to download your product.","Vpišite se, da prenesete vaš izdelek.",module,Magento_Downloadable
+"The link has expired.","Povezava je potekla.",module,Magento_Downloadable
+"The link is not available.","Povezava ni na voljo.",module,Magento_Downloadable
+"Sorry, there was an error getting requested content. Please contact the store owner.","Žal je pri pridobivanju zahtevane vsebine prišlo do napake. Obrnite se na lastnika trgovine.",module,Magento_Downloadable
+"Please set resource file and link type.","Nastavite datoteko vira in vrsto povezave.",module,Magento_Downloadable
+"Invalid download link type.","Neveljavna vrsta povezave za prenos.",module,Magento_Downloadable
+"Something went wrong while saving the file(s).","Med shranjevanjem datotek je šlo nekaj narobe.",module,Magento_Downloadable
+"Provided content must be valid base64 encoded data.","Podana vsebina mora biti veljaven base64 enkodiran podatek.",module,Magento_Downloadable
+"Provided file name contains forbidden characters.","Podano ime datoteke vsebuje nedovoljene znake.",module,Magento_Downloadable
+"Link price must have numeric positive value.","Cena povezave mora imeti pozitivno številsko vrednost.",module,Magento_Downloadable
+"Number of downloads must be a positive integer.","Število prenosov mora biti pozitivno celo število.",module,Magento_Downloadable
+"Sort order must be a positive integer.","Vrstni red mora biti pozitivno celo število.",module,Magento_Downloadable
+"Link URL must have valid format.","URL povezave mora imeti veljavno obliko.",module,Magento_Downloadable
+"Provided file content must be valid base64 encoded data.","Podana vsebina datoteke mora biti veljaven base64 enkodiran podatek.",module,Magento_Downloadable
+"Sample URL must have valid format.","URL vzorca mora imeti veljavno obliko.",module,Magento_Downloadable
+"Order id cannot be null","Id naročila ne more biti ničelni",module,Magento_Downloadable
+"Order item id cannot be null","Id elementa naročila ne more biti ničelni",module,Magento_Downloadable
+"Product type of the product must be \'downloadable\'.","Vrsta izdelka mora biti \'prenosljiv\'.",module,Magento_Downloadable
+"Provided link information is invalid.","Podane informacije povezave niso veljavne.",module,Magento_Downloadable
+"Invalid link type.","Neveljavna vrsta povezave.",module,Magento_Downloadable
+"Link title cannot be empty.","Naslov povezave ne sme biti prazen.",module,Magento_Downloadable
+"There is no downloadable link with provided ID.","Ni nobene prenosljive povezave s podanim ID.",module,Magento_Downloadable
+"Provided downloadable link is not related to given product.","Podana prenosljiva povezava ni povezana z danim izdelkom.",module,Magento_Downloadable
+"Please specify product link(s).","Navedite povezave izdelka.",module,Magento_Downloadable
+"Provided sample information is invalid.","Podane informacije vzorca niso veljavne.",module,Magento_Downloadable
+"Invalid sample type.","Neveljavna vrsta vzorca.",module,Magento_Downloadable
+"Sample title cannot be empty.","Naslov vzorca ne sme biti prazen.",module,Magento_Downloadable
+"There is no downloadable sample with provided ID.","Ni nobenega prenosljivega vzorca s podanim ID.",module,Magento_Downloadable
+"Provided downloadable sample is not related to given product.","Podani prenosljivi vzorec ni povezan z danim izdelkom.",module,Magento_Downloadable
+"attachment","priloga",module,Magento_Downloadable
+"inline","v vrstici",module,Magento_Downloadable
+"Pending","Na čakanju",module,Magento_Downloadable
+"Invoiced","Fakturirano",module,Magento_Downloadable
+"sample","vzorec",module,Magento_Downloadable
+"Is this downloadable Product?","Ali je to prenosljivi izdelek?",module,Magento_Downloadable
+"Links","Povezave",module,Magento_Downloadable
+"Add links to your product files here.","Dodaj tu povezave do datotek vašega izdelka.",module,Magento_Downloadable
+"[STORE VIEW]","[POGLED TRGOVINE]",module,Magento_Downloadable
+"Title","Naslov",module,Magento_Downloadable
+"Use Default Value","Uporabi privzeto vrednost",module,Magento_Downloadable
+"[GLOBAL]","[GLOBALNO]",module,Magento_Downloadable
+"Links can be purchased separately","Povezave se lahko kupi ločeno",module,Magento_Downloadable
+"Sort Order","Vrstni red",module,Magento_Downloadable
+"Price","Cena",module,Magento_Downloadable
+"Attach File or Enter Link","Priložite datoteko ali vnesite povezavo",module,Magento_Downloadable
+"Sample","Vzorec",module,Magento_Downloadable
+"Shareable","Deljivo",module,Magento_Downloadable
+"Max. Downloads","Največ prenosov",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.","Za imena datotek se priporoča alfanumerične znake, pomišljaje in podčrtaje. Neustrezni znaki se nadomestijo z \'_\'.",module,Magento_Downloadable
+"Sort Variations","Variacije razvrščanja",module,Magento_Downloadable
+"File","Datoteka",module,Magento_Downloadable
+"Browse Files...","Prebrskaj datoteke...",module,Magento_Downloadable
+"URL","URL",module,Magento_Downloadable
+"Yes","Da",module,Magento_Downloadable
+"No","Ne",module,Magento_Downloadable
+"Use config","Uporabi nastavitev",module,Magento_Downloadable
+"Delete","Izbriši",module,Magento_Downloadable
+"Samples","Vzorci",module,Magento_Downloadable
+"Add product preview files here.","Tu dodajte datoteke predogleda izdelka.",module,Magento_Downloadable
+"SKU","SKU",module,Magento_Downloadable
+"U","U",module,Magento_Downloadable
+"Select all","Izberi vse",module,Magento_Downloadable
+"Unselect all","Odznači vse",module,Magento_Downloadable
+"Availability","Razpoložljivost",module,Magento_Downloadable
+"In stock","Na zalogi",module,Magento_Downloadable
+"Out of stock","Ni na zalogi",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Pojdite na <a href=""%1"">Moji prenosljivi izdelki</a>",module,Magento_Downloadable
+"Downloadable Products","Prenosljivi izdelki",module,Magento_Downloadable
+"Order #","Naročilo #",module,Magento_Downloadable
+"Date","Datum",module,Magento_Downloadable
+"Status","Stanje",module,Magento_Downloadable
+"Remaining Downloads","Preostali prenosi",module,Magento_Downloadable
+"View Order","Ogled naročila",module,Magento_Downloadable
+"Start Download","Začni prenos",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Niste še kupili nobenega prenosljivega izdelka.",module,Magento_Downloadable
+"Back","Nazaj",module,Magento_Downloadable
+"download","prenos",module,Magento_Downloadable
+"Gift Message","Sporočilo darila",module,Magento_Downloadable
+"From:","Od:",module,Magento_Downloadable
+"To:","Za:",module,Magento_Downloadable
+"Message:","Sporočilo:",module,Magento_Downloadable
+"Product Name","Ime izdelka",module,Magento_Downloadable
+"Qty","Količina",module,Magento_Downloadable
+"Subtotal","Delna vsota",module,Magento_Downloadable
+"Discount Amount","Znesek popusta",module,Magento_Downloadable
+"Row Total","Vsota skupaj",module,Magento_Downloadable
+"Qty Invoiced","Fakturirana količina",module,Magento_Downloadable
+"Ordered","Naročeno",module,Magento_Downloadable
+"Shipped","Poslano",module,Magento_Downloadable
+"Canceled","Preklicano",module,Magento_Downloadable
+"Refunded","Povrnjeno",module,Magento_Downloadable
+"We could not detect a size.","Velikosti ni mogoče zaznati.",module,Magento_Downloadable
+"Downloadable Product Options","Downloadable Product Options",module,Magento_Downloadable
+"Order Item Status to Enable Downloads","Order Item Status to Enable Downloads",module,Magento_Downloadable
+"Default Maximum Number of Downloads","Default Maximum Number of Downloads",module,Magento_Downloadable
+"Default Sample Title","Default Sample Title",module,Magento_Downloadable
+"Default Link Title","Default Link Title",module,Magento_Downloadable
+"Open Links in New Window","Open Links in New Window",module,Magento_Downloadable
+"Use Content-Disposition","Use Content-Disposition",module,Magento_Downloadable
+"Disable Guest Checkout if Cart Contains Downloadable Items","Disable Guest Checkout if Cart Contains Downloadable Items",module,Magento_Downloadable
+"Guest checkout will only work with shareable.","Guest checkout will only work with shareable.",module,Magento_Downloadable
+"Link file not provided","Link file not provided",module,Magento_Downloadable
+"Provided product must be type 'downloadable'.","Provided product must be type 'downloadable'.",module,Magento_Downloadable
+"Cannot delete link with id %1","Cannot delete link with id %1",module,Magento_Downloadable
+"Sample file not provided","Sample file not provided",module,Magento_Downloadable
+"Cannot delete sample with id %1","Cannot delete sample with id %1",module,Magento_Downloadable
+"Upload File","Upload File",module,Magento_Downloadable
+"To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
+"Add Link","Add Link",module,Magento_Downloadable
+"Downloadable Product Section","Downloadable Product Section",module,Magento_Downloadable
+"Downloads","Downloads",module,Magento_Downloadable

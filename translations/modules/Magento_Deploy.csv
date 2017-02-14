@@ -1,0 +1,3 @@
+"Cannot switch into given mode ""%1""","Ne morete preklopiti v dani način ""%1""",module,Magento_Deploy
+"Compilation from source: ","Compilation from source: ",module,Magento_Deploy
+"Wrong deploy strategy type: %1","Wrong deploy strategy type: %1",module,Magento_Deploy

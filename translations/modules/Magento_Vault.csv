@@ -1,0 +1,15 @@
+"No token found.","Najdenega ni bilo nobenega žetona.",module,Magento_Vault
+"Wrong request.","Napačen zahtevek.",module,Magento_Vault
+"Deletion failure. Please try again.","Napaka pri brisanju. Poskusite ponovno.",module,Magento_Vault
+"Stored Payment Method was successfully removed","Shranjeni način plačila je bil uspešno odstranjen",module,Magento_Vault
+"Stored Payment Methods","Shranjeni načini plačila",module,Magento_Vault
+"No available payment tokens for specified order payment.","Za izbrano plačilo naročila ni na voljo plačilnih žetonov.",module,Magento_Vault
+"Card Number","Številka kartice",module,Magento_Vault
+"Expiration Date","Datum poteka",module,Magento_Vault
+"Type","Vrsta",module,Magento_Vault
+"You have no stored payment methods.","Nimate shranjenih načinov plačila.",module,Magento_Vault
+"ending","se konča",module,Magento_Vault
+"Actions","Dejanja",module,Magento_Vault
+"Delete","Izbriši",module,Magento_Vault
+"PayPal Account","Račun PayPal",module,Magento_Vault
+"Cancel","Cancel",module,Magento_Vault

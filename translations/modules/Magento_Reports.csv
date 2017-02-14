@@ -1,0 +1,232 @@
+"New Accounts","Novi računi",module,Magento_Reports
+"Customers by number of orders","Stranke po številu naročil",module,Magento_Reports
+"Customers by Orders Total","Stranke po skupnih zneskih naročil",module,Magento_Reports
+"Filter","Filter",module,Magento_Reports
+"Date Used","Datum uporabe",module,Magento_Reports
+"Day","Dan",module,Magento_Reports
+"Month","Mesec",module,Magento_Reports
+"Year","Leto",module,Magento_Reports
+"Period","Obdobje",module,Magento_Reports
+"From","Iz",module,Magento_Reports
+"To","Za",module,Magento_Reports
+"Yes","Da",module,Magento_Reports
+"No","Ne",module,Magento_Reports
+"Empty Rows","Prazne vrstice",module,Magento_Reports
+"Invalid date specified","Določen neveljaven datum",module,Magento_Reports
+"Refresh","Osveži",module,Magento_Reports
+"We can\'t find records for this period.","We can\'t find records for this period.",module,Magento_Reports
+"Show Reviews","Show Reviews",module,Magento_Reports
+"Products Report","Poročilo o izdelkih",module,Magento_Reports
+"Downloads","Prenosi",module,Magento_Reports
+"Product","Izdelek",module,Magento_Reports
+"Link","Povezava",module,Magento_Reports
+"SKU","SKU",module,Magento_Reports
+"Purchases","Nakupi",module,Magento_Reports
+"CSV","CSV",module,Magento_Reports
+"Excel XML","Excel XML",module,Magento_Reports
+"Unlimited","Neomejeno",module,Magento_Reports
+"Low stock","Nizka zaloga",module,Magento_Reports
+"Products Ordered","Naročeni izdelki",module,Magento_Reports
+"Most Viewed","Največ ogledov",module,Magento_Reports
+"Show Report","Pokaži poročilo",module,Magento_Reports
+"Interval","Interval",module,Magento_Reports
+"Total","Skupaj",module,Magento_Reports
+"Price","Cena",module,Magento_Reports
+"Views","Ogledov",module,Magento_Reports
+"Refresh Statistics","Osveži statistiko",module,Magento_Reports
+"Customers Reviews","Mnenja strank",module,Magento_Reports
+"Reviews for %1","Mnenje za %1",module,Magento_Reports
+"Customer","Stranka",module,Magento_Reports
+"Title","Naslov",module,Magento_Reports
+"Detail","Podrobnosti",module,Magento_Reports
+"Created","Ustvarjeno",module,Magento_Reports
+"Products Reviews","Mnenja izdelkov",module,Magento_Reports
+"Products Bestsellers Report","Products Bestsellers Report",module,Magento_Reports
+"Order Quantity","Količina naročila",module,Magento_Reports
+"Coupons Usage Report","Coupons Usage Report",module,Magento_Reports
+"Subtotal","Delna vsota",module,Magento_Reports
+"Coupon Code","Koda kupona",module,Magento_Reports
+"Price Rule","Pravilo cene",module,Magento_Reports
+"Uses","Uses",module,Magento_Reports
+"Sales Subtotal","Sales Subtotal",module,Magento_Reports
+"Sales Discount","Sales Discount",module,Magento_Reports
+"Sales Total","Sales Total",module,Magento_Reports
+"Discount","Discount",module,Magento_Reports
+"Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report",module,Magento_Reports
+"Orders","Naročila",module,Magento_Reports
+"Invoiced Orders","Invoiced Orders",module,Magento_Reports
+"Total Invoiced","Total Invoiced",module,Magento_Reports
+"Paid Invoices","Paid Invoices",module,Magento_Reports
+"Unpaid Invoices","Unpaid Invoices",module,Magento_Reports
+"Total Refunded Report","Total Refunded Report",module,Magento_Reports
+"Refunded Orders","Refunded Orders",module,Magento_Reports
+"Total Refunded","Total Refunded",module,Magento_Reports
+"Online Refunds","Online Refunds",module,Magento_Reports
+"Offline Refunds","Offline Refunds",module,Magento_Reports
+"Total Ordered Report","Total Ordered Report",module,Magento_Reports
+"Sales Items","Sales Items",module,Magento_Reports
+"Items","Elementi",module,Magento_Reports
+"Revenue","Prihodki",module,Magento_Reports
+"Profit","Profit",module,Magento_Reports
+"Invoiced","Fakturirano",module,Magento_Reports
+"Paid","Paid",module,Magento_Reports
+"Refunded","Povrnjeno",module,Magento_Reports
+"Sales Tax","Sales Tax",module,Magento_Reports
+"Tax","Davek",module,Magento_Reports
+"Sales Shipping","Sales Shipping",module,Magento_Reports
+"Shipping","Dostava",module,Magento_Reports
+"Canceled","Preklicano",module,Magento_Reports
+"Total Shipped Report","Total Shipped Report",module,Magento_Reports
+"Carrier/Method","Carrier/Method",module,Magento_Reports
+"Total Sales Shipping","Total Sales Shipping",module,Magento_Reports
+"Total Shipping","Total Shipping",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate",module,Magento_Reports
+"Rate","Rate",module,Magento_Reports
+"Tax Amount","Tax Amount",module,Magento_Reports
+"Abandoned carts","Abandoned carts",module,Magento_Reports
+"Email","E-pošta",module,Magento_Reports
+"Products","Izdelki",module,Magento_Reports
+"Quantity","Količina",module,Magento_Reports
+"Applied Coupon","Applied Coupon",module,Magento_Reports
+"Updated","Posodobljeno",module,Magento_Reports
+"IP Address","IP Address",module,Magento_Reports
+"Customers","Stranke",module,Magento_Reports
+"ID","ID",module,Magento_Reports
+"First Name","Ime",module,Magento_Reports
+"Last Name","Priimek",module,Magento_Reports
+"Items in Cart","Artikli v košarici",module,Magento_Reports
+"Products in carts","Izdelki v košarici",module,Magento_Reports
+"Carts","Košarice",module,Magento_Reports
+"Name","Ime",module,Magento_Reports
+"Wish Lists","Seznami želja",module,Magento_Reports
+"Wish List Purchase","Wish List Purchase",module,Magento_Reports
+"Wish List vs. Regular Order","Wish List vs. Regular Order",module,Magento_Reports
+"Times Deleted","Times Deleted",module,Magento_Reports
+"Index type is not valid","Index type is not valid",module,Magento_Reports
+"Reports","Reports",module,Magento_Reports
+"Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.",module,Magento_Reports
+"New Accounts Report","New Accounts Report",module,Magento_Reports
+"Customers by Number of Orders","Customers by Number of Orders",module,Magento_Reports
+"Order Count Report","Order Count Report",module,Magento_Reports
+"Order Total Report","Order Total Report",module,Magento_Reports
+"Downloads Report","Downloads Report",module,Magento_Reports
+"Low Stock","Low Stock",module,Magento_Reports
+"Low Stock Report","Low Stock Report",module,Magento_Reports
+"Ordered Products Report","Ordered Products Report",module,Magento_Reports
+"Products Most Viewed Report","Products Most Viewed Report",module,Magento_Reports
+"Product Views Report","Product Views Report",module,Magento_Reports
+"An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
+"Review","Review",module,Magento_Reports
+"Reviews","Reviews",module,Magento_Reports
+"Customers Report","Customers Report",module,Magento_Reports
+"Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
+"Product Reviews Report","Product Reviews Report",module,Magento_Reports
+"Product Reviews","Mnenja o izdelku",module,Magento_Reports
+"Details","Podrobnosti",module,Magento_Reports
+"Sales","Prodaja",module,Magento_Reports
+"Best Sellers Report","Best Sellers Report",module,Magento_Reports
+"Coupons","Kuponi",module,Magento_Reports
+"Coupons Report","Coupons Report",module,Magento_Reports
+"Invoice Report","Poročilo o računu",module,Magento_Reports
+"Refunds Report","Refunds Report",module,Magento_Reports
+"Sales Report","Poročilo o prodaji",module,Magento_Reports
+"Shipping Report","Shipping Report",module,Magento_Reports
+"Tax Report","Tax Report",module,Magento_Reports
+"Shopping Cart","Košarica",module,Magento_Reports
+"Abandoned Carts","Zapuščene košarice",module,Magento_Reports
+"Customer Shopping Carts","Customer Shopping Carts",module,Magento_Reports
+"Products in Carts","Izdelki v košaricah",module,Magento_Reports
+"Statistics","Statistika",module,Magento_Reports
+"No report code is specified.","No report code is specified.",module,Magento_Reports
+"You refreshed lifetime statistics.","You refreshed lifetime statistics.",module,Magento_Reports
+"We can\'t refresh lifetime statistics.","Statistike življenjske dobe ni mogoče osvežiti.",module,Magento_Reports
+"Recent statistics have been updated.","Recent statistics have been updated.",module,Magento_Reports
+"We can\'t refresh recent statistics.","We can\'t refresh recent statistics.",module,Magento_Reports
+"The product type filter specified is incorrect.","The product type filter specified is incorrect.",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rates","Order Taxes Report Grouped by Tax Rates",module,Magento_Reports
+"Total Invoiced VS Paid Report","Total Invoiced VS Paid Report",module,Magento_Reports
+"Promotion Coupons Usage Report","Promotion Coupons Usage Report",module,Magento_Reports
+"Bestsellers","Uspešnice",module,Magento_Reports
+"Most Viewed Products Report","Most Viewed Products Report",module,Magento_Reports
+"An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
+"Error","Napaka",module,Magento_Reports
+"Show By","Show By",module,Magento_Reports
+"Select Date","Select Date",module,Magento_Reports
+"Customers that have Wish List: %1","Customers that have Wish List: %1",module,Magento_Reports
+"Number of Wish Lists: %1","Number of Wish Lists: %1",module,Magento_Reports
+"Number of items bought from a Wish List: %1","Number of items bought from a Wish List: %1",module,Magento_Reports
+"Number of times Wish Lists have been shared (emailed): %1","Number of times Wish Lists have been shared (emailed): %1",module,Magento_Reports
+"Number of Wish List referrals: %1","Number of Wish List referrals: %1",module,Magento_Reports
+"Number of Wish List conversions: %1","Number of Wish List conversions: %1",module,Magento_Reports
+"Show Report For:","Show Report For:",module,Magento_Reports
+"All Websites","Vse spletne strani",module,Magento_Reports
+"Recently Viewed","Nedavno prikazani",module,Magento_Reports
+"Add to Cart","Dodaj v košarico",module,Magento_Reports
+"In stock","Na zalogi",module,Magento_Reports
+"Out of stock","Ni na zalogi",module,Magento_Reports
+"Add to Wish List","Dodaj na seznam želja",module,Magento_Reports
+"Add to Compare","Dodaj v primerjavo",module,Magento_Reports
+"Recently Compared","Nedavno primerjani",module,Magento_Reports
+"Learn More","Izvedite več",module,Magento_Reports
+"Recently Viewed/Compared Products","Pred kratkim ogledani/primerjani izdelki",module,Magento_Reports
+"Show for Current","Prikaži za trenutno",module,Magento_Reports
+"Default Recently Viewed Products Count","Privzeto število nazadnje pogledanih izdelkov",module,Magento_Reports
+"Default Recently Compared Products Count","Privzeto število nedavno primerjanih izdelkov",module,Magento_Reports
+"Dashboard","Nadzorna plošča",module,Magento_Reports
+"Year-To-Date Starts","Leto do datuma se začne",module,Magento_Reports
+"Current Month Starts","Začetek tekočega meseca",module,Magento_Reports
+"Select day of the month.","Izberite dan v mesecu.",module,Magento_Reports
+"Recently Viewed Products","Nedavno pogledani izdelki",module,Magento_Reports
+"List of Products Recently Viewed by Visitor","Seznam nedavno pogledanih izdelkov glede po obiskovalcu",module,Magento_Reports
+"Number of Products to display","Število izdelkov za prikaz",module,Magento_Reports
+"Viewed Products Grid Template","Predloga mreže pogledanih izdelkov",module,Magento_Reports
+"Viewed Products List Template","Predloga seznama ogledov izdelkov",module,Magento_Reports
+"Viewed Products Images and Names Template","Predloga slik in imen pogledanih izdelkov",module,Magento_Reports
+"Viewed Products Names Only Template","Predloga samo imen pogledanih izdelkov",module,Magento_Reports
+"Viewed Products Images Only Template","Predloga samo slik pogledanih izdelkov",module,Magento_Reports
+"Recently Compared Products","Nedavno primerjani izdelki",module,Magento_Reports
+"List of Products Recently Compared and Removed from the Compare List by Visitor","Seznam nedavno primerjanih izdelkov in od obiskovalca odstranjenih izdelkov iz seznama primerjave",module,Magento_Reports
+"Compared Products Grid Template","Predloga mreže primerjanih izdelkov",module,Magento_Reports
+"Compared Products List Template","Predloga seznama primerjanih izdelkov",module,Magento_Reports
+"Compared Products Images and Names Template","Predloga slik in imen primerjanih izdelkov",module,Magento_Reports
+"Compared Product Names Only Template","Predloga samo imen primerjanih izdelkov",module,Magento_Reports
+"Compared Product Images Only Template","Predloga samo slik primerjanih izdelkov",module,Magento_Reports
+"Average","Povprečje",module,Magento_Reports
+"Stock Quantity","Količina zaloge",module,Magento_Reports
+"Ordered Quantity","Naročena količina",module,Magento_Reports
+"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","Za natančno poročanje, preverite, da osvežite statistiko življenjske dobe, vsakič, ko spremenite časovni pas.",module,Magento_Reports
+"Guest","Gost",module,Magento_Reports
+"Action","Dejanje",module,Magento_Reports
+"Average (Approved)","Povprečje (odobreno)",module,Magento_Reports
+"Last Review","Zadnji pregled",module,Magento_Reports
+"Order Created","Naročilo ustvarjeno",module,Magento_Reports
+"Order Updated","Naročilo posodobljeno",module,Magento_Reports
+"The Order Updated report is created in real time and does not require a refresh.","Poročilo posodobljenega naročila je ustvarjeno v realnem času in ne zahteva osvežitve.",module,Magento_Reports
+"Last Invoice Created Date","Datum nastanka zadnjega računa",module,Magento_Reports
+"Last Credit Memo Created Date","Datum nastanka zadnjega dobropisa",module,Magento_Reports
+"First Invoice Created Date","Datum nastanka prvega računa",module,Magento_Reports
+"Refresh Lifetime Statistics","Osveži statistiko življenjske dobe",module,Magento_Reports
+"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Ali ste prepričani, da želite v tem trenutku osvežiti statistiko življenjske dobe? Ta operacija lahko upočasni nakupovalno izkušnjo vaših strank.",module,Magento_Reports
+"Refresh Statistics for the Last Day","Osveži statistiko za zadnji dan",module,Magento_Reports
+"Are you sure you want to refresh statistics for the last day?","Ali ste prepričani, da želite osvežiti statistiko za zadnji dan?",module,Magento_Reports
+"Report","Poročilo",module,Magento_Reports
+"Description","Opis",module,Magento_Reports
+"undefined","nedoločeno",module,Magento_Reports
+"We can't find records for this period.","We can't find records for this period.",module,Magento_Reports
+"Last updated: %1. To refresh last day's <a href="%2">statistics</a>, click <a href="%3">here</a>.","Last updated: %1. To refresh last day's <a href="%2">statistics</a>, click <a href="%3">here</a>.",module,Magento_Reports
+"Bestsellers Report","Bestsellers Report",module,Magento_Reports
+"Orders Report","Orders Report",module,Magento_Reports
+"We can't refresh lifetime statistics.","We can't refresh lifetime statistics.",module,Magento_Reports
+"We can't refresh recent statistics.","We can't refresh recent statistics.",module,Magento_Reports
+"Marketing","Marketing",module,Magento_Reports
+"Products in Cart","Products in Cart",module,Magento_Reports
+"Abandoned Cart","Abandoned Cart",module,Magento_Reports
+"Search Terms","Search Terms",module,Magento_Reports
+"By Customers","By Customers",module,Magento_Reports
+"By Products","By Products",module,Magento_Reports
+"Refunds","Refunds",module,Magento_Reports
+"Order Total","Order Total",module,Magento_Reports
+"Order Count","Order Count",module,Magento_Reports
+"New","New",module,Magento_Reports
+"Ordered","Ordered",module,Magento_Reports
+"The report displays the top 5 most viewed products for each interval.","The report displays the top 5 most viewed products for each interval.",module,Magento_Reports

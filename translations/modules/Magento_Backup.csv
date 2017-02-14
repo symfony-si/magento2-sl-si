@@ -1,0 +1,78 @@
+"System Backup","Varnostna kopija sistema",module,Magento_Backup
+"Database and Media Backup","Varnostna kopija medijev in podatkovne baze",module,Magento_Backup
+"Database Backup","Varnostna kopija podatkovne baze",module,Magento_Backup
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","V sistemu Windows arhiva ni mogoče razširiti s pomočjo <a href=""%1"">%2</a>.",module,Magento_Backup
+"You need more permissions to activate maintenance mode right now.","Za aktviranje načina vzdrževanja sedaj potrebujete več dovoljenj.",module,Magento_Backup
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","Če želite ustvariti varnostno kopijo, odznačite ""Daj trgovino v vzdrževalni način"", ali pa posodobite vaša dovoljenja.",module,Magento_Backup
+"Something went wrong while putting your store into maintenance mode.","Med dajanjem vaše trgovine v vzdrževalni način je šlo nekaj narobe.",module,Magento_Backup
+"You need more free space to create a backup.","Da ustvarite varnostno kopijo, potrebujete več prostora.",module,Magento_Backup
+"You need more permissions to create a backup.","Za ustvarjanje varnostne kopije potrebujete več dovoljenj.",module,Magento_Backup
+"We can't create the backup right now.","Trenutno ni mogoče ustvariti varnostne kopije.",module,Magento_Backup
+"Backups","Varnostne kopije",module,Magento_Backup
+"System","Sistem",module,Magento_Backup
+"Tools","Orodja",module,Magento_Backup
+"Backup","Varnostno kopiranje",module,Magento_Backup
+"We can't delete one or more backups.","Ene aii več varnostnih kopij ni mogoče izbrisati.",module,Magento_Backup
+"failed","ni uspelo",module,Magento_Backup
+"successful","uspešno",module,Magento_Backup
+"You deleted the selected backup(s).","Izbrisali ste izbrane varnostne kopije.",module,Magento_Backup
+"Can't load snapshot archive","Arhiva posnetka ni mogoče naložiti",module,Magento_Backup
+"Please correct the password.","Popravite geslo.",module,Magento_Backup
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Za dokončanje povrnitve, odznačite ""Trgovino daj v način vzdrževanja"" ali pa posodobite vaša dovoljenja.",module,Magento_Backup
+"We can't find the backup file.","Datoteke varnostne kopije ni mogoče najti.",module,Magento_Backup
+"We can't connect to the FTP right now.","Trenutno FTP povezava ni mogoča.",module,Magento_Backup
+"Failed to validate FTP.","Preverjanje veljavnosti FTP ni uspelo.",module,Magento_Backup
+"You need more permissions to perform a rollback.","Da opravite povrnitev, potrebujete več dovoljenj.",module,Magento_Backup
+"Failed to rollback.","Povrnitev ni uspela.",module,Magento_Backup
+"Database","Podatkovna baza",module,Magento_Backup
+"Database and Media","Podatkovna baza in mediji",module,Magento_Backup
+"System (excluding Media)","Sistem (brez medijev)",module,Magento_Backup
+"You created the system backup.","Ustvarili ste varnostno kopijo sistema.",module,Magento_Backup
+"You created the system backup (excluding media).","Ustvarili ste varnostno kopijo sistema (mediji niso vključeni).",module,Magento_Backup
+"You created the database and media backup.","Ustvarili ste varnostno kopijo podatkovne baze in medijev.",module,Magento_Backup
+"You created the database backup.","Ustvarili ste varnostno kopijo podatkovne baze.",module,Magento_Backup
+"Please correct the order of creation for a new backup.","Za novo varnostno kopijo popravite vrstni red ustvarjanja.",module,Magento_Backup
+"The backup file does not exist.","Datoteka varnostne kopije ne obstaja.",module,Magento_Backup
+"The backup file path was not specified.","Datoteka varnostne kopije ni bila navedena.",module,Magento_Backup
+"The backup file ""%1"" does not exist.","Datoteka varnostne kopije ""%1"" ne obstaja.",module,Magento_Backup
+"Sorry, but we cannot read from or write to backup file ""%1"".","Žal branje iz ali pisanje v datoteko varnostne kopije ""%1"" ni mogoče.",module,Magento_Backup
+"The backup file handler was unspecified.","Krmilnik datoteke varnostne kopije ni bilo določen.",module,Magento_Backup
+"Something went wrong while writing to the backup file ""%1"".","Med pisanjem v datoteko varnostne kopije ""%1"" je šlo nekaj narobe.",module,Magento_Backup
+"We can't save the Cron expression.","Izraza periodičnega opravila ni mogoče shraniti.",module,Magento_Backup
+"You will lose any data created since the backup was made, including admin users, customers and orders.","Izgubili boste podatke, ki so bili ustvarjeni od zadnje varnostne kopije, vključno z administratorskimi uporabniki, strankami in naročili.",module,Magento_Backup
+"Are you sure you want to continue?","Ali ste prepričani, da želite nadaljevati?",module,Magento_Backup
+"This may take a few moments.","To lahko traja nekaj časa.",module,Magento_Backup
+"Be sure your store is in maintenance mode during backup.","Preverite, da je med varnostnim kopiranjem vaša trgovina v vzdrževalnem načinu.",module,Magento_Backup
+"Backup Name","Ime varnostne kopije",module,Magento_Backup
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","V tem polju uporabite samo črke (a-z ali A-Z), številke (0-9) ali presledke.",module,Magento_Backup
+"Maintenance mode","Način vzdrževanja",module,Magento_Backup
+"Please put your store into maintenance mode during backup.","Med varnostnim kopiranjem dajte vašo trgovino v vzdrževalni način.",module,Magento_Backup
+"Exclude","Izključi",module,Magento_Backup
+"Exclude media folder from backup","Izključi mapo medijev iz varnostne kopije",module,Magento_Backup
+"Please enter the password to confirm rollback.","Vnesite geslo za potrditev povrnitve.",module,Magento_Backup
+"This action cannot be undone.","Tega dejanja ni mogoče razveljaviti.",module,Magento_Backup
+"User Password","Uporabniško geslo",module,Magento_Backup
+"Please put your store into maintenance mode during rollback processing.","Med obdelavo povrnitve v prejšnje stanje dajte vašo trgovino v vzdrževalnem način.",module,Magento_Backup
+"FTP","FTP",module,Magento_Backup
+"Use FTP Connection","Uporabi FTP povezavo",module,Magento_Backup
+"FTP credentials","FTP poverilnice",module,Magento_Backup
+"FTP Host","Gostitelj FTP",module,Magento_Backup
+"FTP Login","FTP prijava",module,Magento_Backup
+"FTP Password","FTP geslo",module,Magento_Backup
+"Magento root directory","Magento korenski imenik",module,Magento_Backup
+"Create Backup","Ustvari varnostno kopijo",module,Magento_Backup
+"Scheduled Backup Settings","Scheduled Backup Settings",module,Magento_Backup
+"Enable Scheduled Backup","Enable Scheduled Backup",module,Magento_Backup
+"Backup Type","Vrsta varnostnega kopiranja",module,Magento_Backup
+"Start Time","Začetni čas",module,Magento_Backup
+"Frequency","Pogostost",module,Magento_Backup
+"Maintenance Mode","Način vzdrževanja",module,Magento_Backup
+"Delete","Izbriši",module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?",module,Magento_Backup
+"Time","Čas",module,Magento_Backup
+"Name","Ime",module,Magento_Backup
+"Size(bytes)","Velikost (bajti)",module,Magento_Backup
+"Type","Vrsta",module,Magento_Backup
+"Download","Prenos",module,Magento_Backup
+"Action","Dejanje",module,Magento_Backup
+"Rollback","Povrnitev prejšnjega stanja",module,Magento_Backup

@@ -1,6 +1,11 @@
 #!/usr/bin/env php
 <?php
 
+/**
+ * Creates README HTML document and merges all translation files into sl_SI.csv
+ * file that Magento can use further on.
+ */
+
 require_once __DIR__ . '/vendor/autoload.php';
 
 use League\CommonMark\CommonMarkConverter;
@@ -11,3 +16,31 @@ $converter = new CommonMarkConverter();
 $html = $converter->convertToHtml($readmeMd);
 
 file_put_contents(__DIR__.'/README.html', $html, LOCK_EX);
+
+$directory = __DIR__.'/translations';
+
+$innerIterator = new RecursiveDirectoryIterator(
+    $directory,
+    RecursiveDirectoryIterator::SKIP_DOTS
+);
+
+$exclude = [];
+
+$filter = function ($file, $key, $iterator) use ($exclude) {
+    if ($iterator->hasChildren() && !in_array($file->getFilename(), $exclude)) {
+        return true;
+    }
+    return ($file->isFile() && !in_array($file->getFilename(), $exclude));
+};
+
+$iterator = new RecursiveIteratorIterator(
+    new RecursiveCallbackFilterIterator($innerIterator, $filter)
+);
+
+$mergedCsv = '';
+
+foreach ($iterator as $pathName => $fileInfo) {
+    $mergedCsv .= file_get_contents($pathName);
+}
+
+file_put_contents(__DIR__.'/sl_SI.csv', $mergedCsv, LOCK_EX);

@@ -1,0 +1,69 @@
+"Save & Generate","Save & Generate",module,Magento_Sitemap
+"Edit Sitemap","Edit Sitemap",module,Magento_Sitemap
+"New Sitemap","New Sitemap",module,Magento_Sitemap
+"Sitemap Information","Sitemap Information",module,Magento_Sitemap
+"Sitemap","Sitemap",module,Magento_Sitemap
+"Filename","Filename",module,Magento_Sitemap
+"example: sitemap.xml","example: sitemap.xml",module,Magento_Sitemap
+"Path","Path",module,Magento_Sitemap
+"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","example: ""/sitemap/"" or ""/"" for base path (path must be writeable)",module,Magento_Sitemap
+"Store View","Pogled trgovine",module,Magento_Sitemap
+"Generate","Generate",module,Magento_Sitemap
+"XML Sitemap","XML Sitemap",module,Magento_Sitemap
+"Add Sitemap","Add Sitemap",module,Magento_Sitemap
+"Catalog","Katalog",module,Magento_Sitemap
+"You deleted the sitemap.","You deleted the sitemap.",module,Magento_Sitemap
+"We can\'t find a sitemap to delete.","We can\'t find a sitemap to delete.",module,Magento_Sitemap
+"This sitemap no longer exists.","This sitemap no longer exists.",module,Magento_Sitemap
+"Site Map","Site Map",module,Magento_Sitemap
+"New Site Map","New Site Map",module,Magento_Sitemap
+"The sitemap ""%1"" has been generated.","The sitemap ""%1"" has been generated.",module,Magento_Sitemap
+"We can\'t generate the sitemap right now.","We can\'t generate the sitemap right now.",module,Magento_Sitemap
+"We can\'t find a sitemap to generate.","We can\'t find a sitemap to generate.",module,Magento_Sitemap
+"You saved the sitemap.","You saved the sitemap.",module,Magento_Sitemap
+"The priority must be between 0 and 1.","The priority must be between 0 and 1.",module,Magento_Sitemap
+"Always","Vedno",module,Magento_Sitemap
+"Hourly","Hourly",module,Magento_Sitemap
+"Daily","Dnevno",module,Magento_Sitemap
+"Weekly","Tedensko",module,Magento_Sitemap
+"Monthly","Mesečno",module,Magento_Sitemap
+"Yearly","Yearly",module,Magento_Sitemap
+"Never","Nikoli",module,Magento_Sitemap
+"File handler unreachable","File handler unreachable",module,Magento_Sitemap
+"Please define a correct path.","Please define a correct path.",module,Magento_Sitemap
+"Please create the specified folder ""%1"" before saving the sitemap.","Please create the specified folder ""%1"" before saving the sitemap.",module,Magento_Sitemap
+"Please make sure that ""%1"" is writable by the web-server.","Please make sure that ""%1"" is writable by the web-server.",module,Magento_Sitemap
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.",module,Magento_Sitemap
+"None","Brez",module,Magento_Sitemap
+"Base Only","Base Only",module,Magento_Sitemap
+"All","Vse",module,Magento_Sitemap
+"Sitemap Generation Warnings","Sitemap Generation Warnings",module,Magento_Sitemap
+"Categories Options","Možnosti kategorij",module,Magento_Sitemap
+"Frequency","Pogostost",module,Magento_Sitemap
+"Priority","Prednost",module,Magento_Sitemap
+"Valid values range from 0.0 to 1.0.","Veljavne vrednosti so med 0.0 in 1.0.",module,Magento_Sitemap
+"Products Options","Možnosti izdelka",module,Magento_Sitemap
+"Add Images into Sitemap","Dodaj slike v kazalo",module,Magento_Sitemap
+"CMS Pages Options","Možnosti strani CMS",module,Magento_Sitemap
+"Generation Settings","Nastavitve ustvarjanja",module,Magento_Sitemap
+"Enabled","Omogočeno",module,Magento_Sitemap
+"Error Email Recipient","Prejemnik e-pošte napake",module,Magento_Sitemap
+"Error Email Sender","Pošiljatelj e-pošte napake",module,Magento_Sitemap
+"Error Email Template","Predloga e-pošte napake",module,Magento_Sitemap
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Sitemap
+"Start Time","Začetni čas",module,Magento_Sitemap
+"Sitemap File Limits","Omejitve sitemap datoteke",module,Magento_Sitemap
+"Maximum No of URLs Per File","Največje število URL-jev na datoteko",module,Magento_Sitemap
+"Maximum File Size","Največja velikost datoteke",module,Magento_Sitemap
+"File size in bytes.","Velikost datoteke v bajtih.",module,Magento_Sitemap
+"Search Engine Submission Settings","Nastavitve predložitve iskalnika",module,Magento_Sitemap
+"Enable Submission to Robots.txt","Omogoči predložitev v Robots.txt",module,Magento_Sitemap
+"ID","ID",module,Magento_Sitemap
+"Link for Google","Povezava za Google",module,Magento_Sitemap
+"Last Generated","Nazadnje ustvarjeno",module,Magento_Sitemap
+"Action","Dejanje",module,Magento_Sitemap
+"We can't find a sitemap to delete.","We can't find a sitemap to delete.",module,Magento_Sitemap
+"We can't generate the sitemap right now.","We can't generate the sitemap right now.",module,Magento_Sitemap
+"We can't find a sitemap to generate.","We can't find a sitemap to generate.",module,Magento_Sitemap
+"Sitemap generate Warnings","Sitemap generate Warnings",module,Magento_Sitemap
+"XML Sitemap Section","XML Sitemap Section",module,Magento_Sitemap

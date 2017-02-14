@@ -1,0 +1,197 @@
+"Checkout Options","Checkout Options",module,Magento_Checkout
+"Enable Onepage Checkout","Enable Onepage Checkout",module,Magento_Checkout
+"Allow Guest Checkout","Allow Guest Checkout",module,Magento_Checkout
+"Require Customer To Be Logged In To Checkout","Require Customer To Be Logged In To Checkout",module,Magento_Checkout
+"Quote Lifetime (days)","Quote Lifetime (days)",module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart","After Adding a Product Redirect to Shopping Cart",module,Magento_Checkout
+"My Cart Link","My Cart Link",module,Magento_Checkout
+"Display Cart Summary","Display Cart Summary",module,Magento_Checkout
+"Shopping Cart Sidebar","Shopping Cart Sidebar",module,Magento_Checkout
+"Display Shopping Cart Sidebar","Display Shopping Cart Sidebar",module,Magento_Checkout
+"Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)",module,Magento_Checkout
+"Payment Failed Emails","Payment Failed Emails",module,Magento_Checkout
+"Payment Failed Email Sender","Payment Failed Email Sender",module,Magento_Checkout
+"Payment Failed Email Receiver","Payment Failed Email Receiver",module,Magento_Checkout
+"Payment Failed Template","Payment Failed Template",module,Magento_Checkout
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
+"Separate by "","".","Ločeno z "","".",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
+"Shipping","Dostava",module,Magento_Checkout
+"Order Total","Skupno naročilo",module,Magento_Checkout
+"Shipping Address","Naslov za dostavo",module,Magento_Checkout
+"Save Address","Shrani naslov",module,Magento_Checkout
+"Cancel","Prekliči",module,Magento_Checkout
+"We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_Checkout
+"For delivery questions.","For delivery questions.",module,Magento_Checkout
+"Payment","Payment",module,Magento_Checkout
+"Cart Subtotal","Cart Subtotal",module,Magento_Checkout
+"Not yet calculated","Not yet calculated",module,Magento_Checkout
+"We received your order!","We received your order!",module,Magento_Checkout
+"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
+"Shopping Cart","Košarica",module,Magento_Checkout
+"Invalid method: %1","Neveljavna metoda: %1",module,Magento_Checkout
+"City","Mesto",module,Magento_Checkout
+"Country","Država",module,Magento_Checkout
+"State/Province","Država/območje",module,Magento_Checkout
+"Zip/Postal Code","Poštna številka",module,Magento_Checkout
+"My Cart (1 item)","Moja košarica (1 element)",module,Magento_Checkout
+"My Cart (%1 items)","Moja košarica (%1 elementov)",module,Magento_Checkout
+"My Cart","Moja košarica",module,Magento_Checkout
+"Minimum order amount is %1","Najmanjši znesek za naročilo je %1",module,Magento_Checkout
+"Customer is already registered","Stranka je že registrirana",module,Magento_Checkout
+"Your session has expired","Vaša seja je potekla",module,Magento_Checkout
+"You added %1 to your shopping cart.","Dodali ste %1 v vašo košarico.",module,Magento_Checkout
+"We can\'t add this item to your shopping cart right now.","Tega elementa trenutno ni mogoče dodati v vašo košarico.",module,Magento_Checkout
+"Out of stock","Ni na zalogi",module,Magento_Checkout
+"We can't find the quote item.","Elementa ponudbe ni mogoče najti.",module,Magento_Checkout
+"We cannot configure the product.","Konfiguracija izdelka ni mogoča.",module,Magento_Checkout
+"You used coupon code ""%1"".","Uporabili ste kodo kupona ""%1"".",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","Koda kupona ""%1"" ni veljavna.",module,Magento_Checkout
+"You canceled the coupon code.","Preklicali ste kodo kupona.",module,Magento_Checkout
+"We cannot apply the coupon code.","Kode kupona ni mogoče uporabiti.",module,Magento_Checkout
+"We can\'t remove the item.","Elementa ni mogoče odstraniti.",module,Magento_Checkout
+"%1 was updated in your shopping cart.","%1 je bil posodobljen v košarici.",module,Magento_Checkout
+"We can\'t update the item right now.","Elementa trenutno ni mogoče posodobiti.",module,Magento_Checkout
+"We can\'t update the shopping cart.","Košarice ni mogoče posodobiti.",module,Magento_Checkout
+"One-page checkout is turned off.","Nakup na eni strani je izklopljen.",module,Magento_Checkout
+"Guest checkout is disabled.","Nakup gostov je onemogočen.",module,Magento_Checkout
+"Checkout","Nakup",module,Magento_Checkout
+"Page not found.","Strani ni mogoče najti.",module,Magento_Checkout
+"Please agree to all the terms and conditions before placing the order.","Preden oddate naročilo, se morate strinjati z vsemi pravili in pogoji.",module,Magento_Checkout
+"Something went wrong while processing your order. Please try again later.","Med obdelavo vašega naročila je šlo nekaj narobe. Poskusite znova pozneje.",module,Magento_Checkout
+"%1 doesn\'t extend \Magento\Checkout\CustomerData\ItemInterface","%1 ne razširja \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
+"We can\'t find the product.","Izdelka ni mogoče najti.",module,Magento_Checkout
+"The product does not exist.","Izdelek ne obstaja.",module,Magento_Checkout
+"We don't have some of the products you want.","Nekaterih izdelkov, ki jih želite, nimamo.",module,Magento_Checkout
+"We don't have as many of some products as you want.","Nimamo toliko nekaterih izdelkov, kot jih želite.",module,Magento_Checkout
+"Quantity was recalculated from %1 to %2","Količina je bila ponovno izračunana od %1 do %2",module,Magento_Checkout
+"We adjusted product quantities to fit the required increments.","Količine izdelkov so bile prilagojene, da ustrezajo zahtevanim korakom.",module,Magento_Checkout
+"This quote item does not exist.","Ta element ponudbe ne obstaja.",module,Magento_Checkout
+"Display number of items in cart","Prikaži število elementov v košarici",module,Magento_Checkout
+"Display item quantities","Prikaz količine artiklov",module,Magento_Checkout
+"Shipping address is not set","Dostavni naslov ni nastavljen",module,Magento_Checkout
+"Unable to save address. Please, check input data.","Naslova ni mogoče shraniti. Prosimo, preverite vnešene podatke.",module,Magento_Checkout
+"Carrier with such method not found: %1, %2","Prevoznika s takim načinom ni bilo mogoče najti: %1, %2",module,Magento_Checkout
+"Unable to save shipping information. Please, check input data.","Ni mogoče shraniti informacij o pošiljanju. Prosimo, preverite vnešene podatke.",module,Magento_Checkout
+"Cart contains virtual product(s) only. Shipping address is not applicable.","Košarica vsebuje le virtualne izdelke. Dostavni naslov ni v uporabi.",module,Magento_Checkout
+"Shipping method is not applicable for empty cart","Način dostave ni v uporabi za prazno košarico",module,Magento_Checkout
+" item"," element",module,Magento_Checkout
+" items"," elementi",module,Magento_Checkout
+"Totals calculation is not applicable to empty cart","Izračun vsote se ne uporablja za prazen voziček",module,Magento_Checkout
+"Invalid data","Neveljavni podatki",module,Magento_Checkout
+"The customer address is not valid.","Naslov stranke ni veljaven.",module,Magento_Checkout
+"Invalid shipping method","Neveljaven način dostave",module,Magento_Checkout
+"There are more than one shipping addresses.","Obstaja več kot en dostavni naslov.",module,Magento_Checkout
+"Sorry, guest checkout is not available.","Žal, nakup gostov ni na voljo.",module,Magento_Checkout
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Potrditi morate vaš račun. Prosimo, preverite vašo e-pošto za potrditveno povezavo, ali pa <a href=""%1"">kliknite tukaj</a> za novo povezavo.",module,Magento_Checkout
+"Load customer quote error","Napaka pri nalaganjue ponudbe kupca",module,Magento_Checkout
+"Error message!","Sporočilo napake!",module,Magento_Checkout
+"Error!","Napaka!",module,Magento_Checkout
+"Wrong minimum amount.","Napačen najmanjši znesek.",module,Magento_Checkout
+"Message","Sporočilo",module,Magento_Checkout
+"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank' class=""print"">Natisni potrdilo</a>",module,Magento_Checkout
+"Apply Discount Code","Uporabi kodo popusta",module,Magento_Checkout
+"Enter discount code","Vnesite kodo popusta",module,Magento_Checkout
+"Apply Discount","Uporabi popust",module,Magento_Checkout
+"Cancel Coupon","Prekliči kupon",module,Magento_Checkout
+"Shopping Cart Items","Elementi košarice",module,Magento_Checkout
+"Item","Element",module,Magento_Checkout
+"Price","Cena",module,Magento_Checkout
+"Qty","Količina",module,Magento_Checkout
+"Subtotal","Delna vsota",module,Magento_Checkout
+"Continue Shopping","Nadaljuj nakupovanje",module,Magento_Checkout
+"Clear Shopping Cart","Počisti košarico",module,Magento_Checkout
+"Update Shopping Cart","Posodobi košarico",module,Magento_Checkout
+"Update Cart","Posodobi košarico",module,Magento_Checkout
+"See price before order confirmation.","Poglej ceno pred potrditvijo naročila.",module,Magento_Checkout
+"What's this?","Kaj je to?",module,Magento_Checkout
+"Edit item parameters","Urejanje parametrov elementa",module,Magento_Checkout
+"Edit","Uredi",module,Magento_Checkout
+"Remove item","Odstrani element",module,Magento_Checkout
+"You have no items in your shopping cart.","V vaši košarici nimate izdelkov.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Kliknite <a href=""%1"">tukaj</a> za nadaljevanje nakupovanja.",module,Magento_Checkout
+"Estimate Tax","Ocena davka",module,Magento_Checkout
+"Estimate Shipping and Tax","Ocena dostave in davka",module,Magento_Checkout
+"Excl. Tax","Brez davka",module,Magento_Checkout
+"Loading...","Nalaganje...",module,Magento_Checkout
+"Order #","Naročilo #",module,Magento_Checkout
+"Proceed to Checkout","Nadaljujte na plačilo",module,Magento_Checkout
+"Product Name","Ime izdelka",module,Magento_Checkout
+"Incl. Tax","Z davkom",module,Magento_Checkout
+"Your order number is: %1.","Številka vašega naročila je: %1.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Vaše naročilo # je: <span>%1</span>.",module,Magento_Checkout
+"We\'ll email you an order confirmation with details and tracking info.","Po e-pošti boste prejeli potrdilo o naročilu s podrobnostmi in informacijami o sledenju.",module,Magento_Checkout
+"Payment Transaction Failed","Payment Transaction Failed",module,Magento_Checkout
+"Reason","Reason",module,Magento_Checkout
+"Checkout Type","Checkout Type",module,Magento_Checkout
+"Customer:","Customer:",module,Magento_Checkout
+"Items","Elementi",module,Magento_Checkout
+"Total:","Total:",module,Magento_Checkout
+"Billing Address:","Billing Address:",module,Magento_Checkout
+"Shipping Address:","Shipping Address:",module,Magento_Checkout
+"Shipping Method:","Način dostave:",module,Magento_Checkout
+"Payment Method:","Način plačila:",module,Magento_Checkout
+"Date & Time:","Date & Time:",module,Magento_Checkout
+"A letter with further instructions will be sent to your email.","A letter with further instructions will be sent to your email.",module,Magento_Checkout
+"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Checkout
+"We can't remove the item.","We can't remove the item.",module,Magento_Checkout
+"We can't update the item right now.","We can't update the item right now.",module,Magento_Checkout
+"We can't update the shopping cart.","We can't update the shopping cart.",module,Magento_Checkout
+"%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
+"Payment Method","Payment Method",module,Magento_Checkout
+"Payment Page","Payment Page",module,Magento_Checkout
+"We can't find the product.","We can't find the product.",module,Magento_Checkout
+"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Checkout
+"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Checkout
+"Unable to save shipping information. Please check input data.","Unable to save shipping information. Please check input data.",module,Magento_Checkout
+"DB exception","DB exception",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","We'll email you an order confirmation with details and tracking info.",module,Magento_Checkout
+"Payment Transaction Failed Reminder","Payment Transaction Failed Reminder",module,Magento_Checkout
+"Sign In","Sign In",module,Magento_Checkout
+"Email Address","Email Address",module,Magento_Checkout
+"Password","Password",module,Magento_Checkout
+"Forgot Your Password?","Forgot Your Password?",module,Magento_Checkout
+"My billing and shipping address are the same","My billing and shipping address are the same",module,Magento_Checkout
+"Update","Update",module,Magento_Checkout
+"Save in address book","Save in address book",module,Magento_Checkout
+"Estimated Total","Estimated Total",module,Magento_Checkout
+"You can create an account after checkout.","You can create an account after checkout.",module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_Checkout
+"Login","Login",module,Magento_Checkout
+"Close","Close",module,Magento_Checkout
+"item","item",module,Magento_Checkout
+"items","items",module,Magento_Checkout
+"Go to Checkout","Go to Checkout",module,Magento_Checkout
+"Recently added item(s)","Recently added item(s)",module,Magento_Checkout
+"View and edit cart","View and edit cart",module,Magento_Checkout
+"See Details","See Details",module,Magento_Checkout
+"Options Details","Options Details",module,Magento_Checkout
+"Remove","Remove",module,Magento_Checkout
+"Payment Information","Payment Information",module,Magento_Checkout
+"No Payment method available.","No Payment method available.",module,Magento_Checkout
+"You can track your order status by creating an account.","You can track your order status by creating an account.",module,Magento_Checkout
+"Place Order","Place Order",module,Magento_Checkout
+"Forgot an Item?","Forgot an Item?",module,Magento_Checkout
+"Edit Your Cart","Edit Your Cart",module,Magento_Checkout
+"Ship Here","Ship Here",module,Magento_Checkout
+"Ship To:","Ship To:",module,Magento_Checkout
+"edit","edit",module,Magento_Checkout
+"New Address","New Address",module,Magento_Checkout
+"Shipping Methods","Shipping Methods",module,Magento_Checkout
+"Select Method","Select Method",module,Magento_Checkout
+"Method Title","Method Title",module,Magento_Checkout
+"Carrier Title","Carrier Title",module,Magento_Checkout
+"Next","Next",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
+"Order Summary","Order Summary",module,Magento_Checkout
+"Item in Cart","Item in Cart",module,Magento_Checkout
+"Items in Cart","Items in Cart",module,Magento_Checkout
+"View Details","View Details",module,Magento_Checkout
+"Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
+" Example: "," Example: ",module,Magento_Checkout
+"If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
+"Review & Payments","Review & Payments",module,Magento_Checkout
+"Select a new payment method","Select a new payment method",module,Magento_Checkout
+"Display Billing Address On","Display Billing Address On",module,Magento_Checkout
+"Summary","Summary",module,Magento_Checkout
