@@ -61,14 +61,14 @@
 "FTP Password","FTP geslo",module,Magento_Backup
 "Magento root directory","Magento korenski imenik",module,Magento_Backup
 "Create Backup","Ustvari varnostno kopijo",module,Magento_Backup
-"Scheduled Backup Settings","Scheduled Backup Settings",module,Magento_Backup
-"Enable Scheduled Backup","Enable Scheduled Backup",module,Magento_Backup
+"Scheduled Backup Settings","Nastavitve načrtovanega varnostnega kopiranja",module,Magento_Backup
+"Enable Scheduled Backup","Omogoči načrtovano varnostno kopiranje",module,Magento_Backup
 "Backup Type","Vrsta varnostnega kopiranja",module,Magento_Backup
 "Start Time","Začetni čas",module,Magento_Backup
 "Frequency","Pogostost",module,Magento_Backup
 "Maintenance Mode","Način vzdrževanja",module,Magento_Backup
 "Delete","Izbriši",module,Magento_Backup
-"Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?",module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","Ali ste prepričani, da želite izbrisati izbrane varnostne kopije?",module,Magento_Backup
 "Time","Čas",module,Magento_Backup
 "Name","Ime",module,Magento_Backup
 "Size(bytes)","Velikost (bajti)",module,Magento_Backup

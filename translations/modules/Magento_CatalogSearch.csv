@@ -24,17 +24,16 @@
 "Advanced Search","Napredno iskanje",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 element</strong> je bil najden z uporabo sledečih iskalnih pogojev",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 elementov</strong> je bilo najdenih z uporabo sledečih iskalnih pogojev",module,Magento_CatalogSearch
-"We can\'t find any items matching these search criteria.","Ni mogoče najti nobenega elementa, ki ustreza iskalnim pogojem.",module,Magento_CatalogSearch
+"We can't find any items matching these search criteria.","Ni mogoče najti nobenega elementa, ki ustreza iskalnim pogojem.",module,Magento_CatalogSearch
 "Modify your search","Spremeniti vaše iskanje",module,Magento_CatalogSearch
 "name","ime",module,Magento_CatalogSearch
 "Don't see what you're looking for?","Ne najdete kar iščete?",module,Magento_CatalogSearch
 "Your search returned no results.","Vaše iskanje ni vrnilo rezultatov.",module,Magento_CatalogSearch
-"Popular Search Terms","Popular Search Terms",module,Magento_CatalogSearch
-"Catalog Search","Catalog Search",module,Magento_CatalogSearch
-"Minimal Query Length","Minimal Query Length",module,Magento_CatalogSearch
-"Maximum Query Length","Maximum Query Length",module,Magento_CatalogSearch
-"Rebuild Catalog product fulltext search index","Rebuild Catalog product fulltext search index",module,Magento_CatalogSearch
-"Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
-"Bucket does not exist","Bucket does not exist",module,Magento_CatalogSearch
-"We can't find any items matching these search criteria.","We can't find any items matching these search criteria.",module,Magento_CatalogSearch
-"Modify your search.","Modify your search.",module,Magento_CatalogSearch
+"Popular Search Terms","Priljubljeni nizi iskanja",module,Magento_CatalogSearch
+"Catalog Search","Iskanje po katalogu",module,Magento_CatalogSearch
+"Minimal Query Length","Najmanjša dolžina poizvedbe",module,Magento_CatalogSearch
+"Maximum Query Length","Največja dolžina poizvedbe",module,Magento_CatalogSearch
+"Rebuild Catalog product fulltext search index","Ponovna gradnja fulltext indeksa iskanja po izdelkih kataloga",module,Magento_CatalogSearch
+"Sorry, something went wrong. You can find out more in the error log.","Se opravičujemo, nekaj je šlo narobe. Več lahko izveste v dnevniku napak.",module,Magento_CatalogSearch
+"Bucket does not exist","Vedro ne obstaja",module,Magento_CatalogSearch
+"Modify your search.","Spremenite vaše iskanje.",module,Magento_CatalogSearch

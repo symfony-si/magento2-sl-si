@@ -11,4 +11,4 @@
 "Please enter an encryption key.","Vnesite šifrirni ključ.",module,Magento_EncryptionKey
 "The encryption key has been changed.","Šifrirni ključ je bil spremenjen.",module,Magento_EncryptionKey
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","To je vaš novi šifrirni ključ: %1. Zagotovite, da si ga zapišete in zanj dobro poskrbite!",module,Magento_EncryptionKey
-"Manage Encryption Key","Manage Encryption Key",module,Magento_EncryptionKey
+"Manage Encryption Key","Upravljanje šifrirnega ključa",module,Magento_EncryptionKey

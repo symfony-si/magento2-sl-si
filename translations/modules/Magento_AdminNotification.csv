@@ -40,8 +40,8 @@
 "System messages","Sistemska sporočila",module,Magento_AdminNotification
 "See All (","Glej vse (",module,Magento_AdminNotification
 " unread)"," neprebrano)",module,Magento_AdminNotification
-"Show Toolbar","Show Toolbar",module,Magento_AdminNotification
-"Show List","Show List",module,Magento_AdminNotification
+"Show Toolbar","Pokaži orodno vrstico",module,Magento_AdminNotification
+"Show List","Prikaži seznam",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Za vir uporabi HTTPS",module,Magento_AdminNotification
 "Update Frequency","Posodobi pogostost",module,Magento_AdminNotification
 "Last Update","Zadnja posodobitev",module,Magento_AdminNotification

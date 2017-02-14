@@ -66,7 +66,7 @@
 "Home Page","Domača stran",module,Magento_Paypal
 "Display","Prikaz",module,Magento_Paypal
 "Position","Položaj",module,Magento_Paypal
-"Size","Size",module,Magento_Paypal
+"Size","Velikost",module,Magento_Paypal
 "Catalog Category Page","Stran kategorije kataloga",module,Magento_Paypal
 "Catalog Product Page","Stran kataloškega izdelka",module,Magento_Paypal
 "Checkout Cart Page","Stran plačila košarice",module,Magento_Paypal
@@ -83,7 +83,7 @@
 "Number of Child Authorizations","Število podrejenih avtorizacij",module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Privzeto število podrejenih avtorizacij v vašem računu PayPal je 1. Da naredite več avtorizacij, se obrnite na PayPal in zaprosite za povečanje.",module,Magento_Paypal
 "Advanced Settings","Napredne nastavitve",module,Magento_Paypal
-"Display on Shopping Cart","Display on Shopping Cart",module,Magento_Paypal
+"Display on Shopping Cart","Prikaz pri košarici",module,Magento_Paypal
 "Also affects mini-shopping cart.","Vpliva tudi na mini nakupovalno košarico.",module,Magento_Paypal
 "Payment Applicable From","Plačilo je v uporabi iz",module,Magento_Paypal
 "Countries Payment Applicable From","Države, iz katerih je plačilo v uporabi",module,Magento_Paypal
@@ -96,7 +96,7 @@
 "Shortcut Buttons Flavor","Okus gumbov bližnjic",module,Magento_Paypal
 "Enable PayPal Guest Checkout","Omogoči PayPal Checkout za neprijavljene uporabnike",module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","Možnost, da kupec opravi nakup brez računa PayPal.",module,Magento_Paypal
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Paypal
+"Require Customer's Billing Address","Zahtevaj naslov za račun kupca",module,Magento_Paypal
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Ta lastnost mora biti najprej omogočena za trgovski račun preko tehnične podpore PayPal.",module,Magento_Paypal
 "Billing Agreement Signup","Podpis sporazuma o zaračunavanju",module,Magento_Paypal
 "Whether to create a billing agreement, if there are no active billing agreements available.","Ali naj se ustvari sporazum zaračunavanja, če ni na voljo nobenega aktivnega sporazuma zaračunavanja.",module,Magento_Paypal
@@ -165,7 +165,7 @@
 "User","Uporabnik",module,Magento_Paypal
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal priporoča, da na svojem računu nastavite dodatnega uporabnika na manager.paypal.com",module,Magento_Paypal
 "PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal priporoča, da na vašem računu nastavite dodatnega uporabnika na manager.paypal.com, namesto, da tu vnašate vaše administratorsko uporabniško ime in geslo. To bo izboljšalo vašo varnost in preprečilo prekinitve storitve, če pozneje spremenite vaše geslo. Če ne želite nastaviti dodatnega uporabnika, lahko tukaj ponovno vnesete vašo trgovsko prijavo.",module,Magento_Paypal
-"Test Mode","Test Mode",module,Magento_Paypal
+"Test Mode","Testni način",module,Magento_Paypal
 "Use Proxy","Uporabi proksi",module,Magento_Paypal
 "
                     <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
@@ -254,7 +254,7 @@
                 ",module,Magento_Paypal
 "We can't cancel the billing agreement.","We can't cancel the billing agreement.",module,Magento_Paypal
 "We can't delete the billing agreement.","We can't delete the billing agreement.",module,Magento_Paypal
-"We can't fetch reports from "%1@%2."","We can't fetch reports from "%1@%2."",module,Magento_Paypal
+"We can't fetch reports from %1@%2.""""","We can't fetch reports from %1@%2.""""",module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","We couldn't finish the billing agreement wizard.",module,Magento_Paypal
 "We can't start the billing agreement wizard.","We can't start the billing agreement wizard.",module,Magento_Paypal
 "We can't initialize Express Checkout.","We can't initialize Express Checkout.",module,Magento_Paypal
@@ -307,12 +307,14 @@
 "Enable In-Context Checkout Experience","Enable In-Context Checkout Experience",module,Magento_Paypal
 "
                     See PayPal Feature Support details and list of supported regions
-                    <a href="https://developer.paypal.com/docs/classic/express-checkout/in-context/" target="_blank">here</a>.
-                ","
+                    <a href=https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","
                     See PayPal Feature Support details and list of supported regions
-                    <a href="https://developer.paypal.com/docs/classic/express-checkout/in-context/" target="_blank">here</a>.
-                ",module,Magento_Paypal
-"Merchant Account ID","Merchant Account ID",module,Magento_Paypal
+                    <a href=https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>."
+",",","
+"                    See PayPal Feature Support details and list of supported regions","                    See PayPal Feature Support details and list of supported regions"
+"                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>."
+",module,Magento_Paypal
+Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Sort Order PayPal Credit","Sort Order PayPal Credit",module,Magento_Paypal
 "Payments Advanced","Payments Advanced",module,Magento_Paypal
 "Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)",module,Magento_Paypal

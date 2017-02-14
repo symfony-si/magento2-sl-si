@@ -79,8 +79,8 @@
 "Action","Dejanje",module,Magento_Ui
 "CSV","CSV",module,Magento_Ui
 "Excel XML","Excel XML",module,Magento_Ui
-"Parameter "class" must be present.","Parameter "class" must be present.",module,Magento_Ui
-"Parameter "sortOrder" must be present.","Parameter "sortOrder" must be present.",module,Magento_Ui
+"Parameter ""class"" must be present.","Parameter ""class"" mora biti prisoten.",module,Magento_Ui
+"Parameter ""sortOrder"" must be present.","Parameter ""sortOrder"" mora biti prisoten.",module,Magento_Ui
 "Invalid UI Component element name: '%1'","Invalid UI Component element name: '%1'",module,Magento_Ui
 "Invalid UI Component element name: ''","Invalid UI Component element name: ''",module,Magento_Ui
 "Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Ui

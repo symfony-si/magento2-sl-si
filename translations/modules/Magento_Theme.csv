@@ -1,22 +1,22 @@
-"Back","Back",module,Magento_Theme
-"Save and Continue","Save and Continue",module,Magento_Theme
-"Save Configuration","Save Configuration",module,Magento_Theme
+"Back","Nazaj",module,Magento_Theme
+"Save and Continue","Shrani in nadaljuj",module,Magento_Theme
+"Save Configuration","Shrani nastavitve",module,Magento_Theme
 "%1","%1",module,Magento_Theme
-"Default","Default",module,Magento_Theme
-"This file will replace the current custom.css file and can't be more than 2 MB.","This file will replace the current custom.css file and can't be more than 2 MB.",module,Magento_Theme
-"welcome","welcome",module,Magento_Theme
-"Global","Global",module,Magento_Theme
-"Design Configuration","Design Configuration",module,Magento_Theme
-"You saved the configuration.","You saved the configuration.",module,Magento_Theme
-"Something went wrong while saving this configuration:","Something went wrong while saving this configuration:",module,Magento_Theme
-"We can't find file.","We can't find file.",module,Magento_Theme
-"We can't upload the CSS file right now.","We can't upload the CSS file right now.",module,Magento_Theme
-"We can't upload the JS file right now.","We can't upload the JS file right now.",module,Magento_Theme
-"Sorry, something went wrong. That's all we know.","Sorry, something went wrong. That's all we know.",module,Magento_Theme
-"Invalid scope or scope id","Invalid scope or scope id",module,Magento_Theme
-"%1 does not contain field '%2'","%1 does not contain field '%2'",module,Magento_Theme
-"%1 does not contain field 'file'","%1 does not contain field 'file'",module,Magento_Theme
-"Backend model is not specified for %1","Backend model is not specified for %1",module,Magento_Theme
+"Default","Privzeto",module,Magento_Theme
+"This file will replace the current custom.css file and can't be more than 2 MB.","Ta datoteka bo zamenjala trenutno datoteko custom.css in ne sme biti večja od 2 MB.",module,Magento_Theme
+"welcome","pozdravljeni",module,Magento_Theme
+"Global","Globalno",module,Magento_Theme
+"Design Configuration","Nastavitve oblike",module,Magento_Theme
+"You saved the configuration.","Nastavitve so shranjene.",module,Magento_Theme
+"Something went wrong while saving this configuration:","Med shranjevanjem teh nastavitev je prišlo do napake:",module,Magento_Theme
+"We can't find file.","Datoteke ni mogoče najti.",module,Magento_Theme
+"We can't upload the CSS file right now.","Datoteke CSS trenutno ni mogoče naložiti.",module,Magento_Theme
+"We can't upload the JS file right now.","Datoteke JS trenutno ni mogoče naložiti.",module,Magento_Theme
+"Sorry, something went wrong. That's all we know.","Se opravičujemo, nekaj je šlo narobe. To je vse kar vemo.",module,Magento_Theme
+"Invalid scope or scope id","Neveljaven obseg ali id obsega",module,Magento_Theme
+"%1 does not contain field '%2'","%1 ne vsebuje polja '%2'",module,Magento_Theme
+"%1 does not contain field 'file'","%1 ne vsebuje polja 'file'",module,Magento_Theme
+"Backend model is not specified for %1","Model ozadja ni določen za %1",module,Magento_Theme
 "The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.","The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.",module,Magento_Theme
 "Can not save empty config","Can not save empty config",module,Magento_Theme
 "The start date can't follow the end date.","The start date can't follow the end date.",module,Magento_Theme
@@ -24,17 +24,17 @@
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Theme
 "Theme isn't deletable.","Theme isn't deletable.",module,Magento_Theme
 "Exception message","Exception message",module,Magento_Theme
-"Edit","Edit",module,Magento_Theme
-"Scope:","Scope:",module,Magento_Theme
-"Welcome, %1!","Welcome, %1!",module,Magento_Theme
+"Edit","Uredi",module,Magento_Theme
+"Scope:","Obseg:",module,Magento_Theme
+"Welcome, %1!","Pozdravljeni, %1!",module,Magento_Theme
 "You're currently reading page","You're currently reading page",module,Magento_Theme
 "%name,","%name,",module,Magento_Theme
-"Welcome to %store_name.","Welcome to %store_name.",module,Magento_Theme
-"To sign in to our site, use these credentials during checkout or on the <a href="%customer_url">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href="%customer_url">My Account</a> page:",module,Magento_Theme
-"Email:","Email:",module,Magento_Theme
-"Password:","Password:",module,Magento_Theme
+"Welcome to %store_name.","Pozdravljeni na %store_name.",module,Magento_Theme
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Za prijavo v stran, uporabite sledeče podatke med nakupom ali na strani <a href=""%customer_url"">Moj račun</a>:",module,Magento_Theme
+"Email:","E-pošta:",module,Magento_Theme
+"Password:","Geslo:",module,Magento_Theme
 "Password you set when creating account","Password you set when creating account",module,Magento_Theme
-"Forgot your account password? Click <a href="%reset_url">here</a> to reset it.","Forgot your account password? Click <a href="%reset_url">here</a> to reset it.",module,Magento_Theme
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Ste pozabili geslo? Za ponastavitev kliknite <a href=""%reset_url"">tu</a>.",module,Magento_Theme
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Theme
 "Proceed through checkout faster","Proceed through checkout faster",module,Magento_Theme
 "Check the status of orders","Check the status of orders",module,Magento_Theme

@@ -46,22 +46,22 @@
 "Enabled","Omogočeno",module,Magento_Authorizenet
 "Payment Action","Dejanje plačila",module,Magento_Authorizenet
 "Title","Naslov",module,Magento_Authorizenet
-"API Login ID","API Login ID",module,Magento_Authorizenet
-"Transaction Key","Transaction Key",module,Magento_Authorizenet
-"Merchant MD5","Merchant MD5",module,Magento_Authorizenet
-"New Order Status","New Order Status",module,Magento_Authorizenet
-"Test Mode","Test Mode",module,Magento_Authorizenet
-"Gateway URL","Gateway URL",module,Magento_Authorizenet
-"Transaction Details URL","Transaction Details URL",module,Magento_Authorizenet
-"Accepted Currency","Accepted Currency",module,Magento_Authorizenet
-"Debug","Debug",module,Magento_Authorizenet
-"Email Customer","Email Customer",module,Magento_Authorizenet
-"Merchant's Email","Merchant's Email",module,Magento_Authorizenet
-"Credit Card Types","Credit Card Types",module,Magento_Authorizenet
-"Credit Card Verification","Credit Card Verification",module,Magento_Authorizenet
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Authorizenet
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Authorizenet
+"API Login ID","ID prijave API",module,Magento_Authorizenet
+"Transaction Key","Ključ transakcije",module,Magento_Authorizenet
+"Merchant MD5","MD5 trgovca",module,Magento_Authorizenet
+"New Order Status","Status novega naročila",module,Magento_Authorizenet
+"Test Mode","Tesni način",module,Magento_Authorizenet
+"Gateway URL","URL prehoda",module,Magento_Authorizenet
+"Transaction Details URL","URL podrobnosti transakcije",module,Magento_Authorizenet
+"Accepted Currency","Sprejeta valuta",module,Magento_Authorizenet
+"Debug","Razhroščevanje",module,Magento_Authorizenet
+"Email Customer","E-pošta kupcu",module,Magento_Authorizenet
+"Merchant's Email","E-pošta trgovca",module,Magento_Authorizenet
+"Credit Card Types","Vrsta kreditne kartice",module,Magento_Authorizenet
+"Credit Card Verification","Potrditev kreditne kartice",module,Magento_Authorizenet
+"Payment from Applicable Countries","Plačilo iz uporabljenih držav",module,Magento_Authorizenet
+"Payment from Specific Countries","Plačilo iz določenih držav",module,Magento_Authorizenet
 "Minimum Order Total","Najmanjši skupni znesek naročila",module,Magento_Authorizenet
 "Maximum Order Total","Največji skupni znesek naročila",module,Magento_Authorizenet
 "Sort Order","Vrstni red",module,Magento_Authorizenet
-"Place Order","Place Order",module,Magento_Authorizenet
+"Place Order","Oddaj naročilo",module,Magento_Authorizenet

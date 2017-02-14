@@ -1,6 +1,6 @@
 # Magento 2 Slovenian Translations
 
-![Progress](http://progressed.io/bar/56?title=completed)
+![Progress](http://progressed.io/bar/58?title=completed)
 [![Magento Marketplace](https://img.shields.io/badge/Magento-Marketplace-orange.svg)][marketplace]
 [![Open Software License v. 3.0](https://img.shields.io/badge/License-OSL--3.0-blue.svg)][license]
 [![Latest Release](https://img.shields.io/github/release/symfony-si/magento2-sl_si.svg)][latest-release]

@@ -99,10 +99,10 @@
 "Row Total","Vsota skupaj",module,Magento_Bundle
 "Qty Invoiced","Fakturirana količina",module,Magento_Bundle
 "Qty Shipped","Poslana količina",module,Magento_Bundle
-"Select...","Select...",module,Magento_Bundle
-"Status","Status",module,Magento_Bundle
-"Thumbnail","Thumbnail",module,Magento_Bundle
-"Type","Type",module,Magento_Bundle
+"Select...","Izberi...",module,Magento_Bundle
+"Status","Stanje",module,Magento_Bundle
+"Thumbnail","Sličica",module,Magento_Bundle
+"Type","Vrsta",module,Magento_Bundle
 "Add Products to New Option","Dodaj izdelke k novi možnosti",module,Magento_Bundle
 "Add Products to Option ""%1""","Dodaja izdelke k možnosti ""%1""",module,Magento_Bundle
 "Add Selected Products","Dodaj izbrane izdelke",module,Magento_Bundle

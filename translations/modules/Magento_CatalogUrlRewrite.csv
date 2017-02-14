@@ -1,6 +1,6 @@
 "Create Permanent Redirect for old URL","Ustvari trajno preusmeritev za stari URL",module,Magento_CatalogUrlRewrite
-"Category URL Suffix","Category URL Suffix",module,Magento_CatalogUrlRewrite
-"You need to refresh the cache.","You need to refresh the cache.",module,Magento_CatalogUrlRewrite
-"Product URL Suffix","Product URL Suffix",module,Magento_CatalogUrlRewrite
-"Use Categories Path for Product URLs","Use Categories Path for Product URLs",module,Magento_CatalogUrlRewrite
-"Create Permanent Redirect for URLs if URL Key Changed","Create Permanent Redirect for URLs if URL Key Changed",module,Magento_CatalogUrlRewrite
+"Category URL Suffix","Pripona URL kategorije",module,Magento_CatalogUrlRewrite
+"You need to refresh the cache.","Osvežiti morate predpomnilnik.",module,Magento_CatalogUrlRewrite
+"Product URL Suffix","Pripona URL izdelka",module,Magento_CatalogUrlRewrite
+"Use Categories Path for Product URLs","Uporabi poti kategorij za URL-je izdelkov",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for URLs if URL Key Changed","Ustvari trajno preusmeritev za URL-je, če je ključ URL-ja spremenjen",module,Magento_CatalogUrlRewrite
