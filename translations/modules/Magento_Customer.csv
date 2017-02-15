@@ -62,7 +62,7 @@
 "Indeterminate","Nedoločeno",module,Magento_Customer
 "The customer does not have default billing address.","Kupec nima privzetega naslova za izstavitev računa.",module,Magento_Customer
 "Offline","Brez povezave",module,Magento_Customer
-"Online","Online",module,Magento_Customer
+"Online","Na spletu",module,Magento_Customer
 "Never","Nikoli",module,Magento_Customer
 "Deleted Stores","Izbrisane trgovine",module,Magento_Customer
 "Add Locale","Dodaj območno nastavitev",module,Magento_Customer
@@ -261,7 +261,7 @@
 "enter your shipping address for proper VAT calculation","vpišite vaš naslov za dostavo za pravilen izračun DDV",module,Magento_Customer
 "message","sporočilo",module,Magento_Customer
 "NoSuchEntityException","NoSuchEntityException",module,Magento_Customer
-"Exception","Exception",module,Magento_Customer
+"Exception","Izjema",module,Magento_Customer
 "InputException","InputException",module,Magento_Customer
 "Exception message","Sporočilo izjeme",module,Magento_Customer
 "Validator Exception","Izjema validatorja",module,Magento_Customer
@@ -351,87 +351,87 @@
 "Gender","Spol",module,Magento_Customer
 "Name","Ime",module,Magento_Customer
 "Tax/VAT number","Dačna/DDV številka",module,Magento_Customer
-"All Customers","All Customers",module,Magento_Customer
-"Now Online","Now Online",module,Magento_Customer
-"Customers Section","Customers Section",module,Magento_Customer
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Customer
-"Number of Required Character Classes","Number of Required Character Classes",module,Magento_Customer
-"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.",module,Magento_Customer
-"Minimum Password Length","Minimum Password Length",module,Magento_Customer
-"Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_Customer
-"Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
-"Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_Customer
-"Customer Notification","Customer Notification",module,Magento_Customer
-"Account Lock","Account Lock",module,Magento_Customer
-"Disable Automatic Group Change Based on VAT ID","Disable Automatic Group Change Based on VAT ID",module,Magento_Customer
-"You are signed out","You are signed out",module,Magento_Customer
-"Weak","Weak",module,Magento_Customer
-"Medium","Medium",module,Magento_Customer
-"Strong","Strong",module,Magento_Customer
-"Very Strong","Very Strong",module,Magento_Customer
-"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
-"Welcome to %store_name","Welcome to %store_name",module,Magento_Customer
-"Please confirm your %store_name account","Please confirm your %store_name account",module,Magento_Customer
-"Your %store_name email has been changed","Your %store_name email has been changed",module,Magento_Customer
-"Hello,","Hello,",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email.",module,Magento_Customer
-"If you have not authorized this action, please contact us immediately at <a href="mailto:%store_email">%store_email</a>","If you have not authorized this action, please contact us immediately at <a href="mailto:%store_email">%store_email</a>",module,Magento_Customer
-"or call us at <a href="tel:%store_phone">%store_phone</a>","or call us at <a href="tel:%store_phone">%store_phone</a>",module,Magento_Customer
-"Thanks,<br>%store_name","Thanks,<br>%store_name",module,Magento_Customer
-"Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","We have received a request to change the following information associated with your account at %store_name: email, password.",module,Magento_Customer
-"Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
-"Your %store_name password has been changed","Your %store_name password has been changed",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: password.","We have received a request to change the following information associated with your account at %store_name: password.",module,Magento_Customer
-"Checkout out as a new customer","Checkout out as a new customer",module,Magento_Customer
-"Creating an account has many benefits:","Creating an account has many benefits:",module,Magento_Customer
-"See order and shipping status","See order and shipping status",module,Magento_Customer
-"Track order history","Track order history",module,Magento_Customer
-"Check out faster","Check out faster",module,Magento_Customer
-"Checkout out using your account","Checkout out using your account",module,Magento_Customer
-"Email Address","Email Address",module,Magento_Customer
+"All Customers","Vse stranke",module,Magento_Customer
+"Now Online","Sedaj na strani",module,Magento_Customer
+"Customers Section","Oddelek za stranke",module,Magento_Customer
+"Recovery Link Expiration Period (hours)","Obdobje obnovitve poteka povezave (ure)",module,Magento_Customer
+"Number of Required Character Classes","Število zahtevanih razredov znakov",module,Magento_Customer
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Zahtevano število razredov različnih znakov v geslu: male črke, velike črke, številke, posebni znaki.",module,Magento_Customer
+"Minimum Password Length","Najmanjša dolžina gesla",module,Magento_Customer
+"Maximum Login Failures to Lockout Account","Največ napačnih prijav za zaklep računa",module,Magento_Customer
+"Use 0 to disable account locking.","Uporabite 0, da onemogočite zaklepanje računa.",module,Magento_Customer
+"Lockout Time (minutes)","Čas zaklepa (minute)",module,Magento_Customer
+"Customer Notification","Obvestilo za stranke",module,Magento_Customer
+"Account Lock","Zaklepanje računa",module,Magento_Customer
+"Disable Automatic Group Change Based on VAT ID","Onemogočite samodejno spremembo skupine na osnovi ID za DDV",module,Magento_Customer
+"You are signed out","Niste prijavljeni",module,Magento_Customer
+"Weak","Šibko",module,Magento_Customer
+"Medium","Srednje",module,Magento_Customer
+"Strong","Močno",module,Magento_Customer
+"Very Strong","Zelo močno",module,Magento_Customer
+"Guest checkout is disabled.","Nakup gostov je onemogočen.",module,Magento_Customer
+"Welcome to %store_name","Pozdravljeni na %store_name",module,Magento_Customer
+"Please confirm your %store_name account","Potrdite svoj račun %store_name",module,Magento_Customer
+"Your %store_name email has been changed","Vaša e-pošta %store_name je bila spremenjena",module,Magento_Customer
+"Hello,","Pozdravljeni,",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email.","Prejeli smo zahtevo za spremembo naslednjih podatkov, povezanih z vašim računom na %store_name: e-pošta.",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=mailto:%store_email"">%store_email</a>""","Če tega dejanja niste avtorizirali, nas nemudoma kontaktirajte preko <a href=mailto:%store_email"">%store_email</a>""",module,Magento_Customer
+"or call us at <a href=tel:%store_phone"">%store_phone</a>""","ali nas pokličite na <a href=tel:%store_phone"">%store_phone</a>""",module,Magento_Customer
+"Thanks,<br>%store_name","Hvala,<br>%store_name",module,Magento_Customer
+"Your %store_name email and password has been changed","Vaša e-pošta in geslo %store_name sta bila spremenjena",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Prejeli smo zahtevo za spremembo naslednjih podatkov, povezanih z vašim računom na %store_name: e-pošta, geslo.",module,Magento_Customer
+"Reset your %store_name password","Ponastavite vaše geslo %store_name",module,Magento_Customer
+"Your %store_name password has been changed","Vaše geslo %store_name je bilo spremenjeno",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: password.","Prejeli smo zahtevo za spremembo naslednjih podatkov, povezanih z vašim računom na %store_name: e-pošta, geslo.",module,Magento_Customer
+"Checkout out as a new customer","Kupite kot nov kupec",module,Magento_Customer
+"Creating an account has many benefits:","Ustvarjanje računa ima veliko prednosti:",module,Magento_Customer
+"See order and shipping status","Ogled stanja naročila in pošiljke",module,Magento_Customer
+"Track order history","Zgodovina slednja naročil",module,Magento_Customer
+"Check out faster","Kupite hitreje",module,Magento_Customer
+"Checkout out using your account","Kupite z uporabo vašega računa",module,Magento_Customer
+"Email Address","E-poštni naslov",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
-"Welcome to %store_name.","Welcome to %store_name.",module,Magento_Customer
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Customer
-"Email:","Email:",module,Magento_Customer
-"Password:","Password:",module,Magento_Customer
-"Password you set when creating account","Password you set when creating account",module,Magento_Customer
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Customer
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Customer
-"Proceed through checkout faster","Proceed through checkout faster",module,Magento_Customer
-"Check the status of orders","Check the status of orders",module,Magento_Customer
-"View past orders","View past orders",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","You must confirm your %customer_email email before you can sign in (link is only valid once):",module,Magento_Customer
-"Confirm Your Account","Confirm Your Account",module,Magento_Customer
-"Thank you for confirming your %store_name account.","Thank you for confirming your %store_name account.",module,Magento_Customer
-"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:",module,Magento_Customer
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_Customer
-"If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
-"The password for your account has been successfully changed.","The password for your account has been successfully changed.",module,Magento_Customer
-"If you did not request this change, please contact us.","If you did not request this change, please contact us.",module,Magento_Customer
+"Welcome to %store_name.","Pozdravljeni na %store_name.",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Za prijavo v stran, uporabite sledeče podatke med nakupom ali na strani <a href=""%customer_url"">Moj račun</a>:",module,Magento_Customer
+"Email:","E-pošta:",module,Magento_Customer
+"Password:","Geslo:",module,Magento_Customer
+"Password you set when creating account","Geslo, ki ste ga nastavili ob ustvarjanju računa",module,Magento_Customer
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Ste pozabili geslo? Za ponastavitev kliknite <a href=""%reset_url"">tu</a>.",module,Magento_Customer
+"When you sign in to your account, you will be able to:","Ko se prijavite v vaš račun, boste lahko:",module,Magento_Customer
+"Proceed through checkout faster","Hitreje nadaljujte na blagajno",module,Magento_Customer
+"Check the status of orders","Preverite stanje naročil",module,Magento_Customer
+"View past orders","Ogled preteklih naročil",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Shranite alternativne naslove (za odpremo večim družinskim članom in prijateljem)",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","Preden se lahko prijavite, morate potrditi vašo e-pošto %customer_email (povezava je veljavna samo enkrat):",module,Magento_Customer
+"Confirm Your Account","Potrdite svoj račun",module,Magento_Customer
+"Thank you for confirming your %store_name account.","Hvala za potrditev vašega računa %store_name.",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Za prijavo v našo stran in nastavitev gesla, kliknite <a href=""%create_password_url"">tukaj</a>:",module,Magento_Customer
+"There was recently a request to change the password for your account.","Pred kratkim je bila izvedena zahteva za spremembo gesla vašega računa.",module,Magento_Customer
+"If you requested this change, set a new password here:","Če ste to spremembo zahtevali vi, nastavite novo geslo tu:",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","Če tega zahtevka niste naredili vi, lahko to e-pošto ignorirate in vaše geslo bo ostalo enako.",module,Magento_Customer
+"The password for your account has been successfully changed.","Geslo za vaš račun je bilo uspešno spremenjeno.",module,Magento_Customer
+"If you did not request this change, please contact us.","Če te spremembe niste zahtevali vi, vas prosimo, da nas kontaktirate.",module,Magento_Customer
 "Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_Customer
 "Are you sure you want to delete this address?","Ali ste prepričani, da želite izbrisati ta naslov?",module,Magento_Customer
-"Customer Configuration","Customer Configuration",module,Magento_Customer
-"Account Sharing Options","Account Sharing Options",module,Magento_Customer
-"Share Customer Accounts","Share Customer Accounts",module,Magento_Customer
-"Create New Account Options","Create New Account Options",module,Magento_Customer
-"Enable Automatic Assignment to Customer Group","Enable Automatic Assignment to Customer Group",module,Magento_Customer
-"Tax Calculation Based On","Tax Calculation Based On",module,Magento_Customer
-"Default Group","Default Group",module,Magento_Customer
-"Group for Valid VAT ID - Domestic","Group for Valid VAT ID - Domestic",module,Magento_Customer
-"Group for Valid VAT ID - Intra-Union","Group for Valid VAT ID - Intra-Union",module,Magento_Customer
-"Group for Invalid VAT ID","Group for Invalid VAT ID",module,Magento_Customer
-"Validation Error Group","Validation Error Group",module,Magento_Customer
-"Validate on Each Transaction","Validate on Each Transaction",module,Magento_Customer
-"Default Value for Disable Automatic Group Changes Based on VAT ID","Default Value for Disable Automatic Group Changes Based on VAT ID",module,Magento_Customer
-"Show VAT Number on Storefront","Show VAT Number on Storefront",module,Magento_Customer
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.",module,Magento_Customer
-"Default Email Domain","Default Email Domain",module,Magento_Customer
-"Default Welcome Email","Default Welcome Email",module,Magento_Customer
+"Customer Configuration","Nastavitve kupca",module,Magento_Customer
+"Account Sharing Options","Možnosti deljenja računa",module,Magento_Customer
+"Share Customer Accounts","Deli račune kupca",module,Magento_Customer
+"Create New Account Options","Ustvarite možnosti novega računa",module,Magento_Customer
+"Enable Automatic Assignment to Customer Group","Omogoči samodejne dodelitve skupini kupcev",module,Magento_Customer
+"Tax Calculation Based On","Izračun davka na podlagi",module,Magento_Customer
+"Default Group","Privzeta skupina",module,Magento_Customer
+"Group for Valid VAT ID - Domestic","Skupina za veljavne ID za DDV - domači",module,Magento_Customer
+"Group for Valid VAT ID - Intra-Union","Skupina za veljavne ID za DDV - znotraj unije",module,Magento_Customer
+"Group for Invalid VAT ID","Skupina za neveljavne ID za DDV",module,Magento_Customer
+"Validation Error Group","Skupina napak potrjevanja",module,Magento_Customer
+"Validate on Each Transaction","Preveri za vsako transakcijo",module,Magento_Customer
+"Default Value for Disable Automatic Group Changes Based on VAT ID","Privzeta vrednost za izklop samodejnih sprememb skupine na osnovi ID za DDV",module,Magento_Customer
+"Show VAT Number on Storefront","Pokaži številko za DDV na ospredju trgovine",module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Za prikaz številke za DDV na ospredju trgovine, nastavite Prikaži ID za DDV na ospredju trgovine na Da.",module,Magento_Customer
+"Default Email Domain","Privzeta domena e-pošte",module,Magento_Customer
+"Default Welcome Email","Privzeta pozdravna e-pošta",module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Customer
-"Default Welcome Email Without Password","Default Welcome Email Without Password",module,Magento_Customer
+"Default Welcome Email Without Password","Privzeta pozdravna e-pošta brez gesla",module,Magento_Customer
 "
                         This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.
@@ -439,10 +439,10 @@
                         Ta e-pošta bo poslana namesto privzete pozdravne e-pošte, če je bil kupec ustvarjen brez gesla. <br /><br />
                         Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".
                     ",module,Magento_Customer
-"Email Sender","Email Sender",module,Magento_Customer
-"Require Emails Confirmation","Require Emails Confirmation",module,Magento_Customer
-"Confirmation Link Email","Confirmation Link Email",module,Magento_Customer
-"Welcome Email","Welcome Email",module,Magento_Customer
+"Email Sender","Pošiljatelj e-pošte",module,Magento_Customer
+"Require Emails Confirmation","Zahtevana e-poštna potrditev",module,Magento_Customer
+"Confirmation Link Email","E-pošta potrditvene povezave",module,Magento_Customer
+"Welcome Email","Pozdravna e-pošta",module,Magento_Customer
 "
                         This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.
@@ -450,117 +450,117 @@
                         Ta e-pošta bo poslana namesto privzete pozdravne e-pošte po potrditvi računa. <br /><br />
                         Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".
                     ",module,Magento_Customer
-"Generate Human-Friendly Customer ID","Generate Human-Friendly Customer ID",module,Magento_Customer
-"Password Options","Password Options",module,Magento_Customer
-"Forgot Email Template","Forgot Email Template",module,Magento_Customer
-"Remind Email Template","Remind Email Template",module,Magento_Customer
-"Reset Password Template","Reset Password Template",module,Magento_Customer
-"Password Template Email Sender","Password Template Email Sender",module,Magento_Customer
-"Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)",module,Magento_Customer
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Customer
-"Name and Address Options","Name and Address Options",module,Magento_Customer
-"Number of Lines in a Street Address","Number of Lines in a Street Address",module,Magento_Customer
-"Leave empty for default (2). Valid range: 1-4","Leave empty for default (2). Valid range: 1-4",module,Magento_Customer
-"Show Prefix","Show Prefix",module,Magento_Customer
-"The title that goes before name (Mr., Mrs., etc.)","The title that goes before name (Mr., Mrs., etc.)",module,Magento_Customer
-"Prefix Dropdown Options","Prefix Dropdown Options",module,Magento_Customer
+"Generate Human-Friendly Customer ID","Zgeneriraj človeku prijazen ID kupca",module,Magento_Customer
+"Password Options","Možnosti gesla",module,Magento_Customer
+"Forgot Email Template","Predloga pozabljene e-pošte",module,Magento_Customer
+"Remind Email Template","Predloga opomnika e-pošte",module,Magento_Customer
+"Reset Password Template","Predloga za ponastavitev gesla",module,Magento_Customer
+"Password Template Email Sender","Pošiljatelj e-pošte predloge gesla",module,Magento_Customer
+"Recovery Link Expiration Period (days)","Obdobje obnovitve poteka povezave (dnevi)",module,Magento_Customer
+"Please enter a number 1 or greater in this field.","V to polje vnesite številko 1 ali več.",module,Magento_Customer
+"Name and Address Options","Možnosti imena in naslova",module,Magento_Customer
+"Number of Lines in a Street Address","Število vrstic v naslovu ulice",module,Magento_Customer
+"Leave empty for default (2). Valid range: 1-4","Pustite prazno za privzeto (2). Veljaven obseg: 1-4",module,Magento_Customer
+"Show Prefix","Prikaži predpono",module,Magento_Customer
+"The title that goes before name (Mr., Mrs., etc.)","Naslov, ki gre pred ime (gospod, gospa, itd.)",module,Magento_Customer
+"Prefix Dropdown Options","Predpone možnosti spustnega seznama",module,Magento_Customer
 "
                         Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
                     ","
-                        Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
+                        Vrednosti ločene s podpičji (;).<br/>Dodajte podpičje na začetek za prazno prvo možnost.<br/>Pustite prazno za odprto tekstovno polje.
                     ",module,Magento_Customer
-"Show Middle Name (initial)","Show Middle Name (initial)",module,Magento_Customer
-"Always optional.","Always optional.",module,Magento_Customer
-"Show Suffix","Show Suffix",module,Magento_Customer
-"The suffix that goes after name (Jr., Sr., etc.)","The suffix that goes after name (Jr., Sr., etc.)",module,Magento_Customer
-"Suffix Dropdown Options","Suffix Dropdown Options",module,Magento_Customer
-"Show Date of Birth","Show Date of Birth",module,Magento_Customer
-"Show Tax/VAT Number","Show Tax/VAT Number",module,Magento_Customer
-"Show Gender","Show Gender",module,Magento_Customer
-"Login Options","Login Options",module,Magento_Customer
-"Redirect Customer to Account Dashboard after Logging in","Redirect Customer to Account Dashboard after Logging in",module,Magento_Customer
-"Customer will stay on the current page if ""No"" is selected.","Customer will stay on the current page if ""No"" is selected.",module,Magento_Customer
-"Address Templates","Address Templates",module,Magento_Customer
-"Online Customers Options","Online Customers Options",module,Magento_Customer
-"Online Minutes Interval","Online Minutes Interval",module,Magento_Customer
-"Leave empty for default (15 minutes).","Leave empty for default (15 minutes).",module,Magento_Customer
-"Enable Autocomplete on login/forgot password forms","Enable Autocomplete on login/forgot password forms",module,Magento_Customer
-"Customer Grid","Customer Grid",module,Magento_Customer
-"Rebuild Customer grid index","Rebuild Customer grid index",module,Magento_Customer
-"Group","Group",module,Magento_Customer
-"Add New Customer","Add New Customer",module,Magento_Customer
+"Show Middle Name (initial)","Pokaži drugo ime (začetnice)",module,Magento_Customer
+"Always optional.","Vedno izbirno.",module,Magento_Customer
+"Show Suffix","Prikaži pripono",module,Magento_Customer
+"The suffix that goes after name (Jr., Sr., etc.)","Pripona, ki gre za ime (ml. st. itd.)",module,Magento_Customer
+"Suffix Dropdown Options","Pripona možnosti spustnega seznama",module,Magento_Customer
+"Show Date of Birth","Prikaži datum rojstva",module,Magento_Customer
+"Show Tax/VAT Number","Prikaži davčno/DDV številko",module,Magento_Customer
+"Show Gender","Prikaži spol",module,Magento_Customer
+"Login Options","Prijavne možnosti",module,Magento_Customer
+"Redirect Customer to Account Dashboard after Logging in","Po prijavi preusmeri kupca na ploščo računa",module,Magento_Customer
+"Customer will stay on the current page if ""No"" is selected.","Kupec bo ostal na trenutni strani, če je izbran ""Ne"".",module,Magento_Customer
+"Address Templates","Predloge naslovov",module,Magento_Customer
+"Online Customers Options","Možnosti kupcev na strani",module,Magento_Customer
+"Online Minutes Interval","Minutni interval na strani",module,Magento_Customer
+"Leave empty for default (15 minutes).","Pustite prazno za privzeto (15 minut).",module,Magento_Customer
+"Enable Autocomplete on login/forgot password forms","Omogoči samodejno zaključevanje na obrazcih za prijavo/pozabljeno geslo",module,Magento_Customer
+"Customer Grid","Mreža kupcev",module,Magento_Customer
+"Rebuild Customer grid index","Vnovična gradnja indeksa mreže strank",module,Magento_Customer
+"Group","Skupina",module,Magento_Customer
+"Add New Customer","Dodaj novo stranko",module,Magento_Customer
 "Delete items","Izbriši elemente",module,Magento_Customer
-"Are you sure to delete selected customers?","Are you sure to delete selected customers?",module,Magento_Customer
+"Are you sure to delete selected customers?","Ali ste prepričani, da žeite izbrisati izbrane stranke?",module,Magento_Customer
 "Subscribe to Newsletter","Naročnina na e-novice",module,Magento_Customer
-"Unsubscribe from Newsletter","Unsubscribe from Newsletter",module,Magento_Customer
-"Are you sure to unsubscribe selected customers from newsletter?","Are you sure to unsubscribe selected customers from newsletter?",module,Magento_Customer
-"Assign a Customer Group","Assign a Customer Group",module,Magento_Customer
-"Are you sure to assign selected customers to new group?","Are you sure to assign selected customers to new group?",module,Magento_Customer
-"Phone","Phone",module,Magento_Customer
-"ZIP","ZIP",module,Magento_Customer
-"Customer Since","Customer Since",module,Magento_Customer
-"Last Logged In","Last Logged In",module,Magento_Customer
-"Confirmed email","Confirmed email",module,Magento_Customer
-"Account Created in","Account Created in",module,Magento_Customer
-"Tax VAT Number","Tax VAT Number",module,Magento_Customer
-"Billing Firstname","Billing Firstname",module,Magento_Customer
-"Billing Lastname","Billing Lastname",module,Magento_Customer
+"Unsubscribe from Newsletter","Odjava od e-novic",module,Magento_Customer
+"Are you sure to unsubscribe selected customers from newsletter?","Ali ste prepričani, da želite odjaviti izbrane kupce od naročnin na e-novice?",module,Magento_Customer
+"Assign a Customer Group","Dodelite skupino kupca",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","Ali ste prepričani, da želite dodeliti izbrane stranke novi skupini?",module,Magento_Customer
+"Phone","Telefon",module,Magento_Customer
+"ZIP","Poštna številka",module,Magento_Customer
+"Customer Since","Kupec od",module,Magento_Customer
+"Last Logged In","Zadnja prijava",module,Magento_Customer
+"Confirmed email","Potrjena e-pošta",module,Magento_Customer
+"Account Created in","Račun ustvarjen",module,Magento_Customer
+"Tax VAT Number","Dačna/DDV številka",module,Magento_Customer
+"Billing Firstname","Ime računa",module,Magento_Customer
+"Billing Lastname","Priimek računa",module,Magento_Customer
 "First Name","Ime",module,Magento_Customer
 "Last Name","Priimek",module,Magento_Customer
-"Last Activity","Last Activity",module,Magento_Customer
+"Last Activity","Zadnja dejavnost",module,Magento_Customer
 "Type","Vrsta",module,Magento_Customer
-"Customer Information","Customer Information",module,Magento_Customer
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view.",module,Magento_Customer
-"Send Welcome Email From","Send Welcome Email From",module,Magento_Customer
-"Addresses","Addresses",module,Magento_Customer
-"Are you sure you want to delete this item?","Are you sure you want to delete this item?",module,Magento_Customer
-"Account Dashboard","Account Dashboard",module,Magento_Customer
+"Customer Information","Informacije o kupcu",module,Magento_Customer
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","Če ima vaša stran Magento več pogledov, lahko nastavite obseg za določitev določenemu pogledu.",module,Magento_Customer
+"Send Welcome Email From","Pošlji pozdravno e-pošto iz",module,Magento_Customer
+"Addresses","Naslovi",module,Magento_Customer
+"Are you sure you want to delete this item?","Ali ste prepričani, da želite izbrisati ta element?",module,Magento_Customer
+"Account Dashboard","Plošča računa",module,Magento_Customer
 "Edit Account Information","Uredi informacije o računu",module,Magento_Customer
 "Password forgotten","Pozabljeno geslo",module,Magento_Customer
 "My Dashboard","Moja nadzorna plošča",module,Magento_Customer
 "You are signed out.","Niste prijavljeni.",module,Magento_Customer
-"You don't subscribe to our newsletter.","You don't subscribe to our newsletter.",module,Magento_Customer
-"Are you sure you want to revoke the customer's tokens?","Are you sure you want to revoke the customer's tokens?",module,Magento_Customer
-"There are no items in customer's shopping cart.","There are no items in customer's shopping cart.",module,Magento_Customer
-"Unlocked","Unlocked",module,Magento_Customer
-"Locked","Locked",module,Magento_Customer
-"Unlock","Unlock",module,Magento_Customer
-"Maximum length must be less then %1 characters.","Maximum length must be less then %1 characters.",module,Magento_Customer
-"We can't save the customer.","We can't save the customer.",module,Magento_Customer
-"The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1.",module,Magento_Customer
-"Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
-"The password doesn't match this account.","The password doesn't match this account.",module,Magento_Customer
-"We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
-"An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance.",module,Magento_Customer
-"We can't delete the address right now.","We can't delete the address right now.",module,Magento_Customer
-"We can't save the address.","We can't save the address.",module,Magento_Customer
-"You have revoked the customer's tokens.","You have revoked the customer's tokens.",module,Magento_Customer
-"We can't find a customer to revoke.","We can't find a customer to revoke.",module,Magento_Customer
-"Something went wrong while saving file.","Something went wrong while saving file.",module,Magento_Customer
-"Customer has been unlocked successfully.","Customer has been unlocked successfully.",module,Magento_Customer
-"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
-"The account is locked.","The account is locked.",module,Magento_Customer
+"You don't subscribe to our newsletter.","Ne boste se naročili na naše e-novice.",module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?","Ali ste prepričani, da želite preklicati žetone stranke?",module,Magento_Customer
+"There are no items in customer's shopping cart.","V košarici kupca ni nobenih elementov.",module,Magento_Customer
+"Unlocked","Odklenjeno",module,Magento_Customer
+"Locked","Zaklenjeno",module,Magento_Customer
+"Unlock","Odkleni",module,Magento_Customer
+"Maximum length must be less then %1 characters.","Največja dolžina mora biti manj kot %1 znakov.",module,Magento_Customer
+"We can't save the customer.","Stranke ni mogoče shraniti.",module,Magento_Customer
+"The account is locked. Please wait and try again or contact %1.","Račun je zaklenjen. Prosimo, počakajte in poskusite ponovno ali pa kontaktirajte %1.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","Potrditev gesla se ne ujema z vnešenim geslom.",module,Magento_Customer
+"The password doesn't match this account.","Geslo se ne ujema s tem računom.",module,Magento_Customer
+"We're unable to send the password reset email.","E-pošte za ponastavitev gesla ni bilo mogoče poslati.",module,Magento_Customer
+"An unspecified error occurred. Please contact us for assistance.","Prišlo je do neznane napake. Kontaktirajte nas za pomoč.",module,Magento_Customer
+"We can't delete the address right now.","Trenutno naslova ni mogoče izbrisati.",module,Magento_Customer
+"We can't save the address.","Naslova ni mogoče shraniti.",module,Magento_Customer
+"You have revoked the customer's tokens.","Preklicali ste žetone stranke.",module,Magento_Customer
+"We can't find a customer to revoke.","Stranke za preklic ni mogoče najti.",module,Magento_Customer
+"Something went wrong while saving file.","Med shranjevanjem datoteke je šlo nekaj narobe.",module,Magento_Customer
+"Customer has been unlocked successfully.","Stranka je bila uspešno odklenjena.",module,Magento_Customer
+"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 ne razširja \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
+"The account is locked.","Račun je zaklenjen.",module,Magento_Customer
 "Invalid value of ""%value"" provided for the %fieldName field.","Podana neveljavna vrednost ""%value"" za polje %fieldName",module,Magento_Customer
-"Please enter a password with at most %1 characters.","Please enter a password with at most %1 characters.",module,Magento_Customer
-"The password can't begin or end with a space.","The password can't begin or end with a space.",module,Magento_Customer
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Customer
-"ALL GROUPS","ALL GROUPS",module,Magento_Customer
-"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","No such entity with %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
-"File can not be saved to the destination folder.","File can not be saved to the destination folder.",module,Magento_Customer
-"Unable to create directory %1.","Unable to create directory %1.",module,Magento_Customer
-"Destination folder is not writable or does not exists.","Destination folder is not writable or does not exists.",module,Magento_Customer
-"Something went wrong while saving the file.","Something went wrong while saving the file.",module,Magento_Customer
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Customer
+"Please enter a password with at most %1 characters.","Vnesite geslo z največ %1 znaki.",module,Magento_Customer
+"The password can't begin or end with a space.","Geslo se ne sme začeti ali končati s presledkom.",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Najmanj različnih razredov znakov v geslu je %1. Razredi znakov: male črke, velike črke, številke, posebni znaki.",module,Magento_Customer
+"%fieldName is a required field.","%fieldName je obvezno polje.",module,Magento_Customer
+"ALL GROUPS","VSE SKUPINE",module,Magento_Customer
+"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","Ni take entitete z %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
+"File can not be saved to the destination folder.","Datoteke ni mogoče shraniti v ciljno mapo.",module,Magento_Customer
+"Unable to create directory %1.","Ni mogoče ustvariti imenika %1.",module,Magento_Customer
+"Destination folder is not writable or does not exists.","Ciljna mapa ni zapisljiva ali pa ne obstaja.",module,Magento_Customer
+"Something went wrong while saving the file.","Med shranjevanjem datoteke je šlo nekaj narobe.",module,Magento_Customer
+"No such entity with %fieldName = %fieldValue","Entiteta %fieldName = %fieldValue ne obstaja",module,Magento_Customer
 "InputException.","InputException.",module,Magento_Customer
-"some error","some error",module,Magento_Customer
+"some error","neka napaka",module,Magento_Customer
 "frontend_label","frontend_label",module,Magento_Customer
-"NOT LOGGED IN","NOT LOGGED IN",module,Magento_Customer
-"Account Lock:","Account Lock:",module,Magento_Customer
-"It's a default billing address.","It's a default billing address.",module,Magento_Customer
-"It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
-"Change Email","Change Email",module,Magento_Customer
-"Change Email and Password","Change Email and Password",module,Magento_Customer
-"Password Strength","Password Strength",module,Magento_Customer
-"No Password","No Password",module,Magento_Customer
-"Reset My Password","Reset My Password",module,Magento_Customer
+"NOT LOGGED IN","NISTE PRIJAVLJENI",module,Magento_Customer
+"Account Lock:","Zaklepanje računa:",module,Magento_Customer
+"It's a default billing address.","To je privzeti naslov za račun.",module,Magento_Customer
+"It's a default shipping address.","To je privzeti naslov za pošiljanje.",module,Magento_Customer
+"Change Email","Spremeni e-pošto",module,Magento_Customer
+"Change Email and Password","Spremeni e-pošto in geslo",module,Magento_Customer
+"Password Strength","Moč gesla",module,Magento_Customer
+"No Password","Brez gesla",module,Magento_Customer
+"Reset My Password","Ponastavitev gesla",module,Magento_Customer

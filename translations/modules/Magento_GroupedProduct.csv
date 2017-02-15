@@ -20,16 +20,16 @@
 "Add Products to Group","Dodaj izdelke k skupini",module,Magento_GroupedProduct
 "Add Selected Products","Dodaj izbrane izdelke",module,Magento_GroupedProduct
 "Grouped Product Image","Slika združenega izdelka",module,Magento_GroupedProduct
-"Cancel","Cancel",module,Magento_GroupedProduct
-"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.",module,Magento_GroupedProduct
-"Remove","Remove",module,Magento_GroupedProduct
-"Thumbnail","Thumbnail",module,Magento_GroupedProduct
-"Attribute Set","Attribute Set",module,Magento_GroupedProduct
-"Status","Status",module,Magento_GroupedProduct
-"Default Quantity","Default Quantity",module,Magento_GroupedProduct
-"Actions","Actions",module,Magento_GroupedProduct
-"Select...","Select...",module,Magento_GroupedProduct
-"Type","Type",module,Magento_GroupedProduct
-"Quantity","Quantity",module,Magento_GroupedProduct
+"Cancel","Prekliči",module,Magento_GroupedProduct
+"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","Združen izdelek je sestavljen iz večih samostojnih izdelkov, ki so predstavljeni kot skupina. Ponudite lahko različice enega izdelka ali jih združite po sezonah ali temi, da ustvarite usklajen nabor. Vsak izdelek je mogoče kupiti posebej ali kot del skupine.",module,Magento_GroupedProduct
+"Remove","Odstrani",module,Magento_GroupedProduct
+"Thumbnail","Sličica",module,Magento_GroupedProduct
+"Attribute Set","Nabor atributov",module,Magento_GroupedProduct
+"Status","Stanje",module,Magento_GroupedProduct
+"Default Quantity","Privzeta količina",module,Magento_GroupedProduct
+"Actions","Dejanja",module,Magento_GroupedProduct
+"Select...","Izberite...",module,Magento_GroupedProduct
+"Type","Vrsta",module,Magento_GroupedProduct
+"Quantity","Količina",module,Magento_GroupedProduct
 "AttributeSetText","AttributeSetText",module,Magento_GroupedProduct
 "StatusText","StatusText",module,Magento_GroupedProduct

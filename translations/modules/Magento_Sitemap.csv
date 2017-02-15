@@ -1,43 +1,43 @@
-"Save & Generate","Save & Generate",module,Magento_Sitemap
-"Edit Sitemap","Edit Sitemap",module,Magento_Sitemap
-"New Sitemap","New Sitemap",module,Magento_Sitemap
-"Sitemap Information","Sitemap Information",module,Magento_Sitemap
-"Sitemap","Sitemap",module,Magento_Sitemap
-"Filename","Filename",module,Magento_Sitemap
-"example: sitemap.xml","example: sitemap.xml",module,Magento_Sitemap
-"Path","Path",module,Magento_Sitemap
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","example: ""/sitemap/"" or ""/"" for base path (path must be writeable)",module,Magento_Sitemap
+"Save & Generate","Shrani in zgeneriraj",module,Magento_Sitemap
+"Edit Sitemap","Uredi kazalo",module,Magento_Sitemap
+"New Sitemap","Novo kazalo",module,Magento_Sitemap
+"Sitemap Information","Informacije kazala",module,Magento_Sitemap
+"Sitemap","Kazalo",module,Magento_Sitemap
+"Filename","Ime datoteke",module,Magento_Sitemap
+"example: sitemap.xml","primer: sitemap.xml",module,Magento_Sitemap
+"Path","Pot",module,Magento_Sitemap
+"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","primer: ""/sitemap/"" ali ""/"" za osnovno pot (pot mora biti zapisljiva)",module,Magento_Sitemap
 "Store View","Pogled trgovine",module,Magento_Sitemap
-"Generate","Generate",module,Magento_Sitemap
-"XML Sitemap","XML Sitemap",module,Magento_Sitemap
-"Add Sitemap","Add Sitemap",module,Magento_Sitemap
+"Generate","Zgeneriraj",module,Magento_Sitemap
+"XML Sitemap","Kazalo XML",module,Magento_Sitemap
+"Add Sitemap","Dodaj kazalo",module,Magento_Sitemap
 "Catalog","Katalog",module,Magento_Sitemap
-"You deleted the sitemap.","You deleted the sitemap.",module,Magento_Sitemap
-"We can\'t find a sitemap to delete.","We can\'t find a sitemap to delete.",module,Magento_Sitemap
-"This sitemap no longer exists.","This sitemap no longer exists.",module,Magento_Sitemap
-"Site Map","Site Map",module,Magento_Sitemap
-"New Site Map","New Site Map",module,Magento_Sitemap
-"The sitemap ""%1"" has been generated.","The sitemap ""%1"" has been generated.",module,Magento_Sitemap
-"We can\'t generate the sitemap right now.","We can\'t generate the sitemap right now.",module,Magento_Sitemap
-"We can\'t find a sitemap to generate.","We can\'t find a sitemap to generate.",module,Magento_Sitemap
-"You saved the sitemap.","You saved the sitemap.",module,Magento_Sitemap
-"The priority must be between 0 and 1.","The priority must be between 0 and 1.",module,Magento_Sitemap
+"You deleted the sitemap.","Izbrisali ste kazalo.",module,Magento_Sitemap
+"We can\'t find a sitemap to delete.","Kazala za brisanje ni mogoče najti.",module,Magento_Sitemap
+"This sitemap no longer exists.","To kazalo več ne obstaja.",module,Magento_Sitemap
+"Site Map","Kazalo",module,Magento_Sitemap
+"New Site Map","Novo kazalo",module,Magento_Sitemap
+"The sitemap ""%1"" has been generated.","Kazalo ""%1"" je bilo zgenerirano.",module,Magento_Sitemap
+"We can\'t generate the sitemap right now.","Trenutno kazala ni mogoče zgenerirati.",module,Magento_Sitemap
+"We can\'t find a sitemap to generate.","Kazala za generiranje ni mogoče najti.",module,Magento_Sitemap
+"You saved the sitemap.","Kazalo ste shranili.",module,Magento_Sitemap
+"The priority must be between 0 and 1.","Prioriteta mora biti med 0 in 1.",module,Magento_Sitemap
 "Always","Vedno",module,Magento_Sitemap
-"Hourly","Hourly",module,Magento_Sitemap
+"Hourly","Na uro",module,Magento_Sitemap
 "Daily","Dnevno",module,Magento_Sitemap
 "Weekly","Tedensko",module,Magento_Sitemap
 "Monthly","Mesečno",module,Magento_Sitemap
-"Yearly","Yearly",module,Magento_Sitemap
+"Yearly","Letno",module,Magento_Sitemap
 "Never","Nikoli",module,Magento_Sitemap
-"File handler unreachable","File handler unreachable",module,Magento_Sitemap
-"Please define a correct path.","Please define a correct path.",module,Magento_Sitemap
-"Please create the specified folder ""%1"" before saving the sitemap.","Please create the specified folder ""%1"" before saving the sitemap.",module,Magento_Sitemap
-"Please make sure that ""%1"" is writable by the web-server.","Please make sure that ""%1"" is writable by the web-server.",module,Magento_Sitemap
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.",module,Magento_Sitemap
+"File handler unreachable","Krmilnik datotek ni dosegljiv",module,Magento_Sitemap
+"Please define a correct path.","Določite pravilno pot.",module,Magento_Sitemap
+"Please create the specified folder ""%1"" before saving the sitemap.","Ustvarite opredeljeno mapo ""%1"" pred shranjevanjem kazala.",module,Magento_Sitemap
+"Please make sure that ""%1"" is writable by the web-server.","Prepričajte se, da je ""%1"" zapisljiva na spletnem strežniku.",module,Magento_Sitemap
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Prosimo, uporabite le črke (a-z ali A-Z), številke (0-9) ali podčrtaje (_) v imenu datoteke. Presledki ali ostali znaki niso dovoljeni.",module,Magento_Sitemap
 "None","Brez",module,Magento_Sitemap
-"Base Only","Base Only",module,Magento_Sitemap
+"Base Only","Samo osnova",module,Magento_Sitemap
 "All","Vse",module,Magento_Sitemap
-"Sitemap Generation Warnings","Sitemap Generation Warnings",module,Magento_Sitemap
+"Sitemap Generation Warnings","Opozorila generiranja kazala",module,Magento_Sitemap
 "Categories Options","Možnosti kategorij",module,Magento_Sitemap
 "Frequency","Pogostost",module,Magento_Sitemap
 "Priority","Prednost",module,Magento_Sitemap
@@ -62,8 +62,8 @@
 "Link for Google","Povezava za Google",module,Magento_Sitemap
 "Last Generated","Nazadnje ustvarjeno",module,Magento_Sitemap
 "Action","Dejanje",module,Magento_Sitemap
-"We can't find a sitemap to delete.","We can't find a sitemap to delete.",module,Magento_Sitemap
-"We can't generate the sitemap right now.","We can't generate the sitemap right now.",module,Magento_Sitemap
-"We can't find a sitemap to generate.","We can't find a sitemap to generate.",module,Magento_Sitemap
-"Sitemap generate Warnings","Sitemap generate Warnings",module,Magento_Sitemap
-"XML Sitemap Section","XML Sitemap Section",module,Magento_Sitemap
+"We can't find a sitemap to delete.","Kazala za brisanje ni mogoče najti.",module,Magento_Sitemap
+"We can't generate the sitemap right now.","Trenutno kazala ni mogoče zgenerirati.",module,Magento_Sitemap
+"We can't find a sitemap to generate.","Kazala za generiranje ni mogoče najti.",module,Magento_Sitemap
+"Sitemap generate Warnings","Opozorila generiranja kazala",module,Magento_Sitemap
+"XML Sitemap Section","Oddelek kazala XML",module,Magento_Sitemap

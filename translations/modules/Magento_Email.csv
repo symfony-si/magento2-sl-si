@@ -76,13 +76,13 @@
 "Are you sure you want to strip tags?","Ali ste prepričani, da želite odstraniti značke?",module,Magento_Email
 "Are you sure you want to delete this template?","Ali ste prepričani, da želite izbrisati to predlogo?",module,Magento_Email
 "The template did not load. Please review the log for details.","Predloga se ni naložila. Preglejte dnevnik za podrobnosti.",module,Magento_Email
-"Thank you, %store_name","Thank you, %store_name",module,Magento_Email
+"Thank you, %store_name","Hvala, %store_name",module,Magento_Email
 "Emails","E-pošte",module,Magento_Email
 "Logo Image","Slika logotipa",module,Magento_Email
-"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.",module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Dovoljene vrste datotek: jpg, jpeg, gif, png. Za optimizacijo logotipa za prikaz v visoki ločljivosti, naložite sliko, ki je 3x normalne velikosti in nato določite 1x dimenzije v polja širina/višina spodaj.",module,Magento_Email
 "Logo Image Alt","Alt tekst slike logotipa",module,Magento_Email
 "Logo Width","Širina logotipa",module,Magento_Email
-"Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".",module,Magento_Email
+"Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Potrebno samo, če je bila slika zgoraj prenesena. Vnesite število slikovnih pik brez pripone ""px"".",module,Magento_Email
 "Logo Height","Višina logotipa",module,Magento_Email
 "Header Template","Predloga glave",module,Magento_Email
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Email
@@ -96,8 +96,8 @@
 "Action","Dejanje",module,Magento_Email
 "Footer","Noga",module,Magento_Email
 "Header","Glava",module,Magento_Email
-"Communications","Communications",module,Magento_Email
-"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.",module,Magento_Email
-"Necessary only if an image has been uploaded above. Enter number of pixels, without appending "px".","Necessary only if an image has been uploaded above. Enter number of pixels, without appending "px".",module,Magento_Email
-"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending "px".","Necessary only if an image has been uploaded above. Enter image height size in pixels without appending "px".",module,Magento_Email
-"Email template chosen based on theme fallback, when the "Default" option is selected.","Email template chosen based on theme fallback, when the "Default" option is selected.",module,Magento_Email
+"Communications","Komunikacije",module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Dovoljene vrste datotek: jpg, jpeg, gif, png. Za optimizacijo logotipa za prikaz v visoki ločljivosti, naložite sliko, ki je 3x normalne velikosti in nato določite 1x dimenzije v polja širina/višina spodaj.",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter number of pixels, without appending px"".""","Potrebno samo, če je bila slika zgoraj prenesena. Vnesite število slikovnih pik brez pripone px"".""",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending px"".""","Potrebno samo, če je bila slika zgoraj prenesena. Vnesite velikost višine slike v slikovnih pikah brez pripone px"".""",module,Magento_Email
+"Email template chosen based on theme fallback, when the Default"" option is selected.""","Predloga e-pošte izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Email

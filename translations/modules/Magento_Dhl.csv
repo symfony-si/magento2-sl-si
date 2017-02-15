@@ -54,8 +54,8 @@
 "Unable to retrieve shipping label","Oznake pošiljanja ni mogoče pridobiti",module,Magento_Dhl
 "Non documents","Niso dokumenti",module,Magento_Dhl
 "None","Brez",module,Magento_Dhl
-"Enabled for Checkout","Enabled for Checkout",module,Magento_Dhl
-"Gateway URL","Gateway URL",module,Magento_Dhl
+"Enabled for Checkout","Omogočeno za blagajno",module,Magento_Dhl
+"Gateway URL","URL prehoda",module,Magento_Dhl
 "Title","Naslov",module,Magento_Dhl
 "Access ID","ID dostopa",module,Magento_Dhl
 "Password","Geslo",module,Magento_Dhl
@@ -63,23 +63,23 @@
 "Content Type","Vrsta vsebine",module,Magento_Dhl
 "Calculate Handling Fee","Izračun takse za stroške obdelave",module,Magento_Dhl
 "Handling Applied","Uporabljena obdelava",module,Magento_Dhl
-"""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.",module,Magento_Dhl
+"""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Na naročilo"" omogoča enotno provizijo pripravo za celotno naročilo. ""Na paket"" omogoča posamezne provizije za vsak paket.",module,Magento_Dhl
 "Handling Fee","Taksa za stroške obdelave",module,Magento_Dhl
 "Divide Order Weight","Razdeli težo naročila",module,Magento_Dhl
-"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Izberite to, da dovolite DHL optimizacijo stroškov prevoza z razdelitvijo naročila, če presega 70kg.",module,Magento_Dhl
 "Weight Unit","Enota teže",module,Magento_Dhl
-"Size","Size",module,Magento_Dhl
+"Size","Velikost",module,Magento_Dhl
 "Allowed Methods","Dovoljene metode",module,Magento_Dhl
 "Displayed Error Message","Prikazano sporočilo napake",module,Magento_Dhl
 "Free Method","Brezplačen način",module,Magento_Dhl
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Dhl
-"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Dhl
-"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Dhl
-"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
+"Free Shipping Amount Threshold","Mejni znesek brezplačne dostave",module,Magento_Dhl
+"Ship to Applicable Countries","Dostava v države, ki se uporabljajo",module,Magento_Dhl
+"Ship to Specific Countries","Dostava v določene države",module,Magento_Dhl
+"Show Method if Not Applicable","Prikaži način, če ni v uporabi",module,Magento_Dhl
 "Sort Order","Vrstni red",module,Magento_Dhl
-"Debug","Debug",module,Magento_Dhl
-"We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).",module,Magento_Dhl
-"Please specify origin country.","Please specify origin country.",module,Magento_Dhl
-"Field ","Field ",module,Magento_Dhl
-" is required."," is required.",module,Magento_Dhl
-"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Dhl
+"Debug","Razhroščevanje",module,Magento_Dhl
+"We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","Morali smo preskočiti DHL metodo %1, ker ni bilo mogoče najti menjalniškega tečaja %2 (osnovna valuta).",module,Magento_Dhl
+"Please specify origin country.","Prosimo, navedite državo izvora.",module,Magento_Dhl
+"Field ","Polje ",module,Magento_Dhl
+" is required."," je obvezno.",module,Magento_Dhl
+"Enable Free Shipping Threshold","Omogočite mejno količino za brezplačno dostavo",module,Magento_Dhl

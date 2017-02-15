@@ -1,25 +1,25 @@
-"Current store is not active.","Current store is not active.",module,Magento_Store
-"Requested store is inactive","Requested store is inactive",module,Magento_Store
-"Requested store is not found","Requested store is not found",module,Magento_Store
-"Environment emulation nesting is not allowed.","Environment emulation nesting is not allowed.",module,Magento_Store
-"Only default scope allowed","Only default scope allowed",module,Magento_Store
-"Invalid scope object","Invalid scope object",module,Magento_Store
-"Store with the same code","Store with the same code",module,Magento_Store
-"Website with the same code","Website with the same code",module,Magento_Store
-"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
-"Name is required","Name is required",module,Magento_Store
-"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
-"Store is inactive","Store is inactive",module,Magento_Store
-"Default store is inactive","Default store is inactive",module,Magento_Store
+"Current store is not active.","Trenutna trgovina ni aktivna.",module,Magento_Store
+"Requested store is inactive","Zahtevana trgovina ni aktivna",module,Magento_Store
+"Requested store is not found","Zahtevane trgovine ni mogoče najti",module,Magento_Store
+"Environment emulation nesting is not allowed.","Gnezdejenje oponašanja okolja ni dovoljeno.",module,Magento_Store
+"Only default scope allowed","Dovoljen je samo privzeti obseg",module,Magento_Store
+"Invalid scope object","Neveljaven obseg objekta",module,Magento_Store
+"Store with the same code","Trgovina z enako kodo",module,Magento_Store
+"Website with the same code","Spletna stran z enako kodo",module,Magento_Store
+"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Koda spletne strani lahko vsebuje samo črke (a-z), številke (0-9) ali podčrtaje (_) in prvi znak mora biti črka.",module,Magento_Store
+"Name is required","Ime je zahtevano",module,Magento_Store
+"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Koda spletne strani lahko vsebuje samo črke (a-z), številke (0-9) ali podčrtaje (_) in prvi znak mora biti črka.",module,Magento_Store
+"Store is inactive","Trgovina je neaktivna",module,Magento_Store
+"Default store is inactive","Privzeta trgovina ni aktivna",module,Magento_Store
 "All Store Views","Ogledi celotne trgovine",module,Magento_Store
 "-- Please Select --","-- Izberite --",module,Magento_Store
 "Admin","Admin",module,Magento_Store
-"More than one default website is defined","More than one default website is defined",module,Magento_Store
-"Default website is not defined","Default website is not defined",module,Magento_Store
-"Your Language:","Your Language:",module,Magento_Store
-"Your Language","Your Language",module,Magento_Store
-"Language","Language",module,Magento_Store
-"Select Store","Select Store",module,Magento_Store
+"More than one default website is defined","Definirana je več kot ena privzeta spletna stran",module,Magento_Store
+"Default website is not defined","Privzeta spletna stran ni definirana",module,Magento_Store
+"Your Language:","Vaš jezik:",module,Magento_Store
+"Your Language","Vaš jezik",module,Magento_Store
+"Language","Jezik",module,Magento_Store
+"Select Store","Izberi trgovino",module,Magento_Store
 "Configuration","Konfiguracija",module,Magento_Store
 "Various XML configurations that were collected across modules and merged.","Različne konfiguracije XML, ki so bile zbrane po modulih in združene.",module,Magento_Store
 "Layouts","Postavitve",module,Magento_Store
@@ -32,11 +32,11 @@
 "API interfaces reflection data.","Odrazni podatki API vmesnikov.",module,Magento_Store
 "Database DDL operations","DDL operacije podatkovne baze",module,Magento_Store
 "Results of DDL queries, such as describing tables or indexes.","Rezultati DDL poizvedb, kot je opis tabel ali indeksov.",module,Magento_Store
-"Invalid store parameter.","Invalid store parameter.",module,Magento_Store
-"no such entity exception","no such entity exception",module,Magento_Store
-"Various XML configurations that were collected across modules and merged","Various XML configurations that were collected across modules and merged",module,Magento_Store
-"Layout building instructions","Layout building instructions",module,Magento_Store
-"Page blocks HTML","Page blocks HTML",module,Magento_Store
-"Collection data files","Collection data files",module,Magento_Store
-"API interfaces reflection data","API interfaces reflection data",module,Magento_Store
+"Invalid store parameter.","Neveljaven parameter trgovine.",module,Magento_Store
+"no such entity exception","ni take izjeme entitete",module,Magento_Store
+"Various XML configurations that were collected across modules and merged","Različne konfiguracije XML, ki so bile zbrane po modulih in združene",module,Magento_Store
+"Layout building instructions","Navodila gradnje postavitve",module,Magento_Store
+"Page blocks HTML","HTML blokov strani",module,Magento_Store
+"Collection data files","Datoteke zbirk podatkov",module,Magento_Store
+"API interfaces reflection data","Odrazni podatki vmesnikov API",module,Magento_Store
 "Results of DDL queries, such as describing tables or indexes","Rezultati pozvedb DDL, kot so opisi tabel ali indeksi",module,Magento_Store

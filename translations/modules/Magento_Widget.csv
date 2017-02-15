@@ -1,66 +1,66 @@
-"Widget Insertion","Widget Insertion",module,Magento_Widget
-"Insert Widget","Insert Widget",module,Magento_Widget
+"Widget Insertion","Vstavitev pripomočka",module,Magento_Widget
+"Insert Widget","Vstavi pripomoček",module,Magento_Widget
 "label","oznaka",module,Magento_Widget
-"Choose...","Choose...",module,Magento_Widget
+"Choose...","Izberite...",module,Magento_Widget
 "Close","Zapri",module,Magento_Widget
-"Not Selected","Not Selected",module,Magento_Widget
-"Widget","Widget",module,Magento_Widget
-"Widget Type","Widget Type",module,Magento_Widget
+"Not Selected","Ni izbrano",module,Magento_Widget
+"Widget","Pripomoček",module,Magento_Widget
+"Widget Type","Vrsta pripomočka",module,Magento_Widget
 "-- Please Select --","-- Izberite --",module,Magento_Widget
-"Manage Widget Instances","Manage Widget Instances",module,Magento_Widget
-"Add Widget","Add Widget",module,Magento_Widget
+"Manage Widget Instances","Upravljanje instanc pripomočkov",module,Magento_Widget
+"Add Widget","Dodaj pripomoček",module,Magento_Widget
 "Save and Continue Edit","Shrani in nadaljuj urejanje",module,Magento_Widget
-"Widget ""%1""","Widget ""%1""",module,Magento_Widget
-"New Widget Instance","New Widget Instance",module,Magento_Widget
-"Custom Layouts","Custom Layouts",module,Magento_Widget
-"Page Layouts","Page Layouts",module,Magento_Widget
-"Please Select Container First","Please Select Container First",module,Magento_Widget
+"Widget ""%1""","Pripomoček ""%1""",module,Magento_Widget
+"New Widget Instance","Instanca novega pripomočka",module,Magento_Widget
+"Custom Layouts","Postavitve po meri",module,Magento_Widget
+"Page Layouts","Postavitve strani",module,Magento_Widget
+"Please Select Container First","Najprej izberite kontejner",module,Magento_Widget
 "Storefront Properties","Prodajalne lastnosti",module,Magento_Widget
 "Type","Vrsta",module,Magento_Widget
-"Design Package/Theme","Design Package/Theme",module,Magento_Widget
-"Widget Title","Widget Title",module,Magento_Widget
-"Assign to Store Views","Assign to Store Views",module,Magento_Widget
+"Design Package/Theme","Paket/tema oblike",module,Magento_Widget
+"Widget Title","Naslov pripomočka",module,Magento_Widget
+"Assign to Store Views","Dodeli pogledom trgovine",module,Magento_Widget
 "Sort Order","Vrstni red",module,Magento_Widget
-"Sort Order of widget instances in the same container","Sort Order of widget instances in the same container",module,Magento_Widget
-"Layout Updates","Layout Updates",module,Magento_Widget
+"Sort Order of widget instances in the same container","Vrstni red instanc pripomočkov v istem kontejnerju",module,Magento_Widget
+"Layout Updates","Posodobitve postavitve",module,Magento_Widget
 "Categories","Kategorije",module,Magento_Widget
-"Anchor Categories","Anchor Categories",module,Magento_Widget
-"Non-Anchor Categories","Non-Anchor Categories",module,Magento_Widget
-"All Product Types","All Product Types",module,Magento_Widget
+"Anchor Categories","Kategorije sidra",module,Magento_Widget
+"Non-Anchor Categories","Kategorije brez sider",module,Magento_Widget
+"All Product Types","Vse vrste izdelkov",module,Magento_Widget
 "Products","Izdelki",module,Magento_Widget
-"Generic Pages","Generic Pages",module,Magento_Widget
-"All Pages","All Pages",module,Magento_Widget
-"Specified Page","Specified Page",module,Magento_Widget
-"Add Layout Update","Add Layout Update",module,Magento_Widget
-"Remove Layout Update","Remove Layout Update",module,Magento_Widget
-"Widget Options","Widget Options",module,Magento_Widget
-"Settings","Settings",module,Magento_Widget
+"Generic Pages","Splošne strani",module,Magento_Widget
+"All Pages","Vse strani",module,Magento_Widget
+"Specified Page","Določena stran",module,Magento_Widget
+"Add Layout Update","Dodaj posodobitev postavitve",module,Magento_Widget
+"Remove Layout Update","Odstrani posodobitev postavitve",module,Magento_Widget
+"Widget Options","Možnosti pripomočka",module,Magento_Widget
+"Settings","Nastavitve",module,Magento_Widget
 "Design Theme","Tema oblike",module,Magento_Widget
 "Continue","Nadaljuj",module,Magento_Widget
-"Please specify a Widget Type.","Please specify a Widget Type.",module,Magento_Widget
+"Please specify a Widget Type.","Določite vrsto pripomočka.",module,Magento_Widget
 "CMS","CMS",module,Magento_Widget
-"Please specify a correct widget.","Please specify a correct widget.",module,Magento_Widget
-"The widget instance has been deleted.","The widget instance has been deleted.",module,Magento_Widget
-"New Widget","New Widget",module,Magento_Widget
-"Widgets","Widgets",module,Magento_Widget
-"The widget instance has been saved.","The widget instance has been saved.",module,Magento_Widget
+"Please specify a correct widget.","Določite ustrezni pripomoček.",module,Magento_Widget
+"The widget instance has been deleted.","Instanca pripomočka je bila izbrisana.",module,Magento_Widget
+"New Widget","Nov pripomoček",module,Magento_Widget
+"Widgets","Pripomočki",module,Magento_Widget
+"The widget instance has been saved.","Instanca pripomočka je bila shranjena.",module,Magento_Widget
 "name","ime",module,Magento_Widget
-"description","description",module,Magento_Widget
-"We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information.",module,Magento_Widget
+"description","opis",module,Magento_Widget
+"We cannot create the widget instance because it is missing required information.","Instance pripomočka ni bilo mogoče ustvariti, ker nima zahtevanih informacij.",module,Magento_Widget
 "None","Brez",module,Magento_Widget
 "%1","%1",module,Magento_Widget
-"Container","Container",module,Magento_Widget
+"Container","Kontejner",module,Magento_Widget
 "Template","Predloga",module,Magento_Widget
 "All","Vse",module,Magento_Widget
-"Specific %1","Specific %1",module,Magento_Widget
+"Specific %1","Določen %1",module,Magento_Widget
 "Open Chooser","Odpri izbirnik",module,Magento_Widget
 "Apply","Uporabi",module,Magento_Widget
-"Page","Page",module,Magento_Widget
+"Page","Stran",module,Magento_Widget
 "Orders and Returns","Naročila in reklamacije",module,Magento_Widget
 "Orders and Returns Search Form","Obrazec iskanja za naročila in vračila",module,Magento_Widget
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Widget
-"CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Widget
-"CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_Widget
+"Anchor Custom Title","Naslov sidra po meri",module,Magento_Widget
+"CMS Page Link Block Template","Predloga bloka povezave strani CMS",module,Magento_Widget
+"CMS Page Link Inline Template","Predloga vrstice povezave strani CMS",module,Magento_Widget
 "Display a Link to Loading a Spreadsheet","Prikaži povezavo za nalaganje preglednice",module,Magento_Widget
 "Defines whether a link to My Account","Določa, ali naj povezuje na moj račun",module,Magento_Widget
 "Link Text","Besedilo povezave",module,Magento_Widget

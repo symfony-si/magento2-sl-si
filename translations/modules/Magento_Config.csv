@@ -79,37 +79,37 @@
 "Delete","Izbriši",module,Magento_Config
 "Current Configuration Scope:","Trenutni obseg konfiguracije:",module,Magento_Config
 "Stores","Trgovine",module,Magento_Config
-"Allow everything","Allow everything",module,Magento_Config
+"Allow everything","Omogoči vse",module,Magento_Config
 "Magento Admin","Magento Admin",module,Magento_Config
-"Dashboard","Dashboard",module,Magento_Config
-"Manage Stores","Manage Stores",module,Magento_Config
-"Advanced Section","Advanced Section",module,Magento_Config
-"Advanced Admin Section","Advanced Admin Section",module,Magento_Config
-"Design Section","Design Section",module,Magento_Config
-"General Section","General Section",module,Magento_Config
-"System Section","System Section",module,Magento_Config
-"Currency Setup Section","Currency Setup Section",module,Magento_Config
-"Developer Section","Developer Section",module,Magento_Config
-"Web Section","Web Section",module,Magento_Config
-"Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
-"Email to a Friend","Email to a Friend",module,Magento_Config
-"Group Label","Group Label",module,Magento_Config
-"Some Label","Some Label",module,Magento_Config
-"Tab Label","Tab Label",module,Magento_Config
-"Field 2","Field 2",module,Magento_Config
-"Field 3","Field 3",module,Magento_Config
-"Field 3.1","Field 3.1",module,Magento_Config
-"Field 3.1.1","Field 3.1.1",module,Magento_Config
-"Field 4","Field 4",module,Magento_Config
-"Use system value","Use system value",module,Magento_Config
-"Sorry, we haven't installed the base currency you selected.","Sorry, we haven't installed the base currency you selected.",module,Magento_Config
-"We can't save the Cron expression.","We can't save the Cron expression.",module,Magento_Config
-"Sorry, we haven't installed the default display currency you selected.","Sorry, we haven't installed the default display currency you selected.",module,Magento_Config
+"Dashboard","Nadzorna plošča",module,Magento_Config
+"Manage Stores","Upravljanje trgovin",module,Magento_Config
+"Advanced Section","Napredni razdelek",module,Magento_Config
+"Advanced Admin Section","Napredni razdelek Admin",module,Magento_Config
+"Design Section","Oblikovalski oddelek",module,Magento_Config
+"General Section","Splošni oddelek",module,Magento_Config
+"System Section","Sistemski oddelek",module,Magento_Config
+"Currency Setup Section","Oddelek nastavitev valute",module,Magento_Config
+"Developer Section","Oddelek za razvijalce",module,Magento_Config
+"Web Section","Spletni oddelek",module,Magento_Config
+"Store Email Addresses Section","Oddelek naslovov e-pošt trgovine",module,Magento_Config
+"Email to a Friend","E-pošta prijatelju",module,Magento_Config
+"Group Label","Oznaka skupine",module,Magento_Config
+"Some Label","Neka oznaka",module,Magento_Config
+"Tab Label","Oznaka jezička",module,Magento_Config
+"Field 2","Polje 2",module,Magento_Config
+"Field 3","Polje 3",module,Magento_Config
+"Field 3.1","Polje 3.1",module,Magento_Config
+"Field 3.1.1","Polje 3.1.1",module,Magento_Config
+"Field 4","Polje 4",module,Magento_Config
+"Use system value","Uporabi sistemsko vrednost",module,Magento_Config
+"Sorry, we haven't installed the base currency you selected.","Žal osnovna valuta, ki ste jo izbrali, ni bila nameščena.",module,Magento_Config
+"We can't save the Cron expression.","Izraza periodičnega opravila ni mogoče shraniti.",module,Magento_Config
+"Sorry, we haven't installed the default display currency you selected.","Žal privzeta valuta prikaza, ki ste jo izbrali, ni bila nameščena.",module,Magento_Config
 "%1","%1",module,Magento_Config
-"The file you're uploading exceeds the server size limit of %1 kilobytes.","The file you're uploading exceeds the server size limit of %1 kilobytes.",module,Magento_Config
-"'There is no defined type ' .","'There is no defined type ' .",module,Magento_Config
-"'Object is not instance of ' .","'Object is not instance of ' .",module,Magento_Config
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Catalog
-"This value does not follow the specified format (for example, 200x300).","This value does not follow the specified format (for example, 200x300).",module,Magento_Catalog
-"Adding...","Adding...",module,Magento_Catalog
-"Added","Added",module,Magento_Catalog
+"The file you're uploading exceeds the server size limit of %1 kilobytes.","Datoteka, ki jo nalagate, presega omejitev velikosti na strežniku %1 kilobajtov.",module,Magento_Config
+"'There is no defined type ' .","'Ni določene vrste'.",module,Magento_Config
+"'Object is not instance of ' .","'Objekt ni instanca ' .",module,Magento_Config
+"We don't recognize or support this file extension type.","Ta vrsta končnice datoteke ni prepoznavna ali podprta.","module","Magento_Catalog"
+"This value does not follow the specified format (for example, 200x300).","Ta vrednost ne sledi določeni obliki (na primer, 200x300).","module","Magento_Catalog"
+"Adding...","Dodajanje ...","module","Magento_Catalog"
+"Added","Dodano","module","Magento_Catalog"

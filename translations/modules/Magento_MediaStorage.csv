@@ -1,26 +1,26 @@
-"Synchronize","Synchronize",module,Magento_MediaStorage
-"Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
-"Synchronizing...","Synchronizing...",module,Magento_MediaStorage
-"The timeout limit for response from synchronize process was reached.","The timeout limit for response from synchronize process was reached.",module,Magento_MediaStorage
-"File %1 does not exist","File %1 does not exist",module,Magento_MediaStorage
-"File %1 is not readable","File %1 is not readable",module,Magento_MediaStorage
-"File System","File System",module,Magento_MediaStorage
+"Synchronize","Sinhronizacija",module,Magento_MediaStorage
+"Synchronizing %1 to %2","Sinhronizacija %1 na %2",module,Magento_MediaStorage
+"Synchronizing...","Sinhronizacija...",module,Magento_MediaStorage
+"The timeout limit for response from synchronize process was reached.","Dosežena je bila časovna omejitev za odgovor iz procesa sinhronizacije.",module,Magento_MediaStorage
+"File %1 does not exist","Datoteka %1 ne obstaja",module,Magento_MediaStorage
+"File %1 is not readable","Datoteka %1 ni berljiva",module,Magento_MediaStorage
+"File System","Datotečni sistem",module,Magento_MediaStorage
 "Database","Podatkovna baza",module,Magento_MediaStorage
-"database ""%1""","database ""%1""",module,Magento_MediaStorage
-"Parent directory does not exist: %1","Parent directory does not exist: %1",module,Magento_MediaStorage
-"File system","File system",module,Magento_MediaStorage
-"Unable to save file ""%1"" at ""%2""","Unable to save file ""%1"" at ""%2""",module,Magento_MediaStorage
-"Wrong file info format","Wrong file info format",module,Magento_MediaStorage
-"Path ""%value%"" is protected and cannot be used.","Path ""%value%"" is protected and cannot be used.",module,Magento_MediaStorage
-"Path ""%value%"" is not available and cannot be used.","Path ""%value%"" is not available and cannot be used.",module,Magento_MediaStorage
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\\").","Path ""%value%"" may not include parent directory traversal (""../"", ""..\\").",module,Magento_MediaStorage
-"Please set available and/or protected paths list(s) before validation.","Please set available and/or protected paths list(s) before validation.",module,Magento_MediaStorage
-"File with an extension ""%value%"" is protected and cannot be uploaded","File with an extension ""%value%"" is protected and cannot be uploaded",module,Magento_MediaStorage
-"Unable to create directory: %1","Unable to create directory: %1",module,Magento_MediaStorage
-"Unable to save file: %1","Unable to save file: %1",module,Magento_MediaStorage
-"Storage Configuration for Media","Storage Configuration for Media",module,Magento_MediaStorage
+"database ""%1""","podatkovna baza ""%1""",module,Magento_MediaStorage
+"Parent directory does not exist: %1","Nadrejeni imenik ne obstaja: %1",module,Magento_MediaStorage
+"File system","Datotečni sistem",module,Magento_MediaStorage
+"Unable to save file ""%1"" at ""%2""","Ni mogoče shraniti datoteke ""%1"" v ""%2""",module,Magento_MediaStorage
+"Wrong file info format","Napačne informacije formata datoteke",module,Magento_MediaStorage
+"Path ""%value%"" is protected and cannot be used.","Pot ""%value%"" je zaščitena in je ni mogoče uporabiti.",module,Magento_MediaStorage
+"Path ""%value%"" is not available and cannot be used.","Pot ""%value%"" ni na voljo in je ni mogoče uporabiti.",module,Magento_MediaStorage
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\\).""","Pot ""%value%"" ne sme vključevati prehajanja v starševske direktorije (""../"", ""..\\).""",module,Magento_MediaStorage
+"Please set available and/or protected paths list(s) before validation.","Nastavite na voljo in/ali sezname zaščitenih poti pred preverjanjem.",module,Magento_MediaStorage
+"File with an extension ""%value%"" is protected and cannot be uploaded","Datoteka s končnico ""%value%"" je zaščitena in je ni mogoče naložiti",module,Magento_MediaStorage
+"Unable to create directory: %1","Ni mogoče ustvariti imenika: %1",module,Magento_MediaStorage
+"Unable to save file: %1","Ni mogoče shraniti datoteke: %1",module,Magento_MediaStorage
+"Storage Configuration for Media","Nastavitve shranjevanja za medije",module,Magento_MediaStorage
 "Media Storage","Shramba medijev",module,Magento_MediaStorage
-"Select Media Database","Select Media Database",module,Magento_MediaStorage
-"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.",module,Magento_MediaStorage
-"Environment Update Time","Environment Update Time",module,Magento_MediaStorage
-"Path "%value%" may not include parent directory traversal ("../", "..\").","Path "%value%" may not include parent directory traversal ("../", "..\").",module,Magento_MediaStorage
+"Select Media Database","Izberite medijsko podatkovno bazo",module,Magento_MediaStorage
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Po izbiri nove lokacije medijske shrambe, pritisnite gumb za sinhronizacijo, da prenesete vse medije na to lokacijo. Mediji ne bodo na voljo na novi lokaciji dokler ne bo proces sinhronizacije končan.",module,Magento_MediaStorage
+"Environment Update Time","Čas posodobitve okolja",module,Magento_MediaStorage
+"Path %value%"" may not include parent directory traversal (""../"",""..\"").","Pot %value%"" ne sme vključevati prehajanja v starševske direktorije (""../"",""..\"").",module,Magento_MediaStorage

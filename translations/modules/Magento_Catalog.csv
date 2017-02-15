@@ -578,150 +578,150 @@
 "Create Category","Ustvari kategorijo",module,Magento_Catalog
 "Image Detail","Podrobnosti slike",module,Magento_Catalog
 "unselect all","odznači vse",module,Magento_Catalog
-"Small","Small",module,Magento_Catalog
-"Main","Main",module,Magento_Catalog
+"Small","Majhno",module,Magento_Catalog
+"Main","Glavni",module,Magento_Catalog
 "Thumbnail","Sličica",module,Magento_Catalog
-"Custom image","Custom image",module,Magento_Catalog
-"Product Fields Auto-Generation","Product Fields Auto-Generation",module,Magento_Catalog
-"Mask for SKU","Mask for SKU",module,Magento_Catalog
-"Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder",module,Magento_Catalog
-"Mask for Meta Title","Mask for Meta Title",module,Magento_Catalog
-"Mask for Meta Keywords","Mask for Meta Keywords",module,Magento_Catalog
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders",module,Magento_Catalog
-"Mask for Meta Description","Mask for Meta Description",module,Magento_Catalog
-"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders",module,Magento_Catalog
-"Storefront","Storefront",module,Magento_Catalog
-"List Mode","List Mode",module,Magento_Catalog
-"Products per Page on Grid Allowed Values","Products per Page on Grid Allowed Values",module,Magento_Catalog
-"Comma-separated.","Comma-separated.",module,Magento_Catalog
-"Products per Page on Grid Default Value","Products per Page on Grid Default Value",module,Magento_Catalog
-"Must be in the allowed values list","Must be in the allowed values list",module,Magento_Catalog
-"Products per Page on List Allowed Values","Products per Page on List Allowed Values",module,Magento_Catalog
-"Products per Page on List Default Value","Products per Page on List Default Value",module,Magento_Catalog
-"Use Flat Catalog Category","Use Flat Catalog Category",module,Magento_Catalog
-"Use Flat Catalog Product","Use Flat Catalog Product",module,Magento_Catalog
-"Product Listing Sort by","Product Listing Sort by",module,Magento_Catalog
-"Allow All Products per Page","Allow All Products per Page",module,Magento_Catalog
-"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","Allow Dynamic Media URLs in Products and Categories",module,Magento_Catalog
-"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.",module,Magento_Catalog
-"Product Image Placeholders","Product Image Placeholders",module,Magento_Catalog
-"Search Engine Optimization","Search Engine Optimization",module,Magento_Catalog
-"Page Title Separator","Page Title Separator",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Categories","Use Canonical Link Meta Tag For Categories",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Products","Use Canonical Link Meta Tag For Products",module,Magento_Catalog
-"Catalog Price Scope","Catalog Price Scope",module,Magento_Catalog
-"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").",module,Magento_Catalog
-"Category Top Navigation","Category Top Navigation",module,Magento_Catalog
-"Maximal Depth","Maximal Depth",module,Magento_Catalog
-"Date & Time Custom Options","Date & Time Custom Options",module,Magento_Catalog
-"Use JavaScript Calendar","Use JavaScript Calendar",module,Magento_Catalog
-"Date Fields Order","Date Fields Order",module,Magento_Catalog
-"Time Format","Time Format",module,Magento_Catalog
-"Year Range","Year Range",module,Magento_Catalog
-"Please use a four-digit year format.","Please use a four-digit year format.",module,Magento_Catalog
-"Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
-"Watermark Default Size","Watermark Default Size",module,Magento_Catalog
-"Watermark Opacity, Percent","Watermark Opacity, Percent",module,Magento_Catalog
+"Custom image","Slika po meri",module,Magento_Catalog
+"Product Fields Auto-Generation","Samodejna generacija polj izdelka",module,Magento_Catalog
+"Mask for SKU","Maska za SKU",module,Magento_Catalog
+"Use {{name}} as Product Name placeholder","Uporabi {{name}} kot prostor za ime izdelka",module,Magento_Catalog
+"Mask for Meta Title","Maska za meta naslov",module,Magento_Catalog
+"Mask for Meta Keywords","Maska za meta ključne besede",module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Uporabite {{name}} kot ime izdelka ali {{sku}} kot prostor za SKU izdelka",module,Magento_Catalog
+"Mask for Meta Description","Maska za meta opis",module,Magento_Catalog
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Uporabite {{name}} in {{description}} kot prostora za ime in opis izdelka",module,Magento_Catalog
+"Storefront","Ospredje trgovine",module,Magento_Catalog
+"List Mode","Način seznama",module,Magento_Catalog
+"Products per Page on Grid Allowed Values","Vrednosti dovoljenih izdelkov na stran mreže",module,Magento_Catalog
+"Comma-separated.","Ločeno z vejico.",module,Magento_Catalog
+"Products per Page on Grid Default Value","Privzeta vrednost izdelkov na stran mreže",module,Magento_Catalog
+"Must be in the allowed values list","Mora biti v seznamu dovoljenih vrednosti",module,Magento_Catalog
+"Products per Page on List Allowed Values","Dovoljene vrednosti izdelkov na stran seznama",module,Magento_Catalog
+"Products per Page on List Default Value","Privzeta vrednost izdelkov na stran seznama",module,Magento_Catalog
+"Use Flat Catalog Category","Uporabi kategorijo nepovezanega kataloga",module,Magento_Catalog
+"Use Flat Catalog Product","Uporabi izdelek nepovezanega kataloga",module,Magento_Catalog
+"Product Listing Sort by","Seznam izdelkov uredi po",module,Magento_Catalog
+"Allow All Products per Page","Omogoči vse izdelke na stran",module,Magento_Catalog
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Ali prikaže možnost ""Vsi"" v spustnem seznamu ""Prikaži X na stran""",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","Omogoči dinamične medijske URL-je v izdelkih in kategorijah",module,Magento_Catalog
+"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Npr. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Prevajanje dinamičnih direktiv vpliva na uspešnost delovanja kataloga.",module,Magento_Catalog
+"Product Image Placeholders","Prostori za slike izdelkov",module,Magento_Catalog
+"Search Engine Optimization","Optimizacija za iskalnike",module,Magento_Catalog
+"Page Title Separator","Ločilo naslova strani",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Categories","Uporabi meta značko kanonične povezave za kategorije",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Products","Uporabi meta značko kanonične povezave za izdelke",module,Magento_Catalog
+"Catalog Price Scope","Obseg cen kataloga",module,Magento_Catalog
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","To definira obseg osnovne valute (""Nastavitev valute"" > ""Možnosti valute"" > ""Osnovna valuta"").",module,Magento_Catalog
+"Category Top Navigation","Vrhnja navigacija kategorij",module,Magento_Catalog
+"Maximal Depth","Največja globina",module,Magento_Catalog
+"Date & Time Custom Options","Možnosti datuma in časa po meri",module,Magento_Catalog
+"Use JavaScript Calendar","Uporaba koledarja JavaScript",module,Magento_Catalog
+"Date Fields Order","Vrstni red polj datuma",module,Magento_Catalog
+"Time Format","Oblika časa",module,Magento_Catalog
+"Year Range","Obseg leta",module,Magento_Catalog
+"Please use a four-digit year format.","Prosimo, uporabite obliko štirimestne letnice.",module,Magento_Catalog
+"Product Image Watermarks","Vodni žig slike izdelka",module,Magento_Catalog
+"Watermark Default Size","Privzeta velikost vodnega žiga",module,Magento_Catalog
+"Watermark Opacity, Percent","Prozornost vodnega žiga, odstotek",module,Magento_Catalog
 "Watermark","Vodni žig",module,Magento_Catalog
 "Watermark Position","Položaj vodne žiga",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG for Catalog","Use Static URLs for Media Content in WYSIWYG for Catalog",module,Magento_Catalog
-"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
-"Top Level Category","Top Level Category",module,Magento_Catalog
-"Product Flat Data","Product Flat Data",module,Magento_Catalog
-"Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
-"Category Flat Data","Category Flat Data",module,Magento_Catalog
-"Reorganize EAV category structure to flat structure","Reorganize EAV category structure to flat structure",module,Magento_Catalog
-"Indexed category/products association","Indexed category/products association",module,Magento_Catalog
-"Product Categories","Product Categories",module,Magento_Catalog
-"Indexed product/categories association","Indexed product/categories association",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG for Catalog","Uporabi statične URL-je za medijske vsebine v WYSIWYG za katalog",module,Magento_Catalog
+"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","To velja le za katalog izdelkov in kategorij. Medijske vsebine se vstavijo v urejevalnik kot statični URL. Medijske vsebine se ne posodobijo, če se spremeni osnovni URL sistemskih nastavitev.",module,Magento_Catalog
+"Top Level Category","Vrhnja kategorija",module,Magento_Catalog
+"Product Flat Data","Nepovezani podatki izdelka",module,Magento_Catalog
+"Reorganize EAV product structure to flat structure","Ponovna organizacija strukture izdelkov EAV na nepovezano strukturo",module,Magento_Catalog
+"Category Flat Data","Nepovezani podatki kategorije",module,Magento_Catalog
+"Reorganize EAV category structure to flat structure","Ponovna organizacija strukture kategorij EAV na nepovezano strukturo",module,Magento_Catalog
+"Indexed category/products association","Indeksirana združenja kategorij/izdelkov",module,Magento_Catalog
+"Product Categories","Kategorije izdelkov",module,Magento_Catalog
+"Indexed product/categories association","Indeksirana združenja izdelkov/kategorij",module,Magento_Catalog
 "Product Price","Cena izdelka",module,Magento_Catalog
-"Index product prices","Index product prices",module,Magento_Catalog
-"Product EAV","Product EAV",module,Magento_Catalog
-"Index product EAV","Index product EAV",module,Magento_Catalog
-"Catalog New Products List","Catalog New Products List",module,Magento_Catalog
-"List of Products that are set as New","List of Products that are set as New",module,Magento_Catalog
+"Index product prices","Indeksiranje cen izdelkov",module,Magento_Catalog
+"Product EAV","EAV izdelka",module,Magento_Catalog
+"Index product EAV","Indeksiranje EAV izdelkov",module,Magento_Catalog
+"Catalog New Products List","Seznam novih izdelkov kataloga",module,Magento_Catalog
+"List of Products that are set as New","Seznam izdelkov, ki so določeni kot novi",module,Magento_Catalog
 "Display Type","Vrsta prikaza",module,Magento_Catalog
 "All products - recently added products, New products - products marked as new","Vsi izdelki - pred kratkim dodani izdelki, novi izdelki - izdelki, označeni za nove",module,Magento_Catalog
 "All products","Vsi izdelki",module,Magento_Catalog
 "New products","Novi izdelki",module,Magento_Catalog
-"Display Page Control","Display Page Control",module,Magento_Catalog
-"Number of Products per Page","Number of Products per Page",module,Magento_Catalog
-"Number of Products to Display","Number of Products to Display",module,Magento_Catalog
+"Display Page Control","Prikaži kontrolnik strani",module,Magento_Catalog
+"Number of Products per Page","Število izdelkov na stran",module,Magento_Catalog
+"Number of Products to Display","Število izdelkov za prikaz",module,Magento_Catalog
 "Template","Predloga",module,Magento_Catalog
-"New Products Grid Template","New Products Grid Template",module,Magento_Catalog
-"New Products List Template","New Products List Template",module,Magento_Catalog
-"New Products Images and Names Template","New Products Images and Names Template",module,Magento_Catalog
-"New Products Names Only Template","New Products Names Only Template",module,Magento_Catalog
-"New Products Images Only Template","New Products Images Only Template",module,Magento_Catalog
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_Catalog
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_Catalog
-"Catalog Product Link","Catalog Product Link",module,Magento_Catalog
-"Link to a Specified Product","Link to a Specified Product",module,Magento_Catalog
+"New Products Grid Template","Predloga mreže novih izdelkov",module,Magento_Catalog
+"New Products List Template","Predloga seznama novih izdelkov",module,Magento_Catalog
+"New Products Images and Names Template","Predloga slik in imen novih izdelkov",module,Magento_Catalog
+"New Products Names Only Template","Predloga samo imen novih izdelkov",module,Magento_Catalog
+"New Products Images Only Template","Predloga samo slik novih izdelkov",module,Magento_Catalog
+"Cache Lifetime (Seconds)","Življenska doba predpomnilnika (sekunde)",module,Magento_Catalog
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 je privzeto, če ni nastavljeno. Če želite osvežiti takoj, počistite bloke HTML izhodnega predpomnilnika.",module,Magento_Catalog
+"Catalog Product Link","Povezava izdelka kataloga",module,Magento_Catalog
+"Link to a Specified Product","Povezava na določen izdelek",module,Magento_Catalog
 "Select Product...","Izberite izdelek...",module,Magento_Catalog
 "Anchor Custom Text","Sidro besedila po meri",module,Magento_Catalog
-"If empty, we'll use the product name here.","If empty, we'll use the product name here.",module,Magento_Catalog
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Catalog
-"Product Link Block Template","Product Link Block Template",module,Magento_Catalog
-"Product Link Inline Template","Product Link Inline Template",module,Magento_Catalog
-"Catalog Category Link","Catalog Category Link",module,Magento_Catalog
-"Link to a Specified Category","Link to a Specified Category",module,Magento_Catalog
-"Select Category...","Select Category...",module,Magento_Catalog
-"If empty, we'll use the category name here.","If empty, we'll use the category name here.",module,Magento_Catalog
-"Category Link Block Template","Category Link Block Template",module,Magento_Catalog
-"Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
+"If empty, we'll use the product name here.","Če je prazno, bomo tu uporabili ime izdelka.",module,Magento_Catalog
+"Anchor Custom Title","Naslov sidra po meri",module,Magento_Catalog
+"Product Link Block Template","Predloga bloka povezave izdelka",module,Magento_Catalog
+"Product Link Inline Template","Predloga vrstice povezave izdelka",module,Magento_Catalog
+"Catalog Category Link","Povezava kategorije kataloga",module,Magento_Catalog
+"Link to a Specified Category","Povezava na določeno kategorijo",module,Magento_Catalog
+"Select Category...","Izberite kategorijo ...",module,Magento_Catalog
+"If empty, we'll use the category name here.","Če je prazno, bomo tu uporabili ime kategorije.",module,Magento_Catalog
+"Category Link Block Template","Predloga bloka povezave kataloga",module,Magento_Catalog
+"Category Link Inline Template","Predloga vrstice povezave kategorije",module,Magento_Catalog
 "Set","Nabor",module,Magento_Catalog
 "All Store Views","Ogledi celotne trgovine",module,Magento_Catalog
 "Delete items","Izbriši elemente",module,Magento_Catalog
-"Delete selected items?","Delete selected items?",module,Magento_Catalog
-"Change status","Change status",module,Magento_Catalog
+"Delete selected items?","Ali želite izbrisati izbrane elemente?",module,Magento_Catalog
+"Change status","Spremeni stanje",module,Magento_Catalog
 "Enable","Omogoči",module,Magento_Catalog
 "Disable","Onemogoči",module,Magento_Catalog
-"Update attributes","Update attributes",module,Magento_Catalog
-"none","none",module,Magento_Catalog
-"Overview","Overview",module,Magento_Catalog
+"Update attributes","Posodobitev atributov",module,Magento_Catalog
+"none","noben",module,Magento_Catalog
+"Overview","Pregled",module,Magento_Catalog
 "Details","Podrobnosti",module,Magento_Catalog
-"Inventory","Inventory",module,Magento_Catalog
-"Catalog Section","Catalog Section",module,Magento_Catalog
-"Category Information","Category Information",module,Magento_Catalog
-"Enable Category","Enable Category",module,Magento_Catalog
-"Include in Menu","Include in Menu",module,Magento_Catalog
-"Content","Content",module,Magento_Catalog
-"Category Image","Category Image",module,Magento_Catalog
-"Add CMS Block","Add CMS Block",module,Magento_Catalog
-"Display Settings","Display Settings",module,Magento_Catalog
-"Anchor","Anchor",module,Magento_Catalog
-"Sort Products By","Sort Products By",module,Magento_Catalog
-"Use All","Use All",module,Magento_Catalog
-"Default Product Sorting","Default Product Sorting",module,Magento_Catalog
-"Layered Navigation Price Step","Layered Navigation Price Step",module,Magento_Catalog
-"URL Key","URL Key",module,Magento_Catalog
-"Meta Title","Meta Title",module,Magento_Catalog
-"Meta Keywords","Meta Keywords",module,Magento_Catalog
-"Meta Description","Meta Description",module,Magento_Catalog
-"Products in Category","Products in Category",module,Magento_Catalog
-"Design","Design",module,Magento_Catalog
-"Use Parent Category Settings","Use Parent Category Settings",module,Magento_Catalog
-"Theme","Theme",module,Magento_Catalog
-"Layout","Layout",module,Magento_Catalog
-"Layout Update XML","Layout Update XML",module,Magento_Catalog
-"Apply Design to Products","Apply Design to Products",module,Magento_Catalog
-"Schedule Design Update","Schedule Design Update",module,Magento_Catalog
+"Inventory","Zaloga",module,Magento_Catalog
+"Catalog Section","Sekcija kataloga",module,Magento_Catalog
+"Category Information","Informacije kataloga",module,Magento_Catalog
+"Enable Category","Omogoči kategorijo",module,Magento_Catalog
+"Include in Menu","Vključi v meniju",module,Magento_Catalog
+"Content","Vsebina",module,Magento_Catalog
+"Category Image","Slika kategorije",module,Magento_Catalog
+"Add CMS Block","Dodaj blok CMS",module,Magento_Catalog
+"Display Settings","Nastavitve zaslona",module,Magento_Catalog
+"Anchor","Sidro",module,Magento_Catalog
+"Sort Products By","Izdelke razvrsti po",module,Magento_Catalog
+"Use All","Uporabite vse",module,Magento_Catalog
+"Default Product Sorting","Privzeto razvrščanje izdelkov",module,Magento_Catalog
+"Layered Navigation Price Step","Nivojska navigacija koraka cene",module,Magento_Catalog
+"URL Key","Ključ URL-ja",module,Magento_Catalog
+"Meta Title","Meta naslov",module,Magento_Catalog
+"Meta Keywords","Meta ključne besede",module,Magento_Catalog
+"Meta Description","Meta opis",module,Magento_Catalog
+"Products in Category","Izdelki v kategoriji",module,Magento_Catalog
+"Design","Oblika",module,Magento_Catalog
+"Use Parent Category Settings","Uporabi nastavitve nadrejene kategorije",module,Magento_Catalog
+"Theme","Tema",module,Magento_Catalog
+"Layout","Postavitev",module,Magento_Catalog
+"Layout Update XML","XML posodobitve postavitve",module,Magento_Catalog
+"Apply Design to Products","Uporabi obliko na izdelkih",module,Magento_Catalog
+"Schedule Design Update","Urnik posodobitve oblike",module,Magento_Catalog
 "AttributeSetText","AttributeSetText",module,Magento_Catalog
 "StatusText","StatusText",module,Magento_Catalog
-"Base","Base",module,Magento_Catalog
-"Image","Image",module,Magento_Catalog
-"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Catalog
-"Image Opacity","Image Opacity",module,Magento_Catalog
-"Example format: 200x300.","Example format: 200x300.",module,Magento_Catalog
-"Image Position","Image Position",module,Magento_Catalog
-"Attribute Properties","Attribute Properties",module,Magento_Catalog
-"Attribute Label","Attribute Label",module,Magento_Catalog
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
-"Values","Values",module,Magento_Catalog
-"Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-"Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
-"System","System",module,Magento_Catalog
+"Base","Osnova",module,Magento_Catalog
+"Image","Slika",module,Magento_Catalog
+"Allowed file types: jpeg, gif, png.","Dovoljene vrste datotek: jpeg, gif, png.",module,Magento_Catalog
+"Image Opacity","Prosojnost slike",module,Magento_Catalog
+"Example format: 200x300.","Primer formata: 200x300.",module,Magento_Catalog
+"Image Position","Pozicija slike",module,Magento_Catalog
+"Attribute Properties","Lastnosti atributa",module,Magento_Catalog
+"Attribute Label","Oznaka atributa",module,Magento_Catalog
+"Catalog Input Type for Store Owner","Vrsta vnosa kataloga za lastnika trgovine",module,Magento_Catalog
+"Values","Vrednosti",module,Magento_Catalog
+"Add this attribute to the list of column options in the product grid.","Dodaj ta atribut na seznam možnosti stolpca v mreži izdelka.",module,Magento_Catalog
+"Add this attribute to the list of filter options in the product grid.","Dodaj ta atribut na seznam možnosti filtrov v mreži izdelka.",module,Magento_Catalog
+"System","Sistem",module,Magento_Catalog
 "Done","Urejeno",module,Magento_Catalog
 "Add Selected","Dodaj izbrane",module,Magento_Catalog
 "Select Attribute","Izberi atribut",module,Magento_Catalog
@@ -733,34 +733,34 @@
 "%1","%1",module,Magento_Catalog
 "This item has weight","Ta element ima težo",module,Magento_Catalog
 "This item has no weight","Ta element nima teže",module,Magento_Catalog
-"Set Product as New From","Set Product as New From",module,Magento_Catalog
-"Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells",module,Magento_Catalog
-"Related products are shown to customers in addition to the item the customer is looking at.","Related products are shown to customers in addition to the item the customer is looking at.",module,Magento_Catalog
-"Add Related Products","Add Related Products",module,Magento_Catalog
-"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.",module,Magento_Catalog
-"Add Up-Sell Products","Add Up-Sell Products",module,Magento_Catalog
-"Up-Sell Products","Up-Sell Products",module,Magento_Catalog
+"Set Product as New From","Nastavite izdelek kot nov obrazec",module,Magento_Catalog
+"Related Products, Up-Sells, and Cross-Sells","Povezani izdelki, nadaljnja prodaja in navkrižna prodaja",module,Magento_Catalog
+"Related products are shown to customers in addition to the item the customer is looking at.","Povezani izdelki so prikazani strankam poleg elementa, ki si ga kupec ogleduje.",module,Magento_Catalog
+"Add Related Products","Dodaj povezane izdelke",module,Magento_Catalog
+"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Element za nadaljnjo prodajo je ponujen kupcu kot dražji ali pa alternativa višje kvalitete produkta, ki ga kupec išče.",module,Magento_Catalog
+"Add Up-Sell Products","Dodaj izdelke za nadaljnjo prodajo",module,Magento_Catalog
+"Up-Sell Products","Izdelki za nadaljnjo prodajo",module,Magento_Catalog
 "These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Ti izdelki ""impulznega-nakupa"" se pojavijo zraven košarice kot navzkrižna prodaja elementom, ki so že v košarici.",module,Magento_Catalog
-"Add Cross-Sell Products","Add Cross-Sell Products",module,Magento_Catalog
-"Cross-Sell Products","Cross-Sell Products",module,Magento_Catalog
-"Add Selected Products","Add Selected Products",module,Magento_Catalog
-"Remove","Remove",module,Magento_Catalog
-"Schedule Update From","Schedule Update From",module,Magento_Catalog
-"Product in Websites","Product in Websites",module,Magento_Catalog
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view.",module,Magento_Catalog
-"name","name",module,Magento_Catalog
-"Copy Data from","Copy Data from",module,Magento_Catalog
+"Add Cross-Sell Products","Izdelki za navzkrižno prodajo",module,Magento_Catalog
+"Cross-Sell Products","Izdelki za navzkrižno prodajo",module,Magento_Catalog
+"Add Selected Products","Dodaj izbrane izdelke",module,Magento_Catalog
+"Remove","Odstrani",module,Magento_Catalog
+"Schedule Update From","Razpored posodobitve od",module,Magento_Catalog
+"Product in Websites","Izdelek na spletnih straneh",module,Magento_Catalog
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","Če ima vaša stran Magento več pogledov, lahko nastavite obseg za določitev določenemu pogledu.",module,Magento_Catalog
+"name","ime",module,Magento_Catalog
+"Copy Data from","Kopiranje podatkov iz",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","Če ni nadrejenih kategorij po meri, uporabite privzeto nadrejeno kategorijo. Kategorijo lahko dodelite kadarkoli v <a href=""%1"" target=""_blank"">Izdelki &gt; Kategorije</a>.",module,Magento_Catalog
-"Please confirm site switching. All data that hasn't been saved will be lost.","Please confirm site switching. All data that hasn't been saved will be lost.",module,Magento_Catalog
-"Manage Options (Values of Your Attribute)","Manage Options (Values of Your Attribute)",module,Magento_Catalog
-"Sorry, we're unable to complete this request.","Sorry, we're unable to complete this request.",module,Magento_Catalog
-"You can't remove attributes from this attribute set.","You can't remove attributes from this attribute set.",module,Magento_Catalog
-"The field isn't complete.","The field isn't complete.",module,Magento_Catalog
-"We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Catalog
-"Browse to find or drag image here","Browse to find or drag image here",module,Magento_Catalog
-"Image Size","Image Size",module,Magento_Catalog
+"Please confirm site switching. All data that hasn't been saved will be lost.","Prosimo, potrdite, preklop strani. Vsi podatki, ki niso bili shranjeni, bodo izgubljeni.",module,Magento_Catalog
+"Manage Options (Values of Your Attribute)","Upravljanje možnosti (vrednosti vašega atributa)",module,Magento_Catalog
+"Sorry, we're unable to complete this request.","Tega zahtevka žal nismo uspeli dokončati.",module,Magento_Catalog
+"You can't remove attributes from this attribute set.","S tega nabora atributov ni mogoče odstraniti atributov.",module,Magento_Catalog
+"The field isn't complete.","Polje ni popolno.",module,Magento_Catalog
+"We can't save custom-defined options for bundles with dynamic pricing.","Po meri definiranih možnosti ne moremo shraniti za pakete z dinamičnimi cenami.",module,Magento_Catalog
+"Browse to find or drag image here","Prebrskajte, da najdete ali povlečete sliko sem",module,Magento_Catalog
+"Image Size","Velikost slike",module,Magento_Catalog
 "{size}","{size}",module,Magento_Catalog
-"Image Resolution","Image Resolution",module,Magento_Catalog
+"Image Resolution","Ločljivost slike",module,Magento_Catalog
 "{width}^{height} px","{width}^{height} px",module,Magento_Catalog
-"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_Catalog
-"We can't find products matching the selection.","We can't find products matching the selection.",module,Magento_Catalog
+"Allow Multiple Boxes for Shipping","Dovoli več paketov za pošiljanje",module,Magento_Catalog
+"We can't find products matching the selection.","Izdelkov, ki ustrezajo izbiri, ni mogoče najti.",module,Magento_Catalog

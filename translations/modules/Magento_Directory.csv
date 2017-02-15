@@ -18,20 +18,20 @@
 "Currency","Valuta",module,Magento_Directory
 "Your current currency is: %1.","Vaša trenutna valuta je: %1.",module,Magento_Directory
 "Continue","Nadaljuj",module,Magento_Directory
-"Currency Update Warnings","Currency Update Warnings",module,Magento_Directory
+"Currency Update Warnings","Opozorila posodobitev valut",module,Magento_Directory
 "Currency Setup","Nastavitev valute",module,Magento_Directory
 "Currency Options","Možnosti valute",module,Magento_Directory
 "Base Currency","Osnovna valuta",module,Magento_Directory
 "
                         Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
                     ","
-                        Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                        Osnovna valuta je uporabljena za vse transakcije spletnih plačil. Če imate več kot en pogled trgovine, je obseg osnovne valute definiran z obsegom cene kataloga (""Katalog"" > ""Cena"" > ""Obseg cene kataloga"").
                     ",module,Magento_Directory
 "Default Display Currency","Privzeta valuta prikaza",module,Magento_Directory
 "Allowed Currencies","Dovoljene valute",module,Magento_Directory
 "Webservicex","Webservicex",module,Magento_Directory
 "Connection Timeout in Seconds","Časovna omejitev povezave v sekundah",module,Magento_Directory
-"Scheduled Import Settings","Scheduled Import Settings",module,Magento_Directory
+"Scheduled Import Settings","Nastavitve načrtovanega uvoza",module,Magento_Directory
 "Enabled","Omogočeno",module,Magento_Directory
 "Error Email Recipient","Prejemnik e-pošte napake",module,Magento_Directory
 "Error Email Sender","Pošiljatelj e-pošte napake",module,Magento_Directory
@@ -44,15 +44,16 @@
 "Zip/Postal Code is Optional for","Poštna številka ni obvezna za",module,Magento_Directory
 "State Options","Možnosti območja",module,Magento_Directory
 "State is Required for","Območje je zahtevano za",module,Magento_Directory
-"Allow to Choose State if It is Optional for Country","Allow to Choose State if It is Optional for Country",module,Magento_Directory
+"Allow to Choose State if It is Optional for Country","Dovoli izbiro regije, če je možna za državo",module,Magento_Directory
 "Weight Unit","Enota teže",module,Magento_Directory
-"We can't retrieve a rate from %1 for %2.","We can't retrieve a rate from %1 for %2.",module,Magento_Directory
-"We can't retrieve a rate from %1.","We can't retrieve a rate from %1.",module,Magento_Directory
-"We can't initialize the import model.","We can't initialize the import model.",module,Magento_Directory
+"We can't retrieve a rate from %1 for %2.","Stopnje iz %1 za %2 ni mogoče pridobiti.",module,Magento_Directory
+"We can't retrieve a rate from %1.","Stopnje iz %1 ni mogoče pridobiti.",module,Magento_Directory
+"We can't initialize the import model.","Modela uvoza ni mogoče inicializirati.",module,Magento_Directory
 "
-                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope ("Catalog" > "Price" > "Catalog Price Scope").
-                    ","
-                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope ("Catalog" > "Price" > "Catalog Price Scope").
-                    ",module,Magento_Directory
-"Yahoo Finance Exchange","Yahoo Finance Exchange",module,Magento_Directory
+                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (Catalog"" > ""Price"" > ""Catalog Price Scope"").","
+                        Osnovna valuta je uporabljena za vse transakcije spletnih plačil. Obseg osnovne valute je definiran z obsegom cene kataloga (""Katalog"" > ""Cena"" > ""Obseg cene kataloga"")."
+",",","
+"                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","                        Osnovna valuta je uporabljena za vse transakcije spletnih plačil. Obseg osnovne valute je definiran z obsegom cene kataloga (""Katalog"" > ""Cena"" > ""Obseg cene kataloga"")."
+",module,Magento_Directory
+Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
 "Fixer.io","Fixer.io",module,Magento_Directory
