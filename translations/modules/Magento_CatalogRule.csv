@@ -66,25 +66,25 @@
 "Product Attribute","Atribut izdelka",module,Magento_CatalogRule
 "Updated rules applied.","Posodobljena pravila so bila uporabljena.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","Onemogočili ste %1 pravila cen kataloga, ki temeljijo na atributu ""%2"".",module,Magento_CatalogRule
-"Catalog Rule Product","Catalog Rule Product",module,Magento_CatalogRule
-"Indexed rule/product association","Indexed rule/product association",module,Magento_CatalogRule
-"Catalog Product Rule","Catalog Product Rule",module,Magento_CatalogRule
-"Indexed product/rule association","Indexed product/rule association",module,Magento_CatalogRule
-"Rule","Rule",module,Magento_CatalogRule
+"Catalog Rule Product","Izdelek kataloga pravil",module,Magento_CatalogRule
+"Indexed rule/product association","Združenje indeksiranih pravil/izdelkov",module,Magento_CatalogRule
+"Catalog Product Rule","Pravilo izdelka kataloga",module,Magento_CatalogRule
+"Indexed product/rule association","Združenje indeksiranih izdelkov/pravil",module,Magento_CatalogRule
+"Rule","Pravilo",module,Magento_CatalogRule
 "Start","Začetek",module,Magento_CatalogRule
-"End","End",module,Magento_CatalogRule
+"End","Konec",module,Magento_CatalogRule
 "Web Site","Spletno mesto",module,Magento_CatalogRule
-"Delete Rule","Delete Rule",module,Magento_CatalogRule
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_CatalogRule
-"Reset","Reset",module,Magento_CatalogRule
-"Save","Save",module,Magento_CatalogRule
-"Conditions (don't add conditions if rule is applied to all products)","Conditions (don't add conditions if rule is applied to all products)",module,Magento_CatalogRule
-"We can't apply the rules.","We can't apply the rules.",module,Magento_CatalogRule
-"We can't delete this rule right now. Please review the log and try again.","We can't delete this rule right now. Please review the log and try again.",module,Magento_CatalogRule
-"We can't find a rule to delete.","We can't find a rule to delete.",module,Magento_CatalogRule
-"Unable to save rule %1","Unable to save rule %1",module,Magento_CatalogRule
+"Delete Rule","Izbriši pravilo",module,Magento_CatalogRule
+"Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_CatalogRule
+"Reset","Ponastavitev",module,Magento_CatalogRule
+"Save","Shrani",module,Magento_CatalogRule
+"Conditions (don't add conditions if rule is applied to all products)","Pogoji (ne dodajte pogojev, če je pravilo uporabljeno za vse izdelke)",module,Magento_CatalogRule
+"We can't apply the rules.","Pravil ni mogoče uporabiti.",module,Magento_CatalogRule
+"We can't delete this rule right now. Please review the log and try again.","Tega pravila trenutno ni mogoče izbrisati. Preglejte dnevnik in poskusite znova.",module,Magento_CatalogRule
+"We can't find a rule to delete.","Pravila za brisanje ni mogoče najti.",module,Magento_CatalogRule
+"Unable to save rule %1","Pravila %1 ni mogoče shraniti",module,Magento_CatalogRule
 "Rule with specified ID ""%1"" not found.","Pravila z določenim ID ""%1"" ni mogoče najti.",module,Magento_CatalogRule
-"Unable to remove rule %1","Unable to remove rule %1",module,Magento_CatalogRule
-"We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_CatalogRule
-"Catalog rule indexing failed. See details in exception log.","Catalog rule indexing failed. See details in exception log.",module,Magento_CatalogRule
-"Back","Back",module,Magento_CatalogRule
+"Unable to remove rule %1","Pravila %1 ni mogoče odstraniti",module,Magento_CatalogRule
+"We can't rebuild the index for an undefined product.","Obnova indeksa za nedefinirani izdelek ni mogoča.",module,Magento_CatalogRule
+"Catalog rule indexing failed. See details in exception log.","Indeksiranje pravila kataloga ni uspelo. Glejte podrobnosti v dnevniku izjem.",module,Magento_CatalogRule
+"Back","Nazaj",module,Magento_CatalogRule

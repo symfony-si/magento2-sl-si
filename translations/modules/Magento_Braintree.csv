@@ -99,33 +99,33 @@
 "Yes","Da",module,Magento_Braintree
 "No","Ne",module,Magento_Braintree
 "Edit","Uredi",module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
-"Vault Enabled","Vault Enabled",module,Magento_Braintree
-"Vault Title","Vault Title",module,Magento_Braintree
-"Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
-"Skip Order Review","Skip Order Review",module,Magento_Braintree
-"Threshold Amount","Threshold Amount",module,Magento_Braintree
-"Verify for Applicable Countries","Verify for Applicable Countries",module,Magento_Braintree
-"Verify for Specific Countries","Verify for Specific Countries",module,Magento_Braintree
-"Dynamic Descriptors","Dynamic Descriptors",module,Magento_Braintree
-"Name","Name",module,Magento_Braintree
-"Phone","Phone",module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Sprejemanje kreditnih/debetnih kartic in PayPal-a v vaši trgovini Magento.<br/>Brez namestitve ali mesečne pristojbine in vaše stranke nikoli ne zapustijo vaše trgovine za dokončanje nakupa.",module,Magento_Braintree
+"Vault Enabled","Trezor omogočen",module,Magento_Braintree
+"Vault Title","Naslov trezorja",module,Magento_Braintree
+"Kount Merchant ID","ID trgovca Kount",module,Magento_Braintree
+"Skip Order Review","Preskoči pregled naročila",module,Magento_Braintree
+"Threshold Amount","Prag zneska",module,Magento_Braintree
+"Verify for Applicable Countries","Preveri za države, ki se uporabljajo",module,Magento_Braintree
+"Verify for Specific Countries","Preveri za določene države",module,Magento_Braintree
+"Dynamic Descriptors","Dinamični deskriptorji",module,Magento_Braintree
+"Name","Ime",module,Magento_Braintree
+"Phone","Telefon",module,Magento_Braintree
 "URL","URL",module,Magento_Braintree
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_Braintree
-"Select...","Select...",module,Magento_Braintree
-"Status","Status",module,Magento_Braintree
-"Transaction Type","Transaction Type",module,Magento_Braintree
-"Payment Type","Payment Type",module,Magento_Braintree
-"PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
-"Created At","Created At",module,Magento_Braintree
-"Transaction ID","Transaction ID",module,Magento_Braintree
-"Order ID","Order ID",module,Magento_Braintree
-"Amount","Amount",module,Magento_Braintree
-"Settlement Code","Settlement Code",module,Magento_Braintree
-"Settlement Response Text","Settlement Response Text",module,Magento_Braintree
-"Refund Ids","Refund Ids",module,Magento_Braintree
-"Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
-"Currency","Currency",module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Uporabite filtre, da dobite rezultate. Prikazanih je le prvih 100 zapisov v mreži, prenesli boste lahko polno verzijo poročila v obliki .csv.",module,Magento_Braintree
+"Select...","Izberi...",module,Magento_Braintree
+"Status","Stanje",module,Magento_Braintree
+"Transaction Type","Vrsta transakcije",module,Magento_Braintree
+"Payment Type","Vrsta plačila",module,Magento_Braintree
+"PayPal Payment ID","ID plačila PayPal",module,Magento_Braintree
+"Created At","Ustvarjeno",module,Magento_Braintree
+"Transaction ID","ID transakcije",module,Magento_Braintree
+"Order ID","ID naročila",module,Magento_Braintree
+"Amount","Znesek",module,Magento_Braintree
+"Settlement Code","Koda poravnave",module,Magento_Braintree
+"Settlement Response Text","Besedilo odziva poravnave",module,Magento_Braintree
+"Refund Ids","Id-ji povračil",module,Magento_Braintree
+"Settlement Batch ID","ID serije poravnave",module,Magento_Braintree
+"Currency","Valuta",module,Magento_Braintree
 "Braintree","Braintree",module,Magento_Braintree
 "&nbsp;","&nbsp;",module,Magento_Braintree
 "Enable this Solution","Omogoči to rešitev",module,Magento_Braintree
@@ -139,36 +139,36 @@
 "Public Key","Javni ključ",module,Magento_Braintree
 "Private Key","Zasebni ključ",module,Magento_Braintree
 "Advanced Braintree Settings","Napredne nastavitve Braintree",module,Magento_Braintree
-"Debug","Debug",module,Magento_Braintree
+"Debug","Razhroščevanje",module,Magento_Braintree
 "Capture action","Dejanje zajema",module,Magento_Braintree
-"New Order Status","New Order Status",module,Magento_Braintree
-"Use Vault","Use Vault",module,Magento_Braintree
+"New Order Status","Status novega naročila",module,Magento_Braintree
+"Use Vault","Uporabi trezor",module,Magento_Braintree
 "Allow Duplicate Cards","Dovoli podvojene kartice",module,Magento_Braintree
 "CVV Verification","Preverjanje CVV",module,Magento_Braintree
-"Credit Card Types","Credit Card Types",module,Magento_Braintree
+"Credit Card Types","Vrste kreditnih kartic",module,Magento_Braintree
 "Enable Credit Card auto-detection on Storefront","Omogoči samodejno zaznaanje kreditne kartice v prodajalnah",module,Magento_Braintree
-"Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_Braintree
-"Your Kount ID","Your Kount ID",module,Magento_Braintree
+"Advanced Fraud Protection","Napredna zaščita goljufije",module,Magento_Braintree
+"Your Kount ID","Kount ID",module,Magento_Braintree
 "Use Cache","Uporabi predpomnilnik",module,Magento_Braintree
 "Sort Order","Vrstni red",module,Magento_Braintree
 "Country Specific Settings","Nastavitve za posamezne države",module,Magento_Braintree
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Braintree
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Braintree
-"Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_Braintree
+"Payment from Applicable Countries","Plačilo iz uporabljenih držav",module,Magento_Braintree
+"Payment from Specific Countries","Plačilo iz določenih držav",module,Magento_Braintree
+"Country Specific Credit Card Types","Vrste kreditnih kartic za posebne države",module,Magento_Braintree
 "PayPal through Braintree","PayPal skozi Braintree",module,Magento_Braintree
-"Override Merchant Name","Override Merchant Name",module,Magento_Braintree
-"Display on Shopping Cart","Display on Shopping Cart",module,Magento_Braintree
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_Braintree
-"3D Secure Verification Settings","3D Secure Verification Settings",module,Magento_Braintree
-"3D Secure Verification","3D Secure Verification",module,Magento_Braintree
+"Override Merchant Name","Prepiši ime trgovca",module,Magento_Braintree
+"Display on Shopping Cart","Prikaz pri košarici",module,Magento_Braintree
+"Require Customer's Billing Address","Zahtevaj naslov za račun kupca",module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Dovoli urejanje dostavnega naslova vnešenega med nakupom na strani PayPal",module,Magento_Braintree
+"3D Secure Verification Settings","Nastavitve preverjanja 3D Secure",module,Magento_Braintree
+"3D Secure Verification","Potrditev 3D Secure",module,Magento_Braintree
 "Edit My Credit Cards","Urejanje mojih kreditnih kartic",module,Magento_Braintree
-"Credit Card Information","Credit Card Information",module,Magento_Braintree
-"Save for later use.","Save for later use.",module,Magento_Braintree
-"Place Order","Place Order",module,Magento_Braintree
-"This payment is not available","This payment is not available",module,Magento_Braintree
+"Credit Card Information","Informacije o kreditni kartici",module,Magento_Braintree
+"Save for later use.","Shrani za poznejšo uporabo.",module,Magento_Braintree
+"Place Order","Oddaj naročilo",module,Magento_Braintree
+"This payment is not available","To plačilo ni na voljo",module,Magento_Braintree
 "MM","MM",module,Magento_Braintree
 "YY","YY",module,Magento_Braintree
-"Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_Braintree
-"Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_Braintree
-"Payment ","Payment ",module,Magento_Braintree
+"Please try again with another form of payment.","Poskusite znova z drugačno obliko plačila.",module,Magento_Braintree
+"Sorry, but something went wrong.","Se opravičujemo, vendar nekaj ni v redu.",module,Magento_Braintree
+"Payment ","Plačilo ",module,Magento_Braintree

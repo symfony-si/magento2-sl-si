@@ -20,6 +20,6 @@
 "Mode","Način",module,Magento_Indexer
 "Status","Stanje",module,Magento_Indexer
 "Updated","Posodobljeno",module,Magento_Indexer
-"%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
-"Field '%1' not found","Field '%1' not found",module,Magento_Indexer
-"Change indexer mode","Change indexer mode",module,Magento_Indexer
+"%1 index is locked by another reindex process. Skipping.","Indeks %1 je zaklenjen zaradi drugega procesa ponovnega indeksiranja. Preskočeno.",module,Magento_Indexer
+"Field '%1' not found","Polja '%1' ni mogoče najti",module,Magento_Indexer
+"Change indexer mode","Spremeni način indeksiranja",module,Magento_Indexer

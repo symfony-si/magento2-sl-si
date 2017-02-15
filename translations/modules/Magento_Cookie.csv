@@ -5,9 +5,9 @@
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","V skladu z novo direktivo o e-zasebnosti, vas moramo vprašati za soglasje o nastavitvi piškotkov.",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1"">Izvedite več</a>.",module,Magento_Cookie
 "Allow Cookies","Dovoli piškotke",module,Magento_Cookie
-"Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
-"Cookie Lifetime","Cookie Lifetime",module,Magento_Cookie
-"Cookie Path","Cookie Path",module,Magento_Cookie
-"Cookie Domain","Cookie Domain",module,Magento_Cookie
-"Use HTTP Only","Use HTTP Only",module,Magento_Cookie
-"Cookie Restriction Mode","Cookie Restriction Mode",module,Magento_Cookie
+"Default Cookie Settings","Privzete nastavitve za piškotke",module,Magento_Cookie
+"Cookie Lifetime","Življenjska doba piškotka",module,Magento_Cookie
+"Cookie Path","Pot piškotka",module,Magento_Cookie
+"Cookie Domain","Domena piškotka",module,Magento_Cookie
+"Use HTTP Only","Uporabi samo HTTP",module,Magento_Cookie
+"Cookie Restriction Mode","Omejitveni način piškotka",module,Magento_Cookie

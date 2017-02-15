@@ -301,47 +301,47 @@
 "Customer Support","Podpora strankam",module,Magento_Backend
 "Design","Oblika",module,Magento_Backend
 "Design Theme","Tema oblike",module,Magento_Backend
-"User-Agent Exceptions","User-Agent Exceptions",module,Magento_Backend
+"User-Agent Exceptions","Izjeme uporabniškega klienta",module,Magento_Backend
 "
                         Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
                     ","
-                        Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
+                        Nizi iskanja so bodisi običajni nizzi ali splošne izjeme (PCRE). Ujemajo se v enakem vrstnem redu kot so vnešene. Primeri:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
                     ",module,Magento_Backend
-"Find a string in client user-agent header and switch to specific design theme for that browser.","Find a string in client user-agent header and switch to specific design theme for that browser.",module,Magento_Backend
+"Find a string in client user-agent header and switch to specific design theme for that browser.","Poiščite niz v glavi klienta uporabniškega agenta in preklopite na določeno temo oblike za ta brskalnik.",module,Magento_Backend
 "Pagination","Številčenje strani",module,Magento_Backend
 "Pagination Frame","Okvir številčenja strani",module,Magento_Backend
-"How many links to display at once.","How many links to display at once.",module,Magento_Backend
-"Pagination Frame Skip","Pagination Frame Skip",module,Magento_Backend
-"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.",module,Magento_Backend
-"Anchor Text for Previous","Anchor Text for Previous",module,Magento_Backend
-"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Alternative text for previous link in pagination menu. If empty, default arrow image will used.",module,Magento_Backend
-"Anchor Text for Next","Anchor Text for Next",module,Magento_Backend
-"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Alternative text for next link in pagination menu. If empty, default arrow image will used.",module,Magento_Backend
+"How many links to display at once.","Koliko povezav za prikaz naenkrat.",module,Magento_Backend
+"Pagination Frame Skip","Preskok ogrodja navigacije",module,Magento_Backend
+"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","Če trenutni položaj okvirja ne zajema vseh strani, prikaže povezavo na trenutni položaj plus/minus ta vrednost.",module,Magento_Backend
+"Anchor Text for Previous","Sidro besedilo za prejšnje",module,Magento_Backend
+"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Alternativni tekst za povezavo prejšnjih strani v meniju paginacije. Če je prazno, bo uporabljena privzeta slika puščice.",module,Magento_Backend
+"Anchor Text for Next","Besedilo sidra za naslednje",module,Magento_Backend
+"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Alternativni tekst za povezavo naslednjih strani v meniju paginacije. Če je prazno, bo uporabljena privzeta slika puščice.",module,Magento_Backend
 "Developer","Razvijalec",module,Magento_Backend
-"Debug","Debug",module,Magento_Backend
-"Enabled Template Path Hints for Storefront","Enabled Template Path Hints for Storefront",module,Magento_Backend
-"Enabled Template Path Hints for Admin","Enabled Template Path Hints for Admin",module,Magento_Backend
-"Add Block Names to Hints","Add Block Names to Hints",module,Magento_Backend
+"Debug","Razhroščevanje",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Omogočeni namigi poti predloge za ospredje trgovine",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Omogočeni namigi poti predloge za administracijo",module,Magento_Backend
+"Add Block Names to Hints","Namigom dodaj imena blokov",module,Magento_Backend
 "Template Settings","Nastavitve predloge",module,Magento_Backend
 "Allow Symlinks","Omogoči simbolne povezave",module,Magento_Backend
-"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",module,Magento_Backend
-"Minify Html","Minify Html",module,Magento_Backend
-"Translate Inline","Translate Inline",module,Magento_Backend
-"Enabled for Storefront","Enabled for Storefront",module,Magento_Backend
-"Enabled for Admin","Enabled for Admin",module,Magento_Backend
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",module,Magento_Backend
-"JavaScript Settings","JavaScript Settings",module,Magento_Backend
-"Merge JavaScript Files","Merge JavaScript Files",module,Magento_Backend
-"Enable Javascript Bundling","Enable Javascript Bundling",module,Magento_Backend
-"Minify JavaScript Files","Minify JavaScript Files",module,Magento_Backend
-"CSS Settings","CSS Settings",module,Magento_Backend
-"Merge CSS Files","Merge CSS Files",module,Magento_Backend
-"Minify CSS Files","Minify CSS Files",module,Magento_Backend
-"Image Processing Settings","Image Processing Settings",module,Magento_Backend
-"Image Adapter","Image Adapter",module,Magento_Backend
-"Static Files Settings","Static Files Settings",module,Magento_Backend
-"Sign Static Files","Sign Static Files",module,Magento_Backend
-"Country Options","Country Options",module,Magento_Backend
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Opozorilo! Omogočanje te funkcije ni priporočljivo na proizvodnih okoljih, saj predstavlja morebitno varnostno tveganje.",module,Magento_Backend
+"Minify Html","Pomanjšanje Html-ja",module,Magento_Backend
+"Translate Inline","Prevod v vrstici",module,Magento_Backend
+"Enabled for Storefront","Omogočeno za ospredje trgovine",module,Magento_Backend
+"Enabled for Admin","Omogočeno za administracijo",module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Prevajanje, bloki in drugi izpisi predpomnilnika morajo biti onemogočeni tako za ospredje kot za administracijo prevodov v vrstici.",module,Magento_Backend
+"JavaScript Settings","Nastavitve za JavaScript",module,Magento_Backend
+"Merge JavaScript Files","Spajanje datotek JavaScript",module,Magento_Backend
+"Enable Javascript Bundling","Omogoči vezavo JavaScript",module,Magento_Backend
+"Minify JavaScript Files","Zmanjšanje datotek JavaScript",module,Magento_Backend
+"CSS Settings","Nastavitve CSS",module,Magento_Backend
+"Merge CSS Files","Spajanje datotek CSS",module,Magento_Backend
+"Minify CSS Files","Zmanjšanje datotek CSS",module,Magento_Backend
+"Image Processing Settings","Nastavitve za obdelavo slike",module,Magento_Backend
+"Image Adapter","Adapter slike",module,Magento_Backend
+"Static Files Settings","Nastavitve statičnih datotek",module,Magento_Backend
+"Sign Static Files","Podpisovanje statičnih datotek",module,Magento_Backend
+"Country Options","Možnosti države",module,Magento_Backend
 "Allow Countries","Dovoli države",module,Magento_Backend
 "Default Country","Privzeta država",module,Magento_Backend
 "European Union Countries","Države članic Evropske unije",module,Magento_Backend
@@ -363,112 +363,112 @@
 "VAT Number","ID za DDV",module,Magento_Backend
 "Single-Store Mode","Način ene trgovine",module,Magento_Backend
 "Enable Single-Store Mode","Omogoči način ene-trgovine",module,Magento_Backend
-"This setting will not be taken into account if system has more than one store view.","This setting will not be taken into account if system has more than one store view.",module,Magento_Backend
-"Mail Sending Settings","Mail Sending Settings",module,Magento_Backend
-"Disable Email Communications","Disable Email Communications",module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.","Ta nastavitev ne bo upoštevana, če ima sistem več kot en pogled trgovine.",module,Magento_Backend
+"Mail Sending Settings","Nastavitve za pošiljanje pošte",module,Magento_Backend
+"Disable Email Communications","Onemogoči komunikacijo e-pošte",module,Magento_Backend
 "Host","Gostitelj",module,Magento_Backend
 "Port (25)","Vrata (25)",module,Magento_Backend
 "Set Return-Path","Nastavi Return-Path",module,Magento_Backend
 "Return-Path Email","E-pošta Return-Path",module,Magento_Backend
 "Admin","Admin",module,Magento_Backend
 "Admin User Emails","E-pošte administracijskih uporabnikov",module,Magento_Backend
-"Forgot Password Email Template","Forgot Password Email Template",module,Magento_Backend
+"Forgot Password Email Template","Predloga e-pošte pozabljenega gesla",module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Backend
-"Forgot and Reset Email Sender","Forgot and Reset Email Sender",module,Magento_Backend
-"Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)",module,Magento_Backend
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Backend
+"Forgot and Reset Email Sender","Pošiljatelj pozabljene in ponastavljene e-pošte",module,Magento_Backend
+"Recovery Link Expiration Period (days)","Obdobje obnovitve poteka povezave (dnevi)",module,Magento_Backend
+"Please enter a number 1 or greater in this field.","V to polje vnesite številko 1 ali več.",module,Magento_Backend
 "Startup Page","Začetna stran",module,Magento_Backend
-"Admin Base URL","Admin Base URL",module,Magento_Backend
-"Use Custom Admin URL","Use Custom Admin URL",module,Magento_Backend
-"Custom Admin URL","Custom Admin URL",module,Magento_Backend
-"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/",module,Magento_Backend
-"Use Custom Admin Path","Use Custom Admin Path",module,Magento_Backend
-"Custom Admin Path","Custom Admin Path",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","You will have to sign in after you save your custom admin path.",module,Magento_Backend
+"Admin Base URL","URL osnovne administracije",module,Magento_Backend
+"Use Custom Admin URL","Uporabi URL administracije po meri",module,Magento_Backend
+"Custom Admin URL","URL administracije po meri",module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Prepričajte se, da se osnovni URL konča s '/' (poševnica), npr. http://yourdomain/magento/",module,Magento_Backend
+"Use Custom Admin Path","Uporabi pot administracije po meri",module,Magento_Backend
+"Custom Admin Path","Pot administracije po meri",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","Morali se boste prijaviti, ko shranite svojo administracijsko pot po meri.",module,Magento_Backend
 "Security","Varnost",module,Magento_Backend
-"Add Secret Key to URLs","Add Secret Key to URLs",module,Magento_Backend
-"Login is Case Sensitive","Login is Case Sensitive",module,Magento_Backend
-"Admin Session Lifetime (seconds)","Admin Session Lifetime (seconds)",module,Magento_Backend
-"Values less than 60 are ignored.","Values less than 60 are ignored.",module,Magento_Backend
+"Add Secret Key to URLs","URL-jem dodaj skrivni ključ",module,Magento_Backend
+"Login is Case Sensitive","Prijava razlikuje med velikimi in malimi črkami",module,Magento_Backend
+"Admin Session Lifetime (seconds)","Življenska doba seje administracije (sekunde)",module,Magento_Backend
+"Values less than 60 are ignored.","Vrednosti manj kot 60 so ignorirane.",module,Magento_Backend
 "Enable Charts","Omogoči grafikone",module,Magento_Backend
 "Web","Splet",module,Magento_Backend
 "Url Options","Možnosti URL",module,Magento_Backend
-"Add Store Code to Urls","Add Store Code to Urls",module,Magento_Backend
+"Add Store Code to Urls","Dodaj kodo trgovine v URL-je",module,Magento_Backend
 "
                         <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
                     ","
-                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                        <strong style=""color:red"">Opozorilo!</strong> Ko v URL-jih uporabljate kodo trgovine, v določenih primerih sistem lahko ne bo deloval ustrezno, če so URL-ji določeni brez kod trgovine v storitvah tretjih oseb (npr. PayPal itd.).
                     ",module,Magento_Backend
-"Auto-redirect to Base URL","Auto-redirect to Base URL",module,Magento_Backend
-"Search Engine Optimization","Search Engine Optimization",module,Magento_Backend
-"Use Web Server Rewrites","Use Web Server Rewrites",module,Magento_Backend
-"Base URLs","Base URLs",module,Magento_Backend
-"Base URL","Base URL",module,Magento_Backend
-"Specify URL or {{base_url}} placeholder.","Specify URL or {{base_url}} placeholder.",module,Magento_Backend
-"Base Link URL","Base Link URL",module,Magento_Backend
-"Base URL for Static View Files","Base URL for Static View Files",module,Magento_Backend
-"May be empty or start with {{unsecure_base_url}} placeholder.","May be empty or start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Base URL for User Media Files","Base URL for User Media Files",module,Magento_Backend
-"Base URLs (Secure)","Base URLs (Secure)",module,Magento_Backend
-"Secure Base URL","Secure Base URL",module,Magento_Backend
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Secure Base Link URL","Secure Base Link URL",module,Magento_Backend
-"Secure Base URL for Static View Files","Secure Base URL for Static View Files",module,Magento_Backend
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Secure Base URL for User Media Files","Secure Base URL for User Media Files",module,Magento_Backend
-"Use Secure URLs on Storefront","Use Secure URLs on Storefront",module,Magento_Backend
-"Use Secure URLs in Admin","Use Secure URLs in Admin",module,Magento_Backend
-"Offloader header","Offloader header",module,Magento_Backend
-"Default Pages","Default Pages",module,Magento_Backend
-"Default Web URL","Default Web URL",module,Magento_Backend
-"Default No-route URL","Default No-route URL",module,Magento_Backend
-"Session Validation Settings","Session Validation Settings",module,Magento_Backend
-"Validate REMOTE_ADDR","Validate REMOTE_ADDR",module,Magento_Backend
-"Validate HTTP_VIA","Validate HTTP_VIA",module,Magento_Backend
-"Validate HTTP_X_FORWARDED_FOR","Validate HTTP_X_FORWARDED_FOR",module,Magento_Backend
-"Validate HTTP_USER_AGENT","Validate HTTP_USER_AGENT",module,Magento_Backend
-"Use SID on Storefront","Use SID on Storefront",module,Magento_Backend
-"Allows customers to stay logged in when switching between different stores.","Allows customers to stay logged in when switching between different stores.",module,Magento_Backend
+"Auto-redirect to Base URL","Osnovni URL avtomatske preusmeritve",module,Magento_Backend
+"Search Engine Optimization","Optimizacija za iskalnike",module,Magento_Backend
+"Use Web Server Rewrites","Uporabite prepise spletnega strežnika",module,Magento_Backend
+"Base URLs","Osnovni URL-ji",module,Magento_Backend
+"Base URL","Osnovni URL",module,Magento_Backend
+"Specify URL or {{base_url}} placeholder.","Navedite URL ali prostor {{base_url}}.",module,Magento_Backend
+"Base Link URL","URL osnovne povezave",module,Magento_Backend
+"Base URL for Static View Files","Osnovni URL za ogled statičnih datotek",module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","Lahko je prazno ali pa se začne s prostorom {{unsecure_base_url}}.",module,Magento_Backend
+"Base URL for User Media Files","Osnovni URL za medijske datoteke uporabnika",module,Magento_Backend
+"Base URLs (Secure)","Osnovni URL (varno)",module,Magento_Backend
+"Secure Base URL","Zaščiteni osnovni URL",module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Navedite URL ali prostora {{base_url}} ali {{unsecure_base_url}}.",module,Magento_Backend
+"Secure Base Link URL","Zaščiteni URL osnovne povezave",module,Magento_Backend
+"Secure Base URL for Static View Files","Zaščiteni osnovni URL za ogled statičnih datotek",module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Lahko je prazno ali pa se začne s prostoroma {{secure_base_url}} ali {{unsecure_base_url}}.",module,Magento_Backend
+"Secure Base URL for User Media Files","Zaščiteni osnovni URL za medijske datoteke uporabnika",module,Magento_Backend
+"Use Secure URLs on Storefront","Uporabi zaščitene URL-je na ospredju trgovine",module,Magento_Backend
+"Use Secure URLs in Admin","Za administracijo uporabi zaščitene URL-je",module,Magento_Backend
+"Offloader header","Glava offloader",module,Magento_Backend
+"Default Pages","Privzete strani",module,Magento_Backend
+"Default Web URL","Privzeti spletni naslov",module,Magento_Backend
+"Default No-route URL","Privzeti URL brez usmeritve",module,Magento_Backend
+"Session Validation Settings","Nastavitve za preverjanje veljavnosti seje",module,Magento_Backend
+"Validate REMOTE_ADDR","Potrditev REMOTE_ADDR",module,Magento_Backend
+"Validate HTTP_VIA","Preveri veljavnost HTTP_VIA",module,Magento_Backend
+"Validate HTTP_X_FORWARDED_FOR","Potrditev HTTP_X_FORWARDED_FOR",module,Magento_Backend
+"Validate HTTP_USER_AGENT","Preveri veljavnost HTTP_USER_AGENT",module,Magento_Backend
+"Use SID on Storefront","Uporabi SID za ospredje trgovine",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Omogoča strankam, da ostanejo prijavljene pri preklapljanju med različnimi trgovinami.",module,Magento_Backend
 "Cache Type","Vrsta predpomnilnika",module,Magento_Backend
 "Description","Opis",module,Magento_Backend
 "Tags","Oznake",module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Napaka 404</h1><p>Strani ni mogoče najti.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
-"Allow everything","Allow everything",module,Magento_Backend
+"Allow everything","Omogoči vse",module,Magento_Backend
 "Magento Admin","Magento Admin",module,Magento_Backend
-"Global Search","Global Search",module,Magento_Backend
-"Marketing","Marketing",module,Magento_Backend
-"SEO & Search","SEO & Search",module,Magento_Backend
-"User Content","User Content",module,Magento_Backend
-"Content","Content",module,Magento_Backend
-"Elements","Elements",module,Magento_Backend
-"Schedule","Schedule",module,Magento_Backend
+"Global Search","Globalno iskanje",module,Magento_Backend
+"Marketing","Trženje",module,Magento_Backend
+"SEO & Search","SEO & Iskanje",module,Magento_Backend
+"User Content","Uporabniška vsebina",module,Magento_Backend
+"Content","Vsebina",module,Magento_Backend
+"Elements","Elementi",module,Magento_Backend
+"Schedule","Razpored",module,Magento_Backend
 "Settings","Nastavitve",module,Magento_Backend
-"All Stores","All Stores",module,Magento_Backend
-"Attributes","Attributes",module,Magento_Backend
-"Other Settings","Other Settings",module,Magento_Backend
-"Data Transfer","Data Transfer",module,Magento_Backend
+"All Stores","Vse trgovine",module,Magento_Backend
+"Attributes","Atributi",module,Magento_Backend
+"Other Settings","Ostale nastavitve",module,Magento_Backend
+"Data Transfer","Prenos podatkov",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
 "Connect Manager","Connect Manager",module,Magento_Backend
-"Package Extensions","Package Extensions",module,Magento_Backend
+"Package Extensions","Paket razširitve",module,Magento_Backend
 "Tools","Orodja",module,Magento_Backend
-"Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
+"Web Setup Wizard","Spletni čarovnik",module,Magento_Backend
 "Currency","Valuta",module,Magento_Backend
 "Communications","Komunikacije",module,Magento_Backend
-"Minification is not applied in developer mode.","Minification is not applied in developer mode.",module,Magento_Backend
-"Enable JavaScript Bundling","Enable JavaScript Bundling",module,Magento_Backend
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Backend
-"Please enter at least 60 and at most 31536000 (one year).","Please enter at least 60 and at most 31536000 (one year).",module,Magento_Backend
-"Enable HTTP Strict Transport Security (HSTS)","Enable HTTP Strict Transport Security (HSTS)",module,Magento_Backend
-"Upgrade Insecure Requests","Upgrade Insecure Requests",module,Magento_Backend
+"Minification is not applied in developer mode.","Zmanjšanje se ne uporablja v razvijalskem načinu.",module,Magento_Backend
+"Enable JavaScript Bundling","Omogoči vezavo JavaScript",module,Magento_Backend
+"Recovery Link Expiration Period (hours)","Obdobje obnovitve poteka povezave (ure)",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","Vnesite vsaj 60 in največ 31536000 (eno leto).",module,Magento_Backend
+"Enable HTTP Strict Transport Security (HSTS)","Omogoči HTTP Strict Transport Security (HSTS)",module,Magento_Backend
+"Upgrade Insecure Requests","Nadgradnja nezaščitenih zahtevkov",module,Magento_Backend
 "Default Theme","Privzeta tema",module,Magento_Backend
 "Applied Theme","Uporabljena tema",module,Magento_Backend
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions.",module,Magento_Backend
-"Design Rule","Design Rule",module,Magento_Backend
-"User Agent Rules","User Agent Rules",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Če ni določene nobene vrednosti, se uporabi privzeta sistemska. Privzeta sistemska vrednost se lahko spremeni s strani razširitev tretjih oseb.",module,Magento_Backend
+"Design Rule","Pravilo za načrtovanje",module,Magento_Backend
+"User Agent Rules","Pravila uporabniškega agenta",module,Magento_Backend
 "Magento_Ui/js/dynamic-rows/record","Magento_Ui/js/dynamic-rows/record",module,Magento_Backend
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",module,Magento_Backend
-"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Če trenutni položaj okvirja ne zajema vseh strani, prikaže povezavo na trenutni položaj plus/minus ta vrednost.",module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternativni tekst za povezavo prejšnjih strani v meniju paginacije. Če je prazno, bo uporabljena privzeta slika puščice.",module,Magento_Backend
 "Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternativni tekst za povezavo naslednjih strani v meniju paginacije. Če je prazno, bo uporabljena privzeta slika puščice.",module,Magento_Backend
 "Theme Name","Ime teme",module,Magento_Backend
 "We could not detect a size.","Velikosti ni mogoče zaznati.",module,Magento_Backend

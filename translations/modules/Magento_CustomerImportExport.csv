@@ -15,6 +15,6 @@
 "Please enter a password with a valid length.","Vnesite geslo z veljavno dolžino.",module,Magento_CustomerImportExport
 "CSV","CSV",module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
-"We can't find a customer who matches this email and website code.","We can't find a customer who matches this email and website code.",module,Magento_CustomerImportExport
-"We can't find that customer address.","We can't find that customer address.",module,Magento_CustomerImportExport
-"We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
+"We can't find a customer who matches this email and website code.","Kupca, ki se ujema s to e-pošto in kodo spletne strani, ni mogoče najti.",module,Magento_CustomerImportExport
+"We can't find that customer address.","Tega naslova kupca ni mogoče najti.",module,Magento_CustomerImportExport
+"We can't find that email and website combination.","Te kombinacije e-pošte in spletne strani ni mogoče najti.",module,Magento_CustomerImportExport

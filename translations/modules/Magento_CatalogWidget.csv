@@ -7,14 +7,14 @@
 "Out of stock","Ni na zalogi",module,Magento_CatalogWidget
 "Add to Wish List","Dodaj na seznam želja",module,Magento_CatalogWidget
 "Add to Compare","Dodaj v primerjavo",module,Magento_CatalogWidget
-"Catalog Products List","Catalog Products List",module,Magento_CatalogWidget
-"List of Products","List of Products",module,Magento_CatalogWidget
+"Catalog Products List","Seznam izdelkov kataloga",module,Magento_CatalogWidget
+"List of Products","Seznam izdelkov",module,Magento_CatalogWidget
 "Title","Naslov",module,Magento_CatalogWidget
-"Display Page Control","Display Page Control",module,Magento_CatalogWidget
-"Number of Products per Page","Number of Products per Page",module,Magento_CatalogWidget
-"Number of Products to Display","Number of Products to Display",module,Magento_CatalogWidget
+"Display Page Control","Prikaži kontrolnik strani",module,Magento_CatalogWidget
+"Number of Products per Page","Število izdelkov na stran",module,Magento_CatalogWidget
+"Number of Products to Display","Število izdelkov za prikaz",module,Magento_CatalogWidget
 "Template","Predloga",module,Magento_CatalogWidget
-"Products Grid Template","Products Grid Template",module,Magento_CatalogWidget
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_CatalogWidget
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_CatalogWidget
+"Products Grid Template","Predloga mreže izdelkov",module,Magento_CatalogWidget
+"Cache Lifetime (Seconds)","Življenjska doba predpomnilnika (sekunde)",module,Magento_CatalogWidget
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 je privzeto, če ni nastavljeno. Če želite osvežiti takoj, počistite bloke HTML izhodnega predpomnilnika.",module,Magento_CatalogWidget
 "Conditions","Pogoji",module,Magento_CatalogWidget

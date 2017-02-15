@@ -1,4 +1,4 @@
-"Backup options","Backup options","lib","lib/web/mage/adminhtml/backup.js"
+"Backup options","Možnosti varnostnega kopiranja","lib","lib/web/mage/adminhtml/backup.js"
 "Warning","Opozorilo","lib","lib/web/mage/adminhtml/backup.js"
 "Cancel","Prekliči","lib","lib/web/mage/adminhtml/backup.js"
 "Ok","V redu","lib","lib/web/mage/adminhtml/backup.js"
@@ -334,33 +334,33 @@
 "Yes","Da",module,Magento_Braintree
 "No","Ne",module,Magento_Braintree
 "Edit","Uredi",module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
-"Vault Enabled","Vault Enabled",module,Magento_Braintree
-"Vault Title","Vault Title",module,Magento_Braintree
-"Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
-"Skip Order Review","Skip Order Review",module,Magento_Braintree
-"Threshold Amount","Threshold Amount",module,Magento_Braintree
-"Verify for Applicable Countries","Verify for Applicable Countries",module,Magento_Braintree
-"Verify for Specific Countries","Verify for Specific Countries",module,Magento_Braintree
-"Dynamic Descriptors","Dynamic Descriptors",module,Magento_Braintree
-"Name","Name",module,Magento_Braintree
-"Phone","Phone",module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Sprejemanje kreditnih/debetnih kartic in PayPal-a v vaši trgovini Magento.<br/>Brez namestitve ali mesečne pristojbine in vaše stranke nikoli ne zapustijo vaše trgovine za dokončanje nakupa.",module,Magento_Braintree
+"Vault Enabled","Trezor omogočen",module,Magento_Braintree
+"Vault Title","Naslov trezorja",module,Magento_Braintree
+"Kount Merchant ID","ID trgovca Kount",module,Magento_Braintree
+"Skip Order Review","Preskoči pregled naročila",module,Magento_Braintree
+"Threshold Amount","Prag zneska",module,Magento_Braintree
+"Verify for Applicable Countries","Preveri za države, ki se uporabljajo",module,Magento_Braintree
+"Verify for Specific Countries","Preveri za določene države",module,Magento_Braintree
+"Dynamic Descriptors","Dinamični deskriptorji",module,Magento_Braintree
+"Name","Ime",module,Magento_Braintree
+"Phone","Telefon",module,Magento_Braintree
 "URL","URL",module,Magento_Braintree
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_Braintree
-"Select...","Select...",module,Magento_Braintree
-"Status","Status",module,Magento_Braintree
-"Transaction Type","Transaction Type",module,Magento_Braintree
-"Payment Type","Payment Type",module,Magento_Braintree
-"PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
-"Created At","Created At",module,Magento_Braintree
-"Transaction ID","Transaction ID",module,Magento_Braintree
-"Order ID","Order ID",module,Magento_Braintree
-"Amount","Amount",module,Magento_Braintree
-"Settlement Code","Settlement Code",module,Magento_Braintree
-"Settlement Response Text","Settlement Response Text",module,Magento_Braintree
-"Refund Ids","Refund Ids",module,Magento_Braintree
-"Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
-"Currency","Currency",module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Uporabite filtre, da dobite rezultate. Prikazanih je le prvih 100 zapisov v mreži, prenesli boste lahko polno verzijo poročila v obliki .csv.",module,Magento_Braintree
+"Select...","Izberi...",module,Magento_Braintree
+"Status","Stanje",module,Magento_Braintree
+"Transaction Type","Vrsta transakcije",module,Magento_Braintree
+"Payment Type","Vrsta plačila",module,Magento_Braintree
+"PayPal Payment ID","ID plačila PayPal",module,Magento_Braintree
+"Created At","Ustvarjeno",module,Magento_Braintree
+"Transaction ID","ID transakcije",module,Magento_Braintree
+"Order ID","ID naročila",module,Magento_Braintree
+"Amount","Znesek",module,Magento_Braintree
+"Settlement Code","Koda poravnave",module,Magento_Braintree
+"Settlement Response Text","Besedilo odziva poravnave",module,Magento_Braintree
+"Refund Ids","Id-ji povračil",module,Magento_Braintree
+"Settlement Batch ID","ID serije poravnave",module,Magento_Braintree
+"Currency","Valuta",module,Magento_Braintree
 "Braintree","Braintree",module,Magento_Braintree
 "&nbsp;","&nbsp;",module,Magento_Braintree
 "Enable this Solution","Omogoči to rešitev",module,Magento_Braintree
@@ -374,39 +374,39 @@
 "Public Key","Javni ključ",module,Magento_Braintree
 "Private Key","Zasebni ključ",module,Magento_Braintree
 "Advanced Braintree Settings","Napredne nastavitve Braintree",module,Magento_Braintree
-"Debug","Debug",module,Magento_Braintree
+"Debug","Razhroščevanje",module,Magento_Braintree
 "Capture action","Dejanje zajema",module,Magento_Braintree
-"New Order Status","New Order Status",module,Magento_Braintree
-"Use Vault","Use Vault",module,Magento_Braintree
+"New Order Status","Status novega naročila",module,Magento_Braintree
+"Use Vault","Uporabi trezor",module,Magento_Braintree
 "Allow Duplicate Cards","Dovoli podvojene kartice",module,Magento_Braintree
 "CVV Verification","Preverjanje CVV",module,Magento_Braintree
-"Credit Card Types","Credit Card Types",module,Magento_Braintree
+"Credit Card Types","Vrste kreditnih kartic",module,Magento_Braintree
 "Enable Credit Card auto-detection on Storefront","Omogoči samodejno zaznaanje kreditne kartice v prodajalnah",module,Magento_Braintree
-"Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_Braintree
-"Your Kount ID","Your Kount ID",module,Magento_Braintree
+"Advanced Fraud Protection","Napredna zaščita goljufije",module,Magento_Braintree
+"Your Kount ID","Kount ID",module,Magento_Braintree
 "Use Cache","Uporabi predpomnilnik",module,Magento_Braintree
 "Sort Order","Vrstni red",module,Magento_Braintree
 "Country Specific Settings","Nastavitve za posamezne države",module,Magento_Braintree
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Braintree
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Braintree
-"Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_Braintree
+"Payment from Applicable Countries","Plačilo iz uporabljenih držav",module,Magento_Braintree
+"Payment from Specific Countries","Plačilo iz določenih držav",module,Magento_Braintree
+"Country Specific Credit Card Types","Vrste kreditnih kartic za posebne države",module,Magento_Braintree
 "PayPal through Braintree","PayPal skozi Braintree",module,Magento_Braintree
-"Override Merchant Name","Override Merchant Name",module,Magento_Braintree
-"Display on Shopping Cart","Display on Shopping Cart",module,Magento_Braintree
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_Braintree
-"3D Secure Verification Settings","3D Secure Verification Settings",module,Magento_Braintree
-"3D Secure Verification","3D Secure Verification",module,Magento_Braintree
+"Override Merchant Name","Prepiši ime trgovca",module,Magento_Braintree
+"Display on Shopping Cart","Prikaz pri košarici",module,Magento_Braintree
+"Require Customer's Billing Address","Zahtevaj naslov za račun kupca",module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Dovoli urejanje dostavnega naslova vnešenega med nakupom na strani PayPal",module,Magento_Braintree
+"3D Secure Verification Settings","Nastavitve preverjanja 3D Secure",module,Magento_Braintree
+"3D Secure Verification","Potrditev 3D Secure",module,Magento_Braintree
 "Edit My Credit Cards","Urejanje mojih kreditnih kartic",module,Magento_Braintree
-"Credit Card Information","Credit Card Information",module,Magento_Braintree
-"Save for later use.","Save for later use.",module,Magento_Braintree
-"Place Order","Place Order",module,Magento_Braintree
-"This payment is not available","This payment is not available",module,Magento_Braintree
+"Credit Card Information","Informacije o kreditni kartici",module,Magento_Braintree
+"Save for later use.","Shrani za poznejšo uporabo.",module,Magento_Braintree
+"Place Order","Oddaj naročilo",module,Magento_Braintree
+"This payment is not available","To plačilo ni na voljo",module,Magento_Braintree
 "MM","MM",module,Magento_Braintree
 "YY","YY",module,Magento_Braintree
-"Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_Braintree
-"Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_Braintree
-"Payment ","Payment ",module,Magento_Braintree
+"Please try again with another form of payment.","Poskusite znova z drugačno obliko plačila.",module,Magento_Braintree
+"Sorry, but something went wrong.","Se opravičujemo, vendar nekaj ni v redu.",module,Magento_Braintree
+"Payment ","Plačilo ",module,Magento_Braintree
 "New Shipment for Order #%1","New Shipment for Order #%1",module,Magento_Shipping
 "Submit Shipment","Submit Shipment",module,Magento_Shipping
 "You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.","You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.",module,Magento_Shipping
@@ -912,21 +912,21 @@
 "Invalid cron expression, expecting \'match/modulus\': %1","Neveljaven izraz periodičnega opravila, pričakovano \'match/modulus\': %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Neveljaven izraz periodičnega opravila, pričakovan številski modul: %1",module,Magento_Cron
 "Invalid cron expression, expecting \'from-to\' structure: %1","Neveljaven izraz periodičnega opravila, pričakovano \'from-to\' struktura: %1",module,Magento_Cron
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) - all the times are in minutes",module,Magento_Cron
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.",module,Magento_Cron
-"Cron configuration options for group: ","Cron configuration options for group: ",module,Magento_Cron
-"Generate Schedules Every","Generate Schedules Every",module,Magento_Cron
-"Schedule Ahead for","Schedule Ahead for",module,Magento_Cron
-"Missed if Not Run Within","Missed if Not Run Within",module,Magento_Cron
-"History Cleanup Every","History Cleanup Every",module,Magento_Cron
-"Success History Lifetime","Success History Lifetime",module,Magento_Cron
-"Failure History Lifetime","Failure History Lifetime",module,Magento_Cron
-"Use Separate Process","Use Separate Process",module,Magento_Cron
-"We can't save the cron expression.","We can't save the cron expression.",module,Magento_Cron
-"Invalid cron expression, expecting 'match/modulus': %1","Invalid cron expression, expecting 'match/modulus': %1",module,Magento_Cron
-"Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1",module,Magento_Cron
-"Cron (Scheduled Tasks)","Cron (Scheduled Tasks)",module,Magento_Cron
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.",module,Magento_Cron
+"Cron (Scheduled Tasks) - all the times are in minutes","Periodično opravilo (načrtovana opravila) - vsi časi so v minutah",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Za pravilne URL-je, ustvarjene med potekanjem periodičnega opravila, preverite, da so Splet > Varni in nezaščiteni osnovni URL-ji eksplicitno določeni.",module,Magento_Cron
+"Cron configuration options for group: ","Možnosti nastavitev periodičnega opravila za skupino: ",module,Magento_Cron
+"Generate Schedules Every","Generiranje urnikov vsakih",module,Magento_Cron
+"Schedule Ahead for","Urnik vnaprej za",module,Magento_Cron
+"Missed if Not Run Within","Zamujeno, če ni pognano znotraj",module,Magento_Cron
+"History Cleanup Every","Čiščenje zgodovine vsakih",module,Magento_Cron
+"Success History Lifetime","Življenska doba zgodovine uspehov",module,Magento_Cron
+"Failure History Lifetime","Življenska doba zgodovine neuspehov",module,Magento_Cron
+"Use Separate Process","Uporabi ločen proces",module,Magento_Cron
+"We can't save the cron expression.","Izraza periodičnega opravila ni mogoče shraniti.",module,Magento_Cron
+"Invalid cron expression, expecting 'match/modulus': %1","Neveljaven izraz periodičnega opravila, pričakovano 'match/modulus': %1",module,Magento_Cron
+"Invalid cron expression, expecting 'from-to' structure: %1","Neveljaven izraz periodičnega opravila, pričakovana struktur 'from-to': %1",module,Magento_Cron
+"Cron (Scheduled Tasks)","Periodično opravilo (načrtovana opravila)",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Za pravilne URL-je, ustvarjenih med potekanjem periodičnega opravila, preverite, da so Splet > Varni in nezaščiteni osnovni URL-ji eksplicitno določeni. Vsi časi so v minutah.",module,Magento_Cron
 "State/Province","Država/območje",module,Magento_Directory
 "--Please Select--","--Izberite--",module,Magento_Directory
 "lbs","lb",module,Magento_Directory
@@ -986,8 +986,8 @@
 "Yahoo Finance Exchange","Yahoo Finance Exchange",module,Magento_Directory
 "Fixer.io","Fixer.io",module,Magento_Directory
 "Cannot switch into given mode ""%1""","Ne morete preklopiti v dani način ""%1""",module,Magento_Deploy
-"Compilation from source: ","Compilation from source: ",module,Magento_Deploy
-"Wrong deploy strategy type: %1","Wrong deploy strategy type: %1",module,Magento_Deploy
+"Compilation from source: ","Prevajanje iz vira: ",module,Magento_Deploy
+"Wrong deploy strategy type: %1","Napačna vrsta strategije nalaganja: %1",module,Magento_Deploy
 "Apply","Uporabi",module,Magento_Rule
 "Please choose a valid discount amount.","Please choose a valid discount amount.",module,Magento_Rule
 "End Date must follow Start Date.","End Date must follow Start Date.",module,Magento_Rule
@@ -1061,20 +1061,20 @@
 "Sorry, something went wrong. You can find out more in the error log.","Se opravičujemo, nekaj je šlo narobe. Več lahko izveste v dnevniku napak.",module,Magento_CatalogSearch
 "Bucket does not exist","Vedro ne obstaja",module,Magento_CatalogSearch
 "Modify your search.","Spremenite vaše iskanje.",module,Magento_CatalogSearch
-"Swatch Helper: not valid parameter for product instantiation","Swatch Helper: not valid parameter for product instantiation",module,Magento_Swatches
-"Admin is a required field in the each row","Admin is a required field in the each row",module,Magento_Swatches
-"Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
-"Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
-"Use Product Image for Swatch if Possible","Use Product Image for Swatch if Possible",module,Magento_Swatches
+"Swatch Helper: not valid parameter for product instantiation","Pomočnik vzorca: ni veljaven parameter za instanco izdelka",module,Magento_Swatches
+"Admin is a required field in the each row","Admin je zahtevano polje v vsaki vrstici",module,Magento_Swatches
+"Update Product Preview Image","Posodobitev slike predogleda izdelka",module,Magento_Swatches
+"Filtering by this attribute will update the product image on catalog page","Filtriranje po tem atributu posodobi sliko izdelka na strani kataloga",module,Magento_Swatches
+"Use Product Image for Swatch if Possible","Če je mogoče, uporabite sliko izdelka za vzorec",module,Magento_Swatches
 "Allows use fallback logic for replacing swatch image with product swatch or base image","Omogoča uporabo pomožne logike za zamenjavo slike vzorca z vzorcem izdelka ali osnovno sliko",module,Magento_Swatches
-"Visual Swatch","Visual Swatch",module,Magento_Swatches
-"Text Swatch","Text Swatch",module,Magento_Swatches
-"Manage Swatch (values of your attribute)","Manage Swatch (values of your attribute)",module,Magento_Swatches
+"Visual Swatch","Vizualni vzorec",module,Magento_Swatches
+"Text Swatch","Vzorec besedila",module,Magento_Swatches
+"Manage Swatch (values of your attribute)","Upravljanje vzorca (vrednosti vašega atributa)",module,Magento_Swatches
 "Is Default","Je privzeto",module,Magento_Swatches
-"Add Swatch","Add Swatch",module,Magento_Swatches
+"Add Swatch","Dodaj vzorec",module,Magento_Swatches
 "Sort Option","Možnost razvrščanja",module,Magento_Swatches
 "Delete","Izbriši",module,Magento_Swatches
-"Swatch","Swatch",module,Magento_Swatches
+"Swatch","Vzorec",module,Magento_Swatches
 "Step 2: Attribute Values","2. korak: Vrednosti atributov",module,Magento_Swatches
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Izberite vrednosti iz vsakega atributa, da jih vključite v ta izdelek. Vsaka edinstvena kombinacija vrednosti ustvari edinstven SKU izdelka.",module,Magento_Swatches
 "Sort Variations","Variacije razvrščanja",module,Magento_Swatches
@@ -1086,13 +1086,13 @@
 "Remove Option","Odstrani možnost",module,Magento_Swatches
 "Create New Value","Ustvari novo vrednost",module,Magento_Swatches
 "Swatches per Product","Vzorcev na izdelek",module,Magento_Swatches
-"Manage Swatch (Values of Your Attribute)","Manage Swatch (Values of Your Attribute)",module,Magento_Swatches
-"The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Swatches
-"Choose a color","Choose a color",module,Magento_Swatches
-"Upload a file","Upload a file",module,Magento_Swatches
-"Clear","Clear",module,Magento_Swatches
-"Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.","Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.",module,Magento_Swatches
-"These changes affect all related products.","These changes affect all related products.",module,Magento_Swatches
+"Manage Swatch (Values of Your Attribute)","Upravljanje vzorca (vrednosti vašega atributa)",module,Magento_Swatches
+"The value of Admin must be unique.","Vrednost admin mora biti edinstvena.",module,Magento_Swatches
+"Choose a color","Izberite barvo",module,Magento_Swatches
+"Upload a file","Naloži datoteko",module,Magento_Swatches
+"Clear","Počisti",module,Magento_Swatches
+"Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.","Izberite naslednje vrednosti atributa za ta izdelek. Vsaka edinstvena kombinacija vrednosti ustvari edinstven SKU izdelka.",module,Magento_Swatches
+"These changes affect all related products.","Te spremembe vplivajo na vse sorodne izdelke.",module,Magento_Swatches
 "Swatch Image","Slika vzorca",module,Magento_Swatches
 "Image","Slika",module,Magento_Swatches
 "Allowed file types: jpeg, gif, png.","Dovoljene vrste datotek: jpeg, gif, png.",module,Magento_Swatches
@@ -2695,10 +2695,10 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Front-end development workflow","Potek dela razvoja ospredja",module,Magento_Developer
 "Workflow type","Vrsta poteka dela",module,Magento_Developer
 "Not available in production mode","Ni na voljo v načinu produkcije",module,Magento_Developer
-"Developer Client Restrictions","Developer Client Restrictions",module,Magento_Developer
-"Allowed IPs (comma separated)","Allowed IPs (comma separated)",module,Magento_Developer
-"Leave empty for access from any location.","Leave empty for access from any location.",module,Magento_Developer
-"Frontend Development Workflow","Frontend Development Workflow",module,Magento_Developer
+"Developer Client Restrictions","Omejitve razvijalec stranka",module,Magento_Developer
+"Allowed IPs (comma separated)","Dovoljeni IP-ji (ločeni z vejicami)",module,Magento_Developer
+"Leave empty for access from any location.","Pustite prazno za dostop iz katere koli lokacije.",module,Magento_Developer
+"Frontend Development Workflow","Poteka dela razvoja ospredja",module,Magento_Developer
 "Invalid domain name: %1","Neveljavno ime domene: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Neveljavna življenjska doba piškotka: %1",module,Magento_Cookie
 "Invalid cookie path","Neveljavna pot piškotka",module,Magento_Cookie
@@ -2706,12 +2706,12 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","V skladu z novo direktivo o e-zasebnosti, vas moramo vprašati za soglasje o nastavitvi piškotkov.",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1"">Izvedite več</a>.",module,Magento_Cookie
 "Allow Cookies","Dovoli piškotke",module,Magento_Cookie
-"Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
-"Cookie Lifetime","Cookie Lifetime",module,Magento_Cookie
-"Cookie Path","Cookie Path",module,Magento_Cookie
-"Cookie Domain","Cookie Domain",module,Magento_Cookie
-"Use HTTP Only","Use HTTP Only",module,Magento_Cookie
-"Cookie Restriction Mode","Cookie Restriction Mode",module,Magento_Cookie
+"Default Cookie Settings","Privzete nastavitve za piškotke",module,Magento_Cookie
+"Cookie Lifetime","Življenjska doba piškotka",module,Magento_Cookie
+"Cookie Path","Pot piškotka",module,Magento_Cookie
+"Cookie Domain","Domena piškotka",module,Magento_Cookie
+"Use HTTP Only","Uporabi samo HTTP",module,Magento_Cookie
+"Cookie Restriction Mode","Omejitveni način piškotka",module,Magento_Cookie
 "Gift Messages is not applicable for empty cart","Sporočila daril niso na voljo za prazen voziček",module,Magento_GiftMessage
 "Gift Messages is not applicable for virtual products","Sporočila daril niso na voljo za virtualne izdelke",module,Magento_GiftMessage
 "Gift Message is not available","Sporočilo darila ni na voljo",module,Magento_GiftMessage
@@ -3410,9 +3410,9 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Please enter a password with a valid length.","Vnesite geslo z veljavno dolžino.",module,Magento_CustomerImportExport
 "CSV","CSV",module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
-"We can't find a customer who matches this email and website code.","We can't find a customer who matches this email and website code.",module,Magento_CustomerImportExport
-"We can't find that customer address.","We can't find that customer address.",module,Magento_CustomerImportExport
-"We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
+"We can't find a customer who matches this email and website code.","Kupca, ki se ujema s to e-pošto in kodo spletne strani, ni mogoče najti.",module,Magento_CustomerImportExport
+"We can't find that customer address.","Tega naslova kupca ni mogoče najti.",module,Magento_CustomerImportExport
+"We can't find that email and website combination.","Te kombinacije e-pošte in spletne strani ni mogoče najti.",module,Magento_CustomerImportExport
 "Page not found.","Strani ni mogoče najti.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Hvala, ker ste nas kontaktirali z vašimi komentarji in vprašanji. Odzvali se vam bomo zelo kmalu.",module,Magento_Contact
 "We can\'t process your request right now. Sorry, that\'s all we know.","Vašega zahtevka trenutno ne moremo obdelati. Žal, to je vse kar vemo.",module,Magento_Contact
@@ -3424,22 +3424,22 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Phone Number","Telefonska številka",module,Magento_Contact
 "What’s on your mind?","O čem razmišljate?",module,Magento_Contact
 "Submit","Pošlji",module,Magento_Contact
-"Name: %name","Name: %name",module,Magento_Contact
-"Email: %email","Email: %email",module,Magento_Contact
-"Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
-"Comment: %comment","Comment: %comment",module,Magento_Contact
-"Contacts","Contacts",module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
-"Enable Contact Us","Enable Contact Us",module,Magento_Contact
-"Email Options","Email Options",module,Magento_Contact
-"Send Emails To","Send Emails To",module,Magento_Contact
-"Email Sender","Email Sender",module,Magento_Contact
-"Email Template","Email Template",module,Magento_Contact
+"Name: %name","Ime: %name",module,Magento_Contact
+"Email: %email","E-pošta: %email",module,Magento_Contact
+"Phone Number: %telephone","Telefonska številka: %telephone",module,Magento_Contact
+"Comment: %comment","Komentar: %comment",module,Magento_Contact
+"Contacts","Stiki",module,Magento_Contact
+"Contact Us","Kontaktirajte nas",module,Magento_Contact
+"Enable Contact Us","Omogoči Kontaktirajte nas",module,Magento_Contact
+"Email Options","Možnosti e-pošte",module,Magento_Contact
+"Send Emails To","Pošlji e-pošto na",module,Magento_Contact
+"Email Sender","Pošiljatelj e-pošte",module,Magento_Contact
+"Email Template","Predloge e-pošte",module,Magento_Contact
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
-"Contact Form","Contact Form",module,Magento_Contact
-"Contacts Section","Contacts Section",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Hvala, ker ste nas kontaktirali z vašimi komentarji in vprašanji. Odzvali se vam bomo zelo kmalu.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","Vašega zahtevka trenutno ne moremo obdelati. Žal, to je vse kar vemo.",module,Magento_Contact
+"Contact Form","Kontaktni obrazec",module,Magento_Contact
+"Contacts Section","Oddelek stikov",module,Magento_Contact
 "Save Currency Rates","Shrani tečaje valut",module,Magento_CurrencySymbol
 "Reset","Ponastavitev",module,Magento_CurrencySymbol
 "Import","Uvoz",module,Magento_CurrencySymbol
@@ -3457,11 +3457,11 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "System","Sistem",module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","Uporabili ste simbole valute po meri.",module,Magento_CurrencySymbol
 "Old rate:","Stara stopnja:",module,Magento_CurrencySymbol
-"Options","Options",module,Magento_CurrencySymbol
-"We can't initialize the import model.","We can't initialize the import model.",module,Magento_CurrencySymbol
+"Options","Možnosti",module,Magento_CurrencySymbol
+"We can't initialize the import model.","Modela uvoza ni mogoče inicializirati.",module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","Prosimo, popravite vnosne podatke za stopnjo ""%1 => %2"".",module,Magento_CurrencySymbol
-"You must first configure currency options before being able to see currency rates.","You must first configure currency options before being able to see currency rates.",module,Magento_CurrencySymbol
-"Currency","Currency",module,Magento_CurrencySymbol
+"You must first configure currency options before being able to see currency rates.","Preden si lahko ogledate tečaje valut, morate najprej nastaviti možnosti valut.",module,Magento_CurrencySymbol
+"Currency","Valuta",module,Magento_CurrencySymbol
 "Save & Generate","Save & Generate",module,Magento_Sitemap
 "Edit Sitemap","Edit Sitemap",module,Magento_Sitemap
 "New Sitemap","New Sitemap",module,Magento_Sitemap
@@ -4239,47 +4239,47 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Customer Support","Podpora strankam",module,Magento_Backend
 "Design","Oblika",module,Magento_Backend
 "Design Theme","Tema oblike",module,Magento_Backend
-"User-Agent Exceptions","User-Agent Exceptions",module,Magento_Backend
+"User-Agent Exceptions","Izjeme uporabniškega klienta",module,Magento_Backend
 "
                         Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
                     ","
-                        Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
+                        Nizi iskanja so bodisi običajni nizzi ali splošne izjeme (PCRE). Ujemajo se v enakem vrstnem redu kot so vnešene. Primeri:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
                     ",module,Magento_Backend
-"Find a string in client user-agent header and switch to specific design theme for that browser.","Find a string in client user-agent header and switch to specific design theme for that browser.",module,Magento_Backend
+"Find a string in client user-agent header and switch to specific design theme for that browser.","Poiščite niz v glavi klienta uporabniškega agenta in preklopite na določeno temo oblike za ta brskalnik.",module,Magento_Backend
 "Pagination","Številčenje strani",module,Magento_Backend
 "Pagination Frame","Okvir številčenja strani",module,Magento_Backend
-"How many links to display at once.","How many links to display at once.",module,Magento_Backend
-"Pagination Frame Skip","Pagination Frame Skip",module,Magento_Backend
-"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.",module,Magento_Backend
-"Anchor Text for Previous","Anchor Text for Previous",module,Magento_Backend
-"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Alternative text for previous link in pagination menu. If empty, default arrow image will used.",module,Magento_Backend
-"Anchor Text for Next","Anchor Text for Next",module,Magento_Backend
-"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Alternative text for next link in pagination menu. If empty, default arrow image will used.",module,Magento_Backend
+"How many links to display at once.","Koliko povezav za prikaz naenkrat.",module,Magento_Backend
+"Pagination Frame Skip","Preskok ogrodja navigacije",module,Magento_Backend
+"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","Če trenutni položaj okvirja ne zajema vseh strani, prikaže povezavo na trenutni položaj plus/minus ta vrednost.",module,Magento_Backend
+"Anchor Text for Previous","Sidro besedilo za prejšnje",module,Magento_Backend
+"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Alternativni tekst za povezavo prejšnjih strani v meniju paginacije. Če je prazno, bo uporabljena privzeta slika puščice.",module,Magento_Backend
+"Anchor Text for Next","Besedilo sidra za naslednje",module,Magento_Backend
+"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Alternativni tekst za povezavo naslednjih strani v meniju paginacije. Če je prazno, bo uporabljena privzeta slika puščice.",module,Magento_Backend
 "Developer","Razvijalec",module,Magento_Backend
-"Debug","Debug",module,Magento_Backend
-"Enabled Template Path Hints for Storefront","Enabled Template Path Hints for Storefront",module,Magento_Backend
-"Enabled Template Path Hints for Admin","Enabled Template Path Hints for Admin",module,Magento_Backend
-"Add Block Names to Hints","Add Block Names to Hints",module,Magento_Backend
+"Debug","Razhroščevanje",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Omogočeni namigi poti predloge za ospredje trgovine",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Omogočeni namigi poti predloge za administracijo",module,Magento_Backend
+"Add Block Names to Hints","Namigom dodaj imena blokov",module,Magento_Backend
 "Template Settings","Nastavitve predloge",module,Magento_Backend
 "Allow Symlinks","Omogoči simbolne povezave",module,Magento_Backend
-"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",module,Magento_Backend
-"Minify Html","Minify Html",module,Magento_Backend
-"Translate Inline","Translate Inline",module,Magento_Backend
-"Enabled for Storefront","Enabled for Storefront",module,Magento_Backend
-"Enabled for Admin","Enabled for Admin",module,Magento_Backend
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",module,Magento_Backend
-"JavaScript Settings","JavaScript Settings",module,Magento_Backend
-"Merge JavaScript Files","Merge JavaScript Files",module,Magento_Backend
-"Enable Javascript Bundling","Enable Javascript Bundling",module,Magento_Backend
-"Minify JavaScript Files","Minify JavaScript Files",module,Magento_Backend
-"CSS Settings","CSS Settings",module,Magento_Backend
-"Merge CSS Files","Merge CSS Files",module,Magento_Backend
-"Minify CSS Files","Minify CSS Files",module,Magento_Backend
-"Image Processing Settings","Image Processing Settings",module,Magento_Backend
-"Image Adapter","Image Adapter",module,Magento_Backend
-"Static Files Settings","Static Files Settings",module,Magento_Backend
-"Sign Static Files","Sign Static Files",module,Magento_Backend
-"Country Options","Country Options",module,Magento_Backend
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Opozorilo! Omogočanje te funkcije ni priporočljivo na proizvodnih okoljih, saj predstavlja morebitno varnostno tveganje.",module,Magento_Backend
+"Minify Html","Pomanjšanje Html-ja",module,Magento_Backend
+"Translate Inline","Prevod v vrstici",module,Magento_Backend
+"Enabled for Storefront","Omogočeno za ospredje trgovine",module,Magento_Backend
+"Enabled for Admin","Omogočeno za administracijo",module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Prevajanje, bloki in drugi izpisi predpomnilnika morajo biti onemogočeni tako za ospredje kot za administracijo prevodov v vrstici.",module,Magento_Backend
+"JavaScript Settings","Nastavitve za JavaScript",module,Magento_Backend
+"Merge JavaScript Files","Spajanje datotek JavaScript",module,Magento_Backend
+"Enable Javascript Bundling","Omogoči vezavo JavaScript",module,Magento_Backend
+"Minify JavaScript Files","Zmanjšanje datotek JavaScript",module,Magento_Backend
+"CSS Settings","Nastavitve CSS",module,Magento_Backend
+"Merge CSS Files","Spajanje datotek CSS",module,Magento_Backend
+"Minify CSS Files","Zmanjšanje datotek CSS",module,Magento_Backend
+"Image Processing Settings","Nastavitve za obdelavo slike",module,Magento_Backend
+"Image Adapter","Adapter slike",module,Magento_Backend
+"Static Files Settings","Nastavitve statičnih datotek",module,Magento_Backend
+"Sign Static Files","Podpisovanje statičnih datotek",module,Magento_Backend
+"Country Options","Možnosti države",module,Magento_Backend
 "Allow Countries","Dovoli države",module,Magento_Backend
 "Default Country","Privzeta država",module,Magento_Backend
 "European Union Countries","Države članic Evropske unije",module,Magento_Backend
@@ -4301,112 +4301,112 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "VAT Number","ID za DDV",module,Magento_Backend
 "Single-Store Mode","Način ene trgovine",module,Magento_Backend
 "Enable Single-Store Mode","Omogoči način ene-trgovine",module,Magento_Backend
-"This setting will not be taken into account if system has more than one store view.","This setting will not be taken into account if system has more than one store view.",module,Magento_Backend
-"Mail Sending Settings","Mail Sending Settings",module,Magento_Backend
-"Disable Email Communications","Disable Email Communications",module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.","Ta nastavitev ne bo upoštevana, če ima sistem več kot en pogled trgovine.",module,Magento_Backend
+"Mail Sending Settings","Nastavitve za pošiljanje pošte",module,Magento_Backend
+"Disable Email Communications","Onemogoči komunikacijo e-pošte",module,Magento_Backend
 "Host","Gostitelj",module,Magento_Backend
 "Port (25)","Vrata (25)",module,Magento_Backend
 "Set Return-Path","Nastavi Return-Path",module,Magento_Backend
 "Return-Path Email","E-pošta Return-Path",module,Magento_Backend
 "Admin","Admin",module,Magento_Backend
 "Admin User Emails","E-pošte administracijskih uporabnikov",module,Magento_Backend
-"Forgot Password Email Template","Forgot Password Email Template",module,Magento_Backend
+"Forgot Password Email Template","Predloga e-pošte pozabljenega gesla",module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Backend
-"Forgot and Reset Email Sender","Forgot and Reset Email Sender",module,Magento_Backend
-"Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)",module,Magento_Backend
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Backend
+"Forgot and Reset Email Sender","Pošiljatelj pozabljene in ponastavljene e-pošte",module,Magento_Backend
+"Recovery Link Expiration Period (days)","Obdobje obnovitve poteka povezave (dnevi)",module,Magento_Backend
+"Please enter a number 1 or greater in this field.","V to polje vnesite številko 1 ali več.",module,Magento_Backend
 "Startup Page","Začetna stran",module,Magento_Backend
-"Admin Base URL","Admin Base URL",module,Magento_Backend
-"Use Custom Admin URL","Use Custom Admin URL",module,Magento_Backend
-"Custom Admin URL","Custom Admin URL",module,Magento_Backend
-"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/",module,Magento_Backend
-"Use Custom Admin Path","Use Custom Admin Path",module,Magento_Backend
-"Custom Admin Path","Custom Admin Path",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","You will have to sign in after you save your custom admin path.",module,Magento_Backend
+"Admin Base URL","URL osnovne administracije",module,Magento_Backend
+"Use Custom Admin URL","Uporabi URL administracije po meri",module,Magento_Backend
+"Custom Admin URL","URL administracije po meri",module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Prepričajte se, da se osnovni URL konča s '/' (poševnica), npr. http://yourdomain/magento/",module,Magento_Backend
+"Use Custom Admin Path","Uporabi pot administracije po meri",module,Magento_Backend
+"Custom Admin Path","Pot administracije po meri",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","Morali se boste prijaviti, ko shranite svojo administracijsko pot po meri.",module,Magento_Backend
 "Security","Varnost",module,Magento_Backend
-"Add Secret Key to URLs","Add Secret Key to URLs",module,Magento_Backend
-"Login is Case Sensitive","Login is Case Sensitive",module,Magento_Backend
-"Admin Session Lifetime (seconds)","Admin Session Lifetime (seconds)",module,Magento_Backend
-"Values less than 60 are ignored.","Values less than 60 are ignored.",module,Magento_Backend
+"Add Secret Key to URLs","URL-jem dodaj skrivni ključ",module,Magento_Backend
+"Login is Case Sensitive","Prijava razlikuje med velikimi in malimi črkami",module,Magento_Backend
+"Admin Session Lifetime (seconds)","Življenska doba seje administracije (sekunde)",module,Magento_Backend
+"Values less than 60 are ignored.","Vrednosti manj kot 60 so ignorirane.",module,Magento_Backend
 "Enable Charts","Omogoči grafikone",module,Magento_Backend
 "Web","Splet",module,Magento_Backend
 "Url Options","Možnosti URL",module,Magento_Backend
-"Add Store Code to Urls","Add Store Code to Urls",module,Magento_Backend
+"Add Store Code to Urls","Dodaj kodo trgovine v URL-je",module,Magento_Backend
 "
                         <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
                     ","
-                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                        <strong style=""color:red"">Opozorilo!</strong> Ko v URL-jih uporabljate kodo trgovine, v določenih primerih sistem lahko ne bo deloval ustrezno, če so URL-ji določeni brez kod trgovine v storitvah tretjih oseb (npr. PayPal itd.).
                     ",module,Magento_Backend
-"Auto-redirect to Base URL","Auto-redirect to Base URL",module,Magento_Backend
-"Search Engine Optimization","Search Engine Optimization",module,Magento_Backend
-"Use Web Server Rewrites","Use Web Server Rewrites",module,Magento_Backend
-"Base URLs","Base URLs",module,Magento_Backend
-"Base URL","Base URL",module,Magento_Backend
-"Specify URL or {{base_url}} placeholder.","Specify URL or {{base_url}} placeholder.",module,Magento_Backend
-"Base Link URL","Base Link URL",module,Magento_Backend
-"Base URL for Static View Files","Base URL for Static View Files",module,Magento_Backend
-"May be empty or start with {{unsecure_base_url}} placeholder.","May be empty or start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Base URL for User Media Files","Base URL for User Media Files",module,Magento_Backend
-"Base URLs (Secure)","Base URLs (Secure)",module,Magento_Backend
-"Secure Base URL","Secure Base URL",module,Magento_Backend
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Secure Base Link URL","Secure Base Link URL",module,Magento_Backend
-"Secure Base URL for Static View Files","Secure Base URL for Static View Files",module,Magento_Backend
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Secure Base URL for User Media Files","Secure Base URL for User Media Files",module,Magento_Backend
-"Use Secure URLs on Storefront","Use Secure URLs on Storefront",module,Magento_Backend
-"Use Secure URLs in Admin","Use Secure URLs in Admin",module,Magento_Backend
-"Offloader header","Offloader header",module,Magento_Backend
-"Default Pages","Default Pages",module,Magento_Backend
-"Default Web URL","Default Web URL",module,Magento_Backend
-"Default No-route URL","Default No-route URL",module,Magento_Backend
-"Session Validation Settings","Session Validation Settings",module,Magento_Backend
-"Validate REMOTE_ADDR","Validate REMOTE_ADDR",module,Magento_Backend
-"Validate HTTP_VIA","Validate HTTP_VIA",module,Magento_Backend
-"Validate HTTP_X_FORWARDED_FOR","Validate HTTP_X_FORWARDED_FOR",module,Magento_Backend
-"Validate HTTP_USER_AGENT","Validate HTTP_USER_AGENT",module,Magento_Backend
-"Use SID on Storefront","Use SID on Storefront",module,Magento_Backend
-"Allows customers to stay logged in when switching between different stores.","Allows customers to stay logged in when switching between different stores.",module,Magento_Backend
+"Auto-redirect to Base URL","Osnovni URL avtomatske preusmeritve",module,Magento_Backend
+"Search Engine Optimization","Optimizacija za iskalnike",module,Magento_Backend
+"Use Web Server Rewrites","Uporabite prepise spletnega strežnika",module,Magento_Backend
+"Base URLs","Osnovni URL-ji",module,Magento_Backend
+"Base URL","Osnovni URL",module,Magento_Backend
+"Specify URL or {{base_url}} placeholder.","Navedite URL ali prostor {{base_url}}.",module,Magento_Backend
+"Base Link URL","URL osnovne povezave",module,Magento_Backend
+"Base URL for Static View Files","Osnovni URL za ogled statičnih datotek",module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","Lahko je prazno ali pa se začne s prostorom {{unsecure_base_url}}.",module,Magento_Backend
+"Base URL for User Media Files","Osnovni URL za medijske datoteke uporabnika",module,Magento_Backend
+"Base URLs (Secure)","Osnovni URL (varno)",module,Magento_Backend
+"Secure Base URL","Zaščiteni osnovni URL",module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Navedite URL ali prostora {{base_url}} ali {{unsecure_base_url}}.",module,Magento_Backend
+"Secure Base Link URL","Zaščiteni URL osnovne povezave",module,Magento_Backend
+"Secure Base URL for Static View Files","Zaščiteni osnovni URL za ogled statičnih datotek",module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Lahko je prazno ali pa se začne s prostoroma {{secure_base_url}} ali {{unsecure_base_url}}.",module,Magento_Backend
+"Secure Base URL for User Media Files","Zaščiteni osnovni URL za medijske datoteke uporabnika",module,Magento_Backend
+"Use Secure URLs on Storefront","Uporabi zaščitene URL-je na ospredju trgovine",module,Magento_Backend
+"Use Secure URLs in Admin","Za administracijo uporabi zaščitene URL-je",module,Magento_Backend
+"Offloader header","Glava offloader",module,Magento_Backend
+"Default Pages","Privzete strani",module,Magento_Backend
+"Default Web URL","Privzeti spletni naslov",module,Magento_Backend
+"Default No-route URL","Privzeti URL brez usmeritve",module,Magento_Backend
+"Session Validation Settings","Nastavitve za preverjanje veljavnosti seje",module,Magento_Backend
+"Validate REMOTE_ADDR","Potrditev REMOTE_ADDR",module,Magento_Backend
+"Validate HTTP_VIA","Preveri veljavnost HTTP_VIA",module,Magento_Backend
+"Validate HTTP_X_FORWARDED_FOR","Potrditev HTTP_X_FORWARDED_FOR",module,Magento_Backend
+"Validate HTTP_USER_AGENT","Preveri veljavnost HTTP_USER_AGENT",module,Magento_Backend
+"Use SID on Storefront","Uporabi SID za ospredje trgovine",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Omogoča strankam, da ostanejo prijavljene pri preklapljanju med različnimi trgovinami.",module,Magento_Backend
 "Cache Type","Vrsta predpomnilnika",module,Magento_Backend
 "Description","Opis",module,Magento_Backend
 "Tags","Oznake",module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Napaka 404</h1><p>Strani ni mogoče najti.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
-"Allow everything","Allow everything",module,Magento_Backend
+"Allow everything","Omogoči vse",module,Magento_Backend
 "Magento Admin","Magento Admin",module,Magento_Backend
-"Global Search","Global Search",module,Magento_Backend
-"Marketing","Marketing",module,Magento_Backend
-"SEO & Search","SEO & Search",module,Magento_Backend
-"User Content","User Content",module,Magento_Backend
-"Content","Content",module,Magento_Backend
-"Elements","Elements",module,Magento_Backend
-"Schedule","Schedule",module,Magento_Backend
+"Global Search","Globalno iskanje",module,Magento_Backend
+"Marketing","Trženje",module,Magento_Backend
+"SEO & Search","SEO & Iskanje",module,Magento_Backend
+"User Content","Uporabniška vsebina",module,Magento_Backend
+"Content","Vsebina",module,Magento_Backend
+"Elements","Elementi",module,Magento_Backend
+"Schedule","Razpored",module,Magento_Backend
 "Settings","Nastavitve",module,Magento_Backend
-"All Stores","All Stores",module,Magento_Backend
-"Attributes","Attributes",module,Magento_Backend
-"Other Settings","Other Settings",module,Magento_Backend
-"Data Transfer","Data Transfer",module,Magento_Backend
+"All Stores","Vse trgovine",module,Magento_Backend
+"Attributes","Atributi",module,Magento_Backend
+"Other Settings","Ostale nastavitve",module,Magento_Backend
+"Data Transfer","Prenos podatkov",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
 "Connect Manager","Connect Manager",module,Magento_Backend
-"Package Extensions","Package Extensions",module,Magento_Backend
+"Package Extensions","Paket razširitve",module,Magento_Backend
 "Tools","Orodja",module,Magento_Backend
-"Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
+"Web Setup Wizard","Spletni čarovnik",module,Magento_Backend
 "Currency","Valuta",module,Magento_Backend
 "Communications","Komunikacije",module,Magento_Backend
-"Minification is not applied in developer mode.","Minification is not applied in developer mode.",module,Magento_Backend
-"Enable JavaScript Bundling","Enable JavaScript Bundling",module,Magento_Backend
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Backend
-"Please enter at least 60 and at most 31536000 (one year).","Please enter at least 60 and at most 31536000 (one year).",module,Magento_Backend
-"Enable HTTP Strict Transport Security (HSTS)","Enable HTTP Strict Transport Security (HSTS)",module,Magento_Backend
-"Upgrade Insecure Requests","Upgrade Insecure Requests",module,Magento_Backend
+"Minification is not applied in developer mode.","Zmanjšanje se ne uporablja v razvijalskem načinu.",module,Magento_Backend
+"Enable JavaScript Bundling","Omogoči vezavo JavaScript",module,Magento_Backend
+"Recovery Link Expiration Period (hours)","Obdobje obnovitve poteka povezave (ure)",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","Vnesite vsaj 60 in največ 31536000 (eno leto).",module,Magento_Backend
+"Enable HTTP Strict Transport Security (HSTS)","Omogoči HTTP Strict Transport Security (HSTS)",module,Magento_Backend
+"Upgrade Insecure Requests","Nadgradnja nezaščitenih zahtevkov",module,Magento_Backend
 "Default Theme","Privzeta tema",module,Magento_Backend
 "Applied Theme","Uporabljena tema",module,Magento_Backend
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions.",module,Magento_Backend
-"Design Rule","Design Rule",module,Magento_Backend
-"User Agent Rules","User Agent Rules",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Če ni določene nobene vrednosti, se uporabi privzeta sistemska. Privzeta sistemska vrednost se lahko spremeni s strani razširitev tretjih oseb.",module,Magento_Backend
+"Design Rule","Pravilo za načrtovanje",module,Magento_Backend
+"User Agent Rules","Pravila uporabniškega agenta",module,Magento_Backend
 "Magento_Ui/js/dynamic-rows/record","Magento_Ui/js/dynamic-rows/record",module,Magento_Backend
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",module,Magento_Backend
-"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Če trenutni položaj okvirja ne zajema vseh strani, prikaže povezavo na trenutni položaj plus/minus ta vrednost.",module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternativni tekst za povezavo prejšnjih strani v meniju paginacije. Če je prazno, bo uporabljena privzeta slika puščice.",module,Magento_Backend
 "Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternativni tekst za povezavo naslednjih strani v meniju paginacije. Če je prazno, bo uporabljena privzeta slika puščice.",module,Magento_Backend
 "Theme Name","Ime teme",module,Magento_Backend
 "We could not detect a size.","Velikosti ni mogoče zaznati.",module,Magento_Backend
@@ -5382,20 +5382,20 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "{width}^{height} px","{width}^{height} px",module,Magento_Catalog
 "Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_Catalog
 "We can't find products matching the selection.","We can't find products matching the selection.",module,Magento_Catalog
-"Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
-"Send Check to:","Send Check to:",module,Magento_OfflinePayments
-"Purchase Order Number","Purchase Order Number",module,Magento_OfflinePayments
-"Make Check payable to: %1","Make Check payable to: %1",module,Magento_OfflinePayments
-"Purchase Order Number: %1","Purchase Order Number: %1",module,Magento_OfflinePayments
-"Make Check payable to","Make Check payable to",module,Magento_OfflinePayments
-"Send Check to","Send Check to",module,Magento_OfflinePayments
+"Make Check payable to:","Naredi ček plačilen za:",module,Magento_OfflinePayments
+"Send Check to:","Pošlji ček na:",module,Magento_OfflinePayments
+"Purchase Order Number","Številka naročila nakupa",module,Magento_OfflinePayments
+"Make Check payable to: %1","Naredi ček plačljiv za: %1",module,Magento_OfflinePayments
+"Purchase Order Number: %1","Številka naročila nakupa: %1",module,Magento_OfflinePayments
+"Make Check payable to","Naredi ček plačilen za",module,Magento_OfflinePayments
+"Send Check to","Pošji ček na",module,Magento_OfflinePayments
 "Check / Money Order","Naročilo s čekom/denarjem",module,Magento_OfflinePayments
 "Enabled","Omogočeno",module,Magento_OfflinePayments
-"New Order Status","New Order Status",module,Magento_OfflinePayments
+"New Order Status","Novo stanje naročila",module,Magento_OfflinePayments
 "Sort Order","Vrstni red",module,Magento_OfflinePayments
 "Title","Naslov",module,Magento_OfflinePayments
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_OfflinePayments
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_OfflinePayments
+"Payment from Applicable Countries","Plačilo iz uporabljenih držav",module,Magento_OfflinePayments
+"Payment from Specific Countries","Plačilo iz določenih držav",module,Magento_OfflinePayments
 "Make Check Payable to","Naredi ček plačilen za",module,Magento_OfflinePayments
 "Minimum Order Total","Najmanjši skupni znesek naročila",module,Magento_OfflinePayments
 "Maximum Order Total","Največji skupni znesek naročila",module,Magento_OfflinePayments
@@ -5403,9 +5403,9 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Bank Transfer Payment","Plačilo z bančnim nakazilom",module,Magento_OfflinePayments
 "Instructions","Navodila",module,Magento_OfflinePayments
 "Cash On Delivery Payment","Plačilo po povzetju",module,Magento_OfflinePayments
-"Zero Subtotal Checkout","Zero Subtotal Checkout",module,Magento_OfflinePayments
-"Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_OfflinePayments
-"Place Order","Place Order",module,Magento_OfflinePayments
+"Zero Subtotal Checkout","Nakup brez vmesne vsote",module,Magento_OfflinePayments
+"Automatically Invoice All Items","Samodejno izstavi račun za vse elemente",module,Magento_OfflinePayments
+"Place Order","Oddaj naročilo",module,Magento_OfflinePayments
 "Tax Rate Information","Tax Rate Information",module,Magento_Tax
 "Tax Identifier","Tax Identifier",module,Magento_Tax
 "Zip/Post is Range","Zip/Post is Range",module,Magento_Tax
@@ -5659,28 +5659,28 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Product Attribute","Atribut izdelka",module,Magento_CatalogRule
 "Updated rules applied.","Posodobljena pravila so bila uporabljena.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","Onemogočili ste %1 pravila cen kataloga, ki temeljijo na atributu ""%2"".",module,Magento_CatalogRule
-"Catalog Rule Product","Catalog Rule Product",module,Magento_CatalogRule
-"Indexed rule/product association","Indexed rule/product association",module,Magento_CatalogRule
-"Catalog Product Rule","Catalog Product Rule",module,Magento_CatalogRule
-"Indexed product/rule association","Indexed product/rule association",module,Magento_CatalogRule
-"Rule","Rule",module,Magento_CatalogRule
+"Catalog Rule Product","Izdelek kataloga pravil",module,Magento_CatalogRule
+"Indexed rule/product association","Združenje indeksiranih pravil/izdelkov",module,Magento_CatalogRule
+"Catalog Product Rule","Pravilo izdelka kataloga",module,Magento_CatalogRule
+"Indexed product/rule association","Združenje indeksiranih izdelkov/pravil",module,Magento_CatalogRule
+"Rule","Pravilo",module,Magento_CatalogRule
 "Start","Začetek",module,Magento_CatalogRule
-"End","End",module,Magento_CatalogRule
+"End","Konec",module,Magento_CatalogRule
 "Web Site","Spletno mesto",module,Magento_CatalogRule
-"Delete Rule","Delete Rule",module,Magento_CatalogRule
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_CatalogRule
-"Reset","Reset",module,Magento_CatalogRule
-"Save","Save",module,Magento_CatalogRule
-"Conditions (don't add conditions if rule is applied to all products)","Conditions (don't add conditions if rule is applied to all products)",module,Magento_CatalogRule
-"We can't apply the rules.","We can't apply the rules.",module,Magento_CatalogRule
-"We can't delete this rule right now. Please review the log and try again.","We can't delete this rule right now. Please review the log and try again.",module,Magento_CatalogRule
-"We can't find a rule to delete.","We can't find a rule to delete.",module,Magento_CatalogRule
-"Unable to save rule %1","Unable to save rule %1",module,Magento_CatalogRule
+"Delete Rule","Izbriši pravilo",module,Magento_CatalogRule
+"Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_CatalogRule
+"Reset","Ponastavitev",module,Magento_CatalogRule
+"Save","Shrani",module,Magento_CatalogRule
+"Conditions (don't add conditions if rule is applied to all products)","Pogoji (ne dodajte pogojev, če je pravilo uporabljeno za vse izdelke)",module,Magento_CatalogRule
+"We can't apply the rules.","Pravil ni mogoče uporabiti.",module,Magento_CatalogRule
+"We can't delete this rule right now. Please review the log and try again.","Tega pravila trenutno ni mogoče izbrisati. Preglejte dnevnik in poskusite znova.",module,Magento_CatalogRule
+"We can't find a rule to delete.","Pravila za brisanje ni mogoče najti.",module,Magento_CatalogRule
+"Unable to save rule %1","Pravila %1 ni mogoče shraniti",module,Magento_CatalogRule
 "Rule with specified ID ""%1"" not found.","Pravila z določenim ID ""%1"" ni mogoče najti.",module,Magento_CatalogRule
-"Unable to remove rule %1","Unable to remove rule %1",module,Magento_CatalogRule
-"We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_CatalogRule
-"Catalog rule indexing failed. See details in exception log.","Catalog rule indexing failed. See details in exception log.",module,Magento_CatalogRule
-"Back","Back",module,Magento_CatalogRule
+"Unable to remove rule %1","Pravila %1 ni mogoče odstraniti",module,Magento_CatalogRule
+"We can't rebuild the index for an undefined product.","Obnova indeksa za nedefinirani izdelek ni mogoča.",module,Magento_CatalogRule
+"Catalog rule indexing failed. See details in exception log.","Indeksiranje pravila kataloga ni uspelo. Glejte podrobnosti v dnevniku izjem.",module,Magento_CatalogRule
+"Back","Nazaj",module,Magento_CatalogRule
 "Country","Država",module,Magento_OfflineShipping
 "Region/State","Država/regija",module,Magento_OfflineShipping
 "Zip/Postal Code","Poštna številka",module,Magento_OfflineShipping
@@ -5840,25 +5840,25 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Custom Variables","Spremenljivke po meri",module,Magento_Variable
 "Add New Variable","Dodaj novo spremenljivko",module,Magento_Variable
 "Save and Continue Edit","Shrani in nadaljuj urejanje",module,Magento_Variable
-"Custom Variable ""%1""","Custom Variable ""%1""",module,Magento_Variable
-"New Custom Variable","New Custom Variable",module,Magento_Variable
-"Variable","Variable",module,Magento_Variable
-"Variable Code","Variable Code",module,Magento_Variable
-"Variable Name","Variable Name",module,Magento_Variable
-"Use Default Variable Values","Use Default Variable Values",module,Magento_Variable
+"Custom Variable ""%1""","Spremenljivka po meri ""%1""",module,Magento_Variable
+"New Custom Variable","Nova spremenljivka po meri",module,Magento_Variable
+"Variable","Spremenljivka",module,Magento_Variable
+"Variable Code","Koda spremenljivke",module,Magento_Variable
+"Variable Name","Ime spremenljivke",module,Magento_Variable
+"Use Default Variable Values","Uporabi privzete vrednosti spremenljivk",module,Magento_Variable
 "No","Ne",module,Magento_Variable
 "Yes","Da",module,Magento_Variable
-"Variable HTML Value","Variable HTML Value",module,Magento_Variable
-"Variable Plain Value","Variable Plain Value",module,Magento_Variable
-"You deleted the custom variable.","You deleted the custom variable.",module,Magento_Variable
-"You saved the custom variable.","You saved the custom variable.",module,Magento_Variable
-"Variable Code must be unique.","Variable Code must be unique.",module,Magento_Variable
-"Validation has failed.","Validation has failed.",module,Magento_Variable
+"Variable HTML Value","Vrednost spremenljivke HTML",module,Magento_Variable
+"Variable Plain Value","Navadna vrednost spremenljivke",module,Magento_Variable
+"You deleted the custom variable.","Izbrisali ste spremenljivko po meri.",module,Magento_Variable
+"You saved the custom variable.","Shranili ste spremenljivko po meri.",module,Magento_Variable
+"Variable Code must be unique.","Koda spremenljivke mora biti edinstvena.",module,Magento_Variable
+"Validation has failed.","Preverjanje ni uspešno.",module,Magento_Variable
 "%1","%1",module,Magento_Variable
 "Insert Variable...","Vstavi spremenljivko ...",module,Magento_Variable
 "Variable ID","ID spremenljivke",module,Magento_Variable
 "Name","Ime",module,Magento_Variable
-"To see product price, add this item to your cart. You can always remove it later.","To see product price, add this item to your cart. You can always remove it later.",module,Magento_Msrp
+"To see product price, add this item to your cart. You can always remove it later.","Za ogled cene izdelka dodajte ta element v vašo košarico. Lahko ga vedno odstranite kasneje.",module,Magento_Msrp
 "See price before order confirmation.","Poglej ceno pred potrditvijo naročila.",module,Magento_Msrp
 "On Gesture","Na potezo",module,Magento_Msrp
 "In Cart","V košarici",module,Magento_Msrp
@@ -5871,53 +5871,53 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Price","Cena",module,Magento_Msrp
 "Actual Price","Dejanska cena",module,Magento_Msrp
 "Add to Cart","Dodaj v košarico",module,Magento_Msrp
-"Minimum Advertised Price","Minimum Advertised Price",module,Magento_Msrp
-"Enable MAP","Enable MAP",module,Magento_Msrp
-"Display Actual Price","Display Actual Price",module,Magento_Msrp
-"Default Popup Text Message","Default Popup Text Message",module,Magento_Msrp
-"Default ""What's This"" Text Message","Default ""What's This"" Text Message",module,Magento_Msrp
-"Add Tax","Add Tax",module,"Magento_Weee"
-"Delete Tax","Delete Tax",module,"Magento_Weee"
-"All Websites","Vse spletne strani",module,"Magento_Weee"
-"FPT","FPT",module,"Magento_Weee"
-"We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and state fields for a fixed product tax",module,"Magento_Weee"
-"Including FPT only","Including FPT only",module,"Magento_Weee"
-"Including FPT and FPT description","Including FPT and FPT description",module,"Magento_Weee"
-"Excluding FPT. Including FPT description and final price","Excluding FPT. Including FPT description and final price",module,"Magento_Weee"
-"Excluding FPT","Excluding FPT",module,"Magento_Weee"
-"label_value","label_value",module,"Magento_Weee"
-"frontend_label","frontend_label",module,"Magento_Weee"
-"Fixed Product Tax","Fixed Product Tax",module,"Magento_Weee"
-"Excl. Tax","Brez davka",module,"Magento_Weee"
-"Total","Skupaj",module,"Magento_Weee"
-"Incl. Tax","Z davkom",module,"Magento_Weee"
-"Total Incl. Tax","Total Incl. Tax",module,"Magento_Weee"
-"Website","Spletna stran",module,"Magento_Weee"
-"Country/State","Country/State",module,"Magento_Weee"
-"Tax","Davek",module,"Magento_Weee"
-"Action","Dejanje",module,"Magento_Weee"
-"Final Price","Final Price",module,"Magento_Weee"
-"Fixed Product Taxes","Fiksni davki izdelkov",module,"Magento_Weee"
-"Enable FPT","Omogoči fiksni davek izdelkov",module,"Magento_Weee"
-"Display Prices In Product Lists","Prikaz cen v seznamih izdelkov",module,"Magento_Weee"
-"Display Prices On Product View Page","Prikaz cen na strani ogleda izdelka",module,"Magento_Weee"
-"Display Prices In Sales Modules","Prikaz cen v modulih prodaje",module,"Magento_Weee"
-"Display Prices In Emails","Prikaz cen v e-poštah",module,"Magento_Weee"
-"Apply Tax To FPT","Uporabi davek za fiksni davek izdelkov",module,"Magento_Weee"
-"Include FPT In Subtotal","Vključi fiksni davek izdelkov v delni vsoti",module,"Magento_Weee"
-"You must set unique country-state combinations within the same fixed product tax","You must set unique country-state combinations within the same fixed product tax",module,"Magento_Weee"
+"Minimum Advertised Price","Najmanjša oglaševana cena",module,Magento_Msrp
+"Enable MAP","Omogoči MAP",module,Magento_Msrp
+"Display Actual Price","Prikaži dejansko ceno",module,Magento_Msrp
+"Default Popup Text Message","Privzeto besedilo pojavnega okenca",module,Magento_Msrp
+"Default ""What's This"" Text Message","Privzeto besedilo sporočila ""Kaj je to""",module,Magento_Msrp
+"Add Tax","Dodaj davek",module,Magento_Weee
+"Delete Tax","Izbriši davek",module,Magento_Weee
+"All Websites","Vse spletne strani",module,Magento_Weee
+"FPT","FPT",module,Magento_Weee
+"We found a duplicate of website, country and state fields for a fixed product tax","Najdena so bila podvojena polja spletna stran, država in regija za fiksni davek izdelka",module,Magento_Weee
+"Including FPT only","Vključuje samo FPT",module,Magento_Weee
+"Including FPT and FPT description","Vključno s FPT in opisom FPT",module,Magento_Weee
+"Excluding FPT. Including FPT description and final price","Brez FPT. Vključno z opisom FPT in končno ceno",module,Magento_Weee
+"Excluding FPT","Brez FPT",module,Magento_Weee
+"label_value","label_value",module,Magento_Weee
+"frontend_label","frontend_label",module,Magento_Weee
+"Fixed Product Tax","Fiksni davek izdelka",module,Magento_Weee
+"Excl. Tax","Brez davka",module,Magento_Weee
+"Total","Skupaj",module,Magento_Weee
+"Incl. Tax","Z davkom",module,Magento_Weee
+"Total Incl. Tax","Skupaj z davkom",module,Magento_Weee
+"Website","Spletna stran",module,Magento_Weee
+"Country/State","Država/regija",module,Magento_Weee
+"Tax","Davek",module,Magento_Weee
+"Action","Dejanje",module,Magento_Weee
+"Final Price","Končna cena",module,Magento_Weee
+"Fixed Product Taxes","Fiksni davki izdelkov",module,Magento_Weee
+"Enable FPT","Omogoči fiksni davek izdelkov",module,Magento_Weee
+"Display Prices In Product Lists","Prikaz cen v seznamih izdelkov",module,Magento_Weee
+"Display Prices On Product View Page","Prikaz cen na strani ogleda izdelka",module,Magento_Weee
+"Display Prices In Sales Modules","Prikaz cen v modulih prodaje",module,Magento_Weee
+"Display Prices In Emails","Prikaz cen v e-poštah",module,Magento_Weee
+"Apply Tax To FPT","Uporabi davek za fiksni davek izdelkov",module,Magento_Weee
+"Include FPT In Subtotal","Vključi fiksni davek izdelkov v delni vsoti",module,Magento_Weee
+"You must set unique country-state combinations within the same fixed product tax","Nastaviti morate unikatno kombinacijo države-regije znotraj istega fiksnega davka izdelka",module,Magento_Weee
 "Filterable (with results)","Filtrirno (z rezultati)",module,Magento_LayeredNavigation
 "Filterable (no results)","Filtrirno (ni rezultatov)",module,Magento_LayeredNavigation
 "No","Ne",module,Magento_LayeredNavigation
 "Use in Layered Navigation","Uporabi v večstopenjski navigaciji",module,Magento_LayeredNavigation
-"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price",module,Magento_LayeredNavigation
-"Use in Search Results Layered Navigation","Use in Search Results Layered Navigation",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Lahko se uporablja le pri spustnem seznamu kataloga vhodnega tipa, izbirniku večih možnosti in ceni",module,Magento_LayeredNavigation
+"Use in Search Results Layered Navigation","Uporabi v nivojski navigaciji rezultatov iskanja",module,Magento_LayeredNavigation
 "Position","Položaj",module,Magento_LayeredNavigation
-"Position in Layered Navigation","Position in Layered Navigation",module,Magento_LayeredNavigation
-"Position of attribute in layered navigation block","Position of attribute in layered navigation block",module,Magento_LayeredNavigation
+"Position in Layered Navigation","Položaj v nivojski navigaciji",module,Magento_LayeredNavigation
+"Position of attribute in layered navigation block","Položaj atributa v bloku nivojske navigacije",module,Magento_LayeredNavigation
 "item","element",module,Magento_LayeredNavigation
 "items","elementi",module,Magento_LayeredNavigation
-"Now Shopping by","Zdaj nakupuje z",module,Magento_LayeredNavigation
+"Now Shopping by","Zdaj nakupuje z","module,Magento_LayeredNavigation
 "Previous","Prejšnja",module,Magento_LayeredNavigation
 "Remove","Odstrani",module,Magento_LayeredNavigation
 "Remove This Item","Odstrani ta element",module,Magento_LayeredNavigation
@@ -5933,9 +5933,9 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Display Price Interval as One Price","Prikaži cenovni interval kot eno ceno",module,Magento_LayeredNavigation
 "This setting will be applied when all prices in the specific price interval are equal.","Ta nastavitev bo uporabljena, ko bodo vse cene v določenem cenovnem intervalu enake.",module,Magento_LayeredNavigation
 "Interval Division Limit","Omejitev delitve intervala",module,Magento_LayeredNavigation
-"Please specify the number of products, that will not be divided into subintervals.","Please specify the number of products, that will not be divided into subintervals.",module,Magento_LayeredNavigation
-"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
-"Position of attribute in layered navigation block.","Position of attribute in layered navigation block.",module,Magento_LayeredNavigation
+"Please specify the number of products, that will not be divided into subintervals.","Navedite število izdelkov, ki ne bodo razdeljeni v pod intervale.",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Lahko se uporablja le pri spustnem seznamu kataloga vhodnega tipa, izbirniku večih možnosti in ceni.",module,Magento_LayeredNavigation
+"Position of attribute in layered navigation block.","Položaj atributa v bloku nivojske navigacije.",module,Magento_LayeredNavigation
 "Dictionary (Translation on Storefront side)","Slovar (prevod na prednji stani trgovine)",module,Magento_Translation
 "Embedded (Translation on Admin side)","Vgrajeni (prevod na strani administracije)",module,Magento_Translation
 "Translation Strategy","Strategija prevajanja",module,Magento_Translation
@@ -5964,9 +5964,9 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Mode","Način",module,Magento_Indexer
 "Status","Stanje",module,Magento_Indexer
 "Updated","Posodobljeno",module,Magento_Indexer
-"%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
-"Field '%1' not found","Field '%1' not found",module,Magento_Indexer
-"Change indexer mode","Change indexer mode",module,Magento_Indexer
+"%1 index is locked by another reindex process. Skipping.","Indeks %1 je zaklenjen zaradi drugega procesa ponovnega indeksiranja. Preskočeno.",module,Magento_Indexer
+"Field '%1' not found","Polja '%1' ni mogoče najti",module,Magento_Indexer
+"Change indexer mode","Spremeni način indeksiranja",module,Magento_Indexer
 "First-Class Mail Large Envelope","First-Class Mail Large Envelope",module,Magento_Usps
 "First-Class Mail Letter","First-Class Mail Letter",module,Magento_Usps
 "First-Class Mail Parcel","First-Class Mail Parcel",module,Magento_Usps
@@ -6102,16 +6102,16 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 " is required."," is required.",module,Magento_Usps
 "Enable Free Shipping Threshold","Omogoči mejno količino za brezplačno dostavo",module,Magento_Usps
 "Operation allowed only in HTTPS","Operacija je dovoljena samo v načinu HTTPS",module,Magento_Webapi
-"Cannot perform GET operation with store code \'all\'","Cannot perform GET operation with store code \'all\'",module,Magento_Webapi
-"Request does not match any route.","Request does not match any route.",module,Magento_Webapi
-"Authentication header format is invalid.","Authentication header format is invalid.",module,Magento_Webapi
-"Authentication header is absent.","Authentication header is absent.",module,Magento_Webapi
-"Not allowed parameters: %1. Please use only %2 and %3.","Not allowed parameters: %1. Please use only %2 and %3.",module,Magento_Webapi
-"Requested service is not available: ""%1""","Requested service is not available: ""%1""",module,Magento_Webapi
-"Operation ""%1"" not found.","Operation ""%1"" not found.",module,Magento_Webapi
-"SOAP extension is not loaded.","SOAP extension is not loaded.",module,Magento_Webapi
-"Invalid XML","Invalid XML",module,Magento_Webapi
-"Invalid XML: Detected use of illegal DOCTYPE","Invalid XML: Detected use of illegal DOCTYPE",module,Magento_Webapi
+"Cannot perform GET operation with store code \'all\'","Operacije GET ni mogoče izvesti s kodo trgovine 'all'",module,Magento_Webapi
+"Request does not match any route.","Zahtevek se ne ujema z nobeno usmeritvijo.",module,Magento_Webapi
+"Authentication header format is invalid.","Oblika glave preverjanja pristnosti ni veljavna.",module,Magento_Webapi
+"Authentication header is absent.","Manjka glava preverjanja pristnosti.",module,Magento_Webapi
+"Not allowed parameters: %1. Please use only %2 and %3.","Nedovoljeni parametri: %1. Prosimo, uporabite samo %2 in %3.",module,Magento_Webapi
+"Requested service is not available: ""%1""","Zahtevana storitev ni na voljo: ""%1""",module,Magento_Webapi
+"Operation ""%1"" not found.","Operacije ""%1"" ni mogoče najti.",module,Magento_Webapi
+"SOAP extension is not loaded.","Razširitev SOAP ni naložena.",module,Magento_Webapi
+"Invalid XML","Neveljaven XML",module,Magento_Webapi
+"Invalid XML: Detected use of illegal DOCTYPE","Neveljaven XML: Odkrita uporaba neveljavnega DOCTYPE",module,Magento_Webapi
 "message","sporočilo",module,Magento_Webapi
 "Message","Sporočilo",module,Magento_Webapi
 "Magento Web API","Magento spletni API",module,Magento_Webapi
@@ -6120,9 +6120,9 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "If empty, UTF-8 will be used.","Če je prazno, bo uporabljen UTF-8.",module,Magento_Webapi
 "Web Services Configuration","Konfiguracija spletnih storitev",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file.","REST in SOAP konfiguracije, generirana datoteka WSDL.",module,Magento_Webapi
-"Consumer is not authorized to access %resources","Consumer is not authorized to access %resources",module,Magento_Webapi
-"Cannot perform GET operation with store code 'all'","Cannot perform GET operation with store code 'all'",module,Magento_Webapi
-"Soap fault reason.","Soap fault reason.",module,Magento_Webapi
+"Consumer is not authorized to access %resources","Potrošnik ni avtoriziran za dostop do %resources",module,Magento_Webapi
+"Cannot perform GET operation with store code 'all'","Operacije GET ni mogoče izvesti s kodo trgovine 'all'",module,Magento_Webapi
+"Soap fault reason.","Razlog napake SOAP.",module,Magento_Webapi
 "Manage Customers","Upravljanje strank",module,Magento_Webapi
 "Create Customer","Ustvari stranko",module,Magento_Webapi
 "Edit Customer","Urejanje stranke",module,Magento_Webapi
@@ -6132,11 +6132,11 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Page not found.","Strani ni mogoče najti.",module,Magento_Rss
 "Feed","Vir",module,Magento_Rss
 "Miscellaneous Feeds","Razni viri",module,Magento_Rss
-"Get Feed","Get Feed",module,Magento_Rss
+"Get Feed","Pridobi vir",module,Magento_Rss
 "RSS Feeds","RSS viri",module,Magento_Rss
 "Rss Config","RSS nastavitve",module,Magento_Rss
 "Enable RSS","Omogoči RSS",module,Magento_Rss
-"RSS Feeds Section","RSS Feeds Section",module,Magento_Rss
+"RSS Feeds Section","Oddelek RSS virov",module,Magento_Rss
 "Current store is not active.","Current store is not active.",module,Magento_Store
 "Requested store is inactive","Requested store is inactive",module,Magento_Store
 "Requested store is not found","Requested store is not found",module,Magento_Store
@@ -6270,11 +6270,11 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Thanks for your order. We'll email you order details and tracking information.","Thanks for your order. We'll email you order details and tracking information.",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
 "Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
-"File directory \'%1\' is not readable.","Imenik datotek \'%1\' ni berljiv.",module,"Magento_DownloadableImportExport"
-"File directory \'%1\' is not writable.","Imenik datotek \'%1\' ni zapisljiv.",module,"Magento_DownloadableImportExport"
-"Error","Napaka",module,"Magento_DownloadableImportExport"
-"File directory '%1' is not readable.","File directory '%1' is not readable.",module,"Magento_DownloadableImportExport"
-"File directory '%1' is not writable.","File directory '%1' is not writable.",module,"Magento_DownloadableImportExport"
+"File directory \'%1\' is not readable.","Imenik datotek \'%1\' ni berljiv.",module,Magento_DownloadableImportExport
+"File directory \'%1\' is not writable.","Imenik datotek \'%1\' ni zapisljiv.",module,Magento_DownloadableImportExport
+"Error","Napaka",module,Magento_DownloadableImportExport
+"File directory '%1' is not readable.","Imenika datotek '%1' ni mogoče prebrati.",module,Magento_DownloadableImportExport
+"File directory '%1' is not writable.","Imenik datotek '%1' ni zapisljiv.",module,Magento_DownloadableImportExport
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
 "New Relic Reporting","Poročanje New Relic",module,Magento_NewRelicReporting
 "General","Splošno",module,Magento_NewRelicReporting
@@ -8438,21 +8438,21 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Full page caching","Full page caching",module,Magento_PageCache
 "Code","Koda",module,Magento_TaxImportExport
 "Country","Država",module,Magento_TaxImportExport
-"State","State",module,Magento_TaxImportExport
-"Zip/Post Code","Zip/Post Code",module,Magento_TaxImportExport
-"Rate","Rate",module,Magento_TaxImportExport
-"Zip/Post is Range","Zip/Post is Range",module,Magento_TaxImportExport
-"Range From","Range From",module,Magento_TaxImportExport
-"Range To","Range To",module,Magento_TaxImportExport
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_TaxImportExport
-"Import and Export Tax Rates","Import and Export Tax Rates",module,Magento_TaxImportExport
-"The tax rate has been imported.","The tax rate has been imported.",module,Magento_TaxImportExport
-"Invalid file upload attempt","Invalid file upload attempt",module,Magento_TaxImportExport
-"Invalid file upload attempt.","Invalid file upload attempt.",module,Magento_TaxImportExport
-"Invalid file format.","Invalid file format.",module,Magento_TaxImportExport
-"One of the countries has invalid code.","One of the countries has invalid code.",module,Magento_TaxImportExport
-"Import Tax Rates","Import Tax Rates",module,Magento_TaxImportExport
-"Export Tax Rates","Export Tax Rates",module,Magento_TaxImportExport
+"State","Država",module,Magento_TaxImportExport
+"Zip/Post Code","Poštna številka",module,Magento_TaxImportExport
+"Rate","Stopnja",module,Magento_TaxImportExport
+"Zip/Post is Range","Poštna številka je obseg",module,Magento_TaxImportExport
+"Range From","Obseg od",module,Magento_TaxImportExport
+"Range To","Obseg do",module,Magento_TaxImportExport
+"Tax Zones and Rates","Davčna območja in stopnje",module,Magento_TaxImportExport
+"Import and Export Tax Rates","Uvoz in izvoz davčnih stopenj",module,Magento_TaxImportExport
+"The tax rate has been imported.","Davčna stopnja je bila uvožena.",module,Magento_TaxImportExport
+"Invalid file upload attempt","Poskus nalaganja neveljavne datoteke",module,Magento_TaxImportExport
+"Invalid file upload attempt.","Poskus nalaganja neveljavne datoteke.",module,Magento_TaxImportExport
+"Invalid file format.","Neveljavna oblika datoteke.",module,Magento_TaxImportExport
+"One of the countries has invalid code.","Ena izmed držav nima veljavne kode.",module,Magento_TaxImportExport
+"Import Tax Rates","Uvoz davčnih stopenj",module,Magento_TaxImportExport
+"Export Tax Rates","Izvoz davčne stopnje",module,Magento_TaxImportExport
 "CSV","CSV",module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
 "Sign Out","Odjava",module,Magento_Customer
@@ -9071,28 +9071,28 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Out of stock","Ni na zalogi",module,Magento_CatalogWidget
 "Add to Wish List","Dodaj na seznam želja",module,Magento_CatalogWidget
 "Add to Compare","Dodaj v primerjavo",module,Magento_CatalogWidget
-"Catalog Products List","Catalog Products List",module,Magento_CatalogWidget
-"List of Products","List of Products",module,Magento_CatalogWidget
+"Catalog Products List","Seznam izdelkov kataloga",module,Magento_CatalogWidget
+"List of Products","Seznam izdelkov",module,Magento_CatalogWidget
 "Title","Naslov",module,Magento_CatalogWidget
-"Display Page Control","Display Page Control",module,Magento_CatalogWidget
-"Number of Products per Page","Number of Products per Page",module,Magento_CatalogWidget
-"Number of Products to Display","Number of Products to Display",module,Magento_CatalogWidget
+"Display Page Control","Prikaži kontrolnik strani",module,Magento_CatalogWidget
+"Number of Products per Page","Število izdelkov na stran",module,Magento_CatalogWidget
+"Number of Products to Display","Število izdelkov za prikaz",module,Magento_CatalogWidget
 "Template","Predloga",module,Magento_CatalogWidget
-"Products Grid Template","Products Grid Template",module,Magento_CatalogWidget
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_CatalogWidget
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_CatalogWidget
+"Products Grid Template","Predloga mreže izdelkov",module,Magento_CatalogWidget
+"Cache Lifetime (Seconds)","Življenjska doba predpomnilnika (sekunde)",module,Magento_CatalogWidget
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 je privzeto, če ni nastavljeno. Če želite osvežiti takoj, počistite bloke HTML izhodnega predpomnilnika.",module,Magento_CatalogWidget
 "Conditions","Pogoji",module,Magento_CatalogWidget
-"Url","Url",module,Magento_ProductVideo
+"Url","URL",module,Magento_ProductVideo
 "Title","Naslov",module,Magento_ProductVideo
 "Description","Opis",module,Magento_ProductVideo
-"Preview Image","Preview Image",module,Magento_ProductVideo
-"Get Video Information","Get Video Information",module,Magento_ProductVideo
+"Preview Image","Predogled slike",module,Magento_ProductVideo
+"Get Video Information","Pridobi video informacije",module,Magento_ProductVideo
 "Hide from Product Page","Skrij iz strani izdelka",module,Magento_ProductVideo
 "Role","Vloga",module,Magento_ProductVideo
-"YouTube and Vimeo supported.","YouTube and Vimeo supported.",module,Magento_ProductVideo
-"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.",module,Magento_ProductVideo
-"Could not get preview image information. Please check your connection and try again.","Could not get preview image information. Please check your connection and try again.",module,Magento_ProductVideo
-"Click here to add videos.","Click here to add videos.",module,Magento_ProductVideo
+"YouTube and Vimeo supported.","YouTube in Vimeo podprta.",module,Magento_ProductVideo
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Podpira Vimeo.<br />Da dodate YouTube posnetek, najprej <a href=""%1"">vnesite ključ YouTube API</a>.",module,Magento_ProductVideo
+"Could not get preview image information. Please check your connection and try again.","Informacij predogleda slike ni bilo mogoče pridobiti. Preverite povezavo in poskusite znova.",module,Magento_ProductVideo
+"Click here to add videos.","Kliknite tukaj, da dodate video posnetke.",module,Magento_ProductVideo
 "New Video","Nov video",module,Magento_ProductVideo
 "Add Video","Dodaj video",module,Magento_ProductVideo
 "Add video","Dodaj video",module,Magento_ProductVideo
@@ -9109,26 +9109,26 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Video Error","Napaka videa",module,Magento_ProductVideo
 "Unknown video type","Neznana vrsta videa",module,Magento_ProductVideo
 "Invalid video url","Neveljaven URL za video",module,Magento_ProductVideo
-"Youtube API key is invalid","Youtube API key is invalid",module,Magento_ProductVideo
-"Video cant be shown due to the following reason: ","Video cant be shown due to the following reason: ",module,Magento_ProductVideo
-"Video not found","Video not found",module,Magento_ProductVideo
+"Youtube API key is invalid","Ključ YouTube API ni veljaven",module,Magento_ProductVideo
+"Video cant be shown due to the following reason: ","Videa ni mogoče prikazati zaradi naslednjega razloga: ",module,Magento_ProductVideo
+"Video not found","Videa ni mogoče najti",module,Magento_ProductVideo
 "Save","Shrani",module,Magento_ProductVideo
 "Cancel","Prekliči",module,Magento_ProductVideo
 "Delete","Izbriši",module,Magento_ProductVideo
-"Edit Video","Edit Video",module,Magento_ProductVideo
+"Edit Video","Uredi video",module,Magento_ProductVideo
 "Images and Videos","Slike in video posnetki",module,Magento_ProductVideo
 "Product Video","Video izdelka",module,Magento_ProductVideo
 "YouTube API Key","Ključ YouTube API",module,Magento_ProductVideo
 "Autostart base video","Samodejni zagon osnovnega videa",module,Magento_ProductVideo
 "Show related video","Prikaži povezan video",module,Magento_ProductVideo
 "Auto restart video","Samodejni ponovni zagon videa",module,Magento_ProductVideo
-"Protocol isn't allowed","Protocol isn't allowed",module,Magento_ProductVideo
-"Browse to find or drag image here","Browse to find or drag image here",module,Magento_ProductVideo
-"Image Size","Image Size",module,Magento_ProductVideo
+"Protocol isn't allowed","Protokol ni dovoljen",module,Magento_ProductVideo
+"Browse to find or drag image here","Prebrskajte, da najdete ali povlečete sliko sem",module,Magento_ProductVideo
+"Image Size","Velikost slike",module,Magento_ProductVideo
 "{size}","{size}",module,Magento_ProductVideo
-"Image Resolution","Image Resolution",module,Magento_ProductVideo
+"Image Resolution","Ločljivost slike",module,Magento_ProductVideo
 "{width}^{height} px","{width}^{height} px",module,Magento_ProductVideo
-"Images And Videos","Images And Videos",module,Magento_ProductVideo
+"Images And Videos","Slike in video posnetki",module,Magento_ProductVideo
 "Now Shopping by","Zdaj nakupuje z",theme,frontend/Magento/luma
 "Previous","Prejšnja",theme,frontend/Magento/luma
 "Remove","Odstrani",theme,frontend/Magento/luma
