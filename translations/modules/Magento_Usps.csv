@@ -2,7 +2,7 @@
 "First-Class Mail Letter","First-Class Mail Letter",module,Magento_Usps
 "First-Class Mail Parcel","First-Class Mail Parcel",module,Magento_Usps
 "First-Class Mail Postcards","First-Class Mail Postcards",module,Magento_Usps
-"Priority Mail","Priority Mail",module,Magento_Usps
+"Priority Mail","Prednostna pošta",module,Magento_Usps
 "Priority Mail Express Hold For Pickup","Priority Mail Express Hold For Pickup",module,Magento_Usps
 "Priority Mail Express","Priority Mail Express",module,Magento_Usps
 "Retail Ground","Retail Ground",module,Magento_Usps
@@ -75,44 +75,44 @@
 "Letter","Letter",module,Magento_Usps
 "Flat","Flat",module,Magento_Usps
 "Parcel","Parcel",module,Magento_Usps
-"Variable","Variable",module,Magento_Usps
+"Variable","Spremenljivka",module,Magento_Usps
 "Flat-Rate Box","Flat-Rate Box",module,Magento_Usps
 "Flat-Rate Envelope","Flat-Rate Envelope",module,Magento_Usps
-"Rectangular","Rectangular",module,Magento_Usps
-"Non-rectangular","Non-rectangular",module,Magento_Usps
+"Rectangular","Kvadratno",module,Magento_Usps
+"Non-rectangular","Ni kvadratno",module,Magento_Usps
 "Regular","Redno",module,Magento_Usps
-"Large","Large",module,Magento_Usps
+"Large","Veliko",module,Magento_Usps
 "Yes","Da",module,Magento_Usps
 "No","Ne",module,Magento_Usps
 "Not Required","Ni zahtevano",module,Magento_Usps
 "Required","Zahtevano",module,Magento_Usps
 "For some reason we can\'t retrieve tracking info right now.","Iz neznanega razloga trenutno ni mogoče pridobiti informacij sledenja.",module,Magento_Usps
-"Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Sorry, something went wrong. Please try again or contact us and we\'ll try to help.",module,Magento_Usps
+"Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Žal, nekaj je šlo narobe. Prosimo, poskusite znova ali pa nas kontaktirajte in bomo skušali pomagati.",module,Magento_Usps
 "track_summary","track_summary",module,Magento_Usps
 "Empty response","Prazen odgovor",module,Magento_Usps
-"Service type does not match","Service type does not match",module,Magento_Usps
-"Merchandise","Merchandise",module,Magento_Usps
+"Service type does not match","Vrsta storitve se ne ujema",module,Magento_Usps
+"Merchandise","Trgovsko blago",module,Magento_Usps
 "Sample","Vzorec",module,Magento_Usps
-"Gift","Gift",module,Magento_Usps
+"Gift","Darilo",module,Magento_Usps
 "Documents","Dokumenti",module,Magento_Usps
-"Return","Return",module,Magento_Usps
-"Other","Other",module,Magento_Usps
+"Return","Povratnica",module,Magento_Usps
+"Other","Ostalo",module,Magento_Usps
 "None","Brez",module,Magento_Usps
 "USPS","USPS",module,Magento_Usps
-"Enabled for Checkout","Enabled for Checkout",module,Magento_Usps
-"Gateway URL","Gateway URL",module,Magento_Usps
+"Enabled for Checkout","Omogočeno za blagajno",module,Magento_Usps
+"Gateway URL","URL prehoda",module,Magento_Usps
 "Secure Gateway URL","URL varnega prehoda",module,Magento_Usps
 "Title","Naslov",module,Magento_Usps
-"User ID","User ID",module,Magento_Usps
+"User ID","ID uporabnika",module,Magento_Usps
 "Password","Geslo",module,Magento_Usps
 "Mode","Način",module,Magento_Usps
 "Packages Request Type","Vrsta zahteve paketov",module,Magento_Usps
-"Container","Container",module,Magento_Usps
-"Size","Size",module,Magento_Usps
+"Container","Kontejner",module,Magento_Usps
+"Size","Velikost",module,Magento_Usps
 "Width","Širina",module,Magento_Usps
-"Length","Length",module,Magento_Usps
+"Length","Dolžina",module,Magento_Usps
 "Height","Višina",module,Magento_Usps
-"Girth","Girth",module,Magento_Usps
+"Girth","Obod",module,Magento_Usps
 "Machinable","Strojno",module,Magento_Usps
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Največja teža paketa (posvetujte se z vašim prevoznikom za največjo podprto težo pošiljke)",module,Magento_Usps
 "Calculate Handling Fee","Izračun takse za stroške obdelave",module,Magento_Usps
@@ -120,15 +120,15 @@
 "Handling Fee","Taksa za stroške obdelave",module,Magento_Usps
 "Allowed Methods","Dovoljene metode",module,Magento_Usps
 "Free Method","Brezplačen način",module,Magento_Usps
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Usps
+"Free Shipping Amount Threshold","Mejni znesek brezplačne dostave",module,Magento_Usps
 "Displayed Error Message","Prikazano sporočilo napake",module,Magento_Usps
-"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Usps
-"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Usps
-"Debug","Debug",module,Magento_Usps
-"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Usps
+"Ship to Applicable Countries","Dostava v države, ki se uporabljajo",module,Magento_Usps
+"Ship to Specific Countries","Dostava v določene države",module,Magento_Usps
+"Debug","Razhroščevanje",module,Magento_Usps
+"Show Method if Not Applicable","Prikaži način, če ni v uporabi",module,Magento_Usps
 "Sort Order","Vrstni red",module,Magento_Usps
-"For some reason we can't retrieve tracking info right now.","For some reason we can't retrieve tracking info right now.",module,Magento_Usps
-"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Sorry, something went wrong. Please try again or contact us and we'll try to help.",module,Magento_Usps
-"Field ","Field ",module,Magento_Usps
-" is required."," is required.",module,Magento_Usps
+"For some reason we can't retrieve tracking info right now.","Iz neznanega razloga trenutno ni mogoče pridobiti informacij sledenja.",module,Magento_Usps
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Žal, nekaj je šlo narobe. Prosimo, poskusite znova ali pa nas kontaktirajte in bomo skušali pomagati.",module,Magento_Usps
+"Field ","Polje ",module,Magento_Usps
+" is required."," je obvezno.",module,Magento_Usps
 "Enable Free Shipping Threshold","Omogoči mejno količino za brezplačno dostavo",module,Magento_Usps

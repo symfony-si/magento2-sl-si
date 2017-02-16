@@ -1,66 +1,66 @@
 "Unable to save address. Please, check input data.","Naslova ni mogoče shraniti. Prosimo, preverite vnešene podatke.",module,Magento_Quote
-"Cart %1 doesn\'t contain products","Cart %1 doesn\'t contain products",module,Magento_Quote
-"Could not apply coupon code","Could not apply coupon code",module,Magento_Quote
-"Coupon code is not valid","Coupon code is not valid",module,Magento_Quote
-"Could not delete coupon code","Could not delete coupon code",module,Magento_Quote
+"Cart %1 doesn\'t contain products","Košarica %1 ne vsebuje izdelkov",module,Magento_Quote
+"Could not apply coupon code","Kode kupona ni mogoče uporabiti",module,Magento_Quote
+"Coupon code is not valid","Koda kupona ni veljavna",module,Magento_Quote
+"Could not delete coupon code","Kode kupona ni mogoče izbrisati",module,Magento_Quote
 "Shipping address is not set","Dostavni naslov ni nastavljen",module,Magento_Quote
-"The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_Quote
-"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Quote
-"This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration.",module,Magento_Quote
-"This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us.",module,Magento_Quote
-"The address model is not defined.","The address model is not defined.",module,Magento_Quote
+"The requested Payment Method is not available.","Zahtevani način plačila ni na voljo.",module,Magento_Quote
+"We found an invalid request for adding product to quote.","Našli smo neveljaven zahtevek za dodajanje izdelka ponudbi.",module,Magento_Quote
+"This is the wrong quote item id to update configuration.","To je napačen id ponudbe za posodobitev nastavitev.",module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.","Ta način pošiljanja ni na voljo. Da uporabite ta način pošiljanja, nas prosimo kontaktirajte.",module,Magento_Quote
+"The address model is not defined.","Model naslova ni definiran.",module,Magento_Quote
 "The address total model should be extended from
-                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Skupni model naslova bi moral biti razširjen iz
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
 "Grand Total","Skupna vsota",module,Magento_Quote
 "Shipping & Handling (%1)","Dostava in obdelava (%1)",module,Magento_Quote
 "Shipping & Handling","Dostava in obdelava",module,Magento_Quote
 "Shipping","Dostava",module,Magento_Quote
 "Subtotal","Delna vsota",module,Magento_Quote
-"We found an invalid item option format.","We found an invalid item option format.",module,Magento_Quote
-"An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_Quote
-"Item qty declaration error","Item qty declaration error",module,Magento_Quote
-"Some of the products below do not have all the required options.","Some of the products below do not have all the required options.",module,Magento_Quote
-"Something went wrong during the item options declaration.","Something went wrong during the item options declaration.",module,Magento_Quote
-"We found an item options declaration error.","We found an item options declaration error.",module,Magento_Quote
-"Some of the selected options are not currently available.","Some of the selected options are not currently available.",module,Magento_Quote
-"Selected option(s) or their combination is not currently available.","Selected option(s) or their combination is not currently available.",module,Magento_Quote
-"Some item options or their combination are not currently available.","Some item options or their combination are not currently available.",module,Magento_Quote
-"Cart %1 doesn\'t contain item  %2","Cart %1 doesn\'t contain item  %2",module,Magento_Quote
-"Could not save quote","Could not save quote",module,Magento_Quote
-"Could not remove item from quote","Could not remove item from quote",module,Magento_Quote
-"The qty value is required to update quote item.","The qty value is required to update quote item.",module,Magento_Quote
-"Invalid customer id %1","Invalid customer id %1",module,Magento_Quote
-"Invalid address id %1","Invalid address id %1",module,Magento_Quote
+"We found an invalid item option format.","Našli smo neveljaven format možnosti elementa.",module,Magento_Quote
+"An item option with code %1 already exists.","Možnost elementa s kodo %1 že obstaja.",module,Magento_Quote
+"Item qty declaration error","Napaka deklaracije količine elementa",module,Magento_Quote
+"Some of the products below do not have all the required options.","Nekateri izmed spodnjih izdelkov nimajo vseh zahtevanih možnosti.",module,Magento_Quote
+"Something went wrong during the item options declaration.","Nekaj je šlo narobe med deklariranjem možnosti elementov.",module,Magento_Quote
+"We found an item options declaration error.","Ugotovili smo napako deklaracije možnosti elementov.",module,Magento_Quote
+"Some of the selected options are not currently available.","Nekatere izmed izbranih možnosti trenutno niso na voljo.",module,Magento_Quote
+"Selected option(s) or their combination is not currently available.","Izbrane možnosti ali njihove kombinacije trenutno niso na voljo.",module,Magento_Quote
+"Some item options or their combination are not currently available.","Nekatere izmed možnosti elementov ali njihove kombinacije trenutno niso na voljo.",module,Magento_Quote
+"Cart %1 doesn\'t contain item  %2","Košarica %1 ne vsebuje elementa %2",module,Magento_Quote
+"Could not save quote","Ponudbe ni bilo mogoče shraniti",module,Magento_Quote
+"Could not remove item from quote","Elementa ni bilo mogoče odstraniti iz ponudbe",module,Magento_Quote
+"The qty value is required to update quote item.","Vrednost količine je zahtevana za posodobitev elementa ponudbe.",module,Magento_Quote
+"Invalid customer id %1","Neveljaven id kupca %1",module,Magento_Quote
+"Invalid address id %1","Neveljaven id naslova %1",module,Magento_Quote
 "Cannot create quote","Ni mogoče ustvariti ponudbe",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart belongs to different store.","Cannot assign customer to the given cart. The cart belongs to different store.",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart is not anonymous.","Cannot assign customer to the given cart. The cart is not anonymous.",module,Magento_Quote
-"Cannot assign customer to the given cart. Customer already has active cart.","Cannot assign customer to the given cart. Customer already has active cart.",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart belongs to different store.","Kupca ni mogoče dodeliti dani košarici. Košarica pripada drugi trgovini.",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart is not anonymous.","Kupca ni mogoče dodeliti dani košarici. Košarica ni anonimna.",module,Magento_Quote
+"Cannot assign customer to the given cart. Customer already has active cart.","Kupca ni mogoče dodeliti dani košarici. Kupec že ima aktivno košarico.",module,Magento_Quote
 "Cannot place order.","Naročila ni mogoče oddati.",module,Magento_Quote
-"This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
-"Please check the shipping address information. %1","Please check the shipping address information. %1",module,Magento_Quote
-"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Quote
-"Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
-"Please select a valid payment method.","Please select a valid payment method.",module,Magento_Quote
-"Store Credit","Store Credit",module,Magento_Quote
-"Discount","Discount",module,Magento_Quote
+"This item price or quantity is not valid for checkout.","Cena elementa ali količina ni veljavna za nakup.",module,Magento_Quote
+"Please check the shipping address information. %1","Preverite podatke o naslovu dostave. %1",module,Magento_Quote
+"Please specify a shipping method.","Navedite način pošiljanja.",module,Magento_Quote
+"Please check the billing address information. %1","Preverite podatke o naslovu računa. %1",module,Magento_Quote
+"Please select a valid payment method.","Navedite način plačila.",module,Magento_Quote
+"Store Credit","Kredit trgovine",module,Magento_Quote
+"Discount","Popust",module,Magento_Quote
 "Tax","Davek",module,Magento_Quote
 "Cart contains virtual product(s) only. Shipping address is not applicable.","Košarica vsebuje le virtualne izdelke. Dostavni naslov ni v uporabi.",module,Magento_Quote
-"Shipping address not set.","Shipping address not set.",module,Magento_Quote
+"Shipping address not set.","Dostavni naslov ni nastavljen.",module,Magento_Quote
 "Shipping method is not applicable for empty cart","Način dostave ni v uporabi za prazno košarico",module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping method is not applicable.","Cart contains virtual product(s) only. Shipping method is not applicable.",module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping method is not applicable.","Košarica vsebuje samo virtualne izdelke. Način dostave ni na voljo.",module,Magento_Quote
 "Carrier with such method not found: %1, %2","Prevoznika s takim načinom ni bilo mogoče najti: %1, %2",module,Magento_Quote
-"Cannot set shipping method. %1","Cannot set shipping method. %1",module,Magento_Quote
+"Cannot set shipping method. %1","Ni mogoče nastaviti načina dostave. %1",module,Magento_Quote
 "error123","error123",module,Magento_Quote
 "error345","error345",module,Magento_Quote
-"Unable to save address. Please check input data.","Unable to save address. Please check input data.",module,Magento_Quote
-"Cart %1 doesn't contain products","Cart %1 doesn't contain products",module,Magento_Quote
-"Cannot assign customer to the given cart. You don't have permission for this operation.","Cannot assign customer to the given cart. You don't have permission for this operation.",module,Magento_Quote
-"Cart %1 does not contain item %2","Cart %1 does not contain item %2",module,Magento_Quote
-"Cart %1 doesn't contain item  %2","Cart %1 doesn't contain item  %2",module,Magento_Quote
-"Minimum order amount is %1","Minimum order amount is %1",module,Magento_Quote
-"Invalid customer address id %1","Invalid customer address id %1",module,Magento_Quote
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Quote
-"Only 1 shipping assignment can be set","Only 1 shipping assignment can be set",module,Magento_Quote
-"Carts","Carts",module,Magento_Quote
-"Manage carts","Manage carts",module,Magento_Quote
+"Unable to save address. Please check input data.","Naslova ni mogoče shraniti. Preverite vnešene podatke.",module,Magento_Quote
+"Cart %1 doesn't contain products","Košarica %1 ne vsebuje izdelkov",module,Magento_Quote
+"Cannot assign customer to the given cart. You don't have permission for this operation.","Kupca ni mogoče dodeliti dani košarici. Za to operacijo nimate pravic.",module,Magento_Quote
+"Cart %1 does not contain item %2","Košarica %1 ne vsebuje elementa %2",module,Magento_Quote
+"Cart %1 doesn't contain item  %2","Košarica %1 ne vsebuje elementa %2",module,Magento_Quote
+"Minimum order amount is %1","Najmanjši znesek za naročilo je %1",module,Magento_Quote
+"Invalid customer address id %1","Neveljaven id naslova kupca %1",module,Magento_Quote
+"An error occurred on the server. Please try to place the order again.","Na strežniku je prišlo do napake. Prosimo, poskusite ponovno oddati naročilo.",module,Magento_Quote
+"Only 1 shipping assignment can be set","Nastavljena je lahko samo 1 dodelitev pošiljanja",module,Magento_Quote
+"Carts","Košarice",module,Magento_Quote
+"Manage carts","Upravljanje košaric",module,Magento_Quote

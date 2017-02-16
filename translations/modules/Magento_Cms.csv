@@ -98,7 +98,7 @@
 "Directory %1 is not under storage root path.","Mapa %1 ni pod korensko potjo shranjevanja.",module,Magento_Cms
 "LocalizedException","LocalizedException",module,Magento_Cms
 "RuntimeException","RuntimeException",module,Magento_Cms
-"Exception","Exception",module,Magento_Cms
+"Exception","Izjema",module,Magento_Cms
 "Could not create directory.","Imenika ni mogoče ustvariti.",module,Magento_Cms
 "All Store Views","Ogledi celotne trgovine",module,Magento_Cms
 "Edit","Uredi",module,Magento_Cms
@@ -113,64 +113,64 @@
 "Browse Files...","Prebrskaj datoteke...",module,Magento_Cms
 "Collapse All","Strni vse",module,Magento_Cms
 "Expand All","Razširi vse",module,Magento_Cms
-"Media Gallery","Media Gallery",module,Magento_Cms
-"Enable Block","Enable Block",module,Magento_Cms
-"Enable Page","Enable Page",module,Magento_Cms
-"Search Engine Optimisation","Search Engine Optimisation",module,Magento_Cms
-"Meta Title","Meta Title",module,Magento_Cms
-"Page in Websites","Page in Websites",module,Magento_Cms
-"Custom Design Update","Custom Design Update",module,Magento_Cms
-"From","From",module,Magento_Cms
-"To","To",module,Magento_Cms
-"New Theme","New Theme",module,Magento_Cms
-"New Layout","New Layout",module,Magento_Cms
+"Media Gallery","Medijska galerija",module,Magento_Cms
+"Enable Block","Omogoči blok",module,Magento_Cms
+"Enable Page","Omogoči stran",module,Magento_Cms
+"Search Engine Optimisation","Optimizacija za iskalnike",module,Magento_Cms
+"Meta Title","Meta naslov",module,Magento_Cms
+"Page in Websites","Stran v spletnih straneh",module,Magento_Cms
+"Custom Design Update","Posodobitev oblike po meri",module,Magento_Cms
+"From","Od",module,Magento_Cms
+"To","Za",module,Magento_Cms
+"New Theme","Nova tema",module,Magento_Cms
+"New Layout","Nova postavitev",module,Magento_Cms
 "We could not detect a size.","Velikosti ni mogoče zaznati.",module,Magento_Cms
 "CMS Home Page","Domača stran CMS",module,Magento_Cms
 "CMS No Route Page","Stran CMS brez usmeritve",module,Magento_Cms
 "CMS No Cookies Page","Stran CMS brez piškotkov",module,Magento_Cms
-"Show Breadcrumbs for CMS Pages","Show Breadcrumbs for CMS Pages",module,Magento_Cms
-"Browser Capabilities Detection","Browser Capabilities Detection",module,Magento_Cms
-"Redirect to CMS-page if Cookies are Disabled","Redirect to CMS-page if Cookies are Disabled",module,Magento_Cms
-"Show Notice if JavaScript is Disabled","Show Notice if JavaScript is Disabled",module,Magento_Cms
-"Show Notice if Local Storage is Disabled","Show Notice if Local Storage is Disabled",module,Magento_Cms
-"Content Management","Content Management",module,Magento_Cms
-"WYSIWYG Options","WYSIWYG Options",module,Magento_Cms
-"Enable WYSIWYG Editor","Enable WYSIWYG Editor",module,Magento_Cms
-"CMS Page Link","CMS Page Link",module,Magento_Cms
-"Link to a CMS Page","Link to a CMS Page",module,Magento_Cms
-"CMS Page","CMS Page",module,Magento_Cms
-"Select Page...","Select Page...",module,Magento_Cms
+"Show Breadcrumbs for CMS Pages","Prikaži pot za strani CMS",module,Magento_Cms
+"Browser Capabilities Detection","Zaznavanje zmogljivosti brskalnika",module,Magento_Cms
+"Redirect to CMS-page if Cookies are Disabled","Preusmeritev na stran CMS, če so piškotki onemogočeni",module,Magento_Cms
+"Show Notice if JavaScript is Disabled","Prikaži obvestilo, če je JavaScript onemogočen",module,Magento_Cms
+"Show Notice if Local Storage is Disabled","Prikaži obvestilo, če je lokalni pomnilnik onemogočen",module,Magento_Cms
+"Content Management","Upravljanje vsebin",module,Magento_Cms
+"WYSIWYG Options","Možnosti WYSIWYG",module,Magento_Cms
+"Enable WYSIWYG Editor","Omogoči urejevalnik WYSIWYG",module,Magento_Cms
+"CMS Page Link","Povezava strani CMS",module,Magento_Cms
+"Link to a CMS Page","Povezava na stran CMS",module,Magento_Cms
+"CMS Page","Stran CMS",module,Magento_Cms
+"Select Page...","Izberi stran...",module,Magento_Cms
 "Anchor Custom Text","Sidro besedila po meri",module,Magento_Cms
-"If empty, the Page Title will be used","If empty, the Page Title will be used",module,Magento_Cms
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Cms
+"If empty, the Page Title will be used","Če je prazno, bo uporabljen naslov strani",module,Magento_Cms
+"Anchor Custom Title","Naslov sidra po meri",module,Magento_Cms
 "Template","Predloga",module,Magento_Cms
-"CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Cms
-"CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_Cms
-"CMS Static Block","CMS Static Block",module,Magento_Cms
-"Contents of a Static Block","Contents of a Static Block",module,Magento_Cms
-"Block","Block",module,Magento_Cms
-"Select Block...","Select Block...",module,Magento_Cms
-"CMS Static Block Default Template","CMS Static Block Default Template",module,Magento_Cms
+"CMS Page Link Block Template","Predloga bloka povezave strani CMS",module,Magento_Cms
+"CMS Page Link Inline Template","Predloga vrstice povezave strani CMS",module,Magento_Cms
+"CMS Static Block","Statični blok CMS",module,Magento_Cms
+"Contents of a Static Block","Vsebine statičnega bloka",module,Magento_Cms
+"Block","Blok",module,Magento_Cms
+"Select Block...","Izberi blok...",module,Magento_Cms
+"CMS Static Block Default Template","Privzeta predloga statičnega bloka CMS",module,Magento_Cms
 "Delete items","Izbriši elemente",module,Magento_Cms
-"Are you sure you wan't to delete selected items?","Are you sure you wan't to delete selected items?",module,Magento_Cms
+"Are you sure you wan't to delete selected items?","Ali ste prepričani, da želite izbrisati izbrane elemente?",module,Magento_Cms
 "Disable","Onemogoči",module,Magento_Cms
 "Enable","Omogoči",module,Magento_Cms
-"Custom design from","Custom design from",module,Magento_Cms
-"Custom design to","Custom design to",module,Magento_Cms
-"Back","Back",module,Magento_Cms
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Cms
-"Reset","Reset",module,Magento_Cms
-"We can't find a block to delete.","We can't find a block to delete.",module,Magento_Cms
-"Something went wrong while saving the block.","Something went wrong while saving the block.",module,Magento_Cms
-"We can't find a page to delete.","We can't find a page to delete.",module,Magento_Cms
-"You saved the page.","You saved the page.",module,Magento_Cms
+"Custom design from","Oblika po meri od",module,Magento_Cms
+"Custom design to","Oblika po meri za",module,Magento_Cms
+"Back","Nazaj",module,Magento_Cms
+"Are you sure you want to do this?","Ali ste prepričani, da želite to narediti?",module,Magento_Cms
+"Reset","Ponastavitev",module,Magento_Cms
+"We can't find a block to delete.","Bloka za brisanje ni mogoče najti.",module,Magento_Cms
+"Something went wrong while saving the block.","Med shranjevanjem bloka je šlo nekaj narobe.",module,Magento_Cms
+"We can't find a page to delete.","Strani za brisanje ni mogoče najti.",module,Magento_Cms
+"You saved the page.","Stran ste shranili.",module,Magento_Cms
 "This identifier is reserved for ""CMS No Route Page"" in configuration.","Ta identifikator je rezerviran za ""Stran CMS brez usmeritve"" v nastavitvah.",module,Magento_Cms
 "This identifier is reserved for ""CMS Home Page"" in configuration.","Ta identifikator je rezerviran za ""Domača stran CMS"" v nastavitvah.",module,Magento_Cms
 "This identifier is reserved for ""CMS No Cookies Page"" in configuration.","Ta identifikator je rezerviran za ""Stran CMS brez piškotkov"" in configuration.",module,Magento_Cms
-"Could not save the page: %1","Could not save the page: %1",module,Magento_Cms
-"Could not delete the page: %1","Could not delete the page: %1",module,Magento_Cms
-"We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
-"We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
+"Could not save the page: %1","Strani ni mogoče shraniti: %1",module,Magento_Cms
+"Could not delete the page: %1","Strani ni mogoče izbrisati: %1",module,Magento_Cms
+"We can't upload the file right now.","Datoteke trenutno ni mogoče naložiti.",module,Magento_Cms
+"We can't delete root directory %1 right now.","Trenutno korenske mape %1 ni mogoče izbrisati.",module,Magento_Cms
 "Privacy and Cookie Policy","Zasebnost in politika piškotkov",module,Magento_Cms
 "Could not create a directory.","Direktorija ni bilo mogoče ustvariti.",module,Magento_Cms
-"View","View",module,Magento_Cms
+"View","Pogled",module,Magento_Cms

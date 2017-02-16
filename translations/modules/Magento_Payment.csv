@@ -1,67 +1,67 @@
-"We cannot retrieve the payment method model object.","We cannot retrieve the payment method model object.",module,Magento_Payment
+"We cannot retrieve the payment method model object.","Objekta modela plačilne metode ni mogoče pridobiti.",module,Magento_Payment
 "Month","Mesec",module,Magento_Payment
 "Year","Leto",module,Magento_Payment
-"We cannot retrieve the payment info model object.","We cannot retrieve the payment info model object.",module,Magento_Payment
+"We cannot retrieve the payment info model object.","Objekta modela informacij o plačilu ni mogoče pridobiti.",module,Magento_Payment
 "N/A","ni na voljo",module,Magento_Payment
 "Credit Card Type","Vrsta kreditne kartice",module,Magento_Payment
 "Credit Card Number","Številka kreditne kartice",module,Magento_Payment
-"Switch/Solo/Maestro Issue Number","Switch/Solo/Maestro Issue Number",module,Magento_Payment
-"Switch/Solo/Maestro Start Date","Switch/Solo/Maestro Start Date",module,Magento_Payment
-"We cannot retrieve the transparent payment method model object.","We cannot retrieve the transparent payment method model object.",module,Magento_Payment
-"Command %1 does not exist.","Command %1 does not exist.",module,Magento_Payment
-"Wrong gateway response format.","Wrong gateway response format.",module,Magento_Payment
-"Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
-"Discount","Discount",module,Magento_Payment
+"Switch/Solo/Maestro Issue Number","Številka izdaje Switch/Solo/Maestro",module,Magento_Payment
+"Switch/Solo/Maestro Start Date","Začetni datum Switch/Solo/Maestro",module,Magento_Payment
+"We cannot retrieve the transparent payment method model object.","Objekta modela transparentne plačilne metode ni mogoče pridobiti.",module,Magento_Payment
+"Command %1 does not exist.","Ukaz %1 ne obstaja.",module,Magento_Payment
+"Wrong gateway response format.","Napačen format odziva prehoda.",module,Magento_Payment
+"Validator for field %1 does not exist.","Preverjanje za polje %1 ne obstaja.",module,Magento_Payment
+"Discount","Popust",module,Magento_Payment
 "Shipping","Dostava",module,Magento_Payment
-"All Allowed Countries","All Allowed Countries",module,Magento_Payment
-"Specific Countries","Specific Countries",module,Magento_Payment
-"The payment method you requested is not available.","The payment method you requested is not available.",module,Magento_Payment
-"The payment disallows storing objects.","The payment disallows storing objects.",module,Magento_Payment
-"We cannot retrieve the payment method code.","We cannot retrieve the payment method code.",module,Magento_Payment
-"We cannot retrieve the payment information object instance.","We cannot retrieve the payment information object instance.",module,Magento_Payment
-"You can\'t use the payment type you selected to make payments to the billing country.","You can\'t use the payment type you selected to make payments to the billing country.",module,Magento_Payment
-"The order action is not available.","The order action is not available.",module,Magento_Payment
-"The authorize action is not available.","The authorize action is not available.",module,Magento_Payment
-"The capture action is not available.","The capture action is not available.",module,Magento_Payment
-"The refund action is not available.","The refund action is not available.",module,Magento_Payment
-"The void action is not available.","The void action is not available.",module,Magento_Payment
-"The payment review action is unavailable.","The payment review action is unavailable.",module,Magento_Payment
-"The credit card number doesn\'t match the credit card type.","The credit card number doesn\'t match the credit card type.",module,Magento_Payment
-"Invalid Credit Card Number","Invalid Credit Card Number",module,Magento_Payment
-"This credit card type is not allowed for this payment method.","This credit card type is not allowed for this payment method.",module,Magento_Payment
-"Please enter a valid credit card verification number.","Please enter a valid credit card verification number.",module,Magento_Payment
-"Please enter a valid credit card expiration date.","Please enter a valid credit card expiration date.",module,Magento_Payment
-"%1 class doesn\'t implement \Magento\Payment\Model\MethodInterface","%1 class doesn\'t implement \Magento\Payment\Model\MethodInterface",module,Magento_Payment
+"All Allowed Countries","Vse dovoljene države",module,Magento_Payment
+"Specific Countries","Določene države",module,Magento_Payment
+"The payment method you requested is not available.","Način plačila, ki ste ga zahtevali, ni na voljo.",module,Magento_Payment
+"The payment disallows storing objects.","Plačilo ne omogoča shranjevanja objektov.",module,Magento_Payment
+"We cannot retrieve the payment method code.","Kode plačilne metode ni mogoče pridobiti.",module,Magento_Payment
+"We cannot retrieve the payment information object instance.","Instance objekta plačniških informacij ni mogoče pridobiti.",module,Magento_Payment
+"You can\'t use the payment type you selected to make payments to the billing country.","Izbranega načina plačila ne morete uporabiti, da izvedete plačilo v države zaračunavanja.",module,Magento_Payment
+"The order action is not available.","Dejanje naročila ni na voljo.",module,Magento_Payment
+"The authorize action is not available.","Dejanje avtorizacije ni na voljo.",module,Magento_Payment
+"The capture action is not available.","Dejanje zajemanja ni na voljo.",module,Magento_Payment
+"The refund action is not available.","Dejanje nadomestila ni na voljo.",module,Magento_Payment
+"The void action is not available.","Neveljavno dejanje ni na voljo.",module,Magento_Payment
+"The payment review action is unavailable.","Dejanje pregleda plačila ni na voljo.",module,Magento_Payment
+"The credit card number doesn\'t match the credit card type.","Številka kreditne kartice se ne ujema z vrsto kreditne kartice.",module,Magento_Payment
+"Invalid Credit Card Number","Neveljavna številka kreditne kartice",module,Magento_Payment
+"This credit card type is not allowed for this payment method.","Vrsta kreditne kartice ni dovoljena za ta način plačila.",module,Magento_Payment
+"Please enter a valid credit card verification number.","Vnesite veljavno potrditveno številko kreditne kartice.",module,Magento_Payment
+"Please enter a valid credit card expiration date.","Vnesite veljaven datum poteka kreditne kartice.",module,Magento_Payment
+"%1 class doesn\'t implement \Magento\Payment\Model\MethodInterface","Razred %1 ne implementira \Magento\Payment\Model\MethodInterface",module,Magento_Payment
 "Yes","Da",module,Magento_Payment
 "No","Ne",module,Magento_Payment
 "Expiration Date","Datum poteka",module,Magento_Payment
 "Card Verification Number","Potrditvena številka kartice",module,Magento_Payment
-"Switch/Solo/Maestro Only","Switch/Solo/Maestro Only",module,Magento_Payment
+"Switch/Solo/Maestro Only","Samo Switch/Solo/Maestro",module,Magento_Payment
 "Issue Number","Številka izdaje",module,Magento_Payment
 "Start Date","Začetni datum",module,Magento_Payment
-" is not available. You still can process offline actions."," is not available. You still can process offline actions.",module,Magento_Payment
+" is not available. You still can process offline actions."," ni na voljo. Še vedno lahko sprocesirate dejanja brez povezave.",module,Magento_Payment
 "Please Select","Izberite",module,Magento_Payment
-"We\'ll ask for your payment details before you place an order.","We\'ll ask for your payment details before you place an order.",module,Magento_Payment
+"We\'ll ask for your payment details before you place an order.","Vprašali vas bomo za podrobnosti vašega plačila preden oddate naročilo.",module,Magento_Payment
 "--Please Select--","--Izberite--",module,Magento_Payment
 "Card Verification Number Visual Reference","Vizualna referenca potrditvene številke kartice",module,Magento_Payment
 "What is this?","Kaj je to?",module,Magento_Payment
 "Credit Card Information","Podatki o kreditni kartici",module,Magento_Payment
 "Payment Methods","Načini plačila",module,Magento_Payment
-"Command Executor for %1 is not defined.","Command Executor for %1 is not defined.",module,Magento_Payment
-"Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Magento_Payment
-"You can't use the payment type you selected to make payments to the billing country.","You can't use the payment type you selected to make payments to the billing country.",module,Magento_Payment
-"The credit card number doesn't match the credit card type.","The credit card number doesn't match the credit card type.",module,Magento_Payment
-"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 class doesn't implement \Magento\Payment\Model\MethodInterface",module,Magento_Payment
-"Failure #1","Failure #1",module,Magento_Payment
-"Failure #2","Failure #2",module,Magento_Payment
-"We'll ask for your payment details before you place an order.","We'll ask for your payment details before you place an order.",module,Magento_Payment
-"Place Order","Place Order",module,Magento_Payment
-"Forgot an Item?","Forgot an Item?",module,Magento_Payment
-"Edit Your Cart","Edit Your Cart",module,Magento_Payment
-"Please enter a valid credit card type number.","Please enter a valid credit card type number.",module,Magento_Payment
-"Please enter a valid credit card number.","Please enter a valid credit card number.",module,Magento_Payment
-"Incorrect credit card expiration month.","Incorrect credit card expiration month.",module,Magento_Payment
-"Incorrect credit card expiration year.","Incorrect credit card expiration year.",module,Magento_Payment
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Payment
-"Payment Methods Section","Payment Methods Section",module,Magento_Payment
-"Payment Services","Payment Services",module,Magento_Payment
+"Command Executor for %1 is not defined.","Ukaz izvršitelja za %1 ni definiran.",module,Magento_Payment
+"Transaction has been declined. Please try again later.","Transakcija je bila zavrnjena. Prosimo, poskusite ponovno kasneje.",module,Magento_Payment
+"You can't use the payment type you selected to make payments to the billing country.","Izbranega načina plačila ne morete uporabiti, da izvedete plačilo v državo zaračunavanja.",module,Magento_Payment
+"The credit card number doesn't match the credit card type.","Številka kreditne kartice se ne ujema z vrsto kreditne kartice.",module,Magento_Payment
+"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","Razred %1 ne implementira \Magento\Payment\Model\MethodInterface",module,Magento_Payment
+"Failure #1","Napaka #1",module,Magento_Payment
+"Failure #2","Napaka #2",module,Magento_Payment
+"We'll ask for your payment details before you place an order.","Vprašali vas bomo za podrobnosti vašega plačila preden oddate naročilo.",module,Magento_Payment
+"Place Order","Oddaj naročilo",module,Magento_Payment
+"Forgot an Item?","Ste pozabili element?",module,Magento_Payment
+"Edit Your Cart","Uredi košarico",module,Magento_Payment
+"Please enter a valid credit card type number.","Vnesite veljavno številko vrste kreditne kartice.",module,Magento_Payment
+"Please enter a valid credit card number.","Vnesite veljavno številko kreditne kartice.",module,Magento_Payment
+"Incorrect credit card expiration month.","Napačen mesec poteka kreditne kartice.",module,Magento_Payment
+"Incorrect credit card expiration year.","Napačno leto poteka kreditne kartice.",module,Magento_Payment
+"An error occurred on the server. Please try to place the order again.","Na strežniku je prišlo do napake. Prosimo, poskusite ponovno oddati naročilo.",module,Magento_Payment
+"Payment Methods Section","Oddelek plačilnih metod",module,Magento_Payment
+"Payment Services","Plačilne storitve",module,Magento_Payment

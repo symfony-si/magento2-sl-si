@@ -34,18 +34,18 @@
 "Product Name","Ime izdelka",module,Magento_CatalogInventory
 "Qty","Količina",module,Magento_CatalogInventory
 "Inventory","Zaloga",module,Magento_CatalogInventory
-"Stock Options","Stock Options",module,Magento_CatalogInventory
-"Decrease Stock When Order is Placed","Decrease Stock When Order is Placed",module,Magento_CatalogInventory
-"Set Items' Status to be In Stock When Order is Cancelled","Set Items' Status to be In Stock When Order is Cancelled",module,Magento_CatalogInventory
-"Display Out of Stock Products","Display Out of Stock Products",module,Magento_CatalogInventory
-"Products will still be shown by direct product URLs.","Products will still be shown by direct product URLs.",module,Magento_CatalogInventory
-"Only X left Threshold","Only X left Threshold",module,Magento_CatalogInventory
-"Display products availability in stock on Storefront.","Display products availability in stock on Storefront.",module,Magento_CatalogInventory
-"Product Stock Options","Product Stock Options",module,Magento_CatalogInventory
+"Stock Options","Možnosti zaloge",module,Magento_CatalogInventory
+"Decrease Stock When Order is Placed","Zmanjšaj zalogo, ko je naročilo oddano",module,Magento_CatalogInventory
+"Set Items' Status to be In Stock When Order is Cancelled","Nastavi stanje elementov, da so na zalogi, ko je naročilo preklicano",module,Magento_CatalogInventory
+"Display Out of Stock Products","Prikaz izdelkov, ki niso na zalogi",module,Magento_CatalogInventory
+"Products will still be shown by direct product URLs.","Izdelki bodo še vedno prikazani z direktnimi URL-ji izdelkov.",module,Magento_CatalogInventory
+"Only X left Threshold","Mejni prag za Ostaljo jih je samo še X",module,Magento_CatalogInventory
+"Display products availability in stock on Storefront.","Prikaz razpoložljivosti izdelkov na zalogi na ospredju trgovine.",module,Magento_CatalogInventory
+"Product Stock Options","Možnosti zaloge izdelkov",module,Magento_CatalogInventory
 "
                     Please note that these settings apply to individual items in the cart, not to the entire cart.
                 ","
-                    Please note that these settings apply to individual items in the cart, not to the entire cart.
+                    Bodite pozorni, saj te nastavitve veljajo za posamezne elemente v košarici, ne za celotno košarico.
                 ",module,Magento_CatalogInventory
 "Manage Stock","Upravljanje zaloge",module,Magento_CatalogInventory
 "Backorders","Prednaročila",module,Magento_CatalogInventory
@@ -53,27 +53,27 @@
 "Out-of-Stock Threshold","Meja, ko ni več na zalogi",module,Magento_CatalogInventory
 "Minimum Qty Allowed in Shopping Cart","Najmanjša dovoljena količina v košarici",module,Magento_CatalogInventory
 "Notify for Quantity Below","Obvesti za količino, ki je manjša",module,Magento_CatalogInventory
-"Automatically Return Credit Memo Item to Stock","Automatically Return Credit Memo Item to Stock",module,Magento_CatalogInventory
+"Automatically Return Credit Memo Item to Stock","Samodejno vrni element dobropisa na zalogo",module,Magento_CatalogInventory
 "Enable Qty Increments","Omogoči korake količine",module,Magento_CatalogInventory
 "Qty Increments","Koraki količine",module,Magento_CatalogInventory
-"Stock","Stock",module,Magento_CatalogInventory
-"Index stock","Index stock",module,Magento_CatalogInventory
+"Stock","Zaloga",module,Magento_CatalogInventory
+"Index stock","Indeksiranje zaloge",module,Magento_CatalogInventory
 "Quantity","Količina",module,Magento_CatalogInventory
-"We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_CatalogInventory
-"Invalid stock id: %1. Only default stock with id %2 allowed","Invalid stock id: %1. Only default stock with id %2 allowed",module,Magento_CatalogInventory
-"Invalid stock item id: %1. Should be null or numeric value greater than 0","Invalid stock item id: %1. Should be null or numeric value greater than 0",module,Magento_CatalogInventory
-"Invalid stock item id: %1. Assigned stock item id is %2","Invalid stock item id: %1. Assigned stock item id is %2",module,Magento_CatalogInventory
-"Unable to save Stock Item","Unable to save Stock Item",module,Magento_CatalogInventory
+"We can't rebuild the index for an undefined product.","Indeksa za nedefinirani izdelek ni mogoče zgraditi.",module,Magento_CatalogInventory
+"Invalid stock id: %1. Only default stock with id %2 allowed","Neveljaven id zaloge: %1. Dovoljena je samo privzeta zaloga z id %2",module,Magento_CatalogInventory
+"Invalid stock item id: %1. Should be null or numeric value greater than 0","Neveljaven element zaloge z id: %1. Moral bi biti null ali numerična vrednost večja od 0",module,Magento_CatalogInventory
+"Invalid stock item id: %1. Assigned stock item id is %2","Neveljaven id elementa zaloge: %1. Id dodeljenega elementa zaloge je %2",module,Magento_CatalogInventory
+"Unable to save Stock Item","Elementa zaloge ni mogoče shraniti",module,Magento_CatalogInventory
 "Unable to remove Stock Item with id ""%1""","Elementa zaloge z id ""%1"" ni mogoče odstraniti",module,Magento_CatalogInventory
-"Unable to save Stock","Unable to save Stock",module,Magento_CatalogInventory
+"Unable to save Stock","Zaloge ni mogoče shraniti",module,Magento_CatalogInventory
 "Unable to remove Stock with id ""%1""","Zaloge z id ""%1"" ni mogoče odstraniti",module,Magento_CatalogInventory
-"Unable to save Stock Status","Unable to save Stock Status",module,Magento_CatalogInventory
-"Unable to remove Stock Status for product %1","Unable to remove Stock Status for product %1",module,Magento_CatalogInventory
-"Stock Status","Stock Status",module,Magento_CatalogInventory
-"Advanced Inventory","Advanced Inventory",module,Magento_CatalogInventory
-"Inventory Section","Inventory Section",module,Magento_CatalogInventory
-"Display Products Availability in Stock on Storefront","Display Products Availability in Stock on Storefront",module,Magento_CatalogInventory
-"Use Config Settings","Use Config Settings",module,Magento_CatalogInventory
-"Qty Uses Decimals","Qty Uses Decimals",module,Magento_CatalogInventory
-"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_CatalogInventory
-"Use Deferred Stock Update","Use Deferred Stock Update",module,Magento_CatalogInventory
+"Unable to save Stock Status","Stanja zaloge ni mogoče shraniti",module,Magento_CatalogInventory
+"Unable to remove Stock Status for product %1","Stanja zaloge za izdelek %1 ni mogoče odstraniti",module,Magento_CatalogInventory
+"Stock Status","Stanje zaloge",module,Magento_CatalogInventory
+"Advanced Inventory","Napredni inventar",module,Magento_CatalogInventory
+"Inventory Section","Oddelek inventarja",module,Magento_CatalogInventory
+"Display Products Availability in Stock on Storefront","Prikaz razpoložljivosti izdelkov na zalogi na ospredju trgovine",module,Magento_CatalogInventory
+"Use Config Settings","Uporabi nastavitve konfiguracije",module,Magento_CatalogInventory
+"Qty Uses Decimals","Količina uporablja decimalke",module,Magento_CatalogInventory
+"Allow Multiple Boxes for Shipping","Omogoči več paketov za dostavo",module,Magento_CatalogInventory
+"Use Deferred Stock Update","Uporabi posodobitev odložene zaloge",module,Magento_CatalogInventory

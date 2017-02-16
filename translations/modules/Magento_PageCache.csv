@@ -1,26 +1,26 @@
-"Export VCL for Varnish ","Export VCL for Varnish ",module,Magento_PageCache
-"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.",module,Magento_PageCache
-"Built-in Application (Not Recommended for Production Use)","Built-in Application (Not Recommended for Production Use)",module,Magento_PageCache
-"Varnish Caching","Varnish Caching",module,Magento_PageCache
+"Export VCL for Varnish ","Izvozi VCL za Vrnish ",module,Magento_PageCache
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Vrednost TTL ""%1"" ni veljavna. Uporabite samo številke večje ali enake 0.",module,Magento_PageCache
+"Built-in Application (Not Recommended for Production Use)","Vgrajena aplikacija (ni priporočljivo za produkcijsko uporabo)",module,Magento_PageCache
+"Varnish Caching","Predpomnilnik Varnish",module,Magento_PageCache
 "Full Page Cache","Predpomnilnik celotne strani",module,Magento_PageCache
 "Caching Application","Aplikacija predpomnenja",module,Magento_PageCache
 "Varnish Configuration","Nastavitve Varnish",module,Magento_PageCache
 "Access list","Seznam dostopa",module,Magento_PageCache
 "IPs access list separated with \',\' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.","IPs access list separated with \',\' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.",module,Magento_PageCache
+                            If field is empty default value localhost will be saved.","Seznam dostopov IP ločen z ',' in lahko izbriše nastavitve Varnish za generacijo datoteke nastavitev.
+                            Če je polje prazno, bo shranjena privzeta vrednost localhost.",module,Magento_PageCache
 "Backend host","Gostitelj ozadja",module,Magento_PageCache
-"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Specify backend host for config file generation. If field is empty default value localhost will be saved.",module,Magento_PageCache
+"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Določite gostitelja ozadja za generiranje datoteke nastavitev. Če je polje prazno, bo shranjena privzeta vrednost localhost.",module,Magento_PageCache
 "Backend port","Vrata ozadja",module,Magento_PageCache
-"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Specify backend port for config file generation. If field is empty default value 8080 will be saved.",module,Magento_PageCache
-"TTL for public content","TTL for public content",module,Magento_PageCache
-"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ",module,Magento_PageCache
-"Page Cache","Page Cache",module,Magento_PageCache
+"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Določite vrata ozadja za generiranje datoteke nastavitev. Če je polje prazno, bo shranjena privzeta vrednost 8080.",module,Magento_PageCache
+"TTL for public content","TTL za javne vsebine",module,Magento_PageCache
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Življenska doba javnega predpomnilnika vsebine v sekundah. Če je polje prazno, bo shranjena privzeta vrednost 86400. ",module,Magento_PageCache
+"Page Cache","Predpomnilnik strani",module,Magento_PageCache
 "Full page caching.","Predpomnenje celotne strani.",module,Magento_PageCache
-"Export VCL for Varnish %1","Export VCL for Varnish %1",module,Magento_PageCache
-"Built-in Cache","Built-in Cache",module,Magento_PageCache
-"Varnish Cache (Recommended)","Varnish Cache (Recommended)",module,Magento_PageCache
+"Export VCL for Varnish %1","Izvozi VCL za Varnish %1",module,Magento_PageCache
+"Built-in Cache","Vgrajeni predpomnilnik",module,Magento_PageCache
+"Varnish Cache (Recommended)","Predpomnilnik Varnish (priporočeno)",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.","IPs access list separated with ',' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.",module,Magento_PageCache
-"Full page caching","Full page caching",module,Magento_PageCache
+                            If field is empty default value localhost will be saved.","Seznam dostopov IP ločen z ',' in lahko izbriše nastavitve Varnish za generacijo datoteke nastavitev.
+                            Če je polje prazno, bo shranjena privzeta vrednost localhost.",module,Magento_PageCache
+"Full page caching","Predpomnenje celotne strani",module,Magento_PageCache

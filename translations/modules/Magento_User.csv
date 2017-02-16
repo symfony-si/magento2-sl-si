@@ -1,13 +1,13 @@
 "Back","Nazaj",module,Magento_User
 "Reset","Ponastavitev",module,Magento_User
-"Delete Role","Delete Role",module,Magento_User
+"Delete Role","Izbriši vlogo",module,Magento_User
 "Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_User
-"Save Role","Save Role",module,Magento_User
-"Roles","Roles",module,Magento_User
-"Add New Role","Add New Role",module,Magento_User
-"Role Information","Role Information",module,Magento_User
-"Role Users","Role Users",module,Magento_User
-"User ID","User ID",module,Magento_User
+"Save Role","Shrani vlogo",module,Magento_User
+"Roles","Vloge",module,Magento_User
+"Add New Role","Dodaj novo vlogo",module,Magento_User
+"Role Information","Informacije vloge",module,Magento_User
+"Role Users","Uporabniki vloge",module,Magento_User
+"User ID","ID uporabnika",module,Magento_User
 "User Name","Uporabniško ime",module,Magento_User
 "First Name","Ime",module,Magento_User
 "Last Name","Priimek",module,Magento_User
@@ -15,102 +15,102 @@
 "Status","Stanje",module,Magento_User
 "Active","Aktivno",module,Magento_User
 "Inactive","Neaktivno",module,Magento_User
-"Role Resources","Role Resources",module,Magento_User
-"Role Info","Role Info",module,Magento_User
-"Role Name","Role Name",module,Magento_User
-"Add New User","Add New User",module,Magento_User
-"Users","Users",module,Magento_User
-"Save User","Save User",module,Magento_User
-"Delete User","Delete User",module,Magento_User
-"Are you sure you want to revoke the user\'s tokens?","Are you sure you want to revoke the user\'s tokens?",module,Magento_User
+"Role Resources","Viri vloge",module,Magento_User
+"Role Info","Informacije vloge",module,Magento_User
+"Role Name","Ime vloge",module,Magento_User
+"Add New User","Dodaj novega uporabnika",module,Magento_User
+"Users","Uporabniki",module,Magento_User
+"Save User","Shrani uporabnika",module,Magento_User
+"Delete User","Izbriši uporabnika",module,Magento_User
+"Are you sure you want to revoke the user\'s tokens?","Ali ste prepričani, da želite preklicati žetone uporabnika?",module,Magento_User
 "Force Sign-In","Vsili prijavo",module,Magento_User
-"Edit User '%1'","Edit User '%1'",module,Magento_User
-"New User","New User",module,Magento_User
+"Edit User '%1'","Uredi uporabnika '%1'",module,Magento_User
+"New User","Nov uporabnik",module,Magento_User
 "Account Information","Informacije o računu",module,Magento_User
 "User Email","E-pošta uporabnika",module,Magento_User
 "Password","Geslo",module,Magento_User
 "New Password","Novo geslo",module,Magento_User
 "Password Confirmation","Potrditev gesla",module,Magento_User
 "Interface Locale","Območne nastavitve vmesnika",module,Magento_User
-"This account is","This account is",module,Magento_User
-"Account Status","Account Status",module,Magento_User
+"This account is","Ta račun je",module,Magento_User
+"Account Status","Stanje računa",module,Magento_User
 "Current User Identity Verification","Preverjanje identitete trenutnega uporabnika",module,Magento_User
 "Your Password","Vaše geslo",module,Magento_User
-"User Roles Information","User Roles Information",module,Magento_User
-"Assigned","Assigned",module,Magento_User
+"User Roles Information","Informacije vlog uporabnika",module,Magento_User
+"Assigned","Dodeljeno",module,Magento_User
 "Role","Vloga",module,Magento_User
-"User Information","User Information",module,Magento_User
-"User Info","User Info",module,Magento_User
-"User Role","User Role",module,Magento_User
-"Please correct the password reset token.","Please correct the password reset token.",module,Magento_User
-"Please specify the correct account and try again.","Please specify the correct account and try again.",module,Magento_User
+"User Information","Informacije o uporabniku",module,Magento_User
+"User Info","Podatki o uporabniku",module,Magento_User
+"User Role","Vloga uporabnika",module,Magento_User
+"Please correct the password reset token.","Prosimo, popravite žeton ponastavitve gesla.",module,Magento_User
+"Please specify the correct account and try again.","Določite pravilni račun in poskusite znova.",module,Magento_User
 "Your password reset link has expired.","Vaša povezava za ponastavitev gesla je potekla.",module,Magento_User
-"We\'ll email you a link to reset your password.","We\'ll email you a link to reset your password.",module,Magento_User
-"Please correct this email address:","Please correct this email address:",module,Magento_User
-"Please enter an email address.","Please enter an email address.",module,Magento_User
+"We\'ll email you a link to reset your password.","Poslali vam bomo e-pošto s povezavo za ponastavitev vašega gesla.",module,Magento_User
+"Please correct this email address:","Popravite ta e-poštni naslov:",module,Magento_User
+"Please enter an email address.","Vnesite e-poštni naslov.",module,Magento_User
 "You updated your password.","Posodobili ste svoje geslo.",module,Magento_User
-"Locked Users","Locked Users",module,Magento_User
-"Unlocked %1 user(s).","Unlocked %1 user(s).",module,Magento_User
+"Locked Users","Zaklenjeni uporabniki",module,Magento_User
+"Unlocked %1 user(s).","Odklenjenih %1 uporabnik(ov).",module,Magento_User
 "System","Sistem",module,Magento_User
-"Permissions","Permissions",module,Magento_User
-"You cannot delete your own account.","You cannot delete your own account.",module,Magento_User
-"You deleted the user.","You deleted the user.",module,Magento_User
-"We can\'t find a user to delete.","We can\'t find a user to delete.",module,Magento_User
-"This user no longer exists.","This user no longer exists.",module,Magento_User
-"Edit User","Edit User",module,Magento_User
-"You have revoked the user\'s tokens.","You have revoked the user\'s tokens.",module,Magento_User
-"We can\'t find a user to revoke.","We can\'t find a user to revoke.",module,Magento_User
-"You cannot delete self-assigned roles.","You cannot delete self-assigned roles.",module,Magento_User
-"You deleted the role.","You deleted the role.",module,Magento_User
-"An error occurred while deleting this role.","An error occurred while deleting this role.",module,Magento_User
-"Edit Role","Edit Role",module,Magento_User
-"New Role","New Role",module,Magento_User
-"This role no longer exists.","This role no longer exists.",module,Magento_User
-"You saved the role.","You saved the role.",module,Magento_User
-"An error occurred while saving this role.","An error occurred while saving this role.",module,Magento_User
+"Permissions","Dovoljenja",module,Magento_User
+"You cannot delete your own account.","Vašega lastnega računa ne morete izbrisati.",module,Magento_User
+"You deleted the user.","Uporabnika ste izbrisali.",module,Magento_User
+"We can\'t find a user to delete.","Uporabnika za brisanje ni mogoče najti.",module,Magento_User
+"This user no longer exists.","Ta uporabnik več ne obstaja.",module,Magento_User
+"Edit User","Uredi uporabnika",module,Magento_User
+"You have revoked the user\'s tokens.","Preklicali ste žetone uporabnika.",module,Magento_User
+"We can\'t find a user to revoke.","Uporabnika za preklic ni mogoče najti.",module,Magento_User
+"You cannot delete self-assigned roles.","Vlog dodeljenih samemu sebi ne morete izbrisati.",module,Magento_User
+"You deleted the role.","Vlogo ste izbrisali.",module,Magento_User
+"An error occurred while deleting this role.","Med brisanjem te vloge je prišlo do napake.",module,Magento_User
+"Edit Role","Urejanje vloge",module,Magento_User
+"New Role","Nova vloga",module,Magento_User
+"This role no longer exists.","Ta vloga več ne obstaja.",module,Magento_User
+"You saved the role.","Shranili ste vlogo.",module,Magento_User
+"An error occurred while saving this role.","Med shranjevanjem te vloge je prišlo do napake.",module,Magento_User
 "You have entered an invalid password for current user.","Za trenutnega uporabnika ste vnesli neveljavno geslo.",module,Magento_User
-"You saved the user.","You saved the user.",module,Magento_User
-"A user with the same user name or email already exists.","A user with the same user name or email already exists.",module,Magento_User
-"Recommended","Recommended",module,Magento_User
-"Forced","Forced",module,Magento_User
-"Sorry, but this password has already been used. Please create another.","Sorry, but this password has already been used. Please create another.",module,Magento_User
+"You saved the user.","Uporabnika ste shranili.",module,Magento_User
+"A user with the same user name or email already exists.","Uporabnik z enakim uporabniškim imenom ali e-pošto že obstaja.",module,Magento_User
+"Recommended","Priporočeno",module,Magento_User
+"Forced","Prisiljeno",module,Magento_User
+"Sorry, but this password has already been used. Please create another.","Žal, vendar to geslo je bilo že uporabljeno. Ustvarite novo.",module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","Niste se pravilno prijavili, ali pa je vaš račun začasno onemogočen.",module,Magento_User
 "You need more permissions to access this.","Za dostop do tega potrebujete več dovoljenj.",module,Magento_User
-"User Name is a required field.","User Name is a required field.",module,Magento_User
-"First Name is a required field.","First Name is a required field.",module,Magento_User
-"Last Name is a required field.","Last Name is a required field.",module,Magento_User
+"User Name is a required field.","Ime uporabnika je zahtevano polje.",module,Magento_User
+"First Name is a required field.","Ime je zahtevano polje.",module,Magento_User
+"Last Name is a required field.","Priimek je zahtevano polje.",module,Magento_User
 "Please enter a valid email.","Vnesite veljavno e-pošto.",module,Magento_User
-"Password is required field.","Password is required field.",module,Magento_User
-"Your password must be at least %1 characters.","Your password must be at least %1 characters.",module,Magento_User
-"Your password must include both numeric and alphabetic characters.","Your password must include both numeric and alphabetic characters.",module,Magento_User
-"Your password confirmation must match your password.","Your password confirmation must match your password.",module,Magento_User
-"It\'s time to change your password.","It\'s time to change your password.",module,Magento_User
-"It\'s time to <a href=""%1"">change your password</a>.","It\'s time to <a href=""%1"">change your password</a>.",module,Magento_User
-"Your password has expired; please contact your administrator.","Your password has expired; please contact your administrator.",module,Magento_User
-"Password Help","Password Help",module,Magento_User
-"Enter your email address.  You will receive an email with a link to reset your password.","Enter your email address.  You will receive an email with a link to reset your password.",module,Magento_User
-"Email address","Email address",module,Magento_User
-"Retrieve Password","Retrieve Password",module,Magento_User
-"Back to Sign in","Back to Sign in",module,Magento_User
-"Forgot your password?","Forgot your password?",module,Magento_User
-"Reset a Password","Reset a Password",module,Magento_User
+"Password is required field.","Geslo je zahtevano polje.",module,Magento_User
+"Your password must be at least %1 characters.","Vaše geslo mora biti vsaj %1 znakov.",module,Magento_User
+"Your password must include both numeric and alphabetic characters.","Vaše geslo mora vsebovati tako numerične kot alfanumerične znake.",module,Magento_User
+"Your password confirmation must match your password.","Potrditev vašega gesla se mora ujemati z vašim geslom.",module,Magento_User
+"It\'s time to change your password.","Čas je, da zamenjate vaše geslo.",module,Magento_User
+"It\'s time to <a href=""%1"">change your password</a>.","Čas je, da <a href=""%1"">zamenjate vaše geslo</a>.",module,Magento_User
+"Your password has expired; please contact your administrator.","Vaše geslo je poteklo; prosimo, kontaktirajte vašega administratorja.",module,Magento_User
+"Password Help","Pomoč gesla",module,Magento_User
+"Enter your email address.  You will receive an email with a link to reset your password.","Vnesite vaš e-poštni naslov. Prejeli boste e-pošto s povezavo za ponastavitev vašega gesla.",module,Magento_User
+"Email address","E-poštni naslov",module,Magento_User
+"Retrieve Password","Ponastavitev gesla",module,Magento_User
+"Back to Sign in","Nazaj na prijavo",module,Magento_User
+"Forgot your password?","Ali ste pozabili vaše geslo?",module,Magento_User
+"Reset a Password","Ponastavitev gesla",module,Magento_User
 "Confirm New Password","Potrditev novega gesla",module,Magento_User
 "Reset Password","Ponastavitev gesla",module,Magento_User
-"Roles Resources","Roles Resources",module,Magento_User
+"Roles Resources","Viri vlog",module,Magento_User
 "Resource Access","Dostop vira",module,Magento_User
 "Custom","Po meri",module,Magento_User
 "All","Vse",module,Magento_User
 "Resources","Viri",module,Magento_User
-"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?",module,Magento_User
-"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?",module,Magento_User
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Opozorilo!\r\nTo dejanje bo odstranilo tega uporabnika iz že dodeljene vloge\r\nAli ste prepričani?",module,Magento_User
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Opozorilo!\r\nTo dejanje bo odstranilo te uporabnike iz že dodeljenih vlog\r\nAli ste prepričani?",module,Magento_User
 "%name,","%name,",module,Magento_User
-"The password for your account has been successfully changed.","The password for your account has been successfully changed.",module,Magento_User
-"If you did not request this change, please contact us.","If you did not request this change, please contact us.",module,Magento_User
-"Thank you,","Thank you,",module,Magento_User
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
-"If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_User
-"Reset Password Template","Reset Password Template",module,Magento_User
+"The password for your account has been successfully changed.","Geslo za vaš račun je bilo uspešno spremenjeno.",module,Magento_User
+"If you did not request this change, please contact us.","Če niste zahtevali te spremembe, nas kontaktirajte.",module,Magento_User
+"Thank you,","Hvala,",module,Magento_User
+"There was recently a request to change the password for your account.","Pred kratkim je bil zahtevek za spremembo gesla za vaš račun.",module,Magento_User
+"If you requested this change, reset your password here:","Če ste zahtevali to spremembo, ponastavite vaše geslo tu:",module,Magento_User
+"If you did not make this request, you can ignore this email and your password will remain the same.","Če tega zahtevka niste naredili vi, lahko to e-pošto ignorirate in vaše geslo bo ostalo enako.",module,Magento_User
+"Reset Password Template","Predloga za ponastavitev gesla",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_User
 "Maximum Login Failures to Lockout Account","Največ napačnih prijav za zaklep računa",module,Magento_User
 "We will disable this feature if the value is empty.","Ta funkcija bo onemogočena, če je vrednost prazna.",module,Magento_User
@@ -124,25 +124,25 @@
 "Last login","Zadnja prijava",module,Magento_User
 "Failures","Napake",module,Magento_User
 "Unlocked","Odklenjeno",module,Magento_User
-"Are you sure you want to revoke the user's tokens?","Are you sure you want to revoke the user's tokens?",module,Magento_User
-"We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_User
-"We'll email you a link to reset your password.","We'll email you a link to reset your password.",module,Magento_User
-"We can't find a user to delete.","We can't find a user to delete.",module,Magento_User
-"You have revoked the user's tokens.","You have revoked the user's tokens.",module,Magento_User
-"We can't find a user to revoke.","We can't find a user to revoke.",module,Magento_User
-"email","email",module,Magento_User
-"password","password",module,Magento_User
-"username","username",module,Magento_User
-"Your account is temporarily disabled.","Your account is temporarily disabled.",module,Magento_User
-"It's time to change your password.","It's time to change your password.",module,Magento_User
-"It's time to <a href="%1">change your password</a>.","It's time to <a href="%1">change your password</a>.",module,Magento_User
-"Password Reset Confirmation for %name","Password Reset Confirmation for %name",module,Magento_User
-"New %changes for %user_name","New %changes for %user_name",module,Magento_User
-"Hello,","Hello,",module,Magento_User
-"We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
-"If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
-"or call us at %store_phone","or call us at %store_phone",module,Magento_User
-"Thanks,","Thanks,",module,Magento_User
-"All Users","Vsi uporaniki",module,Magento_User
+"Are you sure you want to revoke the user's tokens?","Ali ste prepričani, da želite preklicati žetone uporabnika?",module,Magento_User
+"We're unable to send the password reset email.","E-pošte za ponastavitev gesla ni bilo mogoče poslati.",module,Magento_User
+"We'll email you a link to reset your password.","Poslali vam bomo e-pošto s povezavo za ponastavitev vašega gesla.",module,Magento_User
+"We can't find a user to delete.","Uporabnika za brisanje ni mogoče najti.",module,Magento_User
+"You have revoked the user's tokens.","Preklicali ste žetone uporabnika.",module,Magento_User
+"We can't find a user to revoke.","Uporabnika za preklic ni mogoče najti.",module,Magento_User
+"email","e-pošta",module,Magento_User
+"password","geslo",module,Magento_User
+"username","uporabniško ime",module,Magento_User
+"Your account is temporarily disabled.","Vaš račun je začasno onemogočen.",module,Magento_User
+"It's time to change your password.","Čas je, da zamenjate vaše geslo.",module,Magento_User
+"It's time to <a href=%1"">change your password</a>.""","Čas je, da <a href=%1"">zamenjate vaše geslo</a>.""",module,Magento_User
+"Password Reset Confirmation for %name","Potrditev ponastavitve gesla za %name",module,Magento_User
+"New %changes for %user_name","Nove %changes za %user_name",module,Magento_User
+"Hello,","Pozdravljeni,",module,Magento_User
+"We have received a request to change the following information associated with your account at %store_name: %changes.","Prejeli smo zahtevo za spremembo naslednjih podatkov, povezanih z vašim računom na %store_name: %changes.",module,Magento_User
+"If you have not authorized this action, please contact us immediately at %store_email","Če niste avtorizirali tega dejanja, nas prosimo, nemudoma kontaktirajte preko %store_email",module,Magento_User
+"or call us at %store_phone","ali nas pokličite na %store_phone",module,Magento_User
+"Thanks,","Hvala,",module,Magento_User
+"All Users","Vsi uporabniki",module,Magento_User
 "User Roles","Vloge uporabnika",module,Magento_User
 "User Notification Template","Predloga obvestil uporabnika",module,Magento_User

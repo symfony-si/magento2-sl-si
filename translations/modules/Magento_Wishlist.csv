@@ -1,50 +1,50 @@
 "Wish List","Seznam želja",module,Magento_Wishlist
-"Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","My Wish List",module,Magento_Wishlist
-"%1's Wish List","%1's Wish List",module,Magento_Wishlist
+"Wish List Sharing","Deljenje seznama želja",module,Magento_Wishlist
+"My Wish List","Moj seznam želja",module,Magento_Wishlist
+"%1's Wish List","Seznam želja za %1",module,Magento_Wishlist
 "Page not found.","Strani ni mogoče najti.",module,Magento_Wishlist
-"We can\'t specify a product.","We can\'t specify a product.",module,Magento_Wishlist
-"We can\'t add the item to Wish List right now: %1.","We can\'t add the item to Wish List right now: %1.",module,Magento_Wishlist
-"We can\'t add the item to Wish List right now.","We can\'t add the item to Wish List right now.",module,Magento_Wishlist
+"We can\'t specify a product.","Izdelka ni mogoče določiti.",module,Magento_Wishlist
+"We can\'t add the item to Wish List right now: %1.","Elementa trenutno ni mogoče dodati na seznam želja: %1.",module,Magento_Wishlist
+"We can\'t add the item to Wish List right now.","Elementa trenutno ni mogoče dodati na seznam želja.",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Dodali ste %1 v vašo košarico.",module,Magento_Wishlist
-"This product(s) is out of stock.","This product(s) is out of stock.",module,Magento_Wishlist
-"We can\'t add the item to the cart right now.","We can\'t add the item to the cart right now.",module,Magento_Wishlist
-"We can\'t load the Wish List item right now.","We can\'t load the Wish List item right now.",module,Magento_Wishlist
-"We can\'t configure the product right now.","We can\'t configure the product right now.",module,Magento_Wishlist
-"The requested cart item doesn\'t exist.","The requested cart item doesn\'t exist.",module,Magento_Wishlist
-"%1 has been moved to your wish list.","%1 has been moved to your wish list.",module,Magento_Wishlist
-"We can\'t move the item to the wish list.","We can\'t move the item to the wish list.",module,Magento_Wishlist
-"We can\'t delete the item from Wish List right now because of an error: %1.","We can\'t delete the item from Wish List right now because of an error: %1.",module,Magento_Wishlist
-"We can\'t delete the item from the Wish List right now.","We can\'t delete the item from the Wish List right now.",module,Magento_Wishlist
-"Message length must not exceed %1 symbols","Message length must not exceed %1 symbols",module,Magento_Wishlist
-"Please enter an email address.","Please enter an email address.",module,Magento_Wishlist
-"This wish list can be shared %1 more times.","This wish list can be shared %1 more times.",module,Magento_Wishlist
-"Please enter a valid email address.","Please enter a valid email address.",module,Magento_Wishlist
-"Your wish list has been shared.","Your wish list has been shared.",module,Magento_Wishlist
-"We can\'t delete item from Wish List right now.","We can\'t delete item from Wish List right now.",module,Magento_Wishlist
-"Can\'t save description %1","Can\'t save description %1",module,Magento_Wishlist
-"Can\'t update wish list","Can\'t update wish list",module,Magento_Wishlist
-"%1 has been updated in your Wish List.","%1 has been updated in your Wish List.",module,Magento_Wishlist
-"We can\'t update your Wish List right now.","We can\'t update your Wish List right now.",module,Magento_Wishlist
-"The requested Wish List doesn\'t exist.","The requested Wish List doesn\'t exist.",module,Magento_Wishlist
-"We can\'t create the Wish List right now.","We can\'t create the Wish List right now.",module,Magento_Wishlist
+"This product(s) is out of stock.","Tega izdelka ni na zalogi.",module,Magento_Wishlist
+"We can\'t add the item to the cart right now.","Elementa trenutno ni mogoče dodati v košarico.",module,Magento_Wishlist
+"We can\'t load the Wish List item right now.","Seznama želja trenutno ni mogoče naložiti.",module,Magento_Wishlist
+"We can\'t configure the product right now.","Konfiguracija izdelka trenutno ni mogoča.",module,Magento_Wishlist
+"The requested cart item doesn\'t exist.","Zahtevani element košarice ne obstaja.",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 je bil premaknjen na vaš seznam želja.",module,Magento_Wishlist
+"We can\'t move the item to the wish list.","Elementa ni mogoče premakniti na seznam želja.",module,Magento_Wishlist
+"We can\'t delete the item from Wish List right now because of an error: %1.","Elementa trenutno ni mogoče odstraniti iz seznama želja zaradi napake: %1.",module,Magento_Wishlist
+"We can\'t delete the item from the Wish List right now.","Elementa trenutno ni mogoče odstraniti iz seznama želja.",module,Magento_Wishlist
+"Message length must not exceed %1 symbols","Dolžina sporočila ne sme presegati %1 simbolov",module,Magento_Wishlist
+"Please enter an email address.","Vnesite e-poštni naslov.",module,Magento_Wishlist
+"This wish list can be shared %1 more times.","Seznam želja je bil deljen še %1 krat.",module,Magento_Wishlist
+"Please enter a valid email address.","Vnesite veljaven naslov e-pošte.",module,Magento_Wishlist
+"Your wish list has been shared.","Vaš seznam želja je bil deljen.",module,Magento_Wishlist
+"We can\'t delete item from Wish List right now.","Elementa trenutno ni mogoče odstraniti iz seznama želja.",module,Magento_Wishlist
+"Can\'t save description %1","Opisa %1 ni mogoče shraniti",module,Magento_Wishlist
+"Can\'t update wish list","Seznama želja ni mogoče posodobiti",module,Magento_Wishlist
+"%1 has been updated in your Wish List.","%1 je bil posodobljen na vašem seznamu želja.",module,Magento_Wishlist
+"We can\'t update your Wish List right now.","Trenutno vašega seznama želja ni mogoče posodobiti.",module,Magento_Wishlist
+"The requested Wish List doesn\'t exist.","Zahtevani seznam želja ne obstaja.",module,Magento_Wishlist
+"We can\'t create the Wish List right now.","Seznama želja trenutno ni mogoče ustvariti.",module,Magento_Wishlist
 "%1 items","%1 elementov",module,Magento_Wishlist
 "1 item","1 element",module,Magento_Wishlist
 "Comment","Komentar",module,Magento_Wishlist
-"Display number of items in wish list","Display number of items in wish list",module,Magento_Wishlist
+"Display number of items in wish list","Prikaz števila elementov na seznamu želja",module,Magento_Wishlist
 "Display item quantities","Prikaz količine artiklov",module,Magento_Wishlist
-"An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_Wishlist
-"We can\'t specify a wish list.","We can\'t specify a wish list.",module,Magento_Wishlist
-"Cannot specify product.","Cannot specify product.",module,Magento_Wishlist
-"Product is not salable.","Product is not salable.",module,Magento_Wishlist
-"Invalid item option format.","Invalid item option format.",module,Magento_Wishlist
-"%1 for ""%2"".","%1 for ""%2"".",module,Magento_Wishlist
+"An item option with code %1 already exists.","Možnost elementa s kodo %1 že obstaja.",module,Magento_Wishlist
+"We can\'t specify a wish list.","Seznama želja ni mogoče določiti.",module,Magento_Wishlist
+"Cannot specify product.","Izdelka ni mogoče določiti.",module,Magento_Wishlist
+"Product is not salable.","Izdelek ni za prodajo.",module,Magento_Wishlist
+"Invalid item option format.","Neveljaven format možnosti elementa.",module,Magento_Wishlist
+"%1 for ""%2"".","%1 za ""%2"".",module,Magento_Wishlist
 "We can\'t add this item to your shopping cart right now.","Tega elementa trenutno ni mogoče dodati v vašo košarico.",module,Magento_Wishlist
-"We couldn\'t add the following product(s) to the shopping cart: %1.","We couldn\'t add the following product(s) to the shopping cart: %1.",module,Magento_Wishlist
-"We can\'t update the Wish List right now.","We can\'t update the Wish List right now.",module,Magento_Wishlist
-"%1 product(s) have been added to shopping cart: %2.","%1 product(s) have been added to shopping cart: %2.",module,Magento_Wishlist
-"Comment:","Comment:",module,Magento_Wishlist
-"We cannot retrieve the Wish List.","We cannot retrieve the Wish List.",module,Magento_Wishlist
+"We couldn\'t add the following product(s) to the shopping cart: %1.","Sledečih izdelkov ni mogoče dodati košarici: %1.",module,Magento_Wishlist
+"We can\'t update the Wish List right now.","Seznama želja trenutno ni mogoče posodobiti.",module,Magento_Wishlist
+"%1 product(s) have been added to shopping cart: %2.","%1 izdelek/izdelkov je bilo dodanih v košarico: %2.",module,Magento_Wishlist
+"Comment:","Komentar:",module,Magento_Wishlist
+"We cannot retrieve the Wish List.","Seznama želja ni mogoče pridobiti.",module,Magento_Wishlist
 "%1\'s Wishlist","Seznam želja uporabnika %1",module,Magento_Wishlist
 "We can\'t specify a wish list item.","Elementa seznama želja ni mogoče določiti.",module,Magento_Wishlist
 "The product does not exist.","Izdelek ne obstaja.",module,Magento_Wishlist
@@ -54,7 +54,7 @@
 "error-message","sporočilo o napaki",module,Magento_Wishlist
 "LocalizedException","LocalizedException",module,Magento_Wishlist
 "Product Exception.","Izjema izdelka.",module,Magento_Wishlist
-"Localized Exception.","Localized Exception.",module,Magento_Wishlist
+"Localized Exception.","Lokalizirana izjema.",module,Magento_Wishlist
 "Are you sure you want to remove this item?","Ali ste prepričani, da želite odstraniti ta element?",module,Magento_Wishlist
 "Share Wish List","Deljenje seznama želja",module,Magento_Wishlist
 "Add All to Cart","Dodaj vse v košarico",module,Magento_Wishlist
@@ -67,7 +67,7 @@
 "In stock","Na zalogi",module,Magento_Wishlist
 "Out of stock","Ni na zalogi",module,Magento_Wishlist
 "Edit","Uredi",module,Magento_Wishlist
-"Remove Item","Remove Item",module,Magento_Wishlist
+"Remove Item","Odstrani element",module,Magento_Wishlist
 "Remove item","Odstrani element",module,Magento_Wishlist
 "Add to Compare","Dodaj v primerjavo",module,Magento_Wishlist
 "This Wish List has no Items","Ta seznam želja nima elementov",module,Magento_Wishlist
@@ -88,12 +88,12 @@
 "Go to Wish List","Pojdi na seznam želja",module,Magento_Wishlist
 "You have no items in your wish list.","Nimate izdelkov v vašem seznamu želja.",module,Magento_Wishlist
 "Are you sure you want to remove this product from your Wish List?","Ali ste prepričani, da želite odstraniti ta izdelek s seznama želja?",module,Magento_Wishlist
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
-"Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
-"View all Wish List items","View all Wish List items",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name želi z vami deliti ta seznam želja iz %store_name:",module,Magento_Wishlist
+"Message from %customer_name:","Sporočilo od %customer_name:",module,Magento_Wishlist
+"View all Wish List items","Prikaži vse elemente seznama želja",module,Magento_Wishlist
 "Share Options","Možnosti deljenja",module,Magento_Wishlist
-"Email Sender","Email Sender",module,Magento_Wishlist
-"Email Template","Email Template",module,Magento_Wishlist
+"Email Sender","Pošiljatelj e-pošte",module,Magento_Wishlist
+"Email Template","Predloge e-pošte",module,Magento_Wishlist
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Predloga e-pošte je izbrana glede na pomožno temo, ko je izbrana možnost ""Privzeto"".",module,Magento_Wishlist
 "Max Emails Allowed to be Sent","Največ e-pošt dovoljenih poslati",module,Magento_Wishlist
 "Email Text Length Limit","Omejitev dolžine besedila e-pošte",module,Magento_Wishlist
@@ -113,29 +113,29 @@
 "Configure","Konfiguriranje",module,Magento_Wishlist
 "Delete","Izbriši",module,Magento_Wishlist
 "Product Details and Comment","Podrobnosti izdelka in komentar",module,Magento_Wishlist
-"We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
-"We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1.",module,Magento_Wishlist
-"We can't add the item to Wish List right now.","We can't add the item to Wish List right now.",module,Magento_Wishlist
-"We can't add the item to the cart right now.","We can't add the item to the cart right now.",module,Magento_Wishlist
-"We can't load the Wish List item right now.","We can't load the Wish List item right now.",module,Magento_Wishlist
-"We can't configure the product right now.","We can't configure the product right now.",module,Magento_Wishlist
-"The requested cart item doesn't exist.","The requested cart item doesn't exist.",module,Magento_Wishlist
-"We can't move the item to the wish list.","We can't move the item to the wish list.",module,Magento_Wishlist
-"We can't delete the item from Wish List right now because of an error: %1.","We can't delete the item from Wish List right now because of an error: %1.",module,Magento_Wishlist
-"We can't delete the item from the Wish List right now.","We can't delete the item from the Wish List right now.",module,Magento_Wishlist
-"We can't delete item from Wish List right now.","We can't delete item from Wish List right now.",module,Magento_Wishlist
-"Can't save description %1","Can't save description %1",module,Magento_Wishlist
-"Can't update wish list","Can't update wish list",module,Magento_Wishlist
-"We can't update your Wish List right now.","We can't update your Wish List right now.",module,Magento_Wishlist
-"The requested Wish List doesn't exist.","The requested Wish List doesn't exist.",module,Magento_Wishlist
-"We can't create the Wish List right now.","We can't create the Wish List right now.",module,Magento_Wishlist
-"We can't specify a wish list.","We can't specify a wish list.",module,Magento_Wishlist
-"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Wishlist
-"We couldn't add the following product(s) to the shopping cart: %1.","We couldn't add the following product(s) to the shopping cart: %1.",module,Magento_Wishlist
-"We can't update the Wish List right now.","We can't update the Wish List right now.",module,Magento_Wishlist
-"%1's Wishlist","%1's Wishlist",module,Magento_Wishlist
-"We can't specify a wish list item.","We can't specify a wish list item.",module,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
-"Click <a href="%1">here</a> to continue shopping.","Click <a href="%1">here</a> to continue shopping.",module,Magento_Wishlist
-"Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
+"We can't specify a product.","Izdelka ni mogoče določiti.",module,Magento_Wishlist
+"We can't add the item to Wish List right now: %1.","Elementa trenutno ni mogoče dodati na seznam želja: %1.",module,Magento_Wishlist
+"We can't add the item to Wish List right now.","Elementa trenutno ni mogoče dodati na seznam želja.",module,Magento_Wishlist
+"We can't add the item to the cart right now.","Elementa trenutno ni mogoče dodati v košarico.",module,Magento_Wishlist
+"We can't load the Wish List item right now.","Elementa seznama želja trenutno ni mogoče naložiti.",module,Magento_Wishlist
+"We can't configure the product right now.","Konfiguracija izdelka trenutno ni mogoča.",module,Magento_Wishlist
+"The requested cart item doesn't exist.","Zahtevani element košarice ne obstaja.",module,Magento_Wishlist
+"We can't move the item to the wish list.","Elementa ni mogoče premakniti na seznam želja.",module,Magento_Wishlist
+"We can't delete the item from Wish List right now because of an error: %1.","Elementa trenutno ni mogoče odstraniti iz seznama želja zaradi napake: %1.",module,Magento_Wishlist
+"We can't delete the item from the Wish List right now.","Elementa trenutno ni mogoče odstraniti iz seznama želja.",module,Magento_Wishlist
+"We can't delete item from Wish List right now.","Elementa trenutno ni mogoče odstraniti iz seznama želja.",module,Magento_Wishlist
+"Can't save description %1","Opisa %1 ni mogoče shraniti",module,Magento_Wishlist
+"Can't update wish list","Seznama želja ni mogoče posodobiti",module,Magento_Wishlist
+"We can't update your Wish List right now.","Trenutno vašega seznama želja ni mogoče posodobiti.",module,Magento_Wishlist
+"The requested Wish List doesn't exist.","Zahtevani seznam želja ne obstaja.",module,Magento_Wishlist
+"We can't create the Wish List right now.","Seznama želja trenutno ni mogoče ustvariti.",module,Magento_Wishlist
+"We can't specify a wish list.","Seznama želja ni mogoče določiti.",module,Magento_Wishlist
+"We can't add this item to your shopping cart right now.","Tega elementa trenutno ni mogoče dodati vaši košarici.",module,Magento_Wishlist
+"We couldn't add the following product(s) to the shopping cart: %1.","Sledečih izdelkov ni mogoče dodati košarici: %1.",module,Magento_Wishlist
+"We can't update the Wish List right now.","Seznama želja trenutno ni mogoče posodobiti.",module,Magento_Wishlist
+"%1's Wishlist","Seznam želja %1",module,Magento_Wishlist
+"We can't specify a wish list item.","Elementa seznama želja ni mogoče določiti.",module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 je bil dodan na vaš seznam želja.",module,Magento_Wishlist
+"Click <a href=%1"">here</a> to continue shopping.""","<a href=%1"">Kliknite</a> za nadaljevanje nakupovanja.""",module,Magento_Wishlist
+"Take a look at %customer_name's Wish List","Poglejte seznam želja %customer_name",module,Magento_Wishlist
 "Wish List Section","Sekcija seznama želja",module,Magento_Wishlist
