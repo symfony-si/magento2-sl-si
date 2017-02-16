@@ -35,7 +35,10 @@ a different workflow. After cloning the repository locally, you can just do the
 following in package folder:
 
 ```bash
-$ composer install
+# Make sure you have Magento repositories defined in your Composer configuration
+composer config repositories.magento composer https://repo.magento.com --global
+# Install dependencies for development
+composer install
 ```
 
 
@@ -49,19 +52,19 @@ released by the following release process:
 
 * **1. Run the build**
 
-    Run the build script to get HTML version of README and some other things that
-    can be automated:
+  Run the build script to get HTML version of README and some other things that
+  can be automated:
 
-    ```bash
-$ ./build
-```
+  ```bash
+  $ ./bin/build
+  ```
 
 * **2. Update Changelog:**
 
-    Create an entry in [CHANGELOG.md](CHANGELOG.md) describing all the changes
-    from previous release.
+  Create an entry in [CHANGELOG.md](CHANGELOG.md) describing all the changes
+  from previous release.
 
 * **3. Tag a new release:**
 
-    Tag a new version on GitHub, and attach ZIP sl_si-1.x.y.zip as a binary file
-    for manual installation.
+  Tag a new version on GitHub, and attach ZIP sl_si-1.x.y.zip as a binary file
+  for manual installation.

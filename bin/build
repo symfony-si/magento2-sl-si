@@ -6,18 +6,18 @@
  * file that Magento can use further on.
  */
 
-require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__.'/../vendor/autoload.php';
 
 use League\CommonMark\CommonMarkConverter;
 
 // Create HTML from MarkDown
-$readmeMd = file_get_contents(__DIR__.'/README.md');
+$readmeMd = file_get_contents(__DIR__.'/../README.md');
 $converter = new CommonMarkConverter();
 $html = $converter->convertToHtml($readmeMd);
 
-file_put_contents(__DIR__.'/README.html', $html, LOCK_EX);
+file_put_contents(__DIR__.'/../README.html', $html, LOCK_EX);
 
-$directory = __DIR__.'/translations';
+$directory = __DIR__.'/../translations';
 
 $innerIterator = new RecursiveDirectoryIterator(
     $directory,
@@ -43,4 +43,4 @@ foreach ($iterator as $pathName => $fileInfo) {
     $mergedCsv .= file_get_contents($pathName);
 }
 
-file_put_contents(__DIR__.'/sl_SI.csv', $mergedCsv, LOCK_EX);
+file_put_contents(__DIR__.'/../sl_SI.csv', $mergedCsv, LOCK_EX);
