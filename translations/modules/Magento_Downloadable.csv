@@ -99,23 +99,23 @@
 "Canceled","Preklicano",module,Magento_Downloadable
 "Refunded","Povrnjeno",module,Magento_Downloadable
 "We could not detect a size.","Velikosti ni mogoče zaznati.",module,Magento_Downloadable
-"Downloadable Product Options","Downloadable Product Options",module,Magento_Downloadable
-"Order Item Status to Enable Downloads","Order Item Status to Enable Downloads",module,Magento_Downloadable
-"Default Maximum Number of Downloads","Default Maximum Number of Downloads",module,Magento_Downloadable
-"Default Sample Title","Default Sample Title",module,Magento_Downloadable
-"Default Link Title","Default Link Title",module,Magento_Downloadable
-"Open Links in New Window","Open Links in New Window",module,Magento_Downloadable
-"Use Content-Disposition","Use Content-Disposition",module,Magento_Downloadable
-"Disable Guest Checkout if Cart Contains Downloadable Items","Disable Guest Checkout if Cart Contains Downloadable Items",module,Magento_Downloadable
-"Guest checkout will only work with shareable.","Guest checkout will only work with shareable.",module,Magento_Downloadable
-"Link file not provided","Link file not provided",module,Magento_Downloadable
-"Provided product must be type 'downloadable'.","Provided product must be type 'downloadable'.",module,Magento_Downloadable
-"Cannot delete link with id %1","Cannot delete link with id %1",module,Magento_Downloadable
-"Sample file not provided","Sample file not provided",module,Magento_Downloadable
-"Cannot delete sample with id %1","Cannot delete sample with id %1",module,Magento_Downloadable
-"Upload File","Upload File",module,Magento_Downloadable
-"To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
-"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
-"Add Link","Add Link",module,Magento_Downloadable
-"Downloadable Product Section","Downloadable Product Section",module,Magento_Downloadable
-"Downloads","Downloads",module,Magento_Downloadable
+"Downloadable Product Options","Možnosti prenosljivega izdelka",module,Magento_Downloadable
+"Order Item Status to Enable Downloads","Stanje elementa naročila za omogočanje prenosov",module,Magento_Downloadable
+"Default Maximum Number of Downloads","Privzeto največje število prenosov",module,Magento_Downloadable
+"Default Sample Title","Privzeti naslov primera",module,Magento_Downloadable
+"Default Link Title","Privzeti naslov povezave",module,Magento_Downloadable
+"Open Links in New Window","Odpri povezave v novem oknu",module,Magento_Downloadable
+"Use Content-Disposition","Uporabi Content-Disposition",module,Magento_Downloadable
+"Disable Guest Checkout if Cart Contains Downloadable Items","Gostom onemogoči nakup, če košarica vsebuje prenosljive elemente",module,Magento_Downloadable
+"Guest checkout will only work with shareable.","Nakup za goste bo deloval samo pri skupni rabi.",module,Magento_Downloadable
+"Link file not provided","Datoteka povezave ni podana",module,Magento_Downloadable
+"Provided product must be type 'downloadable'.","Podani izdelek mora biti vrste 'prenosljiv'.",module,Magento_Downloadable
+"Cannot delete link with id %1","Povezave z id %1 ni mogoče izbrisati",module,Magento_Downloadable
+"Sample file not provided","Vzorčna datoteka ni podana",module,Magento_Downloadable
+"Cannot delete sample with id %1","Vzorca z id %1 ni mogoče izbrisati",module,Magento_Downloadable
+"Upload File","Naloži datoteko",module,Magento_Downloadable
+"To enable the option set the weight to no","Da omogočite možnost, nastavite težo na Ne",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Za imena datotek se priporoča alfanumerične znake, pomišljaje in podčrtaje. Neustrezni znaki se nadomestijo z '_'.",module,Magento_Downloadable
+"Add Link","Dodaj povezavo",module,Magento_Downloadable
+"Downloadable Product Section","Oddelek prenosljivih izdelkov",module,Magento_Downloadable
+"Downloads","Prenosi",module,Magento_Downloadable

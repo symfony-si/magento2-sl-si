@@ -103,69 +103,69 @@
 "Incl. Tax","Z davkom",module,Magento_ConfigurableProduct
 "Select Associated Product","Izberi povezan izdelek",module,Magento_ConfigurableProduct
 "Done","Opravljeno",module,Magento_ConfigurableProduct
-"For better results, add attributes and attribute values to your products.","For better results, add attributes and attribute values to your products.",module,Magento_ConfigurableProduct
-"An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
-"Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
-"Please, select attribute for the section ","Please, select attribute for the section ",module,Magento_ConfigurableProduct
-"Please fill in the values for the section ","Please fill in the values for the section ",module,Magento_ConfigurableProduct
-"Please, fill correct values","Please, fill correct values",module,Magento_ConfigurableProduct
-"Please, select image(s) for your attribute","Please, select image(s) for your attribute",module,Magento_ConfigurableProduct
-"Please choose image(s)","Please choose image(s)",module,Magento_ConfigurableProduct
+"For better results, add attributes and attribute values to your products.","Za boljše rezultate vašim izdelkom dodajte atribute in vrednosti atributov.",module,Magento_ConfigurableProduct
+"An attribute has been removed. This attribute will no longer appear in your configurations.","Atribut je bil odstranjen. Ta atribut se ne bo več pojavil v vaših nastavitvah.",module,Magento_ConfigurableProduct
+"Select options for all attributes or remove unused attributes.","Izberite možnosti za vse atribute ali odstranite neuporabljene atribute.",module,Magento_ConfigurableProduct
+"Please, select attribute for the section ","Za ta oddelek izberite atribut ",module,Magento_ConfigurableProduct
+"Please fill in the values for the section ","Vnesite vrednosti za oddelek ",module,Magento_ConfigurableProduct
+"Please, fill correct values","Vpišite ustrezne vrednosti",module,Magento_ConfigurableProduct
+"Please, select image(s) for your attribute","Za vaš atribut izberite slike",module,Magento_ConfigurableProduct
+"Please choose image(s)","Izberite slike",module,Magento_ConfigurableProduct
 "We could not detect a size.","Velikosti ni mogoče zaznati.",module,Magento_ConfigurableProduct
 "We don\'t recognize or support this file extension type.","Ta vrsta končnice datoteke ni prepoznavna ali podprta.",module,Magento_ConfigurableProduct
-"Please, select attribute(s)","Please, select attribute(s)",module,Magento_ConfigurableProduct
+"Please, select attribute(s)","Izberite atribute",module,Magento_ConfigurableProduct
 "Generate Products","Generiraj izdelke",module,Magento_ConfigurableProduct
-"Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
+"Configurable Product Image","Slika nastavljivih izdelkov",module,Magento_ConfigurableProduct
 "Select...","Izberite...",module,Magento_ConfigurableProduct
 "Status","Stanje",module,Magento_ConfigurableProduct
 "ID","ID",module,Magento_ConfigurableProduct
 "Thumbnail","Sličica",module,Magento_ConfigurableProduct
 "Attribute Code","Koda atributa",module,Magento_ConfigurableProduct
-"Attribute Label","Attribute Label",module,Magento_ConfigurableProduct
+"Attribute Label","Oznaka atributa",module,Magento_ConfigurableProduct
 "Required","Zahtevano",module,Magento_ConfigurableProduct
 "System","Sistem",module,Magento_ConfigurableProduct
 "Visible","Vidno",module,Magento_ConfigurableProduct
 "Scope","Področje",module,Magento_ConfigurableProduct
 "Searchable","V rezultatih iskanja",module,Magento_ConfigurableProduct
 "Comparable","Primerljivo",module,Magento_ConfigurableProduct
-"Save","Save",module,Magento_ConfigurableProduct
-"Save & New","Save & New",module,Magento_ConfigurableProduct
-"Save & Duplicate","Save & Duplicate",module,Magento_ConfigurableProduct
-"Save & Close","Save & Close",module,Magento_ConfigurableProduct
-"Parent product does not have configurable product options","Parent product does not have configurable product options",module,Magento_ConfigurableProduct
-"Child product does not have attribute value %1","Child product does not have attribute value %1",module,Magento_ConfigurableProduct
-"Requested option doesn't exist","Requested option doesn't exist",module,Magento_ConfigurableProduct
-"Requested option doesn't exist: %1","Requested option doesn't exist: %1",module,Magento_ConfigurableProduct
+"Save","Shrani",module,Magento_ConfigurableProduct
+"Save & New","Shrani in novo",module,Magento_ConfigurableProduct
+"Save & Duplicate","Shrani in podvoji",module,Magento_ConfigurableProduct
+"Save & Close","Shrani in zapri",module,Magento_ConfigurableProduct
+"Parent product does not have configurable product options","Nadrejeni izdelek nima možnosti nastavljivega izdelka",module,Magento_ConfigurableProduct
+"Child product does not have attribute value %1","Podrejeni izdelek nima vrednosti atributa %1",module,Magento_ConfigurableProduct
+"Requested option doesn't exist","Zahtevana možnost ne obstaja",module,Magento_ConfigurableProduct
+"Requested option doesn't exist: %1","Zahtevana možnost ne obstaja: %1",module,Magento_ConfigurableProduct
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Izdelka ""%1"" in ""%2"" imata enak nabor vrednosti atributov.",module,Magento_ConfigurableProduct
-"You can't add the item to shopping cart.","You can't add the item to shopping cart.",module,Magento_ConfigurableProduct
-"Type %1 is not an instance of %2","Type %1 is not an instance of %2",module,Magento_ConfigurableProduct
-"Add configurable attributes to the current Attribute Set","Add configurable attributes to the current Attribute Set",module,Magento_ConfigurableProduct
-"New Attribute Set Name","New Attribute Set Name",module,Magento_ConfigurableProduct
-"Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
-"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",module,Magento_ConfigurableProduct
-"Attributes","Attributes",module,Magento_ConfigurableProduct
+"You can't add the item to shopping cart.","Elementa ne morete dodati v košarico.",module,Magento_ConfigurableProduct
+"Type %1 is not an instance of %2","Vrsta %1 ni instanca %2",module,Magento_ConfigurableProduct
+"Add configurable attributes to the current Attribute Set","Dodaj nastavljive atribute trenutnemu naboru atributov",module,Magento_ConfigurableProduct
+"New Attribute Set Name","Novo ime nabora atributov",module,Magento_ConfigurableProduct
+"Choose a new product to delete and replace the current product configuration.","Izberite nov izdelek za brisanje in zamenjajte trenutne nastavitve izdelka.",module,Magento_ConfigurableProduct
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Nastavljivi izdelki omogočajo strankam, da izberejo možnosti (Npr: barva majice). Ustvariti morate preprost izdelek za vsako konfiguracijo (npr: izdelek za vsako barvo).",module,Magento_ConfigurableProduct
+"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Nastavitev ni mogoče ustvariti za običajen izdelek s prenosljivimi datotekami. Da ustvarite nastavitve, najprej odstranite vse prenosljive datoteke.",module,Magento_ConfigurableProduct
+"Attributes","Atributi",module,Magento_ConfigurableProduct
 "Custom options with price type ""percent"" is not available for configurable product.","Možnosti po meri z vrsto cene ""odstotek"" niso na voljo za nastavljive izdelke.",module,Magento_ConfigurableProduct
-"Step 3: Bulk Images, Price and Quantity","Step 3: Bulk Images, Price and Quantity",module,Magento_ConfigurableProduct
-"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.","Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.",module,Magento_ConfigurableProduct
-"Image Size","Image Size",module,Magento_ConfigurableProduct
+"Step 3: Bulk Images, Price and Quantity","3. korak: Množične slike, cena in količina",module,Magento_ConfigurableProduct
+"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.","Glede na vaše izbire %1 bodo ustvarjeni novi izdelki. Uporabite ta korak, da prilagodite slike in ceno za vaše nove izdelke.",module,Magento_ConfigurableProduct
+"Image Size","Velikost slike",module,Magento_ConfigurableProduct
 "{size}","{size}",module,Magento_ConfigurableProduct
-"Image Resolution","Image Resolution",module,Magento_ConfigurableProduct
+"Image Resolution","Ločljivost slike",module,Magento_ConfigurableProduct
 "{width}^{height} px","{width}^{height} px",module,Magento_ConfigurableProduct
-"Special Price","Special Price",module,Magento_ConfigurableProduct
-"Regular Price","Regular Price",module,Magento_ConfigurableProduct
-"New Product Review","New Product Review",module,Magento_ConfigurableProduct
-"Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
-"You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
-"Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
-"These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
-"Disable Product","Disable Product",module,Magento_ConfigurableProduct
-"Enable Product","Enable Product",module,Magento_ConfigurableProduct
-"Please select attribute for {section} section.","Please select attribute for {section} section.",module,Magento_ConfigurableProduct
-"Please fill in the values for {section} section.","Please fill in the values for {section} section.",module,Magento_ConfigurableProduct
-"Please fill-in correct values.","Please fill-in correct values.",module,Magento_ConfigurableProduct
-"Please select image(s) for your attribute.","Please select image(s) for your attribute.",module,Magento_ConfigurableProduct
-"Please choose image(s).","Please choose image(s).",module,Magento_ConfigurableProduct
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_ConfigurableProduct
-"Please select attribute(s).","Please select attribute(s).",module,Magento_ConfigurableProduct
-"Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct
+"Special Price","Akcijska cena",module,Magento_ConfigurableProduct
+"Regular Price","Redna cena",module,Magento_ConfigurableProduct
+"New Product Review","Novo mnenje o izdelku",module,Magento_ConfigurableProduct
+"Here are the products you're about to create.","Tukaj so izdelki, ki jih boste ustvarili.",module,Magento_ConfigurableProduct
+"You created these products for this configuration.","Za te nastavitve ste ustvarili omenjene izdelke.",module,Magento_ConfigurableProduct
+"Disassociated Products","Nepovezani izdelki",module,Magento_ConfigurableProduct
+"These products are not associated.","Ti izdelki niso povezani.",module,Magento_ConfigurableProduct
+"Disable Product","Onemogoči izdelek",module,Magento_ConfigurableProduct
+"Enable Product","Omogoči izdelek",module,Magento_ConfigurableProduct
+"Please select attribute for {section} section.","Za oddelek {section} izberite atribut.",module,Magento_ConfigurableProduct
+"Please fill in the values for {section} section.","Vnesite vrednosti za oddelek {section}.",module,Magento_ConfigurableProduct
+"Please fill-in correct values.","Vpišite ustrezne vrednosti.",module,Magento_ConfigurableProduct
+"Please select image(s) for your attribute.","Za vaš atribut izberite slike.",module,Magento_ConfigurableProduct
+"Please choose image(s).","Izberite slike.",module,Magento_ConfigurableProduct
+"We don't recognize or support this file extension type.","Ta vrsta končnice datoteke ni prepoznavna ali podprta.",module,Magento_ConfigurableProduct
+"Please select attribute(s).","Izberite atribute.",module,Magento_ConfigurableProduct
+"Something went wrong.","Nekaj je šlo narobe.",module,Magento_ConfigurableProduct

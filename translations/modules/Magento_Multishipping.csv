@@ -22,8 +22,8 @@
 "The requested payment method is not available for multishipping.","Zahtevani način plačila ni na voljo za dostavo na več naslovov.",module,Magento_Multishipping
 "Item not found or already ordered","Elementa ni mogoče najti ali pa je že naročen",module,Magento_Multishipping
 "Please specify a payment method.","Navedite način plačila.",module,Magento_Multishipping
-"Please check shipping addresses information.","Please check shipping addresses information.",module,Magento_Multishipping
-"Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
+"Please check shipping addresses information.","Preverite podatke o naslovu dostave.",module,Magento_Multishipping
+"Please specify shipping methods for all addresses.","Izberite načine dostave za vse naslove.",module,Magento_Multishipping
 "Select Addresses","Izberi naslove",module,Magento_Multishipping
 "Shipping Information","Informacije dostave",module,Magento_Multishipping
 "Billing Information","Informacije računa",module,Magento_Multishipping
@@ -34,58 +34,58 @@
 "Select Address","Izberi naslov",module,Magento_Multishipping
 "Add New Address","Dodaj nov naslov",module,Magento_Multishipping
 "Back to Billing Information","Nazaj na informacije računa",module,Magento_Multishipping
-"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Izberite naslov za dostavo za uporabljene elemente.",module,Magento_Multishipping
 "Product","Izdelek",module,Magento_Multishipping
 "Qty","Količina",module,Magento_Multishipping
-"Send To","Send To",module,Magento_Multishipping
-"A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
+"Send To","Pošlji na",module,Magento_Multishipping
+"A shipping selection is not applicable.","Izbira dostave ni v uporabi.",module,Magento_Multishipping
 "Actions","Dejanja",module,Magento_Multishipping
-"Remove Item","Remove Item",module,Magento_Multishipping
+"Remove Item","Odstrani element",module,Magento_Multishipping
 "Remove item","Odstrani element",module,Magento_Multishipping
-"Go to Shipping Information","Go to Shipping Information",module,Magento_Multishipping
-"Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
-"Enter a New Address","Enter a New Address",module,Magento_Multishipping
-"Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
+"Go to Shipping Information","Pojdite na informacije o pošiljki",module,Magento_Multishipping
+"Update Qty &amp; Addresses","Posodobitev količin in naslovov",module,Magento_Multishipping
+"Enter a New Address","Vnesite nov naslov",module,Magento_Multishipping
+"Back to Shopping Cart","Nazaj na košarico",module,Magento_Multishipping
 "Billing Address","Naslov za pošiljanje računa",module,Magento_Multishipping
 "Change","Spremeni",module,Magento_Multishipping
-"Payment Method","Payment Method",module,Magento_Multishipping
-"Go to Review Your Order","Go to Review Your Order",module,Magento_Multishipping
-"Back to Shipping Information","Back to Shipping Information",module,Magento_Multishipping
-"Other items in your order","Other items in your order",module,Magento_Multishipping
-"Edit Items","Edit Items",module,Magento_Multishipping
-"Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
+"Payment Method","Način plačila",module,Magento_Multishipping
+"Go to Review Your Order","Pojdite na pregled vašega naročila",module,Magento_Multishipping
+"Back to Shipping Information","Nazaj na informacije dostave",module,Magento_Multishipping
+"Other items in your order","Ostali elementi v vašem naročilu",module,Magento_Multishipping
+"Edit Items","Uredi elemente",module,Magento_Multishipping
+"Shipping is not applicable.","Dostava ni v uporabi.",module,Magento_Multishipping
 "Product Name","Ime izdelka",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
-"Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
-"Shipping To","Shipping To",module,Magento_Multishipping
-"Shipping Method","Shipping Method",module,Magento_Multishipping
+"Check Out with Multiple Addresses","Nakupi z večimi naslovi",module,Magento_Multishipping
+"Address %1 <span>of %2</span>","Naslov %1 <span>od %2</span>",module,Magento_Multishipping
+"Shipping To","Dostava za",module,Magento_Multishipping
+"Shipping Method","Način pošiljanja",module,Magento_Multishipping
 "Incl. Tax","Z davkom",module,Magento_Multishipping
 "Excl. Tax","Brez davka",module,Magento_Multishipping
-"Order Review","Order Review",module,Magento_Multishipping
+"Order Review","Pregled naročila",module,Magento_Multishipping
 "Item","Element",module,Magento_Multishipping
 "Edit","Uredi",module,Magento_Multishipping
 "Price","Cena",module,Magento_Multishipping
 "Subtotal","Delna vsota",module,Magento_Multishipping
 "Items","Elementi",module,Magento_Multishipping
-"Grand Total:","Grand Total:",module,Magento_Multishipping
-"Submitting order information...","Submitting order information...",module,Magento_Multishipping
-"Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
-"Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
-"Back to Select Addresses","Back to Select Addresses",module,Magento_Multishipping
-"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Multishipping
-"Thanks for your order. We\'ll email you order details and tracking information.","Thanks for your order. We\'ll email you order details and tracking information.",module,Magento_Multishipping
-"Your order numbers are: ","Your order numbers are: ",module,Magento_Multishipping
-"Your order number is: ","Your order number is: ",module,Magento_Multishipping
+"Grand Total:","Skupna vsota:",module,Magento_Multishipping
+"Submitting order information...","Pošiljanje informacij o naročilu...",module,Magento_Multishipping
+"Sorry, no quotes are available for this order right now.","Žal za to naročilo trenutno ni na voljo ponudbe.",module,Magento_Multishipping
+"Continue to Billing Information","Nadaljujte na informacije računa",module,Magento_Multishipping
+"Back to Select Addresses","Nazaj na izbiro naslova",module,Magento_Multishipping
+"Thank you for your purchase!","Hvala za vaš nakup!",module,Magento_Multishipping
+"Thanks for your order. We\'ll email you order details and tracking information.","Hvala za vaše naročilo. Po e-pošti vam bomo poslali podrobnosti o naročilu in informacije o sledenju.",module,Magento_Multishipping
+"Your order numbers are: ","Številke vaših naročil so: ",module,Magento_Multishipping
+"Your order number is: ","Številka vašega naročila je: ",module,Magento_Multishipping
 "Continue Shopping","Nadaljuj nakupovanje",module,Magento_Multishipping
-"We can\'t complete your order because you don\'t have a payment method set up.","We can\'t complete your order because you don\'t have a payment method set up.",module,Magento_Multishipping
+"We can\'t complete your order because you don\'t have a payment method set up.","Vašega naročila ni mogoče zaključiti, ker nimate nastavljenega načina plačila.",module,Magento_Multishipping
 "Please choose a payment method.","Izberite način plačila.",module,Magento_Multishipping
-"Multishipping Settings","Multishipping Settings",module,Magento_Multishipping
+"Multishipping Settings","Nastavitve večkratnega pošiljanja",module,Magento_Multishipping
 "Options","Možnosti",module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","Omogoči dostavo na več naslovov",module,Magento_Multishipping
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Največja dovoljena količina za dostavo na več naslovov",module,Magento_Multishipping
 "Review Order","Pregled naročila",module,Magento_Multishipping
 "Select Shipping Method","Izberite način dostave",module,Magento_Multishipping
-"We received your order!","We received your order!",module,Magento_Multishipping
-"Thanks for your order. We'll email you order details and tracking information.","Thanks for your order. We'll email you order details and tracking information.",module,Magento_Multishipping
-"We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
-"Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
+"We received your order!","Prejeli smo vaše naročilo!",module,Magento_Multishipping
+"Thanks for your order. We'll email you order details and tracking information.","Hvala za vaše naročilo. Po e-pošti vam bomo poslali podrobnosti o naročilu in informacije o sledenju.",module,Magento_Multishipping
+"We can't complete your order because you don't have a payment method set up.","Vašega naročila ni mogoče zaključiti, ker nimate nastavljenega načina plačila.",module,Magento_Multishipping
+"Multishipping Settings Section","Oddelek nastavitev večkratnega pošiljanja",module,Magento_Multishipping

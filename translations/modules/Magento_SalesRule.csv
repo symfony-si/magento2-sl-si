@@ -13,15 +13,15 @@
 "Buy X get Y free (discount amount is Y)","Kupite X, da dobite Y brezplačno (popust je Y)",module,Magento_SalesRule
 "Discount Amount","Znesek popusta",module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Največji količinski popust je uporabljen za",module,Magento_SalesRule
-"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRule
+"Discount Qty Step (Buy X)","Količinski korak popusta (Kupite X)",module,Magento_SalesRule
 "Apply to Shipping Amount","Uporabi za znesek dostave",module,Magento_SalesRule
 "Discard subsequent rules","Zavrzi pravila, ki sledijo",module,Magento_SalesRule
 "Yes","Da",module,Magento_SalesRule
 "No","Ne",module,Magento_SalesRule
-"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Uporabi pravilo samo za elemente košarice, ki se ujemajo s sledečimi pogoji (pustite prazno za vse elemente).",module,Magento_SalesRule
 "Apply To","Uporabi za",module,Magento_SalesRule
 "Conditions","Pogoji",module,Magento_SalesRule
-"Apply the rule only if the following conditions are met (leave blank for all products).","Apply the rule only if the following conditions are met (leave blank for all products).",module,Magento_SalesRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","Uporabi pravilo samo, če so izpolnjeni sledeči pogoji (pustite prazno za vse izdelke).",module,Magento_SalesRule
 "Manage Coupon Codes","Upravljanje kod kuponov",module,Magento_SalesRule
 "Coupons Information","Informacije kuponov",module,Magento_SalesRule
 "Coupon Qty","Količina kuponov",module,Magento_SalesRule
@@ -30,12 +30,12 @@
 "Code Format","Oblika kode",module,Magento_SalesRule
 "Code Prefix","Predpona kode",module,Magento_SalesRule
 "Code Suffix","Pripona kode",module,Magento_SalesRule
-"Dash Every X Characters","Dash Every X Characters",module,Magento_SalesRule
-"If empty no separation.","If empty no separation.",module,Magento_SalesRule
-"Generate","Generate",module,Magento_SalesRule
+"Dash Every X Characters","Pomišljaj vsakih X znakov",module,Magento_SalesRule
+"If empty no separation.","Če je prazno, ni nobenega ločevanja.",module,Magento_SalesRule
+"Generate","Zgeneriraj",module,Magento_SalesRule
 "Coupon Code","Koda kupona",module,Magento_SalesRule
 "Created","Ustvarjeno",module,Magento_SalesRule
-"Uses","Uses",module,Magento_SalesRule
+"Uses","Uporabe",module,Magento_SalesRule
 "Times Used","Število uporab",module,Magento_SalesRule
 "CSV","CSV",module,Magento_SalesRule
 "Excel XML","Excel XML",module,Magento_SalesRule
@@ -44,7 +44,7 @@
 "Labels","Oznake",module,Magento_SalesRule
 "Default Label","Privzeta oznaka",module,Magento_SalesRule
 "Default Rule Label for All Store Views","Privzeta oznako pravila za vse poglede trgovine",module,Magento_SalesRule
-"Store View Specific Labels","Store View Specific Labels",module,Magento_SalesRule
+"Store View Specific Labels","Posebne oznake pogleda trgovine",module,Magento_SalesRule
 "General Information","Splošne informacije",module,Magento_SalesRule
 "Rule Name","Ime pravila",module,Magento_SalesRule
 "Description","Opis",module,Magento_SalesRule
@@ -53,52 +53,52 @@
 "Inactive","Neaktivno",module,Magento_SalesRule
 "Websites","Spletne strani",module,Magento_SalesRule
 "Customer Groups","Skupine strank",module,Magento_SalesRule
-"Coupon","Coupon",module,Magento_SalesRule
-"Use Auto Generation","Use Auto Generation",module,Magento_SalesRule
-"If you select and save the rule you will be able to generate multiple coupon codes.","If you select and save the rule you will be able to generate multiple coupon codes.",module,Magento_SalesRule
-"Uses per Coupon","Uses per Coupon",module,Magento_SalesRule
-"Uses per Customer","Uses per Customer",module,Magento_SalesRule
-"Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only.",module,Magento_SalesRule
+"Coupon","Kupon",module,Magento_SalesRule
+"Use Auto Generation","Uporabi samodejno generacijo",module,Magento_SalesRule
+"If you select and save the rule you will be able to generate multiple coupon codes.","Če pravilo izberete in shranite boste lahko generirali več kod kuponov.",module,Magento_SalesRule
+"Uses per Coupon","Uporabe na kupon",module,Magento_SalesRule
+"Uses per Customer","Uporabe na kupca",module,Magento_SalesRule
+"Usage limit enforced for logged in customers only.","Omejitev uporabe izvršena samo za prijavljene kupce.",module,Magento_SalesRule
 "From","Iz",module,Magento_SalesRule
 "To","Za",module,Magento_SalesRule
 "Priority","Prednost",module,Magento_SalesRule
-"Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRule
-"Cart Price Rule","Cart Price Rule",module,Magento_SalesRule
+"Public In RSS Feed","Javno v viru RSS",module,Magento_SalesRule
+"Cart Price Rule","Pravilo cene košarice",module,Magento_SalesRule
 "ID","ID",module,Magento_SalesRule
-"Rule","Rule",module,Magento_SalesRule
+"Rule","Pravilo",module,Magento_SalesRule
 "Start","Začetek",module,Magento_SalesRule
-"End","End",module,Magento_SalesRule
-"%1 - Discounts and Coupons","%1 - Discounts and Coupons",module,Magento_SalesRule
-"Coupons/Discounts","Coupons/Discounts",module,Magento_SalesRule
+"End","Konec",module,Magento_SalesRule
+"%1 - Discounts and Coupons","%1 - popusti in kuponi",module,Magento_SalesRule
+"Coupons/Discounts","Kuponi/popusti",module,Magento_SalesRule
 "Promotions","Promocije",module,Magento_SalesRule
 "You deleted the rule.","Pravilo ste izbrisali.",module,Magento_SalesRule
-"We can\'t delete the rule right now. Please review the log and try again.","We can\'t delete the rule right now. Please review the log and try again.",module,Magento_SalesRule
+"We can\'t delete the rule right now. Please review the log and try again.","Pravila trenutno ni mogoče izbrisati. Preglejte dnevnik in poskusite znova.",module,Magento_SalesRule
 "We can\'t find a rule to delete.","Pravila za brisanje ni mogoče najti.",module,Magento_SalesRule
 "This rule no longer exists.","To pravilo več ne obstaja.",module,Magento_SalesRule
 "Edit Rule","Uredi pravilo",module,Magento_SalesRule
-"New Cart Price Rule","New Cart Price Rule",module,Magento_SalesRule
-"Rule is not defined","Rule is not defined",module,Magento_SalesRule
-"Invalid data provided","Invalid data provided",module,Magento_SalesRule
-"%1 coupon(s) have been generated.","%1 coupon(s) have been generated.",module,Magento_SalesRule
-"Something went wrong while generating coupons. Please review the log and try again.","Something went wrong while generating coupons. Please review the log and try again.",module,Magento_SalesRule
+"New Cart Price Rule","Novo pravilo cene košarice",module,Magento_SalesRule
+"Rule is not defined","Pravilo ni določeno",module,Magento_SalesRule
+"Invalid data provided","Podani neveljavni podatki",module,Magento_SalesRule
+"%1 coupon(s) have been generated.","Generiranih je bilo %1 kupon(ov).",module,Magento_SalesRule
+"Something went wrong while generating coupons. Please review the log and try again.","Med generiranjem kuponov je šlo nekaj narobe. Preglejte dnevnik in poskusite znova.",module,Magento_SalesRule
 "Catalog","Katalog",module,Magento_SalesRule
-"The wrong rule is specified.","The wrong rule is specified.",module,Magento_SalesRule
+"The wrong rule is specified.","Določeno je napačno pravilo.",module,Magento_SalesRule
 "You saved the rule.","Pravilo ste shranili.",module,Magento_SalesRule
 "Something went wrong while saving the rule data. Please review the error log.","Med shranjevanjem podatkov pravila je šlo nekaj narobe. Preglejte dnevnik napak.",module,Magento_SalesRule
-"Alphanumeric","Alphanumeric",module,Magento_SalesRule
+"Alphanumeric","Alfanumerično",module,Magento_SalesRule
 "Alphabetical","Po abecedi",module,Magento_SalesRule
 "Numeric","Številčno",module,Magento_SalesRule
-"We cannot create the requested Coupon Qty. Please check your settings and try again.","We cannot create the requested Coupon Qty. Please check your settings and try again.",module,Magento_SalesRule
+"We cannot create the requested Coupon Qty. Please check your settings and try again.","Zahtevane količine kuponov ni mogoče ustvariti. Preverite vaše nastavitve in poskusite znova.",module,Magento_SalesRule
 "Specified rule does not allow coupons","Navedeno pravilo ne dovoljuje kuponov",module,Magento_SalesRule
-"Specified rule only allows auto generated coupons","Specified rule only allows auto generated coupons",module,Magento_SalesRule
-"Specified rule does not allow auto generated coupons","Specified rule does not allow auto generated coupons",module,Magento_SalesRule
-"Error occurred when saving coupon: %1","Error occurred when saving coupon: %1",module,Magento_SalesRule
+"Specified rule only allows auto generated coupons","Navedeno pravilo dovoljuje samo samodejno generirane kupone",module,Magento_SalesRule
+"Specified rule does not allow auto generated coupons","Navedeno pravilo ne dovoljuje samodejno generiranih kuponov",module,Magento_SalesRule
+"Error occurred when saving coupon: %1","Med shranjevanjem kuponov je prišlo do napake: %1",module,Magento_SalesRule
 "Discount (%1)","Popust (%1)",module,Magento_SalesRule
-"Discount","Discount",module,Magento_SalesRule
+"Discount","Popust",module,Magento_SalesRule
 "Coupon with the same code","Kupon z enako kodo",module,Magento_SalesRule
 "No Coupon","Brez kupona",module,Magento_SalesRule
 "Specific Coupon","Poseben kupon",module,Magento_SalesRule
-"Auto","Auto",module,Magento_SalesRule
+"Auto","Avtomatsko",module,Magento_SalesRule
 "Can\'t acquire coupon.","Kupona ni mogoče pridobiti.",module,Magento_SalesRule
 "Update the Product","Posodobitev izdelka",module,Magento_SalesRule
 "Special Price","Akcijska cena",module,Magento_SalesRule
@@ -110,8 +110,8 @@
 "Subtotal","Delna vsota",module,Magento_SalesRule
 "Total Items Quantity","Količina skupnega števila elementov",module,Magento_SalesRule
 "Total Weight","Skupna teža",module,Magento_SalesRule
-"Payment Method","Payment Method",module,Magento_SalesRule
-"Shipping Method","Shipping Method",module,Magento_SalesRule
+"Payment Method","Plačilna metoda",module,Magento_SalesRule
+"Shipping Method","Način pošiljanja",module,Magento_SalesRule
 "Shipping Postcode","Poštna številka dostave",module,Magento_SalesRule
 "Shipping Region","Regija dostave",module,Magento_SalesRule
 "Shipping State/Province","Območje/provinca dostave",module,Magento_SalesRule
@@ -128,48 +128,48 @@
 "Product Attribute","Atribut izdelka",module,Magento_SalesRule
 "FOUND","NAJDENO",module,Magento_SalesRule
 "NOT FOUND","NI NAJDENO",module,Magento_SalesRule
-"If an item is %1 in the cart with %2 of these conditions true:","If an item is %1 in the cart with %2 of these conditions true:",module,Magento_SalesRule
+"If an item is %1 in the cart with %2 of these conditions true:","Če je element %1 v košarici z %2 od teh pogojev velja:",module,Magento_SalesRule
 "total quantity","skupna količina",module,Magento_SalesRule
 "total amount","skupni znesek",module,Magento_SalesRule
-"is","is",module,Magento_SalesRule
-"is not","is not",module,Magento_SalesRule
-"equals or greater than","equals or greater than",module,Magento_SalesRule
-"equals or less than","equals or less than",module,Magento_SalesRule
-"greater than","greater than",module,Magento_SalesRule
-"less than","less than",module,Magento_SalesRule
-"is one of","is one of",module,Magento_SalesRule
-"is not one of","is not one of",module,Magento_SalesRule
-"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:",module,Magento_SalesRule
-"Specified rule does not allow automatic coupon generation","Specified rule does not allow automatic coupon generation",module,Magento_SalesRule
-"Error occurred when generating coupons: %1","Error occurred when generating coupons: %1",module,Magento_SalesRule
-"Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
-"Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
-"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
+"is","je",module,Magento_SalesRule
+"is not","ni",module,Magento_SalesRule
+"equals or greater than","enako ali večje od",module,Magento_SalesRule
+"equals or less than","enako ali manjše od",module,Magento_SalesRule
+"greater than","večje od",module,Magento_SalesRule
+"less than","manj kot",module,Magento_SalesRule
+"is one of","je eden od",module,Magento_SalesRule
+"is not one of","ni eden od",module,Magento_SalesRule
+"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","Če %1 %2 %3 za podizbiro elementov v košarici se ujema s/z %4 od teh pogojev:",module,Magento_SalesRule
+"Specified rule does not allow automatic coupon generation","Navedeno pravilo ne dovoljuje samodejne generacije kuponov",module,Magento_SalesRule
+"Error occurred when generating coupons: %1","Med generiranjem kuponov je prišlo do napake: %1",module,Magento_SalesRule
+"Some coupons are invalid.","Nekaj kuponov ni veljavnih.",module,Magento_SalesRule
+"Item totals are not set for the rule.","Skupna vrednost elementov ni nastavljena za to pravilo.",module,Magento_SalesRule
+"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","Pravila cene košarice %1 na osnovi atributa ""%2"" so bila onemogočena.",module,Magento_SalesRule
 "Auto Generated Specific Coupon Codes","Samodejno generirane posebne kode kuponov",module,Magento_SalesRule
 "Web Site","Spletno mesto",module,Magento_SalesRule
-"Are you sure you want to delete this?","Are you sure you want to delete this?",module,Magento_SalesRule
-"Reset","Reset",module,Magento_SalesRule
-"Save","Save",module,Magento_SalesRule
-"We can't delete the rule right now. Please review the log and try again.","We can't delete the rule right now. Please review the log and try again.",module,Magento_SalesRule
-"We can't find a rule to delete.","We can't find a rule to delete.",module,Magento_SalesRule
-"Can't acquire coupon.","Can't acquire coupon.",module,Magento_SalesRule
-"Apply Discount Code","Apply Discount Code",module,Magento_SalesRule
-"Enter discount code","Enter discount code",module,Magento_SalesRule
-"Apply Discount","Apply Discount",module,Magento_SalesRule
-"Cancel coupon","Cancel coupon",module,Magento_SalesRule
-"Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
-"Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
-"Promotion","Promotion",module,Magento_SalesRule
-"Back","Back",module,Magento_SalesRule
+"Are you sure you want to delete this?","Ali ste prepričani, da želite to izbrisati?",module,Magento_SalesRule
+"Reset","Ponastavi",module,Magento_SalesRule
+"Save","Shrani",module,Magento_SalesRule
+"We can't delete the rule right now. Please review the log and try again.","Pravila trenutno ni mogoče izbrisati. Preglejte dnevnik in poskusite znova.",module,Magento_SalesRule
+"We can't find a rule to delete.","Pravila za brisanje ni mogoče najti.",module,Magento_SalesRule
+"Can't acquire coupon.","Kupona ni mogoče pridobiti.",module,Magento_SalesRule
+"Apply Discount Code","Uporabi kodo popusta",module,Magento_SalesRule
+"Enter discount code","Vnesite kodo popusta",module,Magento_SalesRule
+"Apply Discount","Uporabi popust",module,Magento_SalesRule
+"Cancel coupon","Prekliči kupon",module,Magento_SalesRule
+"Your coupon was successfully removed.","Vaš kupon je bil uspešno odstranjen.",module,Magento_SalesRule
+"Your coupon was successfully applied.","Vaš kupon je bil uspešno uporabljen.",module,Magento_SalesRule
+"Promotion","Promocija",module,Magento_SalesRule
+"Back","Nazaj",module,Magento_SalesRule
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
                     ","
-                        If you select and save the rule you will be able to generate multiple coupon codes.
+                        Če pravilo izberete in shranite, boste lahko zgenerirali več kod kuponov.
                     ",module,Magento_SalesRule
 "
                         Usage limit enforced for logged in customers only.
                     ","
-                        Usage limit enforced for logged in customers only.
+                        Omejitev uporabe izvršena samo za prijavljene kupce.
                     ",module,Magento_SalesRule
-"Discount amount is applied to subtotal only","Discount amount is applied to subtotal only",module,Magento_SalesRule
-"Discount amount is applied to subtotal and shipping amount separately","Discount amount is applied to subtotal and shipping amount separately",module,Magento_SalesRule
+"Discount amount is applied to subtotal only","Znesek popusta je uporabljen samo za delno vsoto",module,Magento_SalesRule
+"Discount amount is applied to subtotal and shipping amount separately","Znesek popusta je uporabljen ločeno za delno vsoto in znesek pošiljanja",module,Magento_SalesRule
