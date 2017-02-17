@@ -112,23 +112,23 @@
 "Invalid attribute type","Neveljavna vrsta atributa",module,Magento_Eav
 "A joined field with this alias is already declared.","Skupno polje s tem vzdevkom je že določeno.",module,Magento_Eav
 "Invalid joint fields","Neveljavna skupna polja",module,Magento_Eav
-"A joint field with this alias (%1) is already declared.","A joint field with this alias (%1) is already declared.",module,Magento_Eav
-"Data integrity: No header row found for attribute","Data integrity: No header row found for attribute",module,Magento_Eav
-"Invalid attribute name: %1","Invalid attribute name: %1",module,Magento_Eav
-"Invalid character encountered in increment ID: %1","Invalid character encountered in increment ID: %1",module,Magento_Eav
-"The current module pathname is undefined.","The current module pathname is undefined.",module,Magento_Eav
-"The current module EAV entity is undefined.","The current module EAV entity is undefined.",module,Magento_Eav
-"The form code is not defined.","The form code is not defined.",module,Magento_Eav
-"The entity instance is not defined.","The entity instance is not defined.",module,Magento_Eav
-"Invalid form type.","Invalid form type.",module,Magento_Eav
-"Invalid EAV attribute","Invalid EAV attribute",module,Magento_Eav
-"Attribute with the same code","Attribute with the same code",module,Magento_Eav
-"The storefront label is not defined.","The storefront label is not defined.",module,Magento_Eav
-"Default option value is not defined","Default option value is not defined",module,Magento_Eav
-"Form Element with the same attribute","Form Element with the same attribute",module,Magento_Eav
-"Form Fieldset with the same code","Form Fieldset with the same code",module,Magento_Eav
-"Form Type with the same code","Form Type with the same code",module,Magento_Eav
-"The value of attribute ""%1"" is invalid.","The value of attribute ""%1"" is invalid.",module,Magento_Eav
+"A joint field with this alias (%1) is already declared.","Skupno polje s tem vzdevkom (%1) je že določeno.",module,Magento_Eav
+"Data integrity: No header row found for attribute","Celovitost podatkov: nobena vrstica glave ni najdena za atribut",module,Magento_Eav
+"Invalid attribute name: %1","Neveljavno ime atributa: %1",module,Magento_Eav
+"Invalid character encountered in increment ID: %1","Najden neveljaven znak v ID prirastku: %1",module,Magento_Eav
+"The current module pathname is undefined.","Ime poti trenutnega modula ni definirano.",module,Magento_Eav
+"The current module EAV entity is undefined.","Entiteta EAV trenutnega modula ni definirana.",module,Magento_Eav
+"The form code is not defined.","Koda obrazca ni definirana.",module,Magento_Eav
+"The entity instance is not defined.","Instanca entitete ni definirana.",module,Magento_Eav
+"Invalid form type.","Neveljavna vrsta obrazca.",module,Magento_Eav
+"Invalid EAV attribute","Neveljaven atribut EAV",module,Magento_Eav
+"Attribute with the same code","Atribut z enako kodo",module,Magento_Eav
+"The storefront label is not defined.","Oznaka ospredja trgovine ni definirana.",module,Magento_Eav
+"Default option value is not defined","Privzeta vrednost možnosti ni definirana",module,Magento_Eav
+"Form Element with the same attribute","Element obrazca z enakim atributom",module,Magento_Eav
+"Form Fieldset with the same code","Nabor polj obrazca z enako kodo",module,Magento_Eav
+"Form Type with the same code","Vrsta obrazca z enako kodo",module,Magento_Eav
+"The value of attribute ""%1"" is invalid.","Vrednost atributa ""%1"" ni veljavna.",module,Magento_Eav
 "Wrong entity ID","Napačen ID entitete",module,Magento_Eav
 "Wrong attribute set ID","Napačen ID nabora atributov",module,Magento_Eav
 "Wrong attribute group ID","Napačen ID skupine atributov",module,Magento_Eav
@@ -136,13 +136,13 @@
 "hello","pozdravljeni",module,Magento_Eav
 "Some internal exception message.","Sporočilo neke interne izjeme.",module,Magento_Eav
 "The value of attribute not valid","Vrednost atributa ni veljavna",module,Magento_Eav
-"EAV types and attributes","EAV types and attributes",module,Magento_Eav
-"Entity types declaration cache.","Entity types declaration cache.",module,Magento_Eav
-"Default Label","Default Label",module,Magento_Eav
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Eav
-"Not shared with other products.","Not shared with other products.",module,Magento_Eav
-"The attribute code '%1' is reserved by system. Please try another attribute code","The attribute code '%1' is reserved by system. Please try another attribute code",module,Magento_Eav
-"Attribute %1 doesn't work with options","Attribute %1 doesn't work with options",module,Magento_Eav
-"Attribute %1 doesn't have any option","Attribute %1 doesn't have any option",module,Magento_Eav
+"EAV types and attributes","Vrste in atributi EAV",module,Magento_Eav
+"Entity types declaration cache.","Predpomnilnik deklaracije vrst entitet.",module,Magento_Eav
+"Default Label","Privzeta oznaka",module,Magento_Eav
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","To se uporablja interno. Preverite, da ne uporabljate presledkov ali več kot %1 simbolov.",module,Magento_Eav
+"Not shared with other products.","Ni deljeno z ostalimi izdelki.",module,Magento_Eav
+"The attribute code '%1' is reserved by system. Please try another attribute code","Koda atributa '%1' je rezervirana za sistem. Poskusite z drugo kodo atributa",module,Magento_Eav
+"Attribute %1 doesn't work with options","Atribut %1 ne deluje z možnostmi",module,Magento_Eav
+"Attribute %1 doesn't have any option","Atribut %1 nima nobene možnosti",module,Magento_Eav
 "Entity attribute with id ""%1"" not found","Atribut entitete z id ""%1"" ni najden",module,Magento_Eav
-"Entity types declaration cache","Entity types declaration cache",module,Magento_Eav
+"Entity types declaration cache","Predpomnilnik deklaracije vrst entitet",module,Magento_Eav

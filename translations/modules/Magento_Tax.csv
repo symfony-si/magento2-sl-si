@@ -1,134 +1,134 @@
-"Tax Rate Information","Tax Rate Information",module,Magento_Tax
-"Tax Identifier","Tax Identifier",module,Magento_Tax
-"Zip/Post is Range","Zip/Post is Range",module,Magento_Tax
-"Zip/Post Code","Zip/Post Code",module,Magento_Tax
-"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.",module,Magento_Tax
-"Range From","Range From",module,Magento_Tax
-"Range To","Range To",module,Magento_Tax
-"State","State",module,Magento_Tax
+"Tax Rate Information","Informacije o stopnji davka",module,Magento_Tax
+"Tax Identifier","Identifikator davka",module,Magento_Tax
+"Zip/Post is Range","Poštna številka je obseg",module,Magento_Tax
+"Zip/Post Code","Poštna številka",module,Magento_Tax
+"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - se ujema z vsem; 'xyz*' - se ujema z vsem, kar se začne na 'xyz' in ni daljše od %1.",module,Magento_Tax
+"Range From","Obseg od",module,Magento_Tax
+"Range To","Obseg do",module,Magento_Tax
+"State","Država",module,Magento_Tax
 "Country","Država",module,Magento_Tax
-"Rate Percent","Rate Percent",module,Magento_Tax
-"Tax Titles","Tax Titles",module,Magento_Tax
-"Add New Tax Rate","Add New Tax Rate",module,Magento_Tax
+"Rate Percent","Procenti stopnje",module,Magento_Tax
+"Tax Titles","Naslovi davka",module,Magento_Tax
+"Add New Tax Rate","Dodaj novo davčno stopnjo",module,Magento_Tax
 "Back","Nazaj",module,Magento_Tax
 "Reset","Ponastavitev",module,Magento_Tax
-"Delete Rate","Delete Rate",module,Magento_Tax
+"Delete Rate","Izbriši stopnjo",module,Magento_Tax
 "Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_Tax
-"Save Rate","Save Rate",module,Magento_Tax
-"Manage Tax Rules","Manage Tax Rules",module,Magento_Tax
-"Add New Tax Rule","Add New Tax Rule",module,Magento_Tax
-"Save Rule","Save Rule",module,Magento_Tax
-"Delete Rule","Delete Rule",module,Magento_Tax
+"Save Rate","Shrani stopnjo",module,Magento_Tax
+"Manage Tax Rules","Upravljanje davčnih pravil",module,Magento_Tax
+"Add New Tax Rule","Dodaj novo davčno pravilo",module,Magento_Tax
+"Save Rule","Shrani pravilo",module,Magento_Tax
+"Delete Rule","Izbriši pravilo",module,Magento_Tax
 "Save and Continue Edit","Shrani in nadaljuj urejanje",module,Magento_Tax
-"Tax Rule Information","Tax Rule Information",module,Magento_Tax
+"Tax Rule Information","Informacije o davčnem pravilu",module,Magento_Tax
 "Name","Ime",module,Magento_Tax
-"Customer Tax Class","Customer Tax Class",module,Magento_Tax
-"Product Tax Class","Product Tax Class",module,Magento_Tax
-"Tax Rate","Tax Rate",module,Magento_Tax
+"Customer Tax Class","Davčni razred kupca",module,Magento_Tax
+"Product Tax Class","Davčni razred izdelka",module,Magento_Tax
+"Tax Rate","Davčna stopnja",module,Magento_Tax
 "Priority","Prednost",module,Magento_Tax
-"Tax rates at the same priority are added, others are compounded.","Tax rates at the same priority are added, others are compounded.",module,Magento_Tax
-"Calculate Off Subtotal Only","Calculate Off Subtotal Only",module,Magento_Tax
+"Tax rates at the same priority are added, others are compounded.","Davčne stopnje z enako prioriteto so dodane, ostale so združene.",module,Magento_Tax
+"Calculate Off Subtotal Only","Izračun samo delne vsote",module,Magento_Tax
 "Sort Order","Vrstni red",module,Magento_Tax
-"Do you really want to delete this tax class?","Do you really want to delete this tax class?",module,Magento_Tax
-"Add New Tax Class","Add New Tax Class",module,Magento_Tax
+"Do you really want to delete this tax class?","Ali ste prepričani, da želite izbrisati ta davčni razred?",module,Magento_Tax
+"Add New Tax Class","Dodaj nov davčni razred",module,Magento_Tax
 "Shipping Incl. Tax (%1)","Dostava z davkom (%1)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Dostava brez davka (%1)",module,Magento_Tax
-"Subtotal (Excl.Tax)","Subtotal (Excl.Tax)",module,Magento_Tax
-"Subtotal (Incl.Tax)","Subtotal (Incl.Tax)",module,Magento_Tax
-"Shipping & Handling (Excl.Tax)","Shipping & Handling (Excl.Tax)",module,Magento_Tax
-"Shipping & Handling (Incl.Tax)","Shipping & Handling (Incl.Tax)",module,Magento_Tax
-"Grand Total (Excl.Tax)","Grand Total (Excl.Tax)",module,Magento_Tax
-"Grand Total (Incl.Tax)","Grand Total (Incl.Tax)",module,Magento_Tax
+"Subtotal (Excl.Tax)","Delna vsota (brez davka)",module,Magento_Tax
+"Subtotal (Incl.Tax)","Delna vsota (z davkom)",module,Magento_Tax
+"Shipping & Handling (Excl.Tax)","Dostava in obdelava (brez davka)",module,Magento_Tax
+"Shipping & Handling (Incl.Tax)","Dostava in obdelava (z davkom)",module,Magento_Tax
+"Grand Total (Excl.Tax)","Celota skupaj brez davka",module,Magento_Tax
+"Grand Total (Incl.Tax)","Celota skupaj z davkom",module,Magento_Tax
 "Sales","Prodaja",module,Magento_Tax
 "Tax","Davek",module,Magento_Tax
-"Manage Tax Rates","Manage Tax Rates",module,Magento_Tax
-"New Tax Rate","New Tax Rate",module,Magento_Tax
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_Tax
-"We can\'t delete this tax rate right now.","We can\'t delete this tax rate right now.",module,Magento_Tax
-"An error occurred while loading this tax rate.","An error occurred while loading this tax rate.",module,Magento_Tax
-"We can\'t save this rate right now.","We can\'t save this rate right now.",module,Magento_Tax
-"You deleted the tax rate.","You deleted the tax rate.",module,Magento_Tax
-"We can\'t delete this rate because of an incorrect rate ID.","We can\'t delete this rate because of an incorrect rate ID.",module,Magento_Tax
-"Something went wrong deleting this rate.","Something went wrong deleting this rate.",module,Magento_Tax
-"Edit Tax Rate","Edit Tax Rate",module,Magento_Tax
-"You saved the tax rate.","You saved the tax rate.",module,Magento_Tax
-"Tax Rules","Tax Rules",module,Magento_Tax
-"The tax rule has been deleted.","The tax rule has been deleted.",module,Magento_Tax
+"Manage Tax Rates","Upravljanje davčnih stopenj",module,Magento_Tax
+"New Tax Rate","Nova davčna stopnja",module,Magento_Tax
+"Tax Zones and Rates","Davčna območja in stopnje",module,Magento_Tax
+"We can\'t delete this tax rate right now.","Te davčne stopnje trenutno ni mogoče izbrisati.",module,Magento_Tax
+"An error occurred while loading this tax rate.","Med nalaganjem te davčne stopnje je prišlo do napake.",module,Magento_Tax
+"We can\'t save this rate right now.","Te stopnje trenutno ni mogoče shraniti.",module,Magento_Tax
+"You deleted the tax rate.","Izbrisali ste davčno stopnjo.",module,Magento_Tax
+"We can\'t delete this rate because of an incorrect rate ID.","Te stopnje ni mogoče izbrisati zaradi nepravilnega ID stopnje.",module,Magento_Tax
+"Something went wrong deleting this rate.","Med brisanjem te stopnje je šlo nekaj narobe.",module,Magento_Tax
+"Edit Tax Rate","Uredi davčno stopnjo",module,Magento_Tax
+"You saved the tax rate.","Shranili ste davčno stopnjo.",module,Magento_Tax
+"Tax Rules","Davčna pravila",module,Magento_Tax
+"The tax rule has been deleted.","Davčno pravilo je bilo izbrisano.",module,Magento_Tax
 "This rule no longer exists.","To pravilo več ne obstaja.",module,Magento_Tax
-"Something went wrong deleting this tax rule.","Something went wrong deleting this tax rule.",module,Magento_Tax
-"New Tax Rule","New Tax Rule",module,Magento_Tax
+"Something went wrong deleting this tax rule.","Med brisanjem tega davčnega pravila je šlo nekaj narobe.",module,Magento_Tax
+"New Tax Rule","Novo davčno pravilo",module,Magento_Tax
 "Edit Rule","Uredi pravilo",module,Magento_Tax
 "New Rule","Novo pravilo",module,Magento_Tax
-"You saved the tax rule.","You saved the tax rule.",module,Magento_Tax
-"We can\'t save this tax rule right now.","We can\'t save this tax rule right now.",module,Magento_Tax
-"Invalid name of tax class specified.","Invalid name of tax class specified.",module,Magento_Tax
-"We can\'t delete this tax class right now.","We can\'t delete this tax class right now.",module,Magento_Tax
-"We can\'t save this tax class right now.","We can\'t save this tax class right now.",module,Magento_Tax
-"Make sure all required information is valid.","Make sure all required information is valid.",module,Magento_Tax
-"The Rate Percent should be a positive number.","The Rate Percent should be a positive number.",module,Magento_Tax
-"Maximum zip code length is 9.","Maximum zip code length is 9.",module,Magento_Tax
-"Use digits only for the zip code.","Use digits only for the zip code.",module,Magento_Tax
-"Range To should be equal or greater than Range From.","Range To should be equal or greater than Range From.",module,Magento_Tax
-"The tax rate cannot be removed. It exists in a tax rule.","The tax rate cannot be removed. It exists in a tax rule.",module,Magento_Tax
-"This class no longer exists.","This class no longer exists.",module,Magento_Tax
-"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.",module,Magento_Tax
-"You cannot delete this tax class because it is used in existing %1(s).","You cannot delete this tax class because it is used in existing %1(s).",module,Magento_Tax
-"Custom price if available","Custom price if available",module,Magento_Tax
-"Original price only","Original price only",module,Magento_Tax
+"You saved the tax rule.","Shranili ste davčno pravilo.",module,Magento_Tax
+"We can\'t save this tax rule right now.","Te davčne stopnje trenutno ni mogoče shraniti.",module,Magento_Tax
+"Invalid name of tax class specified.","Določeno je neveljavno ime davčnega razreda.",module,Magento_Tax
+"We can\'t delete this tax class right now.","Tega davčnega razreda trenutno ni mogoče izbrisati.",module,Magento_Tax
+"We can\'t save this tax class right now.","Tega davčnega razreda trenutno ni mogoče shraniti.",module,Magento_Tax
+"Make sure all required information is valid.","Poskrbite, da so vse zahtevane informacije veljavne.",module,Magento_Tax
+"The Rate Percent should be a positive number.","Odstotek stopnje mora biti pozitivno število.",module,Magento_Tax
+"Maximum zip code length is 9.","Največja dolžina poštne številke je 9.",module,Magento_Tax
+"Use digits only for the zip code.","Za kodo poštne številke uporabite samo številke.",module,Magento_Tax
+"Range To should be equal or greater than Range From.","Območje bi moralo biti enako ali večje od začetnega obsega.",module,Magento_Tax
+"The tax rate cannot be removed. It exists in a tax rule.","Davčne stopnje ni mogoče odstraniti. Obstaja v davčnem pravilu.",module,Magento_Tax
+"This class no longer exists.","Ta razred več ne obstaja.",module,Magento_Tax
+"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Tega davčnega razreda ni mogoče izbrisati, ker je uporabljen v davčnih pravilih. Najprej morate izbrisati uporabljena pravila.",module,Magento_Tax
+"You cannot delete this tax class because it is used in existing %1(s).","Tega davčnega razreda ne morete izbrisati, ker je uporabljeno v obstoječih %1.",module,Magento_Tax
+"Custom price if available","Cena po meri, če je na voljo",module,Magento_Tax
+"Original price only","Samo originalna cena",module,Magento_Tax
 "Shipping Address","Naslov za dostavo",module,Magento_Tax
 "Billing Address","Naslov za pošiljanje računa",module,Magento_Tax
-"Shipping Origin","Shipping Origin",module,Magento_Tax
-"No (price without tax)","No (price without tax)",module,Magento_Tax
-"Yes (only price with tax)","Yes (only price with tax)",module,Magento_Tax
-"Both (without and with tax)","Both (without and with tax)",module,Magento_Tax
+"Shipping Origin","Izvor pošiljanja",module,Magento_Tax
+"No (price without tax)","Ne (cena brez davka)",module,Magento_Tax
+"Yes (only price with tax)","Da (samo cena z davkom)",module,Magento_Tax
+"Both (without and with tax)","Oboje (z in brez davka)",module,Magento_Tax
 "Invalid attribute %1","Neveljaven atribut %1",module,Magento_Tax
 "Code","Koda",module,Magento_Tax
-"Invalid type supplied","Invalid type supplied",module,Magento_Tax
-"Class name and class type","Class name and class type",module,Magento_Tax
-"Grand Total (Excl. Tax)","Grand Total (Excl. Tax)",module,Magento_Tax
-"Grand Total (Incl. Tax)","Grand Total (Incl. Tax)",module,Magento_Tax
-"Shipping (Excl. Tax)","Shipping (Excl. Tax)",module,Magento_Tax
-"Shipping (Incl. Tax)","Shipping (Incl. Tax)",module,Magento_Tax
+"Invalid type supplied","Podana neveljavna vrsta",module,Magento_Tax
+"Class name and class type","Ime in vrsta razreda",module,Magento_Tax
+"Grand Total (Excl. Tax)","Celota skupaj brez davka",module,Magento_Tax
+"Grand Total (Incl. Tax)","Celota skupaj z davkom",module,Magento_Tax
+"Shipping (Excl. Tax)","Dostava brez davka",module,Magento_Tax
+"Shipping (Incl. Tax)","Dostava z davkom",module,Magento_Tax
 "Subtotal (Excl. Tax)","Delna vsota (brez davka)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Delna vsota (z davkom)",module,Magento_Tax
 "Subtotal","Delna vsota",module,Magento_Tax
-"Unit Price","Unit Price",module,Magento_Tax
+"Unit Price","Cena na enoto",module,Magento_Tax
 "Row Total","Vsota skupaj",module,Magento_Tax
 "Total","Skupaj",module,Magento_Tax
-"Before Discount","Before Discount",module,Magento_Tax
-"After Discount","After Discount",module,Magento_Tax
-"Excluding Tax","Excluding Tax",module,Magento_Tax
-"Including Tax","Including Tax",module,Magento_Tax
+"Before Discount","Pred popustom",module,Magento_Tax
+"After Discount","Po popustu",module,Magento_Tax
+"Excluding Tax","Brez davka",module,Magento_Tax
+"Including Tax","Vključno z davkom",module,Magento_Tax
 "None","Brez",module,Magento_Tax
-"Including and Excluding Tax","Including and Excluding Tax",module,Magento_Tax
-"Warning tax configuration can result in rounding errors. ","Warning tax configuration can result in rounding errors. ",module,Magento_Tax
-"Store(s) affected: ","Store(s) affected: ",module,Magento_Tax
-"Click on the link to <a href=""%1"">ignore this notification</a>","Click on the link to <a href=""%1"">ignore this notification</a>",module,Magento_Tax
+"Including and Excluding Tax","Z in brez davka",module,Magento_Tax
+"Warning tax configuration can result in rounding errors. ","Opozorilo nastavitev davka lahko povzroči napako pri zaokroževanju. ",module,Magento_Tax
+"Store(s) affected: ","Vplivalo bo na trgovine: ",module,Magento_Tax
+"Click on the link to <a href=""%1"">ignore this notification</a>","Kliknite na povezavo, da <a href=""%1"">prezrete to obvestilo</a>",module,Magento_Tax
 "Warning tax discount configuration might result in different discounts
-                                than a customer might expect. ","Warning tax discount configuration might result in different discounts
-                                than a customer might expect. ",module,Magento_Tax
-"Please see <a href=""%1"">documentation</a> for more details. ","Please see <a href=""%1"">documentation</a> for more details. ",module,Magento_Tax
-"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.",module,Magento_Tax
-"Invalid type of tax class ""%1""","Invalid type of tax class ""%1""",module,Magento_Tax
-"Updating classType is not allowed.","Updating classType is not allowed.",module,Magento_Tax
-"A class with the same name already exists for ClassType %1.","A class with the same name already exists for ClassType %1.",module,Magento_Tax
-"customer group","customer group",module,Magento_Tax
-"product","product",module,Magento_Tax
-"Excl. tax:","Excl. tax:",module,Magento_Tax
+                                than a customer might expect. ","Opozorilna nastavitev popusta davka je lahko pri različnih računih
+                                kot pa pričakuje kupec. ",module,Magento_Tax
+"Please see <a href=""%1"">documentation</a> for more details. ","Glejte <a href=""%1"">dokumentacijo</a> za več informacij. ",module,Magento_Tax
+"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Kliknite tu za obisk <a href=""%1"">nastavitev davka</a> in spremenite vaše nastavitve.",module,Magento_Tax
+"Invalid type of tax class ""%1""","Neveljavna vrsta davčnega razreda ""%1""",module,Magento_Tax
+"Updating classType is not allowed.","Posodobljeni davčni razred ni dovoljen.",module,Magento_Tax
+"A class with the same name already exists for ClassType %1.","Razred z enakim imenom že obstaja za ClassType %1.",module,Magento_Tax
+"customer group","skupina kupcev",module,Magento_Tax
+"product","izdelek",module,Magento_Tax
+"Excl. tax:","Brez davka:",module,Magento_Tax
 "Incl. Tax","Z davkom",module,Magento_Tax
-"Entity already exists","Entity already exists",module,Magento_Tax
-"Cannot save titles","Cannot save titles",module,Magento_Tax
-"Some Message","Some Message",module,Magento_Tax
-"Something went wrong","Something went wrong",module,Magento_Tax
-"Could not save","Could not save",module,Magento_Tax
-"No such entity","No such entity",module,Magento_Tax
+"Entity already exists","Entiteta že obstaja",module,Magento_Tax
+"Cannot save titles","Naslovov ni mogoče shraniti",module,Magento_Tax
+"Some Message","Neko sporočilo",module,Magento_Tax
+"Something went wrong","Nekaj je šlo narobe",module,Magento_Tax
+"Could not save","Ni mogoče shraniti",module,Magento_Tax
+"No such entity","Ni take entitete",module,Magento_Tax
 "Excl. Tax","Brez davka",module,Magento_Tax
-"Note:","Note:",module,Magento_Tax
-"Leave this field empty if you wish to use the tax identifier.","Leave this field empty if you wish to use the tax identifier.",module,Magento_Tax
-"An error occurred","An error occurred",module,Magento_Tax
-"Do you really want to delete this tax rate?","Do you really want to delete this tax rate?",module,Magento_Tax
+"Note:","Opomba:",module,Magento_Tax
+"Leave this field empty if you wish to use the tax identifier.","To polje pustite prazno, če želite uporabiti identifikator davka.",module,Magento_Tax
+"An error occurred","Prišlo je do napake",module,Magento_Tax
+"Do you really want to delete this tax rate?","Ali ste prepričani, da želite izbrisati to stopnjo davka?",module,Magento_Tax
 "Save","Shrani",module,Magento_Tax
-"Add New Class","Add New Class",module,Magento_Tax
+"Add New Class","Dodaj nov razred",module,Magento_Tax
 "Grand Total Excl. Tax","Celota skupaj brez davka",module,Magento_Tax
 "Grand Total Incl. Tax","Celota skupaj z davkom",module,Magento_Tax
 "Tax Classes","Davčni razredi",module,Magento_Tax
@@ -137,7 +137,7 @@
 "Default Tax Class for Customer","Privzeti davčni razred za kupca",module,Magento_Tax
 "Calculation Settings","Nastavitve izračuna",module,Magento_Tax
 "Tax Calculation Method Based On","Način izračuna davka na podlagi",module,Magento_Tax
-"Tax Calculation Based On","Tax Calculation Based On",module,Magento_Tax
+"Tax Calculation Based On","Izračun davka na podlagi",module,Magento_Tax
 "Catalog Prices","Kataloške cene",module,Magento_Tax
 "This sets whether catalog prices entered from Magento Admin include tax.","To nastavi, ali naj kataloške cene vnesene preko Magento administracije vključujejo davek.",module,Magento_Tax
 "Shipping Prices","Cene dostave",module,Magento_Tax
@@ -164,22 +164,22 @@
 "Display Zero Tax Subtotal","Prikaz nične skupne vsote davka",module,Magento_Tax
 "Orders, Invoices, Credit Memos Display Settings","Nastavitve prikaza naročil, računov, dobropisov",module,Magento_Tax
 "State/Region","Država/regija",module,Magento_Tax
-"Rate","Rate",module,Magento_Tax
+"Rate","Stopnja",module,Magento_Tax
 "Subtotal Only","Samo vmesna vsota",module,Magento_Tax
 "(Excl. Tax)","(Brez davka)",module,Magento_Tax
 "(Incl. Tax)","(Z davkom)",module,Magento_Tax
 "Order Total Excl. Tax","Naročilo skupaj brez davka",module,Magento_Tax
 "Order Total Incl. Tax","Naročilo skupaj z davkom",module,Magento_Tax
 "Order Total","Skupno naročilo",module,Magento_Tax
-"Your credit card will be charged for","Your credit card will be charged for",module,Magento_Tax
+"Your credit card will be charged for","Vaša kreditna kartica bo bremenjena za",module,Magento_Tax
 "Taxes","Davki",module,Magento_Tax
 "Tax Section","Davčna sekcija",module,Magento_Tax
-"We can't delete this tax rate right now.","We can't delete this tax rate right now.",module,Magento_Tax
-"We can't save this rate right now.","We can't save this rate right now.",module,Magento_Tax
-"We can't delete this rate because of an incorrect rate ID.","We can't delete this rate because of an incorrect rate ID.",module,Magento_Tax
-"We can't save this tax rule right now.","We can't save this tax rule right now.",module,Magento_Tax
-"We can't delete this tax class right now.","We can't delete this tax class right now.",module,Magento_Tax
-"We can't save this tax class right now.","We can't save this tax class right now.",module,Magento_Tax
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Tax
-"Invalid value of "%value" provided for the %fieldName field.","Invalid value of "%value" provided for the %fieldName field.",module,Magento_Tax
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Tax
+"We can't delete this tax rate right now.","Te davčne stopnje trenutno ni mogoče izbrisati.",module,Magento_Tax
+"We can't save this rate right now.","Te stopnje trenutno ni mogoče shraniti.",module,Magento_Tax
+"We can't delete this rate because of an incorrect rate ID.","Te stopnje ni mogoče izbrisati zaradi nepravilnega ID stopnje.",module,Magento_Tax
+"We can't save this tax rule right now.","Tega davčnega pravila trenutno ni mogoče shraniti.",module,Magento_Tax
+"We can't delete this tax class right now.","Tega davčnega razreda trenutno ni mogoče izbrisati.",module,Magento_Tax
+"We can't save this tax class right now.","Tega davčnega razreda trenutno ni mogoče shraniti.",module,Magento_Tax
+"%fieldName is a required field.","%fieldName je obvezno polje.",module,Magento_Tax
+"Invalid value of %value"" provided for the %fieldName field.""","Podana neveljavna vrednost %value za polje %fieldName",module,Magento_Tax
+"No such entity with %fieldName = %fieldValue","Entiteta %fieldName = %fieldValue ne obstaja",module,Magento_Tax

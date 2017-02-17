@@ -407,170 +407,170 @@
 "Please try again with another form of payment.","Poskusite znova z drugačno obliko plačila.",module,Magento_Braintree
 "Sorry, but something went wrong.","Se opravičujemo, vendar nekaj ni v redu.",module,Magento_Braintree
 "Payment ","Plačilo ",module,Magento_Braintree
-"New Shipment for Order #%1","New Shipment for Order #%1",module,Magento_Shipping
-"Submit Shipment","Submit Shipment",module,Magento_Shipping
-"You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.","You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.",module,Magento_Shipping
-"Products should be added to package(s)","Products should be added to package(s)",module,Magento_Shipping
-"The value that you entered is not valid.","The value that you entered is not valid.",module,Magento_Shipping
-"Add Tracking Number","Add Tracking Number",module,Magento_Shipping
+"New Shipment for Order #%1","Nova pošiljka za naročilo #%1",module,Magento_Shipping
+"Submit Shipment","Pošlji pošiljko",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.","Dodati poskušate količino za nekatere izdelke, ki se ne ujemajo s količino, ki je bila poslana.",module,Magento_Shipping
+"Products should be added to package(s)","Izdelki bi morali biti dodani paketu",module,Magento_Shipping
+"The value that you entered is not valid.","Vnesena vrednost ni veljavna.",module,Magento_Shipping
+"Add Tracking Number","Dodaj številko sledenja",module,Magento_Shipping
 "Custom Value","Vrednost po meri",module,Magento_Shipping
 "Add","Dodaj",module,Magento_Shipping
 "Send Tracking Information","Pošlji informacije o sledenju",module,Magento_Shipping
-"Are you sure you want to send a Shipment email to customer?","Are you sure you want to send a Shipment email to customer?",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","Ali ste prepričani, da želite poslati e-pošto pošiljke kupcu?",module,Magento_Shipping
 "Print","Natisni",module,Magento_Shipping
-"the shipment email was sent","the shipment email was sent",module,Magento_Shipping
-"the shipment email is not sent","the shipment email is not sent",module,Magento_Shipping
-"Shipment #%1 | %3 (%2)","Shipment #%1 | %3 (%2)",module,Magento_Shipping
-"Create Shipping Label...","Create Shipping Label...",module,Magento_Shipping
-"Print Shipping Label","Print Shipping Label",module,Magento_Shipping
+"the shipment email was sent","e-pošta pošiljke je bila poslana",module,Magento_Shipping
+"the shipment email is not sent","e-pošta pošiljke ni bila poslana",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","Pošiljka #%1 | %3 (%2)",module,Magento_Shipping
+"Create Shipping Label...","Ustvari oznako pošiljke...",module,Magento_Shipping
+"Print Shipping Label","Natisni oznako pošiljke",module,Magento_Shipping
 "Show Packages","Pokaži pakete",module,Magento_Shipping
 "About Your Shipment","O vaši pošiljki",module,Magento_Shipping
 "Order # %1","Naročilo # %1",module,Magento_Shipping
 "Back to My Orders","Nazaj na moja naročila",module,Magento_Shipping
 "View Another Order","Poglej drugo naročilo",module,Magento_Shipping
-"Please enter a comment.","Please enter a comment.",module,Magento_Shipping
-"Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
+"Please enter a comment.","Vnesite komentar.",module,Magento_Shipping
+"Cannot add new comment.","Ni mogoče dodati novega komentarja.",module,Magento_Shipping
 "Please specify a carrier.","Navedite prevoznika.",module,Magento_Shipping
-"Please enter a tracking number.","Please enter a tracking number.",module,Magento_Shipping
+"Please enter a tracking number.","Vnesite številko sledenja.",module,Magento_Shipping
 "Shipments","Pošiljke",module,Magento_Shipping
-"We can\'t initialize shipment for adding tracking number.","We can\'t initialize shipment for adding tracking number.",module,Magento_Shipping
-"Cannot add tracking number.","Cannot add tracking number.",module,Magento_Shipping
-"You created the shipping label.","You created the shipping label.",module,Magento_Shipping
-"An error occurred while creating shipping label.","An error occurred while creating shipping label.",module,Magento_Shipping
-"You sent the shipment.","You sent the shipment.",module,Magento_Shipping
-"Cannot send shipment information.","Cannot send shipment information.",module,Magento_Shipping
-"There are no shipping labels related to selected orders.","There are no shipping labels related to selected orders.",module,Magento_Shipping
+"We can\'t initialize shipment for adding tracking number.","Pošiljke ni mogoče inicializirati za dodajanje številke sledenja.",module,Magento_Shipping
+"Cannot add tracking number.","Ni mogoče dodati številke sledenja.",module,Magento_Shipping
+"You created the shipping label.","Ustvarili ste oznako pošiljke.",module,Magento_Shipping
+"An error occurred while creating shipping label.","Med ustvarjanjem oznake pošiljke je prišlo do napake.",module,Magento_Shipping
+"You sent the shipment.","Poslali ste pošiljko.",module,Magento_Shipping
+"Cannot send shipment information.","Informacij pošiljanja ni mogoče poslati.",module,Magento_Shipping
+"There are no shipping labels related to selected orders.","Za izbrana naročila ni poveznih oznak pošiljanja.",module,Magento_Shipping
 "New Shipment","Nova pošiljka",module,Magento_Shipping
-"We don\'t recognize or support the file extension in this shipment: %1.","We don\'t recognize or support the file extension in this shipment: %1.",module,Magento_Shipping
-"We can\'t initialize shipment for delete tracking number.","We can\'t initialize shipment for delete tracking number.",module,Magento_Shipping
-"We can\'t delete tracking number.","We can\'t delete tracking number.",module,Magento_Shipping
-"We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Shipping
-"We can\'t save the shipment right now.","We can\'t save the shipment right now.",module,Magento_Shipping
-"The shipment has been created.","The shipment has been created.",module,Magento_Shipping
-"Cannot save shipment.","Cannot save shipment.",module,Magento_Shipping
-"The order no longer exists.","The order no longer exists.",module,Magento_Shipping
-"Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice.",module,Magento_Shipping
-"Cannot do shipment for the order.","Cannot do shipment for the order.",module,Magento_Shipping
-"There are no shipping labels related to selected shipments.","There are no shipping labels related to selected shipments.",module,Magento_Shipping
+"We don\'t recognize or support the file extension in this shipment: %1.","Ta vrsta končnice datoteke ni prepoznana ali podprta za to pošiljko: %1.",module,Magento_Shipping
+"We can\'t initialize shipment for delete tracking number.","Pošiljke ni mogoče inicializirati za brisanje številke sledenja.",module,Magento_Shipping
+"We can\'t delete tracking number.","Številke sledenja ni mogoče izbrisati.",module,Magento_Shipping
+"We can\'t load track with retrieving identifier right now.","Sledi s pridobljenim identifikatorjem trenutno ni mogoče naložiti.",module,Magento_Shipping
+"We can\'t save the shipment right now.","Pošiljke trenutno ni mogoče shraniti.",module,Magento_Shipping
+"The shipment has been created.","Pošiljka je bila ustvarjena.",module,Magento_Shipping
+"Cannot save shipment.","Pošiljke ni mogoče shraniti.",module,Magento_Shipping
+"The order no longer exists.","Naročilo več ne obstaja.",module,Magento_Shipping
+"Cannot do shipment for the order separately from invoice.","Pošiljke za naročilo ni mogoče narediti ločeno od računa.",module,Magento_Shipping
+"Cannot do shipment for the order.","Za naročilo ni mogoče narediti pošiljke.",module,Magento_Shipping
+"There are no shipping labels related to selected shipments.","Za izbrana pošiljanja ni poveznih oznak pošiljanja.",module,Magento_Shipping
 "Page not found.","Strani ni mogoče najti.",module,Magento_Shipping
-"Tracking Information","Tracking Information",module,Magento_Shipping
-"Sorry, but we can\'t deliver to the destination country with this shipping module.","Sorry, but we can\'t deliver to the destination country with this shipping module.",module,Magento_Shipping
-"The shipping module is not available.","The shipping module is not available.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the zip code.",module,Magento_Shipping
+"Tracking Information","Informacije sledenja",module,Magento_Shipping
+"Sorry, but we can\'t deliver to the destination country with this shipping module.","Žal, vendar s tem modulom pošiljanja ne moremo dostavljati na destinacijo države.",module,Magento_Shipping
+"The shipping module is not available.","Modul pošiljanja ni na voljo.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","Način pošiljanja ni na voljo. Določite poštno številko.",module,Magento_Shipping
 "No packages for request","Za zahtevo ni nobenega paketa",module,Magento_Shipping
-"Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Shipping
-"All Allowed Countries","All Allowed Countries",module,Magento_Shipping
-"Specific Countries","Specific Countries",module,Magento_Shipping
-"Development","Development",module,Magento_Shipping
+"Security validation of XML document has been failed.","Varnostno preverjanje dokumenta XML ni bilo uspešno.",module,Magento_Shipping
+"All Allowed Countries","Vse dovoljene države",module,Magento_Shipping
+"Specific Countries","Določene države",module,Magento_Shipping
+"Development","Razvoj",module,Magento_Shipping
 "Live","Live",module,Magento_Shipping
-"Divide to equal weight (one request)","Divide to equal weight (one request)",module,Magento_Shipping
-"Use origin weight (few requests)","Use origin weight (few requests)",module,Magento_Shipping
-"Packages","Packages",module,Magento_Shipping
-"Package","Package",module,Magento_Shipping
+"Divide to equal weight (one request)","Razdelite na enako težo (en zahtevek)",module,Magento_Shipping
+"Use origin weight (few requests)","Uporabi izvorno težo (nekaj zahtevkov)",module,Magento_Shipping
+"Packages","Paketi",module,Magento_Shipping
+"Package","Paket",module,Magento_Shipping
 "Type","Vrsta",module,Magento_Shipping
-"Length","Length",module,Magento_Shipping
-"Signature Confirmation","Signature Confirmation",module,Magento_Shipping
-"Customs Value","Customs Value",module,Magento_Shipping
+"Length","Dolžina",module,Magento_Shipping
+"Signature Confirmation","Potrditev podpisa",module,Magento_Shipping
+"Customs Value","Vrednost po meri",module,Magento_Shipping
 "Width","Širina",module,Magento_Shipping
-"Contents","Contents",module,Magento_Shipping
+"Contents","Vsebina",module,Magento_Shipping
 "Total Weight","Skupna teža",module,Magento_Shipping
 "Height","Višina",module,Magento_Shipping
-"Size","Size",module,Magento_Shipping
-"Girth","Girth",module,Magento_Shipping
-"Items in the Package","Items in the Package",module,Magento_Shipping
+"Size","Velikost",module,Magento_Shipping
+"Girth","Kolan",module,Magento_Shipping
+"Items in the Package","Elementi v paketu",module,Magento_Shipping
 "Product","Izdelek",module,Magento_Shipping
 "Weight","Teža",module,Magento_Shipping
-"Qty Ordered","Qty Ordered",module,Magento_Shipping
+"Qty Ordered","Količina naročila",module,Magento_Shipping
 "Qty","Količina",module,Magento_Shipping
-"No detail for number ""%1""","No detail for number ""%1""",module,Magento_Shipping
-"Shipping labels is not available.","Shipping labels is not available.",module,Magento_Shipping
-"Response info is not exist.","Response info is not exist.",module,Magento_Shipping
-"Invalid carrier: %1","Invalid carrier: %1",module,Magento_Shipping
-"We don\'t have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don\'t have enough information to create shipping labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
+"No detail for number ""%1""","Ni podrobnosti za številko ""%1""",module,Magento_Shipping
+"Shipping labels is not available.","Oznake pošiljanja niso na voljo.",module,Magento_Shipping
+"Response info is not exist.","Informacije odziva ne obstajajo.",module,Magento_Shipping
+"Invalid carrier: %1","Neveljaven prevoznik: %1",module,Magento_Shipping
+"We don\'t have enough information to create shipping labels. Please make sure your store information and settings are complete.","Nimamo dovolj informacij, da ustvarimo oznake pošiljk. Preverite, da so informacije vaše trgovine in nastavitve popolne.",module,Magento_Shipping
 "Per Order","Na naročilo",module,Magento_Shipping
-"Per Package","Per Package",module,Magento_Shipping
+"Per Package","Na paket",module,Magento_Shipping
 "Fixed","Fiksno",module,Magento_Shipping
 "Percent","Odstotki",module,Magento_Shipping
-"Tracking information is unavailable.","Tracking information is unavailable.",module,Magento_Shipping
+"Tracking information is unavailable.","Informacije sledenja niso na voljo.",module,Magento_Shipping
 "message","sporočilo",module,Magento_Shipping
-"Email has not been sent","Email has not been sent",module,Magento_Shipping
-"Payment &amp; Shipping Method","Payment &amp; Shipping Method",module,Magento_Shipping
+"Email has not been sent","E-pošta ni bila poslana",module,Magento_Shipping
+"Payment &amp; Shipping Method","Način plačila in dostave",module,Magento_Shipping
 "Payment Information","Podatki o plačilu",module,Magento_Shipping
-"The order was placed using %1.","The order was placed using %1.",module,Magento_Shipping
+"The order was placed using %1.","Naročilo je bilo oddano z uproabo %1.",module,Magento_Shipping
 "Shipping Information","Informacije dostave",module,Magento_Shipping
 "Total Shipping Charges","Skupni stroški dostave",module,Magento_Shipping
 "Incl. Tax","Z davkom",module,Magento_Shipping
-"Items to Ship","Items to Ship",module,Magento_Shipping
-"Qty to Ship","Qty to Ship",module,Magento_Shipping
+"Items to Ship","Elementi za pošiljko",module,Magento_Shipping
+"Qty to Ship","Količina za dobavo",module,Magento_Shipping
 "Ship","Dostavi",module,Magento_Shipping
-"Shipment Total","Shipment Total",module,Magento_Shipping
-"Shipment Comments","Shipment Comments",module,Magento_Shipping
-"Comment Text","Comment Text",module,Magento_Shipping
-"Shipment Options","Shipment Options",module,Magento_Shipping
-"Create Shipping Label","Create Shipping Label",module,Magento_Shipping
+"Shipment Total","Pošiljka skupaj",module,Magento_Shipping
+"Shipment Comments","Komentarji pošiljke",module,Magento_Shipping
+"Comment Text","Besedilo komentarja",module,Magento_Shipping
+"Shipment Options","Možnosti pošiljke",module,Magento_Shipping
+"Create Shipping Label","Ustvari oznako pošiljke",module,Magento_Shipping
 "Append Comments","Dodaj komentarje",module,Magento_Shipping
-"Email Copy of Shipment","Email Copy of Shipment",module,Magento_Shipping
-"Invalid value(s) for Qty to Ship","Invalid value(s) for Qty to Ship",module,Magento_Shipping
+"Email Copy of Shipment","Kopija e-pošte pošiljke",module,Magento_Shipping
+"Invalid value(s) for Qty to Ship","Neveljavne vrednosti za količino pošiljanja",module,Magento_Shipping
 "Select All","Izberi vse",module,Magento_Shipping
 "Product Name","Ime izdelka",module,Magento_Shipping
 "Delete","Izbriši",module,Magento_Shipping
-"Create Packages","Create Packages",module,Magento_Shipping
+"Create Packages","Ustvari pakete",module,Magento_Shipping
 "Cancel","Prekliči",module,Magento_Shipping
 "Save","Shrani",module,Magento_Shipping
-"Add Package","Add Package",module,Magento_Shipping
-"Add Selected Product(s) to Package","Add Selected Product(s) to Package",module,Magento_Shipping
-"Add Products to Package","Add Products to Package",module,Magento_Shipping
-"USPS domestic shipments don\'t use package types.","USPS domestic shipments don\'t use package types.",module,Magento_Shipping
-"in","in",module,Magento_Shipping
+"Add Package","Dodaj paket",module,Magento_Shipping
+"Add Selected Product(s) to Package","Dodaj izbrane izdelke v paket",module,Magento_Shipping
+"Add Products to Package","Dodaj izdelke v paket",module,Magento_Shipping
+"USPS domestic shipments don\'t use package types.","USPS domače pošiljke ne uporabljajo vrst paketov.",module,Magento_Shipping
+"in","v",module,Magento_Shipping
 "cm","cm",module,Magento_Shipping
 "lb","lb",module,Magento_Shipping
 "kg","kg",module,Magento_Shipping
-"Delete Package","Delete Package",module,Magento_Shipping
-"Explanation","Explanation",module,Magento_Shipping
-"Carrier","Carrier",module,Magento_Shipping
+"Delete Package","Izbriši paket",module,Magento_Shipping
+"Explanation","Razlaga",module,Magento_Shipping
+"Carrier","Prevoznik",module,Magento_Shipping
 "Title","Naslov",module,Magento_Shipping
 "Number","Število",module,Magento_Shipping
 "Action","Dejanje",module,Magento_Shipping
 "Are you sure?","Ali ste prepričani?",module,Magento_Shipping
-"Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Magento_Shipping
-"Track Order","Track Order",module,Magento_Shipping
-"No shipping information available","No shipping information available",module,Magento_Shipping
-"Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
-"Track this shipment","Track this shipment",module,Magento_Shipping
-"Items Shipped","Items Shipped",module,Magento_Shipping
+"Shipping &amp; Handling Information","Informacije o obdelavi in pošiljanju",module,Magento_Shipping
+"Track Order","Sledenje naročila",module,Magento_Shipping
+"No shipping information available","Ni razpoložljivih informacij o dostavi",module,Magento_Shipping
+"Shipping and Tracking Information","Informacije o dostavi in sledenju",module,Magento_Shipping
+"Track this shipment","Sledite tej pošiljki",module,Magento_Shipping
+"Items Shipped","Dobavljeni elementi",module,Magento_Shipping
 "Order Total","Skupno naročilo",module,Magento_Shipping
-"Shipment History","Shipment History",module,Magento_Shipping
+"Shipment History","Zgodovina pošiljanja",module,Magento_Shipping
 "Qty Shipped","Poslana količina",module,Magento_Shipping
-"Print All Shipments","Print All Shipments",module,Magento_Shipping
-"Shipment #","Shipment #",module,Magento_Shipping
-"Print Shipment","Print Shipment",module,Magento_Shipping
-"Tracking Number(s):","Tracking Number(s):",module,Magento_Shipping
+"Print All Shipments","Natisnite vse pošiljke",module,Magento_Shipping
+"Shipment #","Pošiljka #",module,Magento_Shipping
+"Print Shipment","Natisni pošiljko",module,Magento_Shipping
+"Tracking Number(s):","Številke sledenja:",module,Magento_Shipping
 "SKU","SKU",module,Magento_Shipping
-"Order tracking","Order tracking",module,Magento_Shipping
-"Tracking Number:","Tracking Number:",module,Magento_Shipping
-"Carrier:","Carrier:",module,Magento_Shipping
-"Error:","Error:",module,Magento_Shipping
-"Tracking information is currently not available. Please ","Tracking information is currently not available. Please ",module,Magento_Shipping
-"contact us","contact us",module,Magento_Shipping
-" for more information or "," for more information or ",module,Magento_Shipping
-"email us at ","email us at ",module,Magento_Shipping
+"Order tracking","Sledenje naročila",module,Magento_Shipping
+"Tracking Number:","Številka sledenja:",module,Magento_Shipping
+"Carrier:","Prevoznik:",module,Magento_Shipping
+"Error:","Napaka:",module,Magento_Shipping
+"Tracking information is currently not available. Please ","Informacije sledenja trenutno niso na voljo. ",module,Magento_Shipping
+"contact us","kontaktirajte nas",module,Magento_Shipping
+" for more information or "," za več informacij ali ",module,Magento_Shipping
+"email us at ","pošljite nam e-pošto na ",module,Magento_Shipping
 "Info:","Info:",module,Magento_Shipping
-"Track:","Track:",module,Magento_Shipping
+"Track:","Sledenje:",module,Magento_Shipping
 "Status:","Stanje:",module,Magento_Shipping
-"Delivered on:","Delivered on:",module,Magento_Shipping
-"Signed by:","Signed by:",module,Magento_Shipping
-"Delivered to:","Delivered to:",module,Magento_Shipping
-"Shipped or billed on:","Shipped or billed on:",module,Magento_Shipping
-"Service Type:","Service Type:",module,Magento_Shipping
-"Weight:","Weight:",module,Magento_Shipping
+"Delivered on:","Dostavljeno:",module,Magento_Shipping
+"Signed by:","Podpisano:",module,Magento_Shipping
+"Delivered to:","Dostavljeno na:",module,Magento_Shipping
+"Shipped or billed on:","Dostavljeno ali račun izstavljen na:",module,Magento_Shipping
+"Service Type:","Vrsta storitve:",module,Magento_Shipping
+"Weight:","Teža:",module,Magento_Shipping
 "N/A","ni na voljo",module,Magento_Shipping
-"Track history","Track history",module,Magento_Shipping
-"Location","Location",module,Magento_Shipping
+"Track history","Zgodovina sledenja",module,Magento_Shipping
+"Location","Lokacija",module,Magento_Shipping
 "Date","Datum",module,Magento_Shipping
-"Local Time","Local Time",module,Magento_Shipping
+"Local Time","Lokalni čas",module,Magento_Shipping
 "Description","Opis",module,Magento_Shipping
-"There is no tracking available for this shipment.","There is no tracking available for this shipment.",module,Magento_Shipping
-"There is no tracking available.","There is no tracking available.",module,Magento_Shipping
+"There is no tracking available for this shipment.","Za to pošiljko ni na voljo sledenja.",module,Magento_Shipping
+"There is no tracking available.","Na voljo ni nobenega sledenja.",module,Magento_Shipping
 "Close Window","Zapri okno",module,Magento_Shipping
 "Shipping Settings","Nastavitve dostave",module,Magento_Shipping
 "Origin","Izvor",module,Magento_Shipping
@@ -584,22 +584,22 @@
 "Apply custom Shipping Policy","Uporabi politiko dostave po meri",module,Magento_Shipping
 "Shipping Policy","Politika dostave",module,Magento_Shipping
 "Shipping Methods","Načini dostave",module,Magento_Shipping
-"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",module,Magento_Shipping
-"We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number.",module,Magento_Shipping
-"We don't recognize or support the file extension in this shipment: %1.","We don't recognize or support the file extension in this shipment: %1.",module,Magento_Shipping
-"We can't initialize shipment for delete tracking number.","We can't initialize shipment for delete tracking number.",module,Magento_Shipping
-"We can't delete tracking number.","We can't delete tracking number.",module,Magento_Shipping
-"We can't load track with retrieving identifier right now.","We can't load track with retrieving identifier right now.",module,Magento_Shipping
-"We can't save the shipment right now.","We can't save the shipment right now.",module,Magento_Shipping
-""Shipment Document Validation Error(s):\n" .",""Shipment Document Validation Error(s):\n" .",module,Magento_Shipping
-"Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module.",module,Magento_Shipping
-"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
-"USPS domestic shipments don't use package types.","USPS domestic shipments don't use package types.",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Dodati poskušate količino za nekatere izdelke, ki se ne ujemajo s količino, ki je bila poslana.",module,Magento_Shipping
+"We can't initialize shipment for adding tracking number.","Pošiljke ni mogoče inicializirati za dodajanje številke sledenja.",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","Ta vrsta končnice datoteke ni prepoznavna ali podprta za pošiljko: %1.",module,Magento_Shipping
+"We can't initialize shipment for delete tracking number.","Pošiljke ni mogoče inicializirati za brisanje številke sledenja.",module,Magento_Shipping
+"We can't delete tracking number.","Številke sledenja ni mogoče izbrisati.",module,Magento_Shipping
+"We can't load track with retrieving identifier right now.","Sledi s pridobljenim identifikatorjem trenutno ni mogoče naložiti.",module,Magento_Shipping
+"We can't save the shipment right now.","Pošiljke trenutno ni mogoče shraniti.",module,Magento_Shipping
+"Shipment Document Validation Error(s):\n"" .""","Napake preverjanja dokumenta pošiljke:\n",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Žal, vendar s tem modulom pošiljanja ne moremo dostavljati v državo destinacije.",module,Magento_Shipping
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Nimamo dovolj informacij, da ustvarimo oznake pošiljk. Preverite, da so informacije vaše trgovine in nastavitve popolne.",module,Magento_Shipping
+"USPS domestic shipments don't use package types.","USPS domače pošiljke ne uporabljajo vrst paketov.",module,Magento_Shipping
 ". ':'",". ':'",module,Magento_Shipping
-"See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
-"Shipping Settings Section","Shipping Settings Section",module,Magento_Shipping
-"Shipping Policy Parameters Section","Shipping Policy Parameters Section",module,Magento_Shipping
-"Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping
+"See our Shipping Policy","Glejte našo politiko pošiljanja",module,Magento_Shipping
+"Shipping Settings Section","Oddelek nastavitev pošiljanja",module,Magento_Shipping
+"Shipping Policy Parameters Section","Oddelek parametrov politike pošiljanja",module,Magento_Shipping
+"Shipping Methods Section","Oddelek načinov pošiljanja",module,Magento_Shipping
 "Web API Security","Varnost spletnega API",module,Magento_WebapiSecurity
 "Allow Anonymous Guest Access","Omogoči dostop anonimnim gostom",module,Magento_WebapiSecurity
 "Static Blocks","Statični bloki",module,Magento_Cms
@@ -1290,37 +1290,37 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
 "Add Products to New Option","Dodaj izdelke k novi možnosti",module,Magento_Bundle
 "Add Products to Option ""%1""","Dodaja izdelke k možnosti ""%1""",module,Magento_Bundle
 "Add Selected Products","Dodaj izbrane izdelke",module,Magento_Bundle
-"Condition type ""%1"" is not allowed","Condition type ""%1"" is not allowed",module,Magento_Ui
-"The configuration parameter ""formElement"" is a required for ""%1"" field.","The configuration parameter ""formElement"" is a required for ""%1"" field.",module,Magento_Ui
-"Remove %1","Remove %1",module,Magento_Ui
-"Add New %1","Add New %1",module,Magento_Ui
-"New %1","New %1",module,Magento_Ui
-"Please select item(s).","Please select item(s).",module,Magento_Ui
-"Unsupported bookmark action.","Unsupported bookmark action.",module,Magento_Ui
-"Initialization error component, check the spelling of the name or the correctness of the call.","Initialization error component, check the spelling of the name or the correctness of the call.",module,Magento_Ui
-"Bookmark with id ""%1"" does not exist.","Bookmark with id ""%1"" does not exist.",module,Magento_Ui
-"Initialization error component, check the spelling of the name or the correctness of the call.","Initialization error component, check the spelling of the name or the correctness of the call.",module,Magento_Ui
+"Condition type ""%1"" is not allowed","Vrsta pogoja ""%1"" ni dovoljena",module,Magento_Ui
+"The configuration parameter ""formElement"" is a required for ""%1"" field.","Parameter nastavitev ""formElement"" je obvezen za polje ""%1"".",module,Magento_Ui
+"Remove %1","Odstrani %1",module,Magento_Ui
+"Add New %1","Dodajte nov %1",module,Magento_Ui
+"New %1","Novo %1",module,Magento_Ui
+"Please select item(s).","Izberite elemente.",module,Magento_Ui
+"Unsupported bookmark action.","Nepodprto dejanje zaznamka.",module,Magento_Ui
+"Initialization error component, check the spelling of the name or the correctness of the call.","Komponenta inicializacijske napake, preverite črkovanje imena ali pravilnost klica.",module,Magento_Ui
+"Bookmark with id ""%1"" does not exist.","Zaznamek z id ""%1"" ne obstaja.",module,Magento_Ui
+"Initialization error component, check the spelling of the name or the correctness of the call.","Komponenta inicializacijske napake, preverite črkovanje imena ali pravilnost klica.",module,Magento_Ui
 "Next","Naslednja",module,Magento_Ui
 "Back","Nazaj",module,Magento_Ui
 "Cancel","Prekliči",module,Magento_Ui
-"Go to Details Page","Go to Details Page",module,Magento_Ui
-"Please enter more or equal than {0} symbols.","Please enter more or equal than {0} symbols.",module,Magento_Ui
-"Please enter less or equal than {0} symbols.","Please enter less or equal than {0} symbols.",module,Magento_Ui
-"Please enter {0} words or less.","Please enter {0} words or less.",module,Magento_Ui
-"Please enter at least {0} words.","Please enter at least {0} words.",module,Magento_Ui
-"Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",module,Magento_Ui
-"Letters or punctuation only please","Letters or punctuation only please",module,Magento_Ui
-"Letters, numbers, spaces or underscores only please","Letters, numbers, spaces or underscores only please",module,Magento_Ui
-"Letters only please","Letters only please",module,Magento_Ui
-"No white space please","No white space please",module,Magento_Ui
-"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx",module,Magento_Ui
-"A positive or negative non-decimal number please","A positive or negative non-decimal number please",module,Magento_Ui
-"The specified vehicle identification number (VIN) is invalid.","The specified vehicle identification number (VIN) is invalid.",module,Magento_Ui
-"Please enter a correct date","Please enter a correct date",module,Magento_Ui
+"Go to Details Page","Pojdite na stran s podrobnostmi",module,Magento_Ui
+"Please enter more or equal than {0} symbols.","Vnesite več kot {0} simbolov.",module,Magento_Ui
+"Please enter less or equal than {0} symbols.","Vnesite manj ali enako od {0} simbolov.",module,Magento_Ui
+"Please enter {0} words or less.","Vnesite {0} besed ali manj.",module,Magento_Ui
+"Please enter at least {0} words.","Vnesite vsaj {0} besed.",module,Magento_Ui
+"Please enter between {0} and {1} words.","Vnesite med {0} in {1} besedami.",module,Magento_Ui
+"Letters or punctuation only please","Samo črke ali ločila",module,Magento_Ui
+"Letters, numbers, spaces or underscores only please","Samo črke, številke, presledke ali podčrtaje",module,Magento_Ui
+"Letters only please","Samo črke",module,Magento_Ui
+"No white space please","Presledki niso dovoljeni",module,Magento_Ui
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Vaša poštna številka mora biti znotraj obsega 902xx-xxxx do 905-xx-xxxx",module,Magento_Ui
+"A positive or negative non-decimal number please","Pozitivno ali negativno celo število",module,Magento_Ui
+"The specified vehicle identification number (VIN) is invalid.","Identifikacijska številka določenega vozila (VIN) ni veljavna.",module,Magento_Ui
+"Please enter a correct date","Vnesite pravilen datum",module,Magento_Ui
 "Vul hier een geldige datum in.","Vul hier een geldige datum in.",module,Magento_Ui
-"Please enter a valid time, between 00:00 and 23:59","Please enter a valid time, between 00:00 and 23:59",module,Magento_Ui
-"Please enter a valid time, between 00:00 am and 12:00 pm","Please enter a valid time, between 00:00 am and 12:00 pm",module,Magento_Ui
-"Please specify a valid phone number","Please specify a valid phone number",module,Magento_Ui
+"Please enter a valid time, between 00:00 and 23:59","Vnesite veljaven čas med 00:00 in 23:59",module,Magento_Ui
+"Please enter a valid time, between 00:00 am and 12:00 pm","Vnesite veljaven čas med 00:00 am in 12:00 pm",module,Magento_Ui
+"Please specify a valid phone number","Navedite veljavno telefonsko številko",module,Magento_Ui
 "Please specify a valid mobile number","Navedite veljavno mobilno številko",module,Magento_Ui
 "Please enter at least {0} characters","Vnesite vsaj {0} znakov",module,Magento_Ui
 "Please enter a valid credit card number.","Vnesite veljavno številko kreditne kartice.",module,Magento_Ui
@@ -1330,37 +1330,37 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
 "HTML tags are not allowed.","HTML oznake niso dovoljene.",module,Magento_Ui
 "Please select an option.","Izberite možnost.",module,Magento_Ui
 "Empty Value.","Prazna vrednost.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.",module,Magento_Ui
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.",module,Magento_Ui
-"Please enter a valid fax number (Ex: 123-456-7890).","Please enter a valid fax number (Ex: 123-456-7890).",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","Please enter a valid email address (Ex: johndoe@domain.com).",module,Magento_Ui
-"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.",module,Magento_Ui
-"Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic.",module,Magento_Ui
-"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://).",module,Magento_Ui
-"Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",module,Magento_Ui
-"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",module,Magento_Ui
-"Please enter a valid social security number (Ex: 123-45-6789).","Please enter a valid social security number (Ex: 123-45-6789).",module,Magento_Ui
-"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Please enter a valid zip code (Ex: 90602 or 90602-1234).",module,Magento_Ui
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",module,Magento_Ui
-"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","V tem polju uporabite samo črke (a-z ali A-Z), številke (0-9) ali presledke.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Prosimo, v tem polju uporabite le črke (a-z ali A-Z), številke (0-9) ali podčrtaje (_) in prvi znak mora biti črka.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","V tem polju uporabite samo črke (a-z ali A-Z), številke (0-9), presledke in ""#"".",module,Magento_Ui
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Vnesite veljavno telefonsko številko. Na primer (123) 456-7890 ali 123-456-7890.",module,Magento_Ui
+"Please enter a valid fax number (Ex: 123-456-7890).","Vnesite veljavno številko faksa (npr. 123-456-7890).",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","Vnesite veljaven naslov e-pošte (npr. johndoe@domain.com).",module,Magento_Ui
+"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Vnesite 6 ali več znakov. Vodilni in sledeči presledki bodo ignorirani.",module,Magento_Ui
+"Please enter 7 or more characters, using both numeric and alphabetic.","Vnesite 7 ali več znakov z uporabo tako numeričnih kot abecednih vrednosti.",module,Magento_Ui
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Vnesite veljaven URL. Protokol ni zahtevan (http://, https:// ali ftp://).",module,Magento_Ui
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","Vnesite veljaven URL. Na primer http://www.example.com ali www.example.com.",module,Magento_Ui
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Vnesite veljaven identifikator XML (npr, something_1, block5, id-4).",module,Magento_Ui
+"Please enter a valid social security number (Ex: 123-45-6789).","Vnesite veljavno številko socialnega zavarovanja (npr. 123-45-6789).",module,Magento_Ui
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Vnesite veljavno poštno številko (npr. 90602 ali 90602-1234).",module,Magento_Ui
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Uporabite to obliko datuma: dd/mm/yyyy. Na primer 17/03/2006 za 17. marec, 2006.",module,Magento_Ui
+"Please enter a valid $ amount. For example $100.00.","Vnesite veljaven znesek $. Na primer $100.00.",module,Magento_Ui
 "Please enter a number 0 or greater in this field.","V to polje vnesite številko 0 ali več.",module,Magento_Ui
-"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field.",module,Magento_Ui
-"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).",module,Magento_Ui
+"Please enter a number greater than 0 in this field.","V to polje vnesite številko večje od 0.",module,Magento_Ui
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Vnesite veljavno dolžino CSS (npr. 100px, 77pt, 20em, .5ex ali 50%).",module,Magento_Ui
 "Please enter a valid number in this field.","V to polje vnesite veljavno številko.",module,Magento_Ui
-"The value is not within the specified range.","The value is not within the specified range.",module,Magento_Ui
-"Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field.",module,Magento_Ui
-"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
-"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.",module,Magento_Ui
-"Please enter a valid date.","Please enter a valid date.",module,Magento_Ui
-"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",module,Magento_Ui
-"Please enter a valid zip code.","Please enter a valid zip code.",module,Magento_Ui
-"Please select State/Province.","Please select State/Province.",module,Magento_Ui
-"Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",module,Magento_Ui
+"The value is not within the specified range.","Ta vrednost ni znotraj določenega obsega.",module,Magento_Ui
+"Please use letters only (a-z or A-Z) in this field.","V tem polju uporabite samo črke (a-z ali A-Z).",module,Magento_Ui
+"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Prosimo, v tem polju uporabite le črke (a-z ali A-Z), številke (0-9) ali podčrtaje (_) in prvi znak mora biti črka.",module,Magento_Ui
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Prosimo, v tem polju uporabite le črke (a-z ali A-Z), številke (0-9). Presledki ali ostali znaki niso dovoljeni.",module,Magento_Ui
+"Please enter a valid date.","Vnesite veljavne podatke.",module,Magento_Ui
+"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Vnesite veljaven ključ URL (npr. ""example-page"", ""example-page.html"" ali ""anotherlevel/example-page"").",module,Magento_Ui
+"Please enter a valid zip code.","Vnesite veljavno poštno številko.",module,Magento_Ui
+"Please select State/Province.","Izberite državo/provinco.",module,Magento_Ui
+"Please enter issue number or start date for switch/solo card type.","Vnesite številko izdaje ali začetni datum za vrsto kreditne kartice switch/solo.",module,Magento_Ui
 "This is a required field.","To je zahtevano polje.",module,Magento_Ui
-"Please enter positive number in this field.","Please enter positive number in this field.",module,Magento_Ui
-"Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30",module,Magento_Ui
+"Please enter positive number in this field.","V to polje vnesite pozitivno število.",module,Magento_Ui
+"Please enter a valid value, ex: 10,20,30","Vnesite veljavno vrednost, npr: 10,20,30",module,Magento_Ui
 "Attention","Pozor",module,Magento_Ui
 "OK","V redu",module,Magento_Ui
 "Close","Zapri",module,Magento_Ui
@@ -1373,45 +1373,45 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
 "Excel XML","Excel XML",module,Magento_Ui
 "Parameter ""class"" must be present.","Parameter ""class"" mora biti prisoten.",module,Magento_Ui
 "Parameter ""sortOrder"" must be present.","Parameter ""sortOrder"" mora biti prisoten.",module,Magento_Ui
-"Invalid UI Component element name: '%1'","Invalid UI Component element name: '%1'",module,Magento_Ui
-"Invalid UI Component element name: ''","Invalid UI Component element name: ''",module,Magento_Ui
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Ui
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
-"Assign","Assign",module,Magento_Ui
-"Options","Options",module,Magento_Ui
-"records found","records found",module,Magento_Ui
-"selected","selected",module,Magento_Ui
-"of","of",module,Magento_Ui
-"Filters","Filters",module,Magento_Ui
-"Add","Add",module,Magento_Ui
-"Something went wrong.","Something went wrong.",module,Magento_Ui
-"Yes","Yes",module,Magento_Ui
-"No","No",module,Magento_Ui
-"Done","Done",module,Magento_Ui
-"options","options",module,Magento_Ui
-"Select...","Select...",module,Magento_Ui
-"Selected","Selected",module,Magento_Ui
-"Select All","Select All",module,Magento_Ui
-"Deselect All","Deselect All",module,Magento_Ui
-"Select All on This Page","Select All on This Page",module,Magento_Ui
-"Deselect All on This Page","Deselect All on This Page",module,Magento_Ui
-"On","On",module,Magento_Ui
-"Off","Off",module,Magento_Ui
-"New View","New View",module,Magento_Ui
-"Default View","Default View",module,Magento_Ui
-"${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
-"You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
-"You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
-"Search by keyword","Search by keyword",module,Magento_Ui
-"Keyword","Keyword",module,Magento_Ui
-"Select Date","Select Date",module,Magento_Ui
-"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",module,Magento_Ui
-"Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}.",module,Magento_Ui
-"Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",module,Magento_Ui
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Ui
-"File you are trying to upload exceeds maximum file size limit.","File you are trying to upload exceeds maximum file size limit.",module,Magento_Ui
-"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.",module,Magento_Ui
-"The date is not within the specified range.","The date is not within the specified range.",module,Magento_Ui
+"Invalid UI Component element name: '%1'","Neveljavno ime elementa komponente UI: '%1'",module,Magento_Ui
+"Invalid UI Component element name: ''","Neveljavno ime elementa UI komponente: ''",module,Magento_Ui
+"Changes have been made to this section that have not been saved.","V tej sekciji so bile narejene spremembe, ki niso shranjene.",module,Magento_Ui
+"This tab contains invalid data. Please resolve this before saving.","Jeziček vsebuje neveljavne podatke. Razrešite to pred shranjevanjem.",module,Magento_Ui
+"Assign","Dodeli",module,Magento_Ui
+"Options","Možnosti",module,Magento_Ui
+"records found","vnosov najdenih",module,Magento_Ui
+"selected","izbrano",module,Magento_Ui
+"of","od",module,Magento_Ui
+"Filters","Filtri",module,Magento_Ui
+"Add","Dodaj",module,Magento_Ui
+"Something went wrong.","Nekaj je šlo narobe.",module,Magento_Ui
+"Yes","Da",module,Magento_Ui
+"No","Ne",module,Magento_Ui
+"Done","Opravljeno",module,Magento_Ui
+"options","možnosti",module,Magento_Ui
+"Select...","Izberite ...",module,Magento_Ui
+"Selected","Izbrano",module,Magento_Ui
+"Select All","Izberi vse",module,Magento_Ui
+"Deselect All","Odznači vse",module,Magento_Ui
+"Select All on This Page","Izberi vse na tej strani",module,Magento_Ui
+"Deselect All on This Page","Odznači vse na tej strani",module,Magento_Ui
+"On","Vklop",module,Magento_Ui
+"Off","Izklop",module,Magento_Ui
+"New View","Nov pogled",module,Magento_Ui
+"Default View","Privzeti pogled",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","${ $.visible } od ${ $.total } vidnih",module,Magento_Ui
+"You have successfully saved your edits.","Uspešno ste shranili urejanja.",module,Magento_Ui
+"You haven't selected any items!","Niste izbrali nobenega elementa!",module,Magento_Ui
+"Search by keyword","Iskanje po ključnih besedah",module,Magento_Ui
+"Keyword","Ključna beseda",module,Magento_Ui
+"Select Date","Izberi datum",module,Magento_Ui
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Vnesite 6 ali več znakov. Vodilni in sledeči presledki bodo ignorirani.",module,Magento_Ui
+"Please enter a value less than or equal to {0}.","Vnesite vrednost manjšo ali enako {0}.",module,Magento_Ui
+"Please enter a value greater than or equal to {0}.","Vnesite vrednost večjo ali enako {0}.",module,Magento_Ui
+"We don't recognize or support this file extension type.","Ta vrsta končnice datoteke ni prepoznavna ali podprta.",module,Magento_Ui
+"File you are trying to upload exceeds maximum file size limit.","Datoteka, ki jo skušate naložiti presega največjo dovoljeno velikost.",module,Magento_Ui
+"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Uporabite značko script z atributom src ali ustrehno vsebino za vključitev JavaScript-a v dokumentu.",module,Magento_Ui
+"The date is not within the specified range.","Datum ni znotraj določenega obsega.",module,Magento_Ui
 "Merchant Location","Prodajno mesto",module,Magento_Paypal
 "Merchant Country","Država trgovca",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","Če ni določeno, bo uporabljena privzeta država iz splošnih nastavitev",module,Magento_Paypal
@@ -3151,23 +3151,23 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Invalid attribute type","Neveljavna vrsta atributa",module,Magento_Eav
 "A joined field with this alias is already declared.","Skupno polje s tem vzdevkom je že določeno.",module,Magento_Eav
 "Invalid joint fields","Neveljavna skupna polja",module,Magento_Eav
-"A joint field with this alias (%1) is already declared.","A joint field with this alias (%1) is already declared.",module,Magento_Eav
-"Data integrity: No header row found for attribute","Data integrity: No header row found for attribute",module,Magento_Eav
-"Invalid attribute name: %1","Invalid attribute name: %1",module,Magento_Eav
-"Invalid character encountered in increment ID: %1","Invalid character encountered in increment ID: %1",module,Magento_Eav
-"The current module pathname is undefined.","The current module pathname is undefined.",module,Magento_Eav
-"The current module EAV entity is undefined.","The current module EAV entity is undefined.",module,Magento_Eav
-"The form code is not defined.","The form code is not defined.",module,Magento_Eav
-"The entity instance is not defined.","The entity instance is not defined.",module,Magento_Eav
-"Invalid form type.","Invalid form type.",module,Magento_Eav
-"Invalid EAV attribute","Invalid EAV attribute",module,Magento_Eav
-"Attribute with the same code","Attribute with the same code",module,Magento_Eav
-"The storefront label is not defined.","The storefront label is not defined.",module,Magento_Eav
-"Default option value is not defined","Default option value is not defined",module,Magento_Eav
-"Form Element with the same attribute","Form Element with the same attribute",module,Magento_Eav
-"Form Fieldset with the same code","Form Fieldset with the same code",module,Magento_Eav
-"Form Type with the same code","Form Type with the same code",module,Magento_Eav
-"The value of attribute ""%1"" is invalid.","The value of attribute ""%1"" is invalid.",module,Magento_Eav
+"A joint field with this alias (%1) is already declared.","Skupno polje s tem vzdevkom (%1) je že določeno.",module,Magento_Eav
+"Data integrity: No header row found for attribute","Celovitost podatkov: nobena vrstica glave ni najdena za atribut",module,Magento_Eav
+"Invalid attribute name: %1","Neveljavno ime atributa: %1",module,Magento_Eav
+"Invalid character encountered in increment ID: %1","Najden neveljaven znak v ID prirastku: %1",module,Magento_Eav
+"The current module pathname is undefined.","Ime poti trenutnega modula ni definirano.",module,Magento_Eav
+"The current module EAV entity is undefined.","Entiteta EAV trenutnega modula ni definirana.",module,Magento_Eav
+"The form code is not defined.","Koda obrazca ni definirana.",module,Magento_Eav
+"The entity instance is not defined.","Instanca entitete ni definirana.",module,Magento_Eav
+"Invalid form type.","Neveljavna vrsta obrazca.",module,Magento_Eav
+"Invalid EAV attribute","Neveljaven atribut EAV",module,Magento_Eav
+"Attribute with the same code","Atribut z enako kodo",module,Magento_Eav
+"The storefront label is not defined.","Oznaka ospredja trgovine ni definirana.",module,Magento_Eav
+"Default option value is not defined","Privzeta vrednost možnosti ni definirana",module,Magento_Eav
+"Form Element with the same attribute","Element obrazca z enakim atributom",module,Magento_Eav
+"Form Fieldset with the same code","Nabor polj obrazca z enako kodo",module,Magento_Eav
+"Form Type with the same code","Vrsta obrazca z enako kodo",module,Magento_Eav
+"The value of attribute ""%1"" is invalid.","Vrednost atributa ""%1"" ni veljavna.",module,Magento_Eav
 "Wrong entity ID","Napačen ID entitete",module,Magento_Eav
 "Wrong attribute set ID","Napačen ID nabora atributov",module,Magento_Eav
 "Wrong attribute group ID","Napačen ID skupine atributov",module,Magento_Eav
@@ -3175,16 +3175,16 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "hello","pozdravljeni",module,Magento_Eav
 "Some internal exception message.","Sporočilo neke interne izjeme.",module,Magento_Eav
 "The value of attribute not valid","Vrednost atributa ni veljavna",module,Magento_Eav
-"EAV types and attributes","EAV types and attributes",module,Magento_Eav
-"Entity types declaration cache.","Entity types declaration cache.",module,Magento_Eav
-"Default Label","Default Label",module,Magento_Eav
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Eav
-"Not shared with other products.","Not shared with other products.",module,Magento_Eav
-"The attribute code '%1' is reserved by system. Please try another attribute code","The attribute code '%1' is reserved by system. Please try another attribute code",module,Magento_Eav
-"Attribute %1 doesn't work with options","Attribute %1 doesn't work with options",module,Magento_Eav
-"Attribute %1 doesn't have any option","Attribute %1 doesn't have any option",module,Magento_Eav
+"EAV types and attributes","Vrste in atributi EAV",module,Magento_Eav
+"Entity types declaration cache.","Predpomnilnik deklaracije vrst entitet.",module,Magento_Eav
+"Default Label","Privzeta oznaka",module,Magento_Eav
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","To se uporablja interno. Preverite, da ne uporabljate presledkov ali več kot %1 simbolov.",module,Magento_Eav
+"Not shared with other products.","Ni deljeno z ostalimi izdelki.",module,Magento_Eav
+"The attribute code '%1' is reserved by system. Please try another attribute code","Koda atributa '%1' je rezervirana za sistem. Poskusite z drugo kodo atributa",module,Magento_Eav
+"Attribute %1 doesn't work with options","Atribut %1 ne deluje z možnostmi",module,Magento_Eav
+"Attribute %1 doesn't have any option","Atribut %1 nima nobene možnosti",module,Magento_Eav
 "Entity attribute with id ""%1"" not found","Atribut entitete z id ""%1"" ni najden",module,Magento_Eav
-"Entity types declaration cache","Entity types declaration cache",module,Magento_Eav
+"Entity types declaration cache","Predpomnilnik deklaracije vrst entitet",module,Magento_Eav
 "Page not found.","Strani ni mogoče najti.",module,Magento_SendFriend
 "You can\'t send messages more than %1 times an hour.","Sporočil ne morete poslati večkrat kot %1 krat na uro.",module,Magento_SendFriend
 "The link to a friend was sent.","Povezava prijatelju je bila poslana.",module,Magento_SendFriend
@@ -5407,137 +5407,137 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Zero Subtotal Checkout","Nakup brez vmesne vsote",module,Magento_OfflinePayments
 "Automatically Invoice All Items","Samodejno izstavi račun za vse elemente",module,Magento_OfflinePayments
 "Place Order","Oddaj naročilo",module,Magento_OfflinePayments
-"Tax Rate Information","Tax Rate Information",module,Magento_Tax
-"Tax Identifier","Tax Identifier",module,Magento_Tax
-"Zip/Post is Range","Zip/Post is Range",module,Magento_Tax
-"Zip/Post Code","Zip/Post Code",module,Magento_Tax
-"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.",module,Magento_Tax
-"Range From","Range From",module,Magento_Tax
-"Range To","Range To",module,Magento_Tax
-"State","State",module,Magento_Tax
+"Tax Rate Information","Informacije o stopnji davka",module,Magento_Tax
+"Tax Identifier","Identifikator davka",module,Magento_Tax
+"Zip/Post is Range","Poštna številka je obseg",module,Magento_Tax
+"Zip/Post Code","Poštna številka",module,Magento_Tax
+"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - se ujema z vsem; 'xyz*' - se ujema z vsem, kar se začne na 'xyz' in ni daljše od %1.",module,Magento_Tax
+"Range From","Obseg od",module,Magento_Tax
+"Range To","Obseg do",module,Magento_Tax
+"State","Država",module,Magento_Tax
 "Country","Država",module,Magento_Tax
-"Rate Percent","Rate Percent",module,Magento_Tax
-"Tax Titles","Tax Titles",module,Magento_Tax
-"Add New Tax Rate","Add New Tax Rate",module,Magento_Tax
+"Rate Percent","Procenti stopnje",module,Magento_Tax
+"Tax Titles","Naslovi davka",module,Magento_Tax
+"Add New Tax Rate","Dodaj novo davčno stopnjo",module,Magento_Tax
 "Back","Nazaj",module,Magento_Tax
 "Reset","Ponastavitev",module,Magento_Tax
-"Delete Rate","Delete Rate",module,Magento_Tax
+"Delete Rate","Izbriši stopnjo",module,Magento_Tax
 "Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_Tax
-"Save Rate","Save Rate",module,Magento_Tax
-"Manage Tax Rules","Manage Tax Rules",module,Magento_Tax
-"Add New Tax Rule","Add New Tax Rule",module,Magento_Tax
-"Save Rule","Save Rule",module,Magento_Tax
-"Delete Rule","Delete Rule",module,Magento_Tax
+"Save Rate","Shrani stopnjo",module,Magento_Tax
+"Manage Tax Rules","Upravljanje davčnih pravil",module,Magento_Tax
+"Add New Tax Rule","Dodaj novo davčno pravilo",module,Magento_Tax
+"Save Rule","Shrani pravilo",module,Magento_Tax
+"Delete Rule","Izbriši pravilo",module,Magento_Tax
 "Save and Continue Edit","Shrani in nadaljuj urejanje",module,Magento_Tax
-"Tax Rule Information","Tax Rule Information",module,Magento_Tax
+"Tax Rule Information","Informacije o davčnem pravilu",module,Magento_Tax
 "Name","Ime",module,Magento_Tax
-"Customer Tax Class","Customer Tax Class",module,Magento_Tax
-"Product Tax Class","Product Tax Class",module,Magento_Tax
-"Tax Rate","Tax Rate",module,Magento_Tax
+"Customer Tax Class","Davčni razred kupca",module,Magento_Tax
+"Product Tax Class","Davčni razred izdelka",module,Magento_Tax
+"Tax Rate","Davčna stopnja",module,Magento_Tax
 "Priority","Prednost",module,Magento_Tax
-"Tax rates at the same priority are added, others are compounded.","Tax rates at the same priority are added, others are compounded.",module,Magento_Tax
-"Calculate Off Subtotal Only","Calculate Off Subtotal Only",module,Magento_Tax
+"Tax rates at the same priority are added, others are compounded.","Davčne stopnje z enako prioriteto so dodane, ostale so združene.",module,Magento_Tax
+"Calculate Off Subtotal Only","Izračun samo delne vsote",module,Magento_Tax
 "Sort Order","Vrstni red",module,Magento_Tax
-"Do you really want to delete this tax class?","Do you really want to delete this tax class?",module,Magento_Tax
-"Add New Tax Class","Add New Tax Class",module,Magento_Tax
+"Do you really want to delete this tax class?","Ali ste prepričani, da želite izbrisati ta davčni razred?",module,Magento_Tax
+"Add New Tax Class","Dodaj nov davčni razred",module,Magento_Tax
 "Shipping Incl. Tax (%1)","Dostava z davkom (%1)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Dostava brez davka (%1)",module,Magento_Tax
-"Subtotal (Excl.Tax)","Subtotal (Excl.Tax)",module,Magento_Tax
-"Subtotal (Incl.Tax)","Subtotal (Incl.Tax)",module,Magento_Tax
-"Shipping & Handling (Excl.Tax)","Shipping & Handling (Excl.Tax)",module,Magento_Tax
-"Shipping & Handling (Incl.Tax)","Shipping & Handling (Incl.Tax)",module,Magento_Tax
-"Grand Total (Excl.Tax)","Grand Total (Excl.Tax)",module,Magento_Tax
-"Grand Total (Incl.Tax)","Grand Total (Incl.Tax)",module,Magento_Tax
+"Subtotal (Excl.Tax)","Delna vsota (brez davka)",module,Magento_Tax
+"Subtotal (Incl.Tax)","Delna vsota (z davkom)",module,Magento_Tax
+"Shipping & Handling (Excl.Tax)","Dostava in obdelava (brez davka)",module,Magento_Tax
+"Shipping & Handling (Incl.Tax)","Dostava in obdelava (z davkom)",module,Magento_Tax
+"Grand Total (Excl.Tax)","Celota skupaj brez davka",module,Magento_Tax
+"Grand Total (Incl.Tax)","Celota skupaj z davkom",module,Magento_Tax
 "Sales","Prodaja",module,Magento_Tax
 "Tax","Davek",module,Magento_Tax
-"Manage Tax Rates","Manage Tax Rates",module,Magento_Tax
-"New Tax Rate","New Tax Rate",module,Magento_Tax
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_Tax
-"We can\'t delete this tax rate right now.","We can\'t delete this tax rate right now.",module,Magento_Tax
-"An error occurred while loading this tax rate.","An error occurred while loading this tax rate.",module,Magento_Tax
-"We can\'t save this rate right now.","We can\'t save this rate right now.",module,Magento_Tax
-"You deleted the tax rate.","You deleted the tax rate.",module,Magento_Tax
-"We can\'t delete this rate because of an incorrect rate ID.","We can\'t delete this rate because of an incorrect rate ID.",module,Magento_Tax
-"Something went wrong deleting this rate.","Something went wrong deleting this rate.",module,Magento_Tax
-"Edit Tax Rate","Edit Tax Rate",module,Magento_Tax
-"You saved the tax rate.","You saved the tax rate.",module,Magento_Tax
-"Tax Rules","Tax Rules",module,Magento_Tax
-"The tax rule has been deleted.","The tax rule has been deleted.",module,Magento_Tax
+"Manage Tax Rates","Upravljanje davčnih stopenj",module,Magento_Tax
+"New Tax Rate","Nova davčna stopnja",module,Magento_Tax
+"Tax Zones and Rates","Davčna območja in stopnje",module,Magento_Tax
+"We can\'t delete this tax rate right now.","Te davčne stopnje trenutno ni mogoče izbrisati.",module,Magento_Tax
+"An error occurred while loading this tax rate.","Med nalaganjem te davčne stopnje je prišlo do napake.",module,Magento_Tax
+"We can\'t save this rate right now.","Te stopnje trenutno ni mogoče shraniti.",module,Magento_Tax
+"You deleted the tax rate.","Izbrisali ste davčno stopnjo.",module,Magento_Tax
+"We can\'t delete this rate because of an incorrect rate ID.","Te stopnje ni mogoče izbrisati zaradi nepravilnega ID stopnje.",module,Magento_Tax
+"Something went wrong deleting this rate.","Med brisanjem te stopnje je šlo nekaj narobe.",module,Magento_Tax
+"Edit Tax Rate","Uredi davčno stopnjo",module,Magento_Tax
+"You saved the tax rate.","Shranili ste davčno stopnjo.",module,Magento_Tax
+"Tax Rules","Davčna pravila",module,Magento_Tax
+"The tax rule has been deleted.","Davčno pravilo je bilo izbrisano.",module,Magento_Tax
 "This rule no longer exists.","To pravilo več ne obstaja.",module,Magento_Tax
-"Something went wrong deleting this tax rule.","Something went wrong deleting this tax rule.",module,Magento_Tax
-"New Tax Rule","New Tax Rule",module,Magento_Tax
+"Something went wrong deleting this tax rule.","Med brisanjem tega davčnega pravila je šlo nekaj narobe.",module,Magento_Tax
+"New Tax Rule","Novo davčno pravilo",module,Magento_Tax
 "Edit Rule","Uredi pravilo",module,Magento_Tax
 "New Rule","Novo pravilo",module,Magento_Tax
-"You saved the tax rule.","You saved the tax rule.",module,Magento_Tax
-"We can\'t save this tax rule right now.","We can\'t save this tax rule right now.",module,Magento_Tax
-"Invalid name of tax class specified.","Invalid name of tax class specified.",module,Magento_Tax
-"We can\'t delete this tax class right now.","We can\'t delete this tax class right now.",module,Magento_Tax
-"We can\'t save this tax class right now.","We can\'t save this tax class right now.",module,Magento_Tax
-"Make sure all required information is valid.","Make sure all required information is valid.",module,Magento_Tax
-"The Rate Percent should be a positive number.","The Rate Percent should be a positive number.",module,Magento_Tax
-"Maximum zip code length is 9.","Maximum zip code length is 9.",module,Magento_Tax
-"Use digits only for the zip code.","Use digits only for the zip code.",module,Magento_Tax
-"Range To should be equal or greater than Range From.","Range To should be equal or greater than Range From.",module,Magento_Tax
-"The tax rate cannot be removed. It exists in a tax rule.","The tax rate cannot be removed. It exists in a tax rule.",module,Magento_Tax
-"This class no longer exists.","This class no longer exists.",module,Magento_Tax
-"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.",module,Magento_Tax
-"You cannot delete this tax class because it is used in existing %1(s).","You cannot delete this tax class because it is used in existing %1(s).",module,Magento_Tax
-"Custom price if available","Custom price if available",module,Magento_Tax
-"Original price only","Original price only",module,Magento_Tax
+"You saved the tax rule.","Shranili ste davčno pravilo.",module,Magento_Tax
+"We can\'t save this tax rule right now.","Te davčne stopnje trenutno ni mogoče shraniti.",module,Magento_Tax
+"Invalid name of tax class specified.","Določeno je neveljavno ime davčnega razreda.",module,Magento_Tax
+"We can\'t delete this tax class right now.","Tega davčnega razreda trenutno ni mogoče izbrisati.",module,Magento_Tax
+"We can\'t save this tax class right now.","Tega davčnega razreda trenutno ni mogoče shraniti.",module,Magento_Tax
+"Make sure all required information is valid.","Poskrbite, da so vse zahtevane informacije veljavne.",module,Magento_Tax
+"The Rate Percent should be a positive number.","Odstotek stopnje mora biti pozitivno število.",module,Magento_Tax
+"Maximum zip code length is 9.","Največja dolžina poštne številke je 9.",module,Magento_Tax
+"Use digits only for the zip code.","Za kodo poštne številke uporabite samo številke.",module,Magento_Tax
+"Range To should be equal or greater than Range From.","Območje bi moralo biti enako ali večje od začetnega obsega.",module,Magento_Tax
+"The tax rate cannot be removed. It exists in a tax rule.","Davčne stopnje ni mogoče odstraniti. Obstaja v davčnem pravilu.",module,Magento_Tax
+"This class no longer exists.","Ta razred več ne obstaja.",module,Magento_Tax
+"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Tega davčnega razreda ni mogoče izbrisati, ker je uporabljen v davčnih pravilih. Najprej morate izbrisati uporabljena pravila.",module,Magento_Tax
+"You cannot delete this tax class because it is used in existing %1(s).","Tega davčnega razreda ne morete izbrisati, ker je uporabljeno v obstoječih %1.",module,Magento_Tax
+"Custom price if available","Cena po meri, če je na voljo",module,Magento_Tax
+"Original price only","Samo originalna cena",module,Magento_Tax
 "Shipping Address","Naslov za dostavo",module,Magento_Tax
 "Billing Address","Naslov za pošiljanje računa",module,Magento_Tax
-"Shipping Origin","Shipping Origin",module,Magento_Tax
-"No (price without tax)","No (price without tax)",module,Magento_Tax
-"Yes (only price with tax)","Yes (only price with tax)",module,Magento_Tax
-"Both (without and with tax)","Both (without and with tax)",module,Magento_Tax
+"Shipping Origin","Izvor pošiljanja",module,Magento_Tax
+"No (price without tax)","Ne (cena brez davka)",module,Magento_Tax
+"Yes (only price with tax)","Da (samo cena z davkom)",module,Magento_Tax
+"Both (without and with tax)","Oboje (z in brez davka)",module,Magento_Tax
 "Invalid attribute %1","Neveljaven atribut %1",module,Magento_Tax
 "Code","Koda",module,Magento_Tax
-"Invalid type supplied","Invalid type supplied",module,Magento_Tax
-"Class name and class type","Class name and class type",module,Magento_Tax
-"Grand Total (Excl. Tax)","Grand Total (Excl. Tax)",module,Magento_Tax
-"Grand Total (Incl. Tax)","Grand Total (Incl. Tax)",module,Magento_Tax
-"Shipping (Excl. Tax)","Shipping (Excl. Tax)",module,Magento_Tax
-"Shipping (Incl. Tax)","Shipping (Incl. Tax)",module,Magento_Tax
+"Invalid type supplied","Podana neveljavna vrsta",module,Magento_Tax
+"Class name and class type","Ime in vrsta razreda",module,Magento_Tax
+"Grand Total (Excl. Tax)","Celota skupaj brez davka",module,Magento_Tax
+"Grand Total (Incl. Tax)","Celota skupaj z davkom",module,Magento_Tax
+"Shipping (Excl. Tax)","Dostava brez davka",module,Magento_Tax
+"Shipping (Incl. Tax)","Dostava z davkom",module,Magento_Tax
 "Subtotal (Excl. Tax)","Delna vsota (brez davka)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Delna vsota (z davkom)",module,Magento_Tax
 "Subtotal","Delna vsota",module,Magento_Tax
-"Unit Price","Unit Price",module,Magento_Tax
+"Unit Price","Cena na enoto",module,Magento_Tax
 "Row Total","Vsota skupaj",module,Magento_Tax
 "Total","Skupaj",module,Magento_Tax
-"Before Discount","Before Discount",module,Magento_Tax
-"After Discount","After Discount",module,Magento_Tax
-"Excluding Tax","Excluding Tax",module,Magento_Tax
-"Including Tax","Including Tax",module,Magento_Tax
+"Before Discount","Pred popustom",module,Magento_Tax
+"After Discount","Po popustu",module,Magento_Tax
+"Excluding Tax","Brez davka",module,Magento_Tax
+"Including Tax","Vključno z davkom",module,Magento_Tax
 "None","Brez",module,Magento_Tax
-"Including and Excluding Tax","Including and Excluding Tax",module,Magento_Tax
-"Warning tax configuration can result in rounding errors. ","Warning tax configuration can result in rounding errors. ",module,Magento_Tax
-"Store(s) affected: ","Store(s) affected: ",module,Magento_Tax
-"Click on the link to <a href=""%1"">ignore this notification</a>","Click on the link to <a href=""%1"">ignore this notification</a>",module,Magento_Tax
+"Including and Excluding Tax","Z in brez davka",module,Magento_Tax
+"Warning tax configuration can result in rounding errors. ","Opozorilo nastavitev davka lahko povzroči napako pri zaokroževanju. ",module,Magento_Tax
+"Store(s) affected: ","Vplivalo bo na trgovine: ",module,Magento_Tax
+"Click on the link to <a href=""%1"">ignore this notification</a>","Kliknite na povezavo, da <a href=""%1"">prezrete to obvestilo</a>",module,Magento_Tax
 "Warning tax discount configuration might result in different discounts
-                                than a customer might expect. ","Warning tax discount configuration might result in different discounts
-                                than a customer might expect. ",module,Magento_Tax
-"Please see <a href=""%1"">documentation</a> for more details. ","Please see <a href=""%1"">documentation</a> for more details. ",module,Magento_Tax
-"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.",module,Magento_Tax
-"Invalid type of tax class ""%1""","Invalid type of tax class ""%1""",module,Magento_Tax
-"Updating classType is not allowed.","Updating classType is not allowed.",module,Magento_Tax
-"A class with the same name already exists for ClassType %1.","A class with the same name already exists for ClassType %1.",module,Magento_Tax
-"customer group","customer group",module,Magento_Tax
-"product","product",module,Magento_Tax
-"Excl. tax:","Excl. tax:",module,Magento_Tax
+                                than a customer might expect. ","Opozorilna nastavitev popusta davka je lahko pri različnih računih
+                                kot pa pričakuje kupec. ",module,Magento_Tax
+"Please see <a href=""%1"">documentation</a> for more details. ","Glejte <a href=""%1"">dokumentacijo</a> za več informacij. ",module,Magento_Tax
+"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Kliknite tu za obisk <a href=""%1"">nastavitev davka</a> in spremenite vaše nastavitve.",module,Magento_Tax
+"Invalid type of tax class ""%1""","Neveljavna vrsta davčnega razreda ""%1""",module,Magento_Tax
+"Updating classType is not allowed.","Posodobljeni davčni razred ni dovoljen.",module,Magento_Tax
+"A class with the same name already exists for ClassType %1.","Razred z enakim imenom že obstaja za ClassType %1.",module,Magento_Tax
+"customer group","skupina kupcev",module,Magento_Tax
+"product","izdelek",module,Magento_Tax
+"Excl. tax:","Brez davka:",module,Magento_Tax
 "Incl. Tax","Z davkom",module,Magento_Tax
-"Entity already exists","Entity already exists",module,Magento_Tax
-"Cannot save titles","Cannot save titles",module,Magento_Tax
-"Some Message","Some Message",module,Magento_Tax
-"Something went wrong","Something went wrong",module,Magento_Tax
-"Could not save","Could not save",module,Magento_Tax
-"No such entity","No such entity",module,Magento_Tax
+"Entity already exists","Entiteta že obstaja",module,Magento_Tax
+"Cannot save titles","Naslovov ni mogoče shraniti",module,Magento_Tax
+"Some Message","Neko sporočilo",module,Magento_Tax
+"Something went wrong","Nekaj je šlo narobe",module,Magento_Tax
+"Could not save","Ni mogoče shraniti",module,Magento_Tax
+"No such entity","Ni take entitete",module,Magento_Tax
 "Excl. Tax","Brez davka",module,Magento_Tax
-"Note:","Note:",module,Magento_Tax
-"Leave this field empty if you wish to use the tax identifier.","Leave this field empty if you wish to use the tax identifier.",module,Magento_Tax
-"An error occurred","An error occurred",module,Magento_Tax
-"Do you really want to delete this tax rate?","Do you really want to delete this tax rate?",module,Magento_Tax
+"Note:","Opomba:",module,Magento_Tax
+"Leave this field empty if you wish to use the tax identifier.","To polje pustite prazno, če želite uporabiti identifikator davka.",module,Magento_Tax
+"An error occurred","Prišlo je do napake",module,Magento_Tax
+"Do you really want to delete this tax rate?","Ali ste prepričani, da želite izbrisati to stopnjo davka?",module,Magento_Tax
 "Save","Shrani",module,Magento_Tax
-"Add New Class","Add New Class",module,Magento_Tax
+"Add New Class","Dodaj nov razred",module,Magento_Tax
 "Grand Total Excl. Tax","Celota skupaj brez davka",module,Magento_Tax
 "Grand Total Incl. Tax","Celota skupaj z davkom",module,Magento_Tax
 "Tax Classes","Davčni razredi",module,Magento_Tax
@@ -5546,7 +5546,7 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Default Tax Class for Customer","Privzeti davčni razred za kupca",module,Magento_Tax
 "Calculation Settings","Nastavitve izračuna",module,Magento_Tax
 "Tax Calculation Method Based On","Način izračuna davka na podlagi",module,Magento_Tax
-"Tax Calculation Based On","Tax Calculation Based On",module,Magento_Tax
+"Tax Calculation Based On","Izračun davka na podlagi",module,Magento_Tax
 "Catalog Prices","Kataloške cene",module,Magento_Tax
 "This sets whether catalog prices entered from Magento Admin include tax.","To nastavi, ali naj kataloške cene vnesene preko Magento administracije vključujejo davek.",module,Magento_Tax
 "Shipping Prices","Cene dostave",module,Magento_Tax
@@ -5573,25 +5573,25 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Display Zero Tax Subtotal","Prikaz nične skupne vsote davka",module,Magento_Tax
 "Orders, Invoices, Credit Memos Display Settings","Nastavitve prikaza naročil, računov, dobropisov",module,Magento_Tax
 "State/Region","Država/regija",module,Magento_Tax
-"Rate","Rate",module,Magento_Tax
+"Rate","Stopnja",module,Magento_Tax
 "Subtotal Only","Samo vmesna vsota",module,Magento_Tax
 "(Excl. Tax)","(Brez davka)",module,Magento_Tax
 "(Incl. Tax)","(Z davkom)",module,Magento_Tax
 "Order Total Excl. Tax","Naročilo skupaj brez davka",module,Magento_Tax
 "Order Total Incl. Tax","Naročilo skupaj z davkom",module,Magento_Tax
 "Order Total","Skupno naročilo",module,Magento_Tax
-"Your credit card will be charged for","Your credit card will be charged for",module,Magento_Tax
+"Your credit card will be charged for","Vaša kreditna kartica bo bremenjena za",module,Magento_Tax
 "Taxes","Davki",module,Magento_Tax
 "Tax Section","Davčna sekcija",module,Magento_Tax
-"We can't delete this tax rate right now.","We can't delete this tax rate right now.",module,Magento_Tax
-"We can't save this rate right now.","We can't save this rate right now.",module,Magento_Tax
-"We can't delete this rate because of an incorrect rate ID.","We can't delete this rate because of an incorrect rate ID.",module,Magento_Tax
-"We can't save this tax rule right now.","We can't save this tax rule right now.",module,Magento_Tax
-"We can't delete this tax class right now.","We can't delete this tax class right now.",module,Magento_Tax
-"We can't save this tax class right now.","We can't save this tax class right now.",module,Magento_Tax
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Tax
-"Invalid value of "%value" provided for the %fieldName field.","Invalid value of "%value" provided for the %fieldName field.",module,Magento_Tax
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Tax
+"We can't delete this tax rate right now.","Te davčne stopnje trenutno ni mogoče izbrisati.",module,Magento_Tax
+"We can't save this rate right now.","Te stopnje trenutno ni mogoče shraniti.",module,Magento_Tax
+"We can't delete this rate because of an incorrect rate ID.","Te stopnje ni mogoče izbrisati zaradi nepravilnega ID stopnje.",module,Magento_Tax
+"We can't save this tax rule right now.","Tega davčnega pravila trenutno ni mogoče shraniti.",module,Magento_Tax
+"We can't delete this tax class right now.","Tega davčnega razreda trenutno ni mogoče izbrisati.",module,Magento_Tax
+"We can't save this tax class right now.","Tega davčnega razreda trenutno ni mogoče shraniti.",module,Magento_Tax
+"%fieldName is a required field.","%fieldName je obvezno polje.",module,Magento_Tax
+"Invalid value of %value"" provided for the %fieldName field.""","Podana neveljavna vrednost %value za polje %fieldName",module,Magento_Tax
+"No such entity with %fieldName = %fieldValue","Entiteta %fieldName = %fieldValue ne obstaja",module,Magento_Tax
 "Catalog Price Rule","Pravilo cen kataloga",module,Magento_CatalogRule
 "Add New Rule","Dodaj novo pravilo",module,Magento_CatalogRule
 "Apply Rules","Uporabi pravila",module,Magento_CatalogRule
@@ -5747,7 +5747,7 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Account Number","Številka računa",module,Magento_GoogleAnalytics
 "Search Term","Iskalni izraz",module,Magento_Search
 "Results","Rezultati",module,Magento_Search
-"Uses","Uses",module,Magento_Search
+"Uses","Uporablja",module,Magento_Search
 "Search Terms","Iskalni izrazi",module,Magento_Search
 "Search","Iskanje",module,Magento_Search
 "Add New Search Term","Dodaj nov iskalni izraz",module,Magento_Search
@@ -5766,24 +5766,24 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "For the last time placed.","Za oddane v zadnjem času.",module,Magento_Search
 "Number of Uses","Število uporab",module,Magento_Search
 "Synonym For","Sinonim za",module,Magento_Search
-"Will make search for the query above return results for this search","Will make search for the query above return results for this search",module,Magento_Search
+"Will make search for the query above return results for this search","Za iskanje za poizvedbo zgoraj bo povrnilo rezultate za to iskanje",module,Magento_Search
 "Redirect URL","URL preusmeritve",module,Magento_Search
 "ex. http://domain.com","npr. http://domain.com",module,Magento_Search
-"Display in Suggested Terms","Display in Suggested Terms",module,Magento_Search
-"You deleted the search.","You deleted the search.",module,Magento_Search
-"We can\'t find a search term to delete.","We can\'t find a search term to delete.",module,Magento_Search
-"This search no longer exists.","This search no longer exists.",module,Magento_Search
+"Display in Suggested Terms","Prikaži v predlaganih izrazih",module,Magento_Search
+"You deleted the search.","Izbrisali ste iskanje.",module,Magento_Search
+"We can\'t find a search term to delete.","Izraza iskanja za izbris ni mogoče najti.",module,Magento_Search
+"This search no longer exists.","To iskanje ne obstaja več.",module,Magento_Search
 "Edit Search","Uredi iskanje",module,Magento_Search
 "Please select searches.","Izberite iskanja.",module,Magento_Search
-"Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Magento_Search
-"Reports","Reports",module,Magento_Search
+"Total of %1 record(s) were deleted.","Skupno %1 vnosov je bilo izbrisanih.",module,Magento_Search
+"Reports","Poročila",module,Magento_Search
 "Search Terms Report","Poročilo pogojev iskanja",module,Magento_Search
-"You saved the search term.","You saved the search term.",module,Magento_Search
-"Something went wrong while saving the search query.","Something went wrong while saving the search query.",module,Magento_Search
-"You already have an identical search term query.","You already have an identical search term query.",module,Magento_Search
-"Your search query can\'t be longer than %1, so we shortened your query.","Your search query can\'t be longer than %1, so we shortened your query.",module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
-"There are no search terms available.","There are no search terms available.",module,Magento_Search
+"You saved the search term.","Shranili ste izraz iskanja.",module,Magento_Search
+"Something went wrong while saving the search query.","Med shranjevanjem iskalne poizvedbe je šlo nekaj narobe.",module,Magento_Search
+"You already have an identical search term query.","Že imate identični izraz iskalne poizvedbe.",module,Magento_Search
+"Your search query can\'t be longer than %1, so we shortened your query.","Vaša poizvedba iskanja ne sme biti daljša od %1, tako da je bila skrajšana.",module,Magento_Search
+"Search entire store here...","Tu iščite po celotni trgovini...",module,Magento_Search
+"There are no search terms available.","Ni na voljno nizov iskanja.",module,Magento_Search
 "Search Engine","Iskalnik",module,Magento_Search
 "CSV","CSV",module,Magento_Search
 "Excel XML","Excel XML",module,Magento_Search
@@ -5797,47 +5797,47 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "no","ne",module,Magento_Search
 "Action","Dejanje",module,Magento_Search
 "Edit","Uredi",module,Magento_Search
-"Search Synonyms","Search Synonyms",module,Magento_Search
-"New Synonym Group","New Synonym Group",module,Magento_Search
-"Back","Back",module,Magento_Search
-"Delete Synonym Group","Delete Synonym Group",module,Magento_Search
-"Are you sure you want to delete this synonym group?","Are you sure you want to delete this synonym group?",module,Magento_Search
-"Reset","Reset",module,Magento_Search
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Search
-"Save Synonym Group","Save Synonym Group",module,Magento_Search
-"The synonym group has been deleted.","The synonym group has been deleted.",module,Magento_Search
-"An error was encountered while performing delete operation.","An error was encountered while performing delete operation.",module,Magento_Search
-"We can't find a synonym group to delete.","We can't find a synonym group to delete.",module,Magento_Search
-"This synonyms group no longer exists.","This synonyms group no longer exists.",module,Magento_Search
-"Edit Synonym Group","Edit Synonym Group",module,Magento_Search
-"Synonym Group","Synonym Group",module,Magento_Search
-"Failed to delete %1 synonym group(s).","Failed to delete %1 synonym group(s).",module,Magento_Search
-"A total of %1 synonym group(s) have been deleted.","A total of %1 synonym group(s) have been deleted.",module,Magento_Search
-"Marketing","Marketing",module,Magento_Search
-"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.",module,Magento_Search
-"This synonym group no longer exists.","This synonym group no longer exists.",module,Magento_Search
-"You saved the synonym group.","You saved the synonym group.",module,Magento_Search
-"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the "Merge existing synonyms" checkbox so the terms can be merged.","The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the "Merge existing synonyms" checkbox so the terms can be merged.",module,Magento_Search
-"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the "Merge existing synonyms" checkbox so the terms can be merged.","The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the "Merge existing synonyms" checkbox so the terms can be merged.",module,Magento_Search
-"We can't find a search term to delete.","We can't find a search term to delete.",module,Magento_Search
-"Your search query can't be longer than %1, so we shortened your query.","Your search query can't be longer than %1, so we shortened your query.",module,Magento_Search
-"Synonym group with id %1 cannot be deleted. %2","Synonym group with id %1 cannot be deleted. %2",module,Magento_Search
-"Merge conflict with existing synonym group(s): %1","Merge conflict with existing synonym group(s): %1",module,Magento_Search
-"All Websites","All Websites",module,Magento_Search
-"    All Store Views","    All Store Views",module,Magento_Search
-"All Store Views","All Store Views",module,Magento_Search
-"Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
-"View/Edit","View/Edit",module,Magento_Search
-"Scope","Scope",module,Magento_Search
-"You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list.",module,Magento_Search
-"Synonyms","Synonyms",module,Magento_Search
-"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for "shoes", the search results will include any product or content with term “shoes" or "footwear.”","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for "shoes", the search results will include any product or content with term “shoes" or "footwear.”",module,Magento_Search
-"Merge existing synonyms","Merge existing synonyms",module,Magento_Search
-"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.",module,Magento_Search
-"Store View","Store View",module,Magento_Search
-"Website","Website",module,Magento_Search
-"Delete items","Delete items",module,Magento_Search
-"Are you sure you want to delete the selected synonym groups?","Are you sure you want to delete the selected synonym groups?",module,Magento_Search
+"Search Synonyms","Iskanje sopomenk",module,Magento_Search
+"New Synonym Group","Nova skupina sopomenk",module,Magento_Search
+"Back","Nazaj",module,Magento_Search
+"Delete Synonym Group","Izbriši skupino sopomenk",module,Magento_Search
+"Are you sure you want to delete this synonym group?","Ali ste prepričani, da želite izbrisati to skupino sopomenk?",module,Magento_Search
+"Reset","Ponastavitev",module,Magento_Search
+"Save and Continue Edit","Shrani in nadaljuj urejanje",module,Magento_Search
+"Save Synonym Group","Shrani skupino sopomenk",module,Magento_Search
+"The synonym group has been deleted.","Skupina sopomenk je bila izbrisana.",module,Magento_Search
+"An error was encountered while performing delete operation.","Med izvajanjem operacije brisanja je prišlo do napake.",module,Magento_Search
+"We can't find a synonym group to delete.","Skupine sopomenk za brisanje ni mogoče najti.",module,Magento_Search
+"This synonyms group no longer exists.","Ta skupina sopomenk več ne obstaja.",module,Magento_Search
+"Edit Synonym Group","Uredi skupino sopomenk",module,Magento_Search
+"Synonym Group","Skupina sopomenk",module,Magento_Search
+"Failed to delete %1 synonym group(s).","Skupine sopomenk %1 ni mogoče izbrisati.",module,Magento_Search
+"A total of %1 synonym group(s) have been deleted.","Skupaj %1 skupin sopomenk je bilo izbrisanih.",module,Magento_Search
+"Marketing","Trženje",module,Magento_Search
+"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","Sopomenke iskanja niso podprte na %1 iskalniku. Katerokoli sopomenko vnešete, ne bo uporabljena.",module,Magento_Search
+"This synonym group no longer exists.","Ta skupina sopomenk več ne obstaja.",module,Magento_Search
+"You saved the synonym group.","Shranili ste skupino sopomenk.",module,Magento_Search
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the Merge existing synonyms"" checkbox so the terms can be merged.""","Izrazi, ki ste jih vnesli (%1), pripadajo 1 obstoječi skupini sopomenk %2. Izberite polje za združevanje obstoječih sopomenk, da bodo izrazi lahko združeni.",module,Magento_Search
+"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the Merge existing synonyms"" checkbox so the terms can be merged.""","Izrazi, ki ste jih vnesli (%1), pripadajo %2 obstoječim skupinam sopomenk %3 in %4. Izberite polje za združevanje obstoječih sopomenk, da bodo izrazi lahko združeni.",module,Magento_Search
+"We can't find a search term to delete.","Izraza iskanja za izbris ni mogoče najti.",module,Magento_Search
+"Your search query can't be longer than %1, so we shortened your query.","Vaša poizvedba iskanja ne sme biti daljša od %1, tako da je bila skrajšana.",module,Magento_Search
+"Synonym group with id %1 cannot be deleted. %2","Skupine sopomenk z id %1 ni mogoče izbrisati. %2",module,Magento_Search
+"Merge conflict with existing synonym group(s): %1","Združi konflikte z obstoječimi skupinami sopomenk: %1",module,Magento_Search
+"All Websites","Vse spletne strani",module,Magento_Search
+"    All Store Views","    Vsi pogledi trgovine",module,Magento_Search
+"All Store Views","Vsi pogledi trgovine",module,Magento_Search
+"Are you sure you want to delete synonym group with id: %1?","Ali ste prepričani, da želite izbrisati skupino sopomenk z id: %1?",module,Magento_Search
+"View/Edit","Ogled/urejanje",module,Magento_Search
+"Scope","Obseg",module,Magento_Search
+"You can adjust the scope of this synonym group by selecting an option from the list.","Obseg te skupine sopomenk lahko prilagodite tako, da izberete možnost s seznama.",module,Magento_Search
+"Synonyms","Sopomenke",module,Magento_Search
+"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for shoes"""," the search results will include any product or content with term “shoes"" or ""footwear.”""","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for shoes"""," the search results will include any product or content with term “shoes"" or ""footwear.”""",module,Magento_Search
+"Merge existing synonyms","Združi obstoječe sopomenke",module,Magento_Search
+"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Samodejno spoji sopomenke v skupine, ki si delijo isto območje. Če to polje potrdite in dodate enega ali več enakih pogojev različnim skupinam sinonimov v istem obsegu, samodejno spoji vse pogoje v eno skupino. Če to ni tisto, kar želite, odznačite polje in prikaže se napaka, če poskušate dodati enake pogoje.",module,Magento_Search
+"Store View","Pogled trgovine",module,Magento_Search
+"Website","Spletna stran",module,Magento_Search
+"Delete items","Izbriši elemente",module,Magento_Search
+"Are you sure you want to delete the selected synonym groups?","Ali ste prepričani, da želite izbrisati to skupino sopomenk?",module,Magento_Search
 "Custom Variables","Spremenljivke po meri",module,Magento_Variable
 "Add New Variable","Dodaj novo spremenljivko",module,Magento_Variable
 "Save and Continue Edit","Shrani in nadaljuj urejanje",module,Magento_Variable
