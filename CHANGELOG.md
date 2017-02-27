@@ -10,6 +10,14 @@ All notable changes to this project will be documented in this file. This projec
 
 * ...
 
+## [1.0.1] - 2017-02-28
+
+### Added
+
+* Support for Magento 2.1.3, 2.1.2, 2.1.1 and 2.1.0 versions
+* Simplified development
+* Fix for Composer installation
+
 ## [1.0.0] - 2017-02-27
 
 ### Added
