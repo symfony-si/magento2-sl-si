@@ -236,6 +236,7 @@
 "Browse Files...","Prebrskaj datoteke...",module,Magento_Backend
 "Magento","Magento",module,Magento_Backend
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Vse pravice pridržane.",module,Magento_Backend
+"Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento, Inc. Vse pravice pridržane.",module,Magento_Backend
 "ver. %1","ver. %1",module,Magento_Backend
 "Magento Admin Panel","Administracijska plošča Magento",module,Magento_Backend
 "Account Setting","Nastavitve računa",module,Magento_Backend

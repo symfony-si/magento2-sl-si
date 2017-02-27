@@ -73,6 +73,7 @@
 "Store alternative addresses (for shipping to multiple family members and friends)","Shranite alternativne naslove (za odpremo večim družinskim članom in prijateljem)",module,Magento_Theme
 "Configuration","Nastavitve",module,Magento_Theme
 "Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. Vse pravice pridržane.",module,Magento_Theme
+"Copyright © 2017 Magento, Inc. All rights reserved.","Copyright © 2017 Magento, Inc. Vse pravice pridržane.",module,Magento_Theme
 "Design Config Grid","Mreža nastavitev oblike",module,Magento_Theme
 "Rebuild design config grid index","Ponovna gradnja indeksa mreže nastavitev oblike",module,Magento_Theme
 "Theme Information","Informacije o temi",module,Magento_Theme
@@ -4175,6 +4176,7 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "Browse Files...","Prebrskaj datoteke...",module,Magento_Backend
 "Magento","Magento",module,Magento_Backend
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Vse pravice pridržane.",module,Magento_Backend
+"Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento, Inc. Vse pravice pridržane.",module,Magento_Backend
 "ver. %1","ver. %1",module,Magento_Backend
 "Magento Admin Panel","Administracijska plošča Magento",module,Magento_Backend
 "Account Setting","Nastavitve računa",module,Magento_Backend

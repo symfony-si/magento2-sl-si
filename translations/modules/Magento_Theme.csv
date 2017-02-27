@@ -42,6 +42,7 @@
 "Store alternative addresses (for shipping to multiple family members and friends)","Shranite alternativne naslove (za odpremo večim družinskim članom in prijateljem)",module,Magento_Theme
 "Configuration","Nastavitve",module,Magento_Theme
 "Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. Vse pravice pridržane.",module,Magento_Theme
+"Copyright © 2017 Magento, Inc. All rights reserved.","Copyright © 2017 Magento, Inc. Vse pravice pridržane.",module,Magento_Theme
 "Design Config Grid","Mreža nastavitev oblike",module,Magento_Theme
 "Rebuild design config grid index","Ponovna gradnja indeksa mreže nastavitev oblike",module,Magento_Theme
 "Theme Information","Informacije o temi",module,Magento_Theme

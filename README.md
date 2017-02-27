@@ -1,6 +1,6 @@
 # Magento 2 Slovenian Translations
 
-![Progress](http://progressed.io/bar/92?title=completed)
+![Progress](http://progressed.io/bar/100?title=completed)
 [![Magento Marketplace](https://img.shields.io/badge/Magento-Marketplace-orange.svg)][marketplace]
 [![Open Software License v. 3.0](https://img.shields.io/badge/License-OSL--3.0-blue.svg)][license]
 [![Latest Release](https://img.shields.io/github/release/symfony-si/magento2-sl_si.svg)][latest-release]
@@ -10,7 +10,15 @@ Slovenian (Slovenia) - `sl_SI` translations for [Magento][magento] Community Edi
 
 Translations follow Slovenian grammar and translation rules from [Lugos][lugos].
 
-Supported Magento versions: `2.0.4`, `2.0.3`, `2.0.2`, `2.0.1` and `2.0.0`.
+Supported Magento versions:
+
+* `2.1.5`
+* `2.1.4`
+* `2.0.4`
+* `2.0.3`
+* `2.0.2`
+* `2.0.1`
+* `2.0.0`
 
 ## Installation
 
