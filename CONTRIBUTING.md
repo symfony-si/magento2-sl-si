@@ -50,21 +50,16 @@ This repository follows [semantic versioning](http://semver.org). When source
 code changes or new features are implemented, a new version (e.g. 1.x.y) is
 released by the following release process:
 
-* **1. Run the build**
-
-  Run the build script to get HTML version of README and some other things that
-  can be automated:
-
-  ```bash
-  $ ./bin/build
-  ```
-
-* **2. Update Changelog:**
+* **1. Update Changelog:**
 
   Create an entry in [CHANGELOG.md](CHANGELOG.md) describing all the changes
   from previous release.
 
-* **3. Tag a new release:**
+* **2. Tag a new release:**
 
-  Tag a new version on GitHub, and attach ZIP sl_si-1.x.y.zip as a binary file
-  for manual installation.
+  Tag a new version on GitHub.
+
+* **3. Attach a ZIP archive of the language package to a GitHub release**
+
+  Attach ZIP sl_si-1.x.y.zip as a binary file for manual installation and for
+  Magento Marketplace.

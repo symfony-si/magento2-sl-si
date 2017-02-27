@@ -10,16 +10,6 @@ Slovenian (Slovenia) - `sl_SI` translations for [Magento][magento] Community Edi
 
 Translations follow Slovenian grammar and translation rules from [Lugos][lugos].
 
-Supported Magento versions:
-
-* `2.1.5`
-* `2.1.4`
-* `2.0.4`
-* `2.0.3`
-* `2.0.2`
-* `2.0.1`
-* `2.0.0`
-
 ## Installation
 
 ### Option 1: Composer
@@ -35,7 +25,7 @@ $ bin/magento cache:clean
 
 ### Option 2: Manual Installation
 
-Download the latest available [release][latest-release] and extract it to your
+Download the ZIP file of the latest available [release][latest-release] and extract it to your
 Magento root folder at `app/i18n/SymfonySi/sl_SI`. Also don't forget to deploy
 static files for the locale and cleaning cache:
 
@@ -60,6 +50,22 @@ soon...
 * [Crowdin](https://crowdin.com/project/magento-2) - Community effort to
   centralize Magento translations. Inactive, new target languages are not being
   added.
+
+## Supported Magento versions
+
+The following Magento Community Edition versions work with this translation:
+
+* `2.1.5`
+* `2.1.4`
+* `2.1.3`
+* `2.1.2`
+* `2.1.1`
+* `2.1.0`
+* `2.0.4`
+* `2.0.3`
+* `2.0.2`
+* `2.0.1`
+* `2.0.0`
 
 ## Contributing and License
 

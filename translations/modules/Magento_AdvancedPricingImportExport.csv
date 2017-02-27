@@ -1,4 +1,0 @@
-"Please correct the data sent.","Popravite poslane podatke.",module,Magento_AdvancedPricingImportExport
-"Entity type model '%1' is not found","Modela vrste entitete '%1' ni mogoče najti",module,Magento_AdvancedPricingImportExport
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model vrste entitete mora biti instanca \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
-"There are no product types available for export","Za izvoz ni na voljo nobenih vrst izdelkov",module,Magento_AdvancedPricingImportExport

@@ -1,2 +1,0 @@
-"We can't find the role for the user you wanted.","Za željenega uporabnika ni mogoče najti vloge.",module,Magento_Authorization
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Pri prevajanju seznama dovoljenih sredstev je šlo nekaj narobe. Več lahko izveste v dnevniku izjem.",module,Magento_Authorization

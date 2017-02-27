@@ -304,6 +304,26 @@
 "ending","se konča",module,Magento_Braintree
 "expires","poteče",module,Magento_Braintree
 "PayPal Account","Račun PayPal",module,Magento_Braintree
+"Sale","Prodaja",module,Magento_Braintree
+"Credit","Kredit",module,Magento_Braintree
+"Coinbase account","Račun Coinbase",module,Magento_Braintree
+"Europe bank account","Račun Europe bank",module,Magento_Braintree
+"Apple pay card","Plačilna kartica Apple",module,Magento_Braintree
+"Android pay card","Plačilna kartica Android",module,Magento_Braintree
+"Authorization expired","Avtorizacija je potekla",module,Magento_Braintree
+"Authorizing","Avtorizacija",module,Magento_Braintree
+"Authorized","Avtorizirano",module,Magento_Braintree
+"Gateway rejected","Prehod je zavrnil",module,Magento_Braintree
+"Failed","Ni uspelo",module,Magento_Braintree
+"Processor declined","Procesor je zavrnil",module,Magento_Braintree
+"Settled","Poravnano",module,Magento_Braintree
+"Settling","Poravnava",module,Magento_Braintree
+"Submitted for settlement","Poslano za poravnavo",module,Magento_Braintree
+"Voided","Razveljavljeno",module,Magento_Braintree
+"Unrecognized","Neprepoznavno",module,Magento_Braintree
+"Settlement declined","Poravnava zavrnjena",module,Magento_Braintree
+"Settlement pending","Poravnava na čakanju",module,Magento_Braintree
+"Settlement confirmed","Poravnava je potrjena",module,Magento_Braintree
 "PayPal Logo","Logotip PayPal",module,Magento_Braintree
 "Save this card for future use","Shranite to kartico za prihodnjo uporabo",module,Magento_Braintree
 "or","ali",module,Magento_Braintree
@@ -337,6 +357,7 @@
 "Edit","Uredi",module,Magento_Braintree
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Sprejemanje kreditnih/debetnih kartic in PayPal-a v vaši trgovini Magento.<br/>Brez namestitve ali mesečne pristojbine in vaše stranke nikoli ne zapustijo vaše trgovine za dokončanje nakupa.",module,Magento_Braintree
 "Vault Enabled","Trezor omogočen",module,Magento_Braintree
+"Vault enabled","Trezor omogočen",module,Magento_Braintree
 "Vault Title","Naslov trezorja",module,Magento_Braintree
 "Kount Merchant ID","ID trgovca Kount",module,Magento_Braintree
 "Skip Order Review","Preskoči pregled naročila",module,Magento_Braintree
@@ -592,7 +613,7 @@
 "We can't delete tracking number.","Številke sledenja ni mogoče izbrisati.",module,Magento_Shipping
 "We can't load track with retrieving identifier right now.","Sledi s pridobljenim identifikatorjem trenutno ni mogoče naložiti.",module,Magento_Shipping
 "We can't save the shipment right now.","Pošiljke trenutno ni mogoče shraniti.",module,Magento_Shipping
-"Shipment Document Validation Error(s):\n"" .""","Napake preverjanja dokumenta pošiljke:\n",module,Magento_Shipping
+"""Shipment Document Validation Error(s):\n"" .","Napake preverjanja dokumenta pošiljke:\n",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Žal, vendar s tem modulom pošiljanja ne moremo dostavljati v državo destinacije.",module,Magento_Shipping
 "We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Nimamo dovolj informacij, da ustvarimo oznake pošiljk. Preverite, da so informacije vaše trgovine in nastavitve popolne.",module,Magento_Shipping
 "USPS domestic shipments don't use package types.","USPS domače pošiljke ne uporabljajo vrst paketov.",module,Magento_Shipping
@@ -1413,53 +1434,53 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
 "File you are trying to upload exceeds maximum file size limit.","Datoteka, ki jo skušate naložiti presega največjo dovoljeno velikost.",module,Magento_Ui
 "Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Uporabite značko script z atributom src ali ustrehno vsebino za vključitev JavaScript-a v dokumentu.",module,Magento_Ui
 "The date is not within the specified range.","Datum ni znotraj določenega obsega.",module,Magento_Ui
-"Merchant Location","Prodajno mesto","module","Magento_Paypal"
-"Merchant Country","Država trgovca","module","Magento_Paypal"
-"If not specified, Default Country from General Config will be used","Če ni določeno, bo uporabljena privzeta država iz splošnih nastavitev","module","Magento_Paypal"
+"Merchant Location","Prodajno mesto",module,Magento_Paypal
+"Merchant Country","Država trgovca",module,Magento_Paypal
+"If not specified, Default Country from General Config will be used","Če ni določeno, bo uporabljena privzeta država iz splošnih nastavitev",module,Magento_Paypal
 "
                     PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>
                 ","
                     PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Sprejemanje in obdelava kreditnih kartic in plačil PayPal.</i>
-                ","module","Magento_Paypal"
-"Choose a secure bundled payment solution for your business.","Izberite varen komplet plačilni rešitev za vaše podjetje.","module","Magento_Paypal"
-"Payments Pro and Express Checkout","Payments Pro in Express Checkout","module","Magento_Paypal"
-"Basic Settings - PayPal Payments Pro","PayPal Payments Pro - osnovne nastavitve","module","Magento_Paypal"
-"PayPal Payment Gateways","PayPal Payment Gateways","module","Magento_Paypal"
-"Process payments using your own internet merchant account.","Obdelava plačil z uporabo vašega lastnega internetnega računa trgovca.","module","Magento_Paypal"
-"PayPal Express Checkout","PayPal Express Checkout","module","Magento_Paypal"
-"Add another payment method to your existing solution or as a stand-alone option.","Dodajte drug način plačila k vaši obstoječi rešitvi ali pa kot samostojno možnost.","module","Magento_Paypal"
-"1","1","module","Magento_Paypal"
-"Accept payments with a completely customizable checkout page.","Sprejmi plačila s popolnoma prilagodljivo stranjo za plačilo.","module","Magento_Paypal"
-"PayPal Payment Solutions","Rešitve plačevanja s PayPal","module","Magento_Paypal"
-"Express Checkout","Hitro plačilo","module","Magento_Paypal"
-"Add PayPal as an additional payment method to your checkout page.","Dodaj PayPal na vašo stran za plačilo kot dodatni način plačila.","module","Magento_Paypal"
-"Required PayPal Settings","Zahtevane nastavitve PayPal","module","Magento_Paypal"
-"Email Associated with PayPal Merchant Account","E-pošta, povezana s trgovskim računom PayPal","module","Magento_Paypal"
+                ",module,Magento_Paypal
+"Choose a secure bundled payment solution for your business.","Izberite varen komplet plačilni rešitev za vaše podjetje.",module,Magento_Paypal
+"Payments Pro and Express Checkout","Payments Pro in Express Checkout",module,Magento_Paypal
+"Basic Settings - PayPal Payments Pro","PayPal Payments Pro - osnovne nastavitve",module,Magento_Paypal
+"PayPal Payment Gateways","PayPal Payment Gateways",module,Magento_Paypal
+"Process payments using your own internet merchant account.","Obdelava plačil z uporabo vašega lastnega internetnega računa trgovca.",module,Magento_Paypal
+"PayPal Express Checkout","PayPal Express Checkout",module,Magento_Paypal
+"Add another payment method to your existing solution or as a stand-alone option.","Dodajte drug način plačila k vaši obstoječi rešitvi ali pa kot samostojno možnost.",module,Magento_Paypal
+"1","1",module,Magento_Paypal
+"Accept payments with a completely customizable checkout page.","Sprejmi plačila s popolnoma prilagodljivo stranjo za plačilo.",module,Magento_Paypal
+"PayPal Payment Solutions","Rešitve plačevanja s PayPal",module,Magento_Paypal
+"Express Checkout","Hitro plačilo",module,Magento_Paypal
+"Add PayPal as an additional payment method to your checkout page.","Dodaj PayPal na vašo stran za plačilo kot dodatni način plačila.",module,Magento_Paypal
+"Required PayPal Settings","Zahtevane nastavitve PayPal",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account","E-pošta, povezana s trgovskim računom PayPal",module,Magento_Paypal
 "
                         <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
                     ","
                         <a href=""http://www.magentocommerce.com/paypal"">Pričnite prejemati plačila preko PayPal!</a>
-                    ","module","Magento_Paypal"
-"Don't have a PayPal account? Simply enter your email address.","Še nimate računa PayPal? Enostavno vnesite naslov vaše e-pošte.","module","Magento_Paypal"
-"API Authentication Methods","Načini preverjanja pristnosti API","module","Magento_Paypal"
-"API Username","Uporabniško ime API","module","Magento_Paypal"
-"API Password","Geslo API","module","Magento_Paypal"
-"Get Credentials from PayPal","Pridobite poverilnice od PayPal-a","module","Magento_Paypal"
-"Sandbox Credentials","Poverilnice peskovnika","module","Magento_Paypal"
-"Sandbox Mode","Način peskovnika","module","Magento_Paypal"
-"API Uses Proxy","API uporablja proski","module","Magento_Paypal"
-"Proxy Host","Gostitelj proksi-ja","module","Magento_Paypal"
-"Proxy Port","Vrata proksi-ja","module","Magento_Paypal"
-"Enable this Solution","Omogoči to rešitev","module","Magento_Paypal"
-"Enable PayPal Credit","Omogoči PayPal Credit","module","Magento_Paypal"
+                    ",module,Magento_Paypal
+"Don't have a PayPal account? Simply enter your email address.","Še nimate računa PayPal? Enostavno vnesite naslov vaše e-pošte.",module,Magento_Paypal
+"API Authentication Methods","Načini preverjanja pristnosti API",module,Magento_Paypal
+"API Username","Uporabniško ime API",module,Magento_Paypal
+"API Password","Geslo API",module,Magento_Paypal
+"Get Credentials from PayPal","Pridobite poverilnice od PayPal-a",module,Magento_Paypal
+"Sandbox Credentials","Poverilnice peskovnika",module,Magento_Paypal
+"Sandbox Mode","Način peskovnika",module,Magento_Paypal
+"API Uses Proxy","API uporablja proski",module,Magento_Paypal
+"Proxy Host","Gostitelj proksi-ja",module,Magento_Paypal
+"Proxy Port","Vrata proksi-ja",module,Magento_Paypal
+"Enable this Solution","Omogoči to rešitev",module,Magento_Paypal
+"Enable PayPal Credit","Omogoči PayPal Credit",module,Magento_Paypal
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
                 ","PayPal Express Checkout vam omogoča, da date strankam dostop do financiranja preko PayPal Credit&#174; - brez dodatnih stroškov za vas.
                         Plačilo dobite vnaprej, čeprav imajo stranke za plačilo več časa. Vnaprej integrirani gum omogoča strankam hitro plačilo s PayPal Credit&#174;.
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Izvedite več</a>
-                ","module","Magento_Paypal"
-"Advertise PayPal Credit","Oglaševanje PayPal Credit","module","Magento_Paypal"
+                ",module,Magento_Paypal
+"Advertise PayPal Credit","Oglaševanje PayPal Credit",module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1474,114 +1495,114 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
                         Uporabite brezplačne oglaševalske pasice PayPal, ki vam omogočajo oglaševati financiranje PayPal Credit&#174; kot možnost plačila, ko vaše stranke plačajo s PayPal.
                         Izkazalo se je, da PayPal Advertising Program generira dodatne nakupe kot tudi poveča povprečni nakup potrošnikov do 15%
                         ali več. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Poglejte podrobnosti</a>.
-                ","module","Magento_Paypal"
-"Publisher ID","ID založnika","module","Magento_Paypal"
-"Required to display a banner","Zahtevano za prikaz pasice","module","Magento_Paypal"
-"Get Publisher ID from PayPal","Dobite ID založnika iz PayPal-a","module","Magento_Paypal"
-"Home Page","Domača stran","module","Magento_Paypal"
-"Display","Prikaz","module","Magento_Paypal"
-"Position","Položaj","module","Magento_Paypal"
-"Size","Velikost","module","Magento_Paypal"
-"Catalog Category Page","Stran kategorije kataloga","module","Magento_Paypal"
-"Catalog Product Page","Stran kataloškega izdelka","module","Magento_Paypal"
-"Checkout Cart Page","Stran plačila košarice","module","Magento_Paypal"
-"Basic Settings - PayPal Express Checkout","Osnovne nastavitve - PayPal Express Checkout","module","Magento_Paypal"
-"Title","Naslov","module","Magento_Paypal"
-"It is recommended to set this value to ""Magento_Paypal"" per store views.","To vrednost je priporočljivo nastaviti na ""Magento_Paypal"" glede na pogled trgovine.","module","Magento_Paypal"
-"Sort Order","Vrstni red","module","Magento_Paypal"
-"Payment Action","Dejanje plačila","module","Magento_Paypal"
-"Display on Product Details Page","Prikaz na strani podrobnosti izdelka","module","Magento_Paypal"
-"Authorization Honor Period (days)","Obdobje upoštevanja avtorizacije (dnevi)","module","Magento_Paypal"
-"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Določa, kakšno je obdobje upoštevanja avtorizacije na trgovskem računu PayPal. Mora biti sorazmerno z nastavitvijo v PayPal-u.","module","Magento_Paypal"
-"Order Valid Period (days)","Veljavno obdobje naročila (dnevi)","module","Magento_Paypal"
-"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Določa, kolikšno je veljavno obdobje naročila na trgovčevem računu PayPal. Ta mora biti sorazmerna z nastavitvijo v PayPal-u.","module","Magento_Paypal"
-"Number of Child Authorizations","Število podrejenih avtorizacij","module","Magento_Paypal"
-"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Privzeto število podrejenih avtorizacij v vašem računu PayPal je 1. Da naredite več avtorizacij, se obrnite na PayPal in zaprosite za povečanje.","module","Magento_Paypal"
-"Advanced Settings","Napredne nastavitve","module","Magento_Paypal"
-"Display on Shopping Cart","Prikaz pri košarici","module","Magento_Paypal"
-"Also affects mini-shopping cart.","Vpliva tudi na mini nakupovalno košarico.","module","Magento_Paypal"
-"Payment Applicable From","Plačilo je v uporabi iz","module","Magento_Paypal"
-"Countries Payment Applicable From","Države, iz katerih je plačilo v uporabi","module","Magento_Paypal"
-"Debug Mode","Način razhroščevanja","module","Magento_Paypal"
-"Enable SSL verification","Omogoči preverjanje SSL","module","Magento_Paypal"
-"Transfer Cart Line Items","Prenesi elemente vrstic košarice","module","Magento_Paypal"
-"Transfer Shipping Options","Prenesi možnosti dostave","module","Magento_Paypal"
-"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Če je ta možnost omogočena, kupec lahko spremeniti naslov in način dostave na strani PayPal. V načinu v živo deluje samo preko protokola HTTPS.","module","Magento_Paypal"
-"Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Pomnite, da PayPal lahko izvaja do 10 možnosti dostave. Zato bo Magento prenesel samo prvih 10 najcenejših možnosti dostave, če jih je na voljo več kot 10.","module","Magento_Paypal"
-"Shortcut Buttons Flavor","Okus gumbov bližnjic","module","Magento_Paypal"
-"Enable PayPal Guest Checkout","Omogoči PayPal Checkout za neprijavljene uporabnike","module","Magento_Paypal"
-"Ability for buyer to purchase without PayPal account.","Možnost, da kupec opravi nakup brez računa PayPal.","module","Magento_Paypal"
-"Require Customer's Billing Address","Zahtevaj naslov za račun kupca","module","Magento_Paypal"
-"This feature needs be enabled first for the merchant account through PayPal technical support.","Ta lastnost mora biti najprej omogočena za trgovski račun preko tehnične podpore PayPal.","module","Magento_Paypal"
-"Billing Agreement Signup","Podpis sporazuma o zaračunavanju","module","Magento_Paypal"
-"Whether to create a billing agreement, if there are no active billing agreements available.","Ali naj se ustvari sporazum zaračunavanja, če ni na voljo nobenega aktivnega sporazuma zaračunavanja.","module","Magento_Paypal"
+                ",module,Magento_Paypal
+"Publisher ID","ID založnika",module,Magento_Paypal
+"Required to display a banner","Zahtevano za prikaz pasice",module,Magento_Paypal
+"Get Publisher ID from PayPal","Dobite ID založnika iz PayPal-a",module,Magento_Paypal
+"Home Page","Domača stran",module,Magento_Paypal
+"Display","Prikaz",module,Magento_Paypal
+"Position","Položaj",module,Magento_Paypal
+"Size","Velikost",module,Magento_Paypal
+"Catalog Category Page","Stran kategorije kataloga",module,Magento_Paypal
+"Catalog Product Page","Stran kataloškega izdelka",module,Magento_Paypal
+"Checkout Cart Page","Stran plačila košarice",module,Magento_Paypal
+"Basic Settings - PayPal Express Checkout","Osnovne nastavitve - PayPal Express Checkout",module,Magento_Paypal
+"Title","Naslov",module,Magento_Paypal
+"It is recommended to set this value to ""Magento_Paypal"" per store views.","To vrednost je priporočljivo nastaviti na ""Magento_Paypal"" glede na pogled trgovine.",module,Magento_Paypal
+"Sort Order","Vrstni red",module,Magento_Paypal
+"Payment Action","Dejanje plačila",module,Magento_Paypal
+"Display on Product Details Page","Prikaz na strani podrobnosti izdelka",module,Magento_Paypal
+"Authorization Honor Period (days)","Obdobje upoštevanja avtorizacije (dnevi)",module,Magento_Paypal
+"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Določa, kakšno je obdobje upoštevanja avtorizacije na trgovskem računu PayPal. Mora biti sorazmerno z nastavitvijo v PayPal-u.",module,Magento_Paypal
+"Order Valid Period (days)","Veljavno obdobje naročila (dnevi)",module,Magento_Paypal
+"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Določa, kolikšno je veljavno obdobje naročila na trgovčevem računu PayPal. Ta mora biti sorazmerna z nastavitvijo v PayPal-u.",module,Magento_Paypal
+"Number of Child Authorizations","Število podrejenih avtorizacij",module,Magento_Paypal
+"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Privzeto število podrejenih avtorizacij v vašem računu PayPal je 1. Da naredite več avtorizacij, se obrnite na PayPal in zaprosite za povečanje.",module,Magento_Paypal
+"Advanced Settings","Napredne nastavitve",module,Magento_Paypal
+"Display on Shopping Cart","Prikaz pri košarici",module,Magento_Paypal
+"Also affects mini-shopping cart.","Vpliva tudi na mini nakupovalno košarico.",module,Magento_Paypal
+"Payment Applicable From","Plačilo je v uporabi iz",module,Magento_Paypal
+"Countries Payment Applicable From","Države, iz katerih je plačilo v uporabi",module,Magento_Paypal
+"Debug Mode","Način razhroščevanja",module,Magento_Paypal
+"Enable SSL verification","Omogoči preverjanje SSL",module,Magento_Paypal
+"Transfer Cart Line Items","Prenesi elemente vrstic košarice",module,Magento_Paypal
+"Transfer Shipping Options","Prenesi možnosti dostave",module,Magento_Paypal
+"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Če je ta možnost omogočena, kupec lahko spremeniti naslov in način dostave na strani PayPal. V načinu v živo deluje samo preko protokola HTTPS.",module,Magento_Paypal
+"Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Pomnite, da PayPal lahko izvaja do 10 možnosti dostave. Zato bo Magento prenesel samo prvih 10 najcenejših možnosti dostave, če jih je na voljo več kot 10.",module,Magento_Paypal
+"Shortcut Buttons Flavor","Okus gumbov bližnjic",module,Magento_Paypal
+"Enable PayPal Guest Checkout","Omogoči PayPal Checkout za neprijavljene uporabnike",module,Magento_Paypal
+"Ability for buyer to purchase without PayPal account.","Možnost, da kupec opravi nakup brez računa PayPal.",module,Magento_Paypal
+"Require Customer's Billing Address","Zahtevaj naslov za račun kupca",module,Magento_Paypal
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Ta lastnost mora biti najprej omogočena za trgovski račun preko tehnične podpore PayPal.",module,Magento_Paypal
+"Billing Agreement Signup","Podpis sporazuma o zaračunavanju",module,Magento_Paypal
+"Whether to create a billing agreement, if there are no active billing agreements available.","Ali naj se ustvari sporazum zaračunavanja, če ni na voljo nobenega aktivnega sporazuma zaračunavanja.",module,Magento_Paypal
 "
                         Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
                     ","
                         Trgovci morajo za omogočenje lastnosti sporazuma zaračunavanja zaprositi PayPal. Ne omogočite te možnosti, dokler PayPal ne potrdi, da so sporazumi zaračunavanja omogočeni za vaš trgovski račun.
-                    ","module","Magento_Paypal"
-"Skip Order Review Step","Preskoči korak pregleda naročila","module","Magento_Paypal"
-"PayPal Billing Agreement Settings","PayPal nastavitve sporazuma zaračunavanja","module","Magento_Paypal"
-"Enabled","Omogočeno","module","Magento_Paypal"
+                    ",module,Magento_Paypal
+"Skip Order Review Step","Preskoči korak pregleda naročila",module,Magento_Paypal
+"PayPal Billing Agreement Settings","PayPal nastavitve sporazuma zaračunavanja",module,Magento_Paypal
+"Enabled","Omogočeno",module,Magento_Paypal
 "
                             Will appear as a payment option only for customers who have at least one active billing agreement.
                         ","
                             Pojavilo se bo kot možnost plačila samo za kupce, ki imajo aktiven vsaj en sporazum obračunavanja.
-                        ","module","Magento_Paypal"
-"Allow in Billing Agreement Wizard","Omogoči v čarovniku sporazuma zaračunavanja","module","Magento_Paypal"
-"Settlement Report Settings","Nastavitve poročila poravnave","module","Magento_Paypal"
-"SFTP Credentials","SFTP poverilnice","module","Magento_Paypal"
-"Login","Prijava","module","Magento_Paypal"
-"Password","Geslo","module","Magento_Paypal"
-"Custom Endpoint Hostname or IP-Address","Ime gostitelja končne točke po meri ali naslov IP","module","Magento_Paypal"
-"By default it is ""reports.paypal.com"".","Privzeto je ""reports.paypal.com"".","module","Magento_Paypal"
-"Use colon to specify port. For example: ""test.example.com:5224"".","Za določitev vrat uporabi dvopičje. Na primer: ""test.example.com:5224"".","module","Magento_Paypal"
-"Custom Path","Pot po meri","module","Magento_Paypal"
-"Scheduled Fetching","Načrtovano pridobivanje","module","Magento_Paypal"
-"Enable Automatic Fetching","Omogoči samodejno pridobivanje","module","Magento_Paypal"
-"Schedule","Razpored","module","Magento_Paypal"
-"PayPal retains reports for 45 days.","PayPal ohranja poročila 45 dni.","module","Magento_Paypal"
-"Time of Day","Čas dneva","module","Magento_Paypal"
-"Frontend Experience Settings","Nastavitve izkušnje ospredja","module","Magento_Paypal"
-"PayPal Product Logo","Logotip PayPal izdelka","module","Magento_Paypal"
-"Displays on catalog pages and homepage.","Prikaži na straneh kataloga in domači strani.","module","Magento_Paypal"
-"PayPal Merchant Pages Style","Slog trgovskih strani PayPal","module","Magento_Paypal"
-"Page Style","Slog strani","module","Magento_Paypal"
+                        ",module,Magento_Paypal
+"Allow in Billing Agreement Wizard","Omogoči v čarovniku sporazuma zaračunavanja",module,Magento_Paypal
+"Settlement Report Settings","Nastavitve poročila poravnave",module,Magento_Paypal
+"SFTP Credentials","SFTP poverilnice",module,Magento_Paypal
+"Login","Prijava",module,Magento_Paypal
+"Password","Geslo",module,Magento_Paypal
+"Custom Endpoint Hostname or IP-Address","Ime gostitelja končne točke po meri ali naslov IP",module,Magento_Paypal
+"By default it is ""reports.paypal.com"".","Privzeto je ""reports.paypal.com"".",module,Magento_Paypal
+"Use colon to specify port. For example: ""test.example.com:5224"".","Za določitev vrat uporabi dvopičje. Na primer: ""test.example.com:5224"".",module,Magento_Paypal
+"Custom Path","Pot po meri",module,Magento_Paypal
+"Scheduled Fetching","Načrtovano pridobivanje",module,Magento_Paypal
+"Enable Automatic Fetching","Omogoči samodejno pridobivanje",module,Magento_Paypal
+"Schedule","Razpored",module,Magento_Paypal
+"PayPal retains reports for 45 days.","PayPal ohranja poročila 45 dni.",module,Magento_Paypal
+"Time of Day","Čas dneva",module,Magento_Paypal
+"Frontend Experience Settings","Nastavitve izkušnje ospredja",module,Magento_Paypal
+"PayPal Product Logo","Logotip PayPal izdelka",module,Magento_Paypal
+"Displays on catalog pages and homepage.","Prikaži na straneh kataloga in domači strani.",module,Magento_Paypal
+"PayPal Merchant Pages Style","Slog trgovskih strani PayPal",module,Magento_Paypal
+"Page Style","Slog strani",module,Magento_Paypal
 "
                             Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
                         ","
                             Dovoljene vrednosti: ""paypal"", ""primary"" (privzeto), your_custom_value (slog strani plačila po meri iz vašega profila trgovskega računa).
-                        ","module","Magento_Paypal"
-"Header Image URL","URL slike glave","module","Magento_Paypal"
+                        ",module,Magento_Paypal
+"Header Image URL","URL slike glave",module,Magento_Paypal
 "
                             The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
                         ","
                             Slika zgoraj levo na strani plačila. Največja velikost je 750x90 px. <strong style=""color:red"">https</strong> je zelo priporočljiv.
-                        ","module","Magento_Paypal"
-"Header Background Color","Barva ozadja glave","module","Magento_Paypal"
+                        ",module,Magento_Paypal
+"Header Background Color","Barva ozadja glave",module,Magento_Paypal
 "
                             The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
                         ","
                             Barva ozadja za glavo strani plačila. 6 znakov šestnajstiške barvne kode HTML, neobčutljive na velike ali male črke, v ASCII.
-                        ","module","Magento_Paypal"
-"Header Border Color","Barva obrobe glave","module","Magento_Paypal"
-"2-pixel perimeter around the header space.","Obseg 2px okoli prostora glave.","module","Magento_Paypal"
-"Page Background Color","Barva ozadja strani","module","Magento_Paypal"
+                        ",module,Magento_Paypal
+"Header Border Color","Barva obrobe glave",module,Magento_Paypal
+"2-pixel perimeter around the header space.","Obseg 2px okoli prostora glave.",module,Magento_Paypal
+"Page Background Color","Barva ozadja strani",module,Magento_Paypal
 "
                             The background color for the checkout page around the header and payment form.
                         ","
                             Barva ozadja za stran plačila okrog glave in obrazca plačila.
-                        ","module","Magento_Paypal"
-"Payments Advanced (Includes Express Checkout)","Payments Advanced (vključuje Express Checkout)","module","Magento_Paypal"
-"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Sprejmi plačila, ki imajo PCI skladen nakup, ki ohranja stranke na vaši spletni strani.","module","Magento_Paypal"
-"Payments Advanced and Express Checkout","Payments Advanced in Express Checkout","module","Magento_Paypal"
-"Partner","Partner","module","Magento_Paypal"
-"Vendor","Dobavitelj","module","Magento_Paypal"
-"User","Uporabnik","module","Magento_Paypal"
-"PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal priporoča, da na svojem računu nastavite dodatnega uporabnika na manager.paypal.com","module","Magento_Paypal"
-"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal priporoča, da na vašem računu nastavite dodatnega uporabnika na manager.paypal.com, namesto, da tu vnašate vaše administratorsko uporabniško ime in geslo. To bo izboljšalo vašo varnost in preprečilo prekinitve storitve, če pozneje spremenite vaše geslo. Če ne želite nastaviti dodatnega uporabnika, lahko tukaj ponovno vnesete vašo trgovsko prijavo.","module","Magento_Paypal"
-"Test Mode","Testni način","module","Magento_Paypal"
-"Use Proxy","Uporabi proksi","module","Magento_Paypal"
+                        ",module,Magento_Paypal
+"Payments Advanced (Includes Express Checkout)","Payments Advanced (vključuje Express Checkout)",module,Magento_Paypal
+"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Sprejmi plačila, ki imajo PCI skladen nakup, ki ohranja stranke na vaši spletni strani.",module,Magento_Paypal
+"Payments Advanced and Express Checkout","Payments Advanced in Express Checkout",module,Magento_Paypal
+"Partner","Partner",module,Magento_Paypal
+"Vendor","Dobavitelj",module,Magento_Paypal
+"User","Uporabnik",module,Magento_Paypal
+"PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal priporoča, da na svojem računu nastavite dodatnega uporabnika na manager.paypal.com",module,Magento_Paypal
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal priporoča, da na vašem računu nastavite dodatnega uporabnika na manager.paypal.com, namesto, da tu vnašate vaše administratorsko uporabniško ime in geslo. To bo izboljšalo vašo varnost in preprečilo prekinitve storitve, če pozneje spremenite vaše geslo. Če ne želite nastaviti dodatnega uporabnika, lahko tukaj ponovno vnesete vašo trgovsko prijavo.",module,Magento_Paypal
+"Test Mode","Testni način",module,Magento_Paypal
+"Use Proxy","Uporabi proksi",module,Magento_Paypal
 "
                     <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1596,24 +1617,24 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
                                             Uporabite brezplačne oglaševalske pasice PayPal, ki vam omogočajo oglaševati financiranje PayPal Credit&#174; kot možnost plačila, ko vaše stranke plačajo s PayPal.
                                             Izkazalo se je, da PayPal Advertising Program generira dodatne nakupe kot tudi poveča povprečni nakup potrošnikov do 15%
                                             ali več. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Poglejte podrobnosti</a>.
-                ","module","Magento_Paypal"
-"Basic Settings - PayPal Payments Advanced","Osnovne nastavitve - PayPal Payments Advanced","module","Magento_Paypal"
-"It is recommended to set this value to ""Debit or Credit Card"" per store views.","To vrednost je priporočljivo nastaviti na ""debetno ali kreditno kartico"" glede na poglede trgovine.","module","Magento_Paypal"
-"CVV Entry is Editable","CVV vnos je mogoče urejati","module","Magento_Paypal"
-"Require CVV Entry","Zahtevaj vnos CVV","module","Magento_Paypal"
-"Send Email Confirmation","Pošlji potrditveno e-pošto","module","Magento_Paypal"
-"URL method for Cancel URL and Return URL","URL metoda za URL preklica in URL vrnitve","module","Magento_Paypal"
-"Payflow Link (Includes Express Checkout)","Payflow Link (vključuje Express Checkout)","module","Magento_Paypal"
-"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Povežite vaš trgovski račun s PCI-skladnim prehodom, ki omogoča strankam plačati brez, da zapustijo vašo stran.","module","Magento_Paypal"
-"Payflow Link and Express Checkout","Payflow Link in Express Checkout","module","Magento_Paypal"
-"Email Associated with PayPal Merchant Account (Optional)","E-pošta, povezana s PayPal trgovskim računom (neobvezno)","module","Magento_Paypal"
-"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Če na vašem računu nimate nastavljenih večih uporabnikov, tukaj znova vnesite vaše uporabniško ime dobavitelja/trgovca.","module","Magento_Paypal"
-"Enable Payflow Link","Omogoči Payflow Link","module","Magento_Paypal"
-"Enable Express Checkout","Omogoči Express Checkout","module","Magento_Paypal"
-"Basic Settings - PayPal Payflow Link","Osnovne nastavitve - PayPal Payflow Link","module","Magento_Paypal"
-"Website Payments Pro Hosted Solution","Website Payments Pro Hosted Solution","module","Magento_Paypal"
-"Accept payments with a PCI compliant checkout that keeps customers on your site.","Sprejmi plačila, ki imajo PCI skladen nakup, ki ohranja stranke na vaši spletni strani.","module","Magento_Paypal"
-"Payments Pro Hosted Solution","Payments Pro Hosted Solution","module","Magento_Paypal"
+                ",module,Magento_Paypal
+"Basic Settings - PayPal Payments Advanced","Osnovne nastavitve - PayPal Payments Advanced",module,Magento_Paypal
+"It is recommended to set this value to ""Debit or Credit Card"" per store views.","To vrednost je priporočljivo nastaviti na ""debetno ali kreditno kartico"" glede na poglede trgovine.",module,Magento_Paypal
+"CVV Entry is Editable","CVV vnos je mogoče urejati",module,Magento_Paypal
+"Require CVV Entry","Zahtevaj vnos CVV",module,Magento_Paypal
+"Send Email Confirmation","Pošlji potrditveno e-pošto",module,Magento_Paypal
+"URL method for Cancel URL and Return URL","URL metoda za URL preklica in URL vrnitve",module,Magento_Paypal
+"Payflow Link (Includes Express Checkout)","Payflow Link (vključuje Express Checkout)",module,Magento_Paypal
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Povežite vaš trgovski račun s PCI-skladnim prehodom, ki omogoča strankam plačati brez, da zapustijo vašo stran.",module,Magento_Paypal
+"Payflow Link and Express Checkout","Payflow Link in Express Checkout",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account (Optional)","E-pošta, povezana s PayPal trgovskim računom (neobvezno)",module,Magento_Paypal
+"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Če na vašem računu nimate nastavljenih večih uporabnikov, tukaj znova vnesite vaše uporabniško ime dobavitelja/trgovca.",module,Magento_Paypal
+"Enable Payflow Link","Omogoči Payflow Link",module,Magento_Paypal
+"Enable Express Checkout","Omogoči Express Checkout",module,Magento_Paypal
+"Basic Settings - PayPal Payflow Link","Osnovne nastavitve - PayPal Payflow Link",module,Magento_Paypal
+"Website Payments Pro Hosted Solution","Website Payments Pro Hosted Solution",module,Magento_Paypal
+"Accept payments with a PCI compliant checkout that keeps customers on your site.","Sprejmi plačila, ki imajo PCI skladen nakup, ki ohranja stranke na vaši spletni strani.",module,Magento_Paypal
+"Payments Pro Hosted Solution","Payments Pro Hosted Solution",module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1628,30 +1649,30 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
                             Uporabite brezplačne oglaševalske pasice PayPal, ki vam omogočajo oglaševati financiranje PayPal Credit&#174; kot možnost plačila, ko vaše stranke plačajo s PayPal.
                             Izkazalo se je, da PayPal Advertising Program generira dodatne nakupe kot tudi poveča povprečni nakup potrošnikov do 15%
                             ali več. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Poglejte podrobnosti</a>.
-                ","module","Magento_Paypal"
-"Basic Settings - PayPal Payments Pro Hosted Solution","Osnovne nastavitve - PayPal Payments Pro Hosted Solution","module","Magento_Paypal"
-"It is recommended to set this value to ""PayPal"" per store views.","To vrednost je priporočljivo nastaviti na ""PayPal"" glede na poglede trgovine.","module","Magento_Paypal"
-"Display Express Checkout in the Payment Information step","Prikaz Express Checkout v koraku informacije o plačilu","module","Magento_Paypal"
-"Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution in Express Checkout","module","Magento_Paypal"
-"Basic Settings - PayPal Website Payments Pro Hosted Solution","Osnovne nastavitve - PayPal Website Payments Pro Hosted Solution","module","Magento_Paypal"
-"Payflow Pro","Payflow Pro","module","Magento_Paypal"
-"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Povežite vaš trgovski račun s popolnoma prilagodljivim prehodom, ki omogoča strankam plačati brez, da zapustijo vašo stran.","module","Magento_Paypal"
-"Basic Settings - PayPal Payflow Pro","Osnovne nastavitve - PayPal Payflow Pro","module","Magento_Paypal"
-"Credit Card Settings","Nastavitve kreditne kartice","module","Magento_Paypal"
-"Allowed Credit Card Types","Dovoljene vrste kreditnih kartic","module","Magento_Paypal"
+                ",module,Magento_Paypal
+"Basic Settings - PayPal Payments Pro Hosted Solution","Osnovne nastavitve - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
+"It is recommended to set this value to ""PayPal"" per store views.","To vrednost je priporočljivo nastaviti na ""PayPal"" glede na poglede trgovine.",module,Magento_Paypal
+"Display Express Checkout in the Payment Information step","Prikaz Express Checkout v koraku informacije o plačilu",module,Magento_Paypal
+"Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution in Express Checkout",module,Magento_Paypal
+"Basic Settings - PayPal Website Payments Pro Hosted Solution","Osnovne nastavitve - PayPal Website Payments Pro Hosted Solution",module,Magento_Paypal
+"Payflow Pro","Payflow Pro",module,Magento_Paypal
+"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Povežite vaš trgovski račun s popolnoma prilagodljivim prehodom, ki omogoča strankam plačati brez, da zapustijo vašo stran.",module,Magento_Paypal
+"Basic Settings - PayPal Payflow Pro","Osnovne nastavitve - PayPal Payflow Pro",module,Magento_Paypal
+"Credit Card Settings","Nastavitve kreditne kartice",module,Magento_Paypal
+"Allowed Credit Card Types","Dovoljene vrste kreditnih kartic",module,Magento_Paypal
 "
                     Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
                 ","
                     Podpora kartic American Express zahteva dodaten sporazum. Izvedite več na <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
-                ","module","Magento_Paypal"
-"CVV and AVS Settings","CVV in AVS nastavitve","module","Magento_Paypal"
-"Reject Transaction if:","Zavrni transakcijo, če:","module","Magento_Paypal"
-"AVS Street Does Not Match","AVS ulica se ne ujema","module","Magento_Paypal"
-"AVS Zip Does Not Match","AVS poštna številka se ne ujema","module","Magento_Paypal"
-"International AVS Indicator Does Not Match","Mednarodni AVS kazalec se ne ujema","module","Magento_Paypal"
-"Card Security Code Does Not Match","Varnostna koda kartice se ne ujema","module","Magento_Paypal"
-"Payflow Pro (Includes Express Checkout)","Payflow Pro (vključuje Express Checkout)","module","Magento_Paypal"
-"Payflow Pro and Express Checkout","Payflow Pro in Express Checkout","module","Magento_Paypal"
+                ",module,Magento_Paypal
+"CVV and AVS Settings","CVV in AVS nastavitve",module,Magento_Paypal
+"Reject Transaction if:","Zavrni transakcijo, če:",module,Magento_Paypal
+"AVS Street Does Not Match","AVS ulica se ne ujema",module,Magento_Paypal
+"AVS Zip Does Not Match","AVS poštna številka se ne ujema",module,Magento_Paypal
+"International AVS Indicator Does Not Match","Mednarodni AVS kazalec se ne ujema",module,Magento_Paypal
+"Card Security Code Does Not Match","Varnostna koda kartice se ne ujema",module,Magento_Paypal
+"Payflow Pro (Includes Express Checkout)","Payflow Pro (vključuje Express Checkout)",module,Magento_Paypal
+"Payflow Pro and Express Checkout","Payflow Pro in Express Checkout",module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1666,60 +1687,60 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
                                 Uporabite brezplačne oglaševalske pasice PayPal, ki vam omogočajo oglaševati financiranje PayPal Credit&#174; kot možnost plačila, ko vaše stranke plačajo s PayPal.
                                 Izkazalo se je, da PayPal Advertising Program generira dodatne nakupe kot tudi poveča povprečni nakup potrošnikov do 15%
                                 ali več. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Poglejte podrobnosti</a>.
-                ","module","Magento_Paypal"
-"We can't cancel the billing agreement.","Sporazuma zaračunavanja ni mogoče preklicati.","module","Magento_Paypal"
-"We can't delete the billing agreement.","Sporazuma zaračuvanja ni mogoče izbrisati.","module","Magento_Paypal"
-"We can't fetch reports from %1@%2.""""","Poročil od %1@%2."""" ni mogoče zajeti","module","Magento_Paypal"
-"We couldn't finish the billing agreement wizard.","Čarovnika sporazuma obračunavanja ni mogoče zaključiti.","module","Magento_Paypal"
-"We can't start the billing agreement wizard.","Čarovnika sporazuma obračunavanja ni mogoče začeti.","module","Magento_Paypal"
-"We can't initialize Express Checkout.","Express Checkout ni mogoče inicializirati.","module","Magento_Paypal"
-"We can't place the order.","Naročila ni mogoče oddati.","module","Magento_Paypal"
-"We can't process Express Checkout approval.","Express Checkout potrditve ni mogoče obdelati.","module","Magento_Paypal"
-"We can't initialize Express Checkout review.","Pregleda Express Checkout ni mogoče inicializirati.","module","Magento_Paypal"
-"We can't update shipping method.","Načina dostave ni mogoče posodobiti.","module","Magento_Paypal"
-"We can't start Express Checkout.","Express Checkout ni mogoče zagnati.","module","Magento_Paypal"
-"Sorry, but something went wrong","Se opravičujemo, vendar nekaj ni v redu","module","Magento_Paypal"
-"Payment Gateway is unreachable at the moment. Please use another payment option.","Trenutno je plačilni prehod nedosegljiv. Prosimo, uporabite drugo možnost plačila.","module","Magento_Paypal"
-"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Žal, vendar vašega plačila ni mogoče obdelati. Poskusite drug način plačila ali pa nas kontaktirajte, da vam lahko pomagamo.","module","Magento_Paypal"
-"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Žal, vendar vaše transakcije ni mogoče zaključiti. Prosimo, da nas kontaktirate, da vam lahko pomagamo.","module","Magento_Paypal"
-"A match of the Shipping Address City, State, and Postal Code failed.","Ujemanje mesta dostavnega naslova, države in poštne številke ni uspelo.","module","Magento_Paypal"
-"We'll authorize the amount of %1 as soon as the payment gateway approves it.","Znesek %1 bomo avtorizirali, takoj ko ga plačilni prehod odobri.","module","Magento_Paypal"
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne more obdelati naročil z ničelnim stanjem. Da zaključite vaše naročilo, prosimo pojdite skozi standardni proces naročila.","module","Magento_Paypal"
-"This customer didn't include a confirmed address.","Ta kupec ni vključil potrjenega naslova.","module","Magento_Paypal"
-"The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","Trgovec nima računa iz ZDA in nima mehanizma dviga.","module","Magento_Paypal"
-"The payment currency doesn't match any of the merchant's balances currency.","Plačilna valuta se ne ujema z nobeno od valut stanja trgovca.","module","Magento_Paypal"
-"Buyer's Tax ID","ID davka kupca","module","Magento_Paypal"
-"Buyer's Tax ID Type","Vrsta ID davka kupca","module","Magento_Paypal"
-"We cannot cancel this order.","Tega naročila ni mogoče preklicati.","module","Magento_Paypal"
-"Invalid method %1::%2","Neveljavna metoda: %1::%2","module","Magento_Paypal"
-"Error processing payment. Please try again later.","Napaka pri obdelavi plačila. Poskusite znova kasneje.","module","Magento_Paypal"
-"Payment error. %value was not found.","Napaka plačila. %value ni mogoče najti.","module","Magento_Paypal"
-"We can't issue a refund transaction because there is no capture transaction.","Transakcije nadomestila ni mogoče izvršiti, ker ni transakcije zajetja.","module","Magento_Paypal"
-"We can't create a billing agreement for this order.","Za to naročilo ni mogoče ustvariti sporazuma obračunavanja.","module","Magento_Paypal"
-"ending","se konča","module","Magento_Paypal"
-"expires","poteče","module","Magento_Paypal"
-"Credit Card Type","Vrsta kreditne kartice","module","Magento_Paypal"
-"Credit Card Number","Številka kreditne kartice","module","Magento_Paypal"
-"Expiration Date","Datum poteka","module","Magento_Paypal"
-"Card Verification Number","Potrditvena številka kartice","module","Magento_Paypal"
-"Sign a billing agreement to streamline further purchases with PayPal.","Podpišite sporazum o zaračunavanju za poenostavitev nadaljnih nakupov s PayPal.","module","Magento_Paypal"
-"Continue to PayPal","Nadaljujte na PayPal","module","Magento_Paypal"
-"Save credit card information for future use.","Shranite informacije o kreditni kartici za prihodnjo uporabo.","module","Magento_Paypal"
-"PayPal Section","Oddelek PayPal","module","Magento_Paypal"
-"PayPal Settlement","PayPal poravnave","module","Magento_Paypal"
-"Fetch","Zajemi","module","Magento_Paypal"
-"Actions","Dejanja","module","Magento_Paypal"
-"Manage","Upravljanje","module","Magento_Paypal"
-"Place Order Using Billing Agreements","Oddajte naročilo z uporabo sporazuma obračunavanja","module","Magento_Paypal"
-"Recommended Solutions:","Predlagane rešitve:","module","Magento_Paypal"
-"Other PayPal Payment Solutions:","Ostale plačilne rešitve PayPal:","module","Magento_Paypal"
-"Other Payment Methods:","Druge plačilne metode:","module","Magento_Paypal"
-"PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;<i>Sprejemanje in obdelava kreditnih kartic in plačil PayPal.</i>","module","Magento_Paypal"
-"Payments Pro","Payments Pro","module","Magento_Paypal"
-"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Obdelava plačil z uporabo vašega lastnega trgovskega računa.</i>","module","Magento_Paypal"
-"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Sprejemanje in obdelava kreditnih kartic in plačil PayPal.</i>","module","Magento_Paypal"
-"Website Payments Pro","Website Payments Pro","module","Magento_Paypal"
-"Enable In-Context Checkout Experience","Omogočite izkušnjo nakupa v kontekstu","module","Magento_Paypal"
+                ",module,Magento_Paypal
+"We can't cancel the billing agreement.","Sporazuma zaračunavanja ni mogoče preklicati.",module,Magento_Paypal
+"We can't delete the billing agreement.","Sporazuma zaračuvanja ni mogoče izbrisati.",module,Magento_Paypal
+"We can't fetch reports from %1@%2.""""","Poročil od %1@%2."""" ni mogoče zajeti",module,Magento_Paypal
+"We couldn't finish the billing agreement wizard.","Čarovnika sporazuma obračunavanja ni mogoče zaključiti.",module,Magento_Paypal
+"We can't start the billing agreement wizard.","Čarovnika sporazuma obračunavanja ni mogoče začeti.",module,Magento_Paypal
+"We can't initialize Express Checkout.","Express Checkout ni mogoče inicializirati.",module,Magento_Paypal
+"We can't place the order.","Naročila ni mogoče oddati.",module,Magento_Paypal
+"We can't process Express Checkout approval.","Express Checkout potrditve ni mogoče obdelati.",module,Magento_Paypal
+"We can't initialize Express Checkout review.","Pregleda Express Checkout ni mogoče inicializirati.",module,Magento_Paypal
+"We can't update shipping method.","Načina dostave ni mogoče posodobiti.",module,Magento_Paypal
+"We can't start Express Checkout.","Express Checkout ni mogoče zagnati.",module,Magento_Paypal
+"Sorry, but something went wrong","Se opravičujemo, vendar nekaj ni v redu",module,Magento_Paypal
+"Payment Gateway is unreachable at the moment. Please use another payment option.","Trenutno je plačilni prehod nedosegljiv. Prosimo, uporabite drugo možnost plačila.",module,Magento_Paypal
+"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Žal, vendar vašega plačila ni mogoče obdelati. Poskusite drug način plačila ali pa nas kontaktirajte, da vam lahko pomagamo.",module,Magento_Paypal
+"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Žal, vendar vaše transakcije ni mogoče zaključiti. Prosimo, da nas kontaktirate, da vam lahko pomagamo.",module,Magento_Paypal
+"A match of the Shipping Address City, State, and Postal Code failed.","Ujemanje mesta dostavnega naslova, države in poštne številke ni uspelo.",module,Magento_Paypal
+"We'll authorize the amount of %1 as soon as the payment gateway approves it.","Znesek %1 bomo avtorizirali, takoj ko ga plačilni prehod odobri.",module,Magento_Paypal
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne more obdelati naročil z ničelnim stanjem. Da zaključite vaše naročilo, prosimo pojdite skozi standardni proces naročila.",module,Magento_Paypal
+"This customer didn't include a confirmed address.","Ta kupec ni vključil potrjenega naslova.",module,Magento_Paypal
+"The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","Trgovec nima računa iz ZDA in nima mehanizma dviga.",module,Magento_Paypal
+"The payment currency doesn't match any of the merchant's balances currency.","Plačilna valuta se ne ujema z nobeno od valut stanja trgovca.",module,Magento_Paypal
+"Buyer's Tax ID","ID davka kupca",module,Magento_Paypal
+"Buyer's Tax ID Type","Vrsta ID davka kupca",module,Magento_Paypal
+"We cannot cancel this order.","Tega naročila ni mogoče preklicati.",module,Magento_Paypal
+"Invalid method %1::%2","Neveljavna metoda: %1::%2",module,Magento_Paypal
+"Error processing payment. Please try again later.","Napaka pri obdelavi plačila. Poskusite znova kasneje.",module,Magento_Paypal
+"Payment error. %value was not found.","Napaka plačila. %value ni mogoče najti.",module,Magento_Paypal
+"We can't issue a refund transaction because there is no capture transaction.","Transakcije nadomestila ni mogoče izvršiti, ker ni transakcije zajetja.",module,Magento_Paypal
+"We can't create a billing agreement for this order.","Za to naročilo ni mogoče ustvariti sporazuma obračunavanja.",module,Magento_Paypal
+"ending","se konča",module,Magento_Paypal
+"expires","poteče",module,Magento_Paypal
+"Credit Card Type","Vrsta kreditne kartice",module,Magento_Paypal
+"Credit Card Number","Številka kreditne kartice",module,Magento_Paypal
+"Expiration Date","Datum poteka",module,Magento_Paypal
+"Card Verification Number","Potrditvena številka kartice",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases with PayPal.","Podpišite sporazum o zaračunavanju za poenostavitev nadaljnih nakupov s PayPal.",module,Magento_Paypal
+"Continue to PayPal","Nadaljujte na PayPal",module,Magento_Paypal
+"Save credit card information for future use.","Shranite informacije o kreditni kartici za prihodnjo uporabo.",module,Magento_Paypal
+"PayPal Section","Oddelek PayPal",module,Magento_Paypal
+"PayPal Settlement","PayPal poravnave",module,Magento_Paypal
+"Fetch","Zajemi",module,Magento_Paypal
+"Actions","Dejanja",module,Magento_Paypal
+"Manage","Upravljanje",module,Magento_Paypal
+"Place Order Using Billing Agreements","Oddajte naročilo z uporabo sporazuma obračunavanja",module,Magento_Paypal
+"Recommended Solutions:","Predlagane rešitve:",module,Magento_Paypal
+"Other PayPal Payment Solutions:","Ostale plačilne rešitve PayPal:",module,Magento_Paypal
+"Other Payment Methods:","Druge plačilne metode:",module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;<i>Sprejemanje in obdelava kreditnih kartic in plačil PayPal.</i>",module,Magento_Paypal
+"Payments Pro","Payments Pro",module,Magento_Paypal
+"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Obdelava plačil z uporabo vašega lastnega trgovskega računa.</i>",module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Sprejemanje in obdelava kreditnih kartic in plačil PayPal.</i>",module,Magento_Paypal
+"Website Payments Pro","Website Payments Pro",module,Magento_Paypal
+"Enable In-Context Checkout Experience","Omogočite izkušnjo nakupa v kontekstu",module,Magento_Paypal
 "
                     See PayPal Feature Support details and list of supported regions
                     <a href=https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","
@@ -1729,417 +1750,418 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
 "                    See PayPal Feature Support details and list of supported regions","                    Oglejte si podrobnosti podpore lastnosti PayPal in seznam podprih območij"
 "                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">tukaj</a>."
 ",module,Magento_Paypal
-Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
-"Sort Order PayPal Credit","Vrstni red PayPal Credit","module","Magento_Paypal"
-"Payments Advanced","Payments Advanced","module","Magento_Paypal"
-"Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Sprejemajte plačila s PCI-podprtim nakupom, ki obdrži kupce na vaši strani. (<u>Vključuje Express Checkout</u>)","module","Magento_Paypal"
-"Payflow Link","Payflow Link","module","Magento_Paypal"
-"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Povežite vaš trgovski račun s PCI-skladnim prehodom, ki omogoča strankam plačati brez, da zapustijo vašo stran. (<u>Vključuje Express Checkout</u>)","module","Magento_Paypal"
-"Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Sprejemajte plačila s PCI-podprtim nakupom, ki obdrži kupce na vaši strani. (<u>Vključuje Express Checkout</u>)","module","Magento_Paypal"
-"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Povežite vaš trgovski račun s polno prilagodljivim prehodom, ki omogoča strankam plačati brez, da zapustijo vašo stran. (<u>Vključuje Express Checkout</u>)","module","Magento_Paypal"
-"Vault Enabled","Trezor omogočen","module","Magento_Paypal"
-"Vault Title","Naslov trezorja","module","Magento_Paypal"
-"Billing Agreements","Sporazumi zaračunavanja","module","Magento_Paypal"
-"ID","ID","module","Magento_Paypal"
-"Email","E-pošta","module","Magento_Paypal"
-"First Name","Ime","module","Magento_Paypal"
-"Last Name","Priimek","module","Magento_Paypal"
-"Reference ID","Referenčna številka","module","Magento_Paypal"
-"Status","Stanje","module","Magento_Paypal"
-"Created","Ustvarjeno","module","Magento_Paypal"
-"N/A","ni na voljo","module","Magento_Paypal"
-"Updated","Posodobljeno","module","Magento_Paypal"
-"Back","Nazaj","module","Magento_Paypal"
-"Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?","module","Magento_Paypal"
-"Cancel","Prekliči","module","Magento_Paypal"
-"Billing Agreement #%1","Sporazum zaračunavanja #%1","module","Magento_Paypal"
-"General Information","Splošne informacije","module","Magento_Paypal"
-"Related Orders","Povezana naročila","module","Magento_Paypal"
-"Order","Naročilo","module","Magento_Paypal"
-"Purchased","Kupljeno","module","Magento_Paypal"
-"Bill-to Name","Račun na ime","module","Magento_Paypal"
-"Ship-to Name","Dostava na ime","module","Magento_Paypal"
-"Order Total","Skupno naročilo","module","Magento_Paypal"
-"Purchase Point","Točka nakupa","module","Magento_Paypal"
-"Billing Agreement View","Pogled sporazuma zaračunavanja","module","Magento_Paypal"
-"View Transaction Details","Ogled podrobnosti transakcije","module","Magento_Paypal"
-"Reference Information","Referenčne informacije","module","Magento_Paypal"
-"Transaction Information","Informacije o transakcijah","module","Magento_Paypal"
-"PayPal Fee Information","Informacije pristojbine za PayPal","module","Magento_Paypal"
-"PayPal Settlement Reports","Poročilo poravnav PayPal","module","Magento_Paypal"
-"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Povezujemo se s PayPal strežnikom SFTP za pridobitev novih poročil. Ali ste prepričani, da želite nadaljevati?","module","Magento_Paypal"
-"Fetch Updates","Pridobi posodobitve","module","Magento_Paypal"
-"button_label","button_label","module","Magento_Paypal"
-"sandbox_button_label","sandbox_button_label","module","Magento_Paypal"
-"Help","Pomoč","module","Magento_Paypal"
-"Configure","Konfiguriranje","module","Magento_Paypal"
-"Close","Zapri","module","Magento_Paypal"
-"Learn More","Izvedite več","module","Magento_Paypal"
-"View Demo","Ogled demonstracije","module","Magento_Paypal"
-"See terms","Glej pogoje","module","Magento_Paypal"
-"You will be redirected to the PayPal website.","Preusmerjeni boste na spletno stran PayPal.","module","Magento_Paypal"
-"You will be redirected to the PayPal website when you place an order.","Ko oddate naročilo, boste preusmerjeni na spletno stran PayPal.","module","Magento_Paypal"
-"Incl. Tax","Z davkom","module","Magento_Paypal"
-"Billing Information","Informacije računa","module","Magento_Paypal"
-"Shipping Information","Informacije dostave","module","Magento_Paypal"
-"Would you like to sign a billing agreement to streamline further purchases with PayPal?","Ali bi želeli podpisati sporazum obračunavanja za poenostavitev nadaljnjih nakupov s PayPal?","module","Magento_Paypal"
-"Invalid block type","Neveljavna vrsta bloka","module","Magento_Paypal"
-"Please specify the correct billing agreement ID and try again.","Določite pravilni ID sporazuma obračunavanja in poskusite znova.","module","Magento_Paypal"
-"You canceled the billing agreement.","Sporazum zaračunavanja ste preklicali.","module","Magento_Paypal"
-"We can\'t cancel the billing agreement.","Sporazuma zaračunavanja ni mogoče preklicati.","module","Magento_Paypal"
-"You deleted the billing agreement.","Sporazum zaračunavanja ste izbrisali.","module","Magento_Paypal"
-"We can\'t delete the billing agreement.","Sporazuma zaračuvanja ni mogoče izbrisati.","module","Magento_Paypal"
-"Reports","Poročila","module","Magento_Paypal"
-"Sales","Prodaja","module","Magento_Paypal"
-"View Transaction","Pogled transakcije","module","Magento_Paypal"
-"We found nothing to fetch because of an empty configuration.","Zaradi praznih nastavitev ni mogoče najti ničesar za zajetje.","module","Magento_Paypal"
-"We fetched %1 report rows from ""%2@%3.""","Zajetih je bilo %1 vrstic poročil iz ""%2@%3.""","module","Magento_Paypal"
-"We can\'t fetch reports from ""%1@%2.""","Poročil od ""%1@%2"" ni mogoče zajeti.","module","Magento_Paypal"
-"The billing agreement ""%1"" has been canceled.","Sporazum obračunavanja ""%1"" je bil preklican.","module","Magento_Paypal"
-"The billing agreement ""%1"" has been created.","Sporazum obračunavanja ""%1"" je bil ustvarjen.","module","Magento_Paypal"
-"We couldn\'t finish the billing agreement wizard.","Čarovnika sporazuma obračunavanja ni mogoče zaključiti.","module","Magento_Paypal"
-"We can\'t start the billing agreement wizard.","Čarovnika sporazuma obračunavanja ni mogoče začeti.","module","Magento_Paypal"
-"Billing Agreement # %1","Sporazum zaračunavanja # %1","module","Magento_Paypal"
-"We can\'t initialize Express Checkout.","Express Checkout ni mogoče inicializirati.","module","Magento_Paypal"
-"PayPal Express Checkout Token does not exist.","Žeton PayPal Express Checkot ne obstaja.","module","Magento_Paypal"
-"A wrong PayPal Express Checkout Token is specified.","Določen je napačen žeton PayPal Express Checkout.","module","Magento_Paypal"
-"Express Checkout and Order have been canceled.","Express Checkout in naročilo sta bila preklicana.","module","Magento_Paypal"
-"Express Checkout has been canceled.","Express Checkout je bil preklican.","module","Magento_Paypal"
-"Unable to cancel Express Checkout","Express Checkout ni mogoče preklicati","module","Magento_Paypal"
-"Please agree to all the terms and conditions before placing the order.","Preden oddate naročilo, se morate strinjati z vsemi pravili in pogoji.","module","Magento_Paypal"
-"We can\'t place the order.","Naročila ni mogoče oddati.","module","Magento_Paypal"
-"We can\'t process Express Checkout approval.","Potrditve Express Checkout ni mogoče obdelati.","module","Magento_Paypal"
-"We can\'t initialize Express Checkout review.","Pregleda Express Checkout ni mogoče inicializirati.","module","Magento_Paypal"
-"We can\'t update shipping method.","Načina dostave ni mogoče posodobiti.","module","Magento_Paypal"
-"To check out, please sign in with your email address.","Za naročilo se prijavite z uporabo vaše e-pošte.","module","Magento_Paypal"
-"We can\'t start Express Checkout.","Express Checkout ni mogoče zagnati.","module","Magento_Paypal"
-"Your payment has been declined. Please try again.","Vaše plačilo je bilo zavrnjeno. Prosimo, poskusite znova.","module","Magento_Paypal"
-"Requested payment method does not match with order.","Zahtevani način plačila se ne ujema z naročilom.","module","Magento_Paypal"
-"We can\'t contact the PayPal gateway.","Prehoda PayPal ni mogoče kontaktirati.","module","Magento_Paypal"
-"PayPal response hasn't required fields.","Odziv PayPal nima zahtevanih polj.","module","Magento_Paypal"
-"Something went wrong while processing your order.","Med obdelavo vašega naročila je šlo nekaj narobe.","module","Magento_Paypal"
-"PayPal gateway has rejected request. %1","Prehod PayPal je zavrnil zahtevek. %1","module","Magento_Paypal"
-"The PayPal gateway rejected the request. %1","Prehod PayPal je zavrnil zahtevek. %1","module","Magento_Paypal"
-"I\'m sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Žal, vendar vašega plačila ni mogoče obdelati. Poskusite drug način plačila ali pa nas kontaktirajte, da vam lahko pomagamo.","module","Magento_Paypal"
-"I\'m sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Žal, vendar vaše transakcije ni mogoče zaključiti. Prosimo, da nas kontaktirate, da vam lahko pomagamo.","module","Magento_Paypal"
-"The payment method code is not set.","Koda načina plačila ni nastavljena.","module","Magento_Paypal"
-"The reference ID is not set.","ID reference ni nastavljen.","module","Magento_Paypal"
-"Unable to save Billing Agreement:","Sporazuma obračunavanja ni mogoče shraniti:","module","Magento_Paypal"
-"Active","Aktivno","module","Magento_Paypal"
-"Canceled","Preklicano","module","Magento_Paypal"
-"The customer ID is not set.","ID kupca ni nastavljen.","module","Magento_Paypal"
-"The Billing Agreement status is not set.","Stanje sporazuma obračunavanja ni nastavljeno.","module","Magento_Paypal"
-"The PayPal certificate does not exist.","Certifikat PayPal ne obstaja.","module","Magento_Paypal"
-"We prefer PayPal (150 X 60)","Prednost dajemo PayPal (150 x 60)","module","Magento_Paypal"
-"We prefer PayPal (150 X 40)","Prednost dajemo PayPal (150 x 40)","module","Magento_Paypal"
-"Now accepting PayPal (150 X 60)","Sedaj sprejemamo PayPal (150 x 60)","module","Magento_Paypal"
-"Now accepting PayPal (150 X 40)","Sedaj sprejemamo PayPal (150 x 40)","module","Magento_Paypal"
-"Payments by PayPal (150 X 60)","Plačila PayPal (150 X 60)","module","Magento_Paypal"
-"Payments by PayPal (150 X 40)","Plačila PayPal (150 X 40)","module","Magento_Paypal"
-"Shop now using (150 X 60)","Nakupujte sedaj (150 x 60)","module","Magento_Paypal"
-"Shop now using (150 X 40)","Nakupujte sedaj (150 x 40)","module","Magento_Paypal"
-"Dynamic","Dinamično","module","Magento_Paypal"
-"Static","Statično","module","Magento_Paypal"
-"Shortcut","Bližnjica","module","Magento_Paypal"
-"Acceptance Mark Image","Slika znamke sprejetja","module","Magento_Paypal"
-"Authorization","Avtorizacija","module","Magento_Paypal"
-"Sale","Prodaja","module","Magento_Paypal"
-"Yes","Da","module","Magento_Paypal"
-"No","Ne","module","Magento_Paypal"
-"For Virtual Quotes Only","Samo za virtualne ponudbe","module","Magento_Paypal"
-"Auto","Avtomatsko","module","Magento_Paypal"
-"Ask Customer","Vprašajte stranko","module","Magento_Paypal"
-"Never","Nikoli","module","Magento_Paypal"
-"IPN (Instant Payment Notification) Only","Samo IPN (Instant Payment Notification)","module","Magento_Paypal"
-"API Signature","Podpis API","module","Magento_Paypal"
-"API Certificate","Certifikat API","module","Magento_Paypal"
-"The ordering amount of %1 is pending approval on the payment gateway.","Znesek naročila %1 čaka na odobritev na prehodu plačila.","module","Magento_Paypal"
-"Ordered amount of %1","Naročena količina %1","module","Magento_Paypal"
-"We\'ll authorize the amount of %1 as soon as the payment gateway approves it.","Znesek %1 bomo avtorizirali, takoj ko ga plačilni prehod odobri.","module","Magento_Paypal"
-"The authorized amount is %1.","Avtorizirani znesek je %1.","module","Magento_Paypal"
-"The maximum number of child authorizations is reached.","Največje število podrejenih avtorizacij je doseženo.","module","Magento_Paypal"
-"PayPal can\'t process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne more obdelati naročil z ničelnim stanjem. Da zaključite vaše naročilo, prosimo pojdite skozi standardni proces naročila.","module","Magento_Paypal"
-"A payer is not identified.","Plačnik ni opredeljen.","module","Magento_Paypal"
-"Cannot get secure form URL from PayPal","Obrazca varnega URL PayPal ni mogoče dobiti","module","Magento_Paypal"
-"Last Transaction ID","ID zadnje transakcije","module","Magento_Paypal"
-"This customer didn\'t include a confirmed address.","Ta kupec ni vključil potrjenega naslova.","module","Magento_Paypal"
-"The payment is authorized but not settled.","Plačilo je bilo avtorizirano vendar ne poravnano.","module","Magento_Paypal"
-"The payment eCheck is not cleared.","eCheck plačila ni počiščen.","module","Magento_Paypal"
-"The merchant holds a non-U.S. account and doesn\'t have a withdrawal mechanism.","Trgovec nima računa iz ZDA in nima mehanizma dviga.","module","Magento_Paypal"
-"The payment currency doesn\'t match any of the merchant\'s balances currency.","Plačilna valuta se ne ujema z nobeno od valut stanja trgovca.","module","Magento_Paypal"
-"The payment is pending while it is being reviewed by PayPal for risk.","Plačilo je na čakanju med pregledovanjem tveganja pri PayPal-u.","module","Magento_Paypal"
-"The payment is pending because it was made to an email address that is not yet registered or confirmed.","Plačilo je na čakanju, ker je bilo izvedeno iz e-poštnega naslova, ki ni registriran ali potrjen.","module","Magento_Paypal"
-"The merchant account is not yet verified.","Račun trgovca še ni potrjen.","module","Magento_Paypal"
-"The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","Plačilo je bilo narejeno s kreditno kartico. Da prejmete sredstva, mora trgovec nadgraditi račun na Business ali Premier.","module","Magento_Paypal"
-"Sorry, but something went wrong. Please contact PayPal customer service.","Žal je šlo nekaj narobe. Prosimo, kontaktirajte storitev za stranke PayPal.","module","Magento_Paypal"
-"A reversal has occurred on this transaction due to a chargeback by your customer.","Na tej transakciji je prišlo do razveljavitve zaradi poračuna vašega kupca.","module","Magento_Paypal"
-"A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","Na tej transakciji je prišlo do razveljavitve, ker je vaš kupec sprožil garancijo povračila denarja.","module","Magento_Paypal"
-"A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","Na tej transakciji je prišlo do razveljavitve zaradi pritožbe glede transakcije pri vašem kupcu.","module","Magento_Paypal"
-"A reversal has occurred on this transaction because you have given the customer a refund.","Na tej transakciji je prišlo do razveljavitve, ker ste dali kupcu povračilo.","module","Magento_Paypal"
-"Reversal of an adjustment.","Razveljavitev prilagoditev.","module","Magento_Paypal"
-"Transaction reversal due to fraud detected by PayPal administrators.","Razveljavitev transakcije zaradi zaznane goljufije administratorjev PayPal.","module","Magento_Paypal"
-"Transaction reversal by PayPal administrators.","Razveljavitev transakcije skrbnikov PayPal.","module","Magento_Paypal"
-"Reimbursement for a chargeback.","Povračilo za bremenitev.","module","Magento_Paypal"
-"Settlement of a chargeback.","Poravnava poračuna.","module","Magento_Paypal"
-"A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","Pri tej transakciji je prišlo do razveljavitve zaradi spora kupca, kjer obstaja sum neavtorizirane prevare.","module","Magento_Paypal"
-"Buyer claims that he did not receive goods or service.","Kupec trdi, da ni prejel blaga ali storitve.","module","Magento_Paypal"
-"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Kupec trdi, da se prejeto blago ali storitev razlikuje od opisa trgovca.","module","Magento_Paypal"
-"Buyer claims that he/she did not authorize transaction.","Kupec trdi, da ni odobril transakcije.","module","Magento_Paypal"
-"A case that has been resolved and close requires a reimbursement.","Primer je bil razrešen in zaprtje zahteva povračilo.","module","Magento_Paypal"
-"Buyer claims that a possible duplicate payment was made to the merchant.","Kupec trdi, da je bilo izvedeno možno dvojno plačilo trgovcu.","module","Magento_Paypal"
-"Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Kupec trdi, da je prejeto blago nezadovoljivo, z napako ali poškodovano.","module","Magento_Paypal"
-"Unknown reason. Please contact PayPal customer service.","Neznan razlog. Prosimo, kontaktirajte storitev za stranke PayPal.","module","Magento_Paypal"
-"Payer ID","ID plačnika","module","Magento_Paypal"
-"Payer Email","E-pošta plačnika","module","Magento_Paypal"
-"Payer Status","Stanje plačnika","module","Magento_Paypal"
-"Payer Address ID","ID naslova plačnika","module","Magento_Paypal"
-"Payer Address Status","Stanje naslova plačnika","module","Magento_Paypal"
-"Merchant Protection Eligibility","Upravičenost varstva trgovca","module","Magento_Paypal"
-"Triggered Fraud Filters","Filtri sproženih goljufij","module","Magento_Paypal"
-"Last Correlation ID","ID zadnje korelacije","module","Magento_Paypal"
-"Address Verification System Response","Odziv sistema potrjevanja naslova","module","Magento_Paypal"
-"CVV2 Check Result by PayPal","Rezultat prevejanja CVV2 PayPal","module","Magento_Paypal"
-"AVS Street Match","Ujemanje ulice AVS","module","Magento_Paypal"
-"AVS zip","AVS poštna številka","module","Magento_Paypal"
-"International AVS response","Mednarodni odziv AVS","module","Magento_Paypal"
-"Buyer\'s Tax ID","ID davka kupca","module","Magento_Paypal"
-"Buyer\'s Tax ID Type","Vrsta ID davka kupca","module","Magento_Paypal"
-"Chargeback","Poračun","module","Magento_Paypal"
-"Complaint","Pritožba","module","Magento_Paypal"
-"Dispute","Spor","module","Magento_Paypal"
-"Matched Address only (no ZIP)","Ujemajo se samo naslovi (brez poštne številke)","module","Magento_Paypal"
-"Matched Address only (no ZIP) International","Ujemajo se samo naslovi (brez poštne številke) mednarodno","module","Magento_Paypal"
-"No Details matched","Nobene podrobnosti se ne ujemajo","module","Magento_Paypal"
-"No Details matched. International","Ne ujemajo se nobene podrobnosti. Mednarodno","module","Magento_Paypal"
-"Exact Match.","Natančno ujemanje.","module","Magento_Paypal"
-"Exact Match. Address and Postal Code. International","Točno ujemanje. Naslov in poštna številka. Mednarodno","module","Magento_Paypal"
-"Exact Match. Address and Postal Code. UK-specific","Točno ujemanje. Naslov in poštna številka. Posebno za UK","module","Magento_Paypal"
-"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Ni dovoljeno za transakcije MOTO (Internet/Phone)","module","Magento_Paypal"
-"N/A. Global Unavailable","N/A. Globalno nedosegljivo","module","Magento_Paypal"
-"N/A. International Unavailable","N/A. Mednarodno nedosegljivo","module","Magento_Paypal"
-"Matched five-digit ZIP only (no Address)","Ujemajo se samo 5-meste pošne številke (brez naslova)","module","Magento_Paypal"
-"Matched Postal Code only (no Address)","Ujema se samo poštna številka (brez naslova)","module","Magento_Paypal"
-"N/A. Retry","Ni na voljo. Poskusite znova","module","Magento_Paypal"
-"N/A. Service not Supported","N/A. Storitev ni podprta","module","Magento_Paypal"
-"N/A. Unavailable","N/A ni na voljo","module","Magento_Paypal"
-"Matched whole nine-didgit ZIP (no Address)","Ujema se celotna 9-mestna poštna številka (brez naslova)","module","Magento_Paypal"
-"Yes. Matched Address and five-didgit ZIP","Da. Naslov in 9-mestna poštna številka se ujemata","module","Magento_Paypal"
-"All the address information matched","Vse informacije naslova se ujemajo","module","Magento_Paypal"
-"None of the address information matched","Nobena od informacij naslova se ne ujema","module","Magento_Paypal"
-"Part of the address information matched","Informacije naslova se ujemajo le delno","module","Magento_Paypal"
-"N/A. The merchant did not provide AVS information","N/A. Trgovec ni podal informacij AVS","module","Magento_Paypal"
-"N/A. Address not checked, or acquirer had no response. Service not available","N/A. Naslov ni preverjen ali pa pridobitelj ni prejel odgovora. Storitev ni na voljo","module","Magento_Paypal"
-"Matched (CVV2CSC)","Se ujema (CVV2CSC)","module","Magento_Paypal"
-"No match","Nobenega zadetka","module","Magento_Paypal"
-"N/A. Not processed","N/A. Ni procesirano","module","Magento_Paypal"
-"N/A. Service not supported","N/A. Storitev ni podprta","module","Magento_Paypal"
-"N/A. Service not available","N/A. Storitev ni na voljo","module","Magento_Paypal"
-"N/A. No response","N/A ni odziva","module","Magento_Paypal"
-"Matched (CVV2)","Se ujema (CVV2)","module","Magento_Paypal"
-"N/A. The merchant has not implemented CVV2 code handling","N/A. Trgovec ni implementiral ravnanja s kodo CVV2","module","Magento_Paypal"
-"N/A. Merchant has indicated that CVV2 is not present on card","N/A. Trgovec je označil, da CVV2 ni prisotna na kartici","module","Magento_Paypal"
-"CNPJ","CNPJ","module","Magento_Paypal"
-"CPF","CPF","module","Magento_Paypal"
-"Note: %1","Opomba: %1","module","Magento_Paypal"
-"IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Vrsta primera ""%2"". ID primera ""%3"" %4","module","Magento_Paypal"
-"IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". Spor je bil rešen in zaprt. Znesek %3 transakcije %2.","module","Magento_Paypal"
-"You notified customer about invoice #%1.","Kupca ste obvestili o računu #%1.","module","Magento_Paypal"
-"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". Znesek %3 transakcije %2. ID transakcije: ""%4""","module","Magento_Paypal"
-"You notified customer about creditmemo #%1.","Kupca ste obvestili o dobropisu #%1.","module","Magento_Paypal"
-"IPN ""%1""","IPN ""%1""","module","Magento_Paypal"
-"Payflow PNREF: #%1.","Payflow PNREF: #%1.","module","Magento_Paypal"
-"Unable to fetch transaction details.","Podrobnosti transakcije ni bilo mogoče zajeti.","module","Magento_Paypal"
-"Invalid method %1::%2(%3)","Neveljavna metoda %1::%2(%3)","module","Magento_Paypal"
-"Transaction has been declined","Transakcija je bila zavrnjena","module","Magento_Paypal"
-"Error processing payment, please try again later.","Napaka pri obdelavi plačila. Poskusite znova kasneje.","module","Magento_Paypal"
-"We cannot send the new order email.","E-pošte novega naročila ni mogoče poslati.","module","Magento_Paypal"
-"You cannot void a verification transaction.","Transakcije preverjanja ne morete razveljaviti.","module","Magento_Paypal"
-"You need an authorization transaction to void.","Za razveljavitev potrebujete transakcijo avtorizacije.","module","Magento_Paypal"
-"We can\'t issue a refund transaction because there is no capture transaction.","Transakcije nadomestila ni mogoče izvršiti, ker ni transakcije zajetja.","module","Magento_Paypal"
-"We cannot create a target file for reading reports.","Ciljne datoteke ni mogoče ustvariti za branje poročil.","module","Magento_Paypal"
-"Report Date","Datum poročila","module","Magento_Paypal"
-"Merchant Account","Račun trgovca","module","Magento_Paypal"
-"Transaction ID","ID transakcije","module","Magento_Paypal"
-"Invoice ID","ID računa","module","Magento_Paypal"
-"PayPal Reference ID","PayPal referenčna številka","module","Magento_Paypal"
-"PayPal Reference ID Type","Vrsta ID referenčne številke PayPal","module","Magento_Paypal"
-"Event Code","Koda dogodka","module","Magento_Paypal"
-"Event","Dogodek","module","Magento_Paypal"
-"Start Date","Začetni datum","module","Magento_Paypal"
-"Finish Date","Končni datum","module","Magento_Paypal"
-"Debit or Credit","Debetna ali kreditna","module","Magento_Paypal"
-"Gross Amount","Bruto znesek","module","Magento_Paypal"
-"Fee Debit or Credit","Debetna ali kreditna","module","Magento_Paypal"
-"Fee Amount","Znesek stroška","module","Magento_Paypal"
-"Custom","Po meri","module","Magento_Paypal"
-"Order ID","ID naročila","module","Magento_Paypal"
-"Preapproved Payment ID","Vnaprej odobren ID plačila","module","Magento_Paypal"
-"Subscription ID","ID naročnine","module","Magento_Paypal"
-"Credit","Kredit","module","Magento_Paypal"
-"Debit","Breme","module","Magento_Paypal"
-"ACH Deposit (Hold for Dispute or Other Investigation)","ACH Deposit (zadržano zaradi spora ali druge preiskave)","module","Magento_Paypal"
-"ACH Deposit (Reversal)","ACH Deposit (razveljavitev)","module","Magento_Paypal"
-"ACH Funding for Funds Recovery from Account Balance","ACH financiranje za okrevanje skladov iz stanja računa","module","Magento_Paypal"
-"ACH Withdrawal","Dvig ACH","module","Magento_Paypal"
-"Account-to-Account Payment, initiated by PayPal","Plačilo iz računa na račun, podira PayPal","module","Magento_Paypal"
-"Auction Payment other than through eBay","Plačilo dražbe preko eBay","module","Magento_Paypal"
-"AutoSweep","AutoSweep","module","Magento_Paypal"
-"Available Balance","Razpoložljivo stanje","module","Magento_Paypal"
-"Balance Manager Account Bonus","Bonus stanja računa upravljalca","module","Magento_Paypal"
-"Bonus for first ACH Use","Bonus za prvo uporabo ACH","module","Magento_Paypal"
-"Buyer Credit Payment","Kreditno plačilo kupca","module","Magento_Paypal"
-"Charge-off","Dajatev","module","Magento_Paypal"
-"Coupon Redemption","Odkup kupona","module","Magento_Paypal"
-"Currency Conversion required to cover negative balance","Zahtevana je pretvorba valute za pokritve negativnega stanja","module","Magento_Paypal"
-"Debit Card Cash Back","Povračilo gotovine debetne kartice","module","Magento_Paypal"
-"Debit Card Transaction","Transakcija debetne kartice","module","Magento_Paypal"
-"Direct Payment API","API direktnega plačila","module","Magento_Paypal"
-"EFT Funding (German banking)","EFT Funding (German banking)","module","Magento_Paypal"
-"Express Checkout APIs","API Express Checkout","module","Magento_Paypal"
-"Fee Reversal","Provizija razveljavitve","module","Magento_Paypal"
-"Fee: Foreign ACH Withdrawal","Provizija: Dvig tujine ACH","module","Magento_Paypal"
-"Fee: Mass Pay Request","Provizija: Zahteva za množično plačilo","module","Magento_Paypal"
-"Fee: Web Site Payments Pro Account Monthly","Provizija: Mesečni račun Web Site Payments Pro","module","Magento_Paypal"
-"Fee: WorldLink Check Withdrawal","Provizija: Dvig WorldLink Check","module","Magento_Paypal"
-"Funding","Financiranje","module","Magento_Paypal"
-"General (Authorization)","Splošno (dovoljenje)","module","Magento_Paypal"
-"General (Dividend)","Splošno (dividende)","module","Magento_Paypal"
-"General (Funds Transfer from PayPal Account to Another)","Splošno (Prenos sredstev iz računa PayPal na drugega)","module","Magento_Paypal"
-"General (Purchase with a credit card)","Splošno (nakup s kreditno kartico)","module","Magento_Paypal"
-"General Adjustment without businessrelated event","Splošna prilagoditev brez poslovno povezanega dogodka","module","Magento_Paypal"
-"General Currency Conversion","Splošna pretvorba valut","module","Magento_Paypal"
-"General Funding of PayPal Account ","Splošno financiranje računa PayPal","module","Magento_Paypal"
-"General Redemption","Splošni odkup","module","Magento_Paypal"
-"General Withdrawal from PayPal Account","Splošni dvig iz računa PayPal","module","Magento_Paypal"
-"General. Product no longer supported","Splošno. Izdelek ni več podprt","module","Magento_Paypal"
-"General: Use of PayPal account for purchasing as well as receiving payments","Splošno: uporaba računa PayPal za nakup kot tudi za prejemanje plačil","module","Magento_Paypal"
-"General: Withdrawal from PayPal Account","Splošno: dvig iz računa PayPal","module","Magento_Paypal"
-"General: Withdrawal to Non-Bank Entity","Splošno: Dvig na ne-bančno entiteto","module","Magento_Paypal"
-"General: adjustment of a type not belonging to the other T12xx categories","Splošno: prilagoditev vrste, ki ne pripada drugim kategorija T12xx","module","Magento_Paypal"
-"General: bonus of a type not belonging to the other T08xx categories","Splošno: bonus vrste nepripadanja drugim kategorijam T08xx","module","Magento_Paypal"
-"General: event not yet categorized","Splošno: dogodek še ni kategoriziran","module","Magento_Paypal"
-"General: non-payment fee of a type not belonging to the other T01xx categories","Splošno: provizija ne-plačila vrste nepripadanja drugim kategorija T01xx","module","Magento_Paypal"
-"General: received payment of a type not belonging to the other T00xx categories","Splošno: prejeto plačilo vrste nepripadanja ostalim kategorijam T00xx","module","Magento_Paypal"
-"General: reversal of a type not belonging to the other T11xx categories","Splošno: razveljavitev vrste nepripadanja drugim kategorija T11xx","module","Magento_Paypal"
-"General: temporary hold of a type not belonging to the other T15xx categories","Splošno: začasno na čakanju vrste nepripadanja ostalim kategorijam T15xx","module","Magento_Paypal"
-"Gift Certificate Payment: purchase of Gift Certificate","Plačilo darilnega bona: nakup darilnega bona","module","Magento_Paypal"
-"Gift Certificate Redemption","Odkup darilnega bona","module","Magento_Paypal"
-"Hidden Virtual PayPal Debit Card Transaction","Transakcija skrite virtualne kreditne kartice PayPal","module","Magento_Paypal"
-"Hold for Dispute Investigation","Zadržano zaradi preiskave spora","module","Magento_Paypal"
-"Incentive","Spodbuda","module","Magento_Paypal"
-"Mass Pay Payment","Množično plačilo","module","Magento_Paypal"
-"Merchant Referral Bonus","Bonus napotitve trgovca","module","Magento_Paypal"
-"Mobile Payment (made via a mobile phone)","Mobilno plačilo (izvedeno preko mobilnega telefona)","module","Magento_Paypal"
-"Negative Balance","Negativno stanje","module","Magento_Paypal"
-"Open Authorization","Odpri avtorizacijo","module","Magento_Paypal"
-"PayPal Balance Manager function of PayPal account","Funkcija PayPal Balance Manager računa PayPal","module","Magento_Paypal"
-"PayPal Buyer Warranty Bonus","Bonus garancije kupcev PayPal","module","Magento_Paypal"
-"PayPal Debit Card Cash Advance","PayPal Debit Card Cash Advance","module","Magento_Paypal"
-"PayPal Debit Card Withdrawal from ATM","Dvig iz avtomata debetne kartice PayPal","module","Magento_Paypal"
-"PayPal Protection Bonus","PayPal Protection Bonus","module","Magento_Paypal"
-"Payment Refund initiated by merchant","Povračilo plačila izvedeno s strani trgovca","module","Magento_Paypal"
-"Points Incentive Redemption","Spodbudni odkup točk","module","Magento_Paypal"
-"Postage Payment to either USPS or UPS","Plačilo pošte na bodisi USPS ali UPS","module","Magento_Paypal"
-"Preapproved Payment (BillUser API, either sent or received","Vnaprej odobreno plačilo (BillUser API, bodisi poslano ali prejeto)","module","Magento_Paypal"
-"Reauthorization","Ponovna avtorizacija","module","Magento_Paypal"
-"Reimbursement of Chargeback","Povračilo dajatve","module","Magento_Paypal"
-"Reversal","Razveljavitev","module","Magento_Paypal"
-"Reversal of General Account Hold","Razveljavitev ali splošno zadržanje računa","module","Magento_Paypal"
-"Reversal of Points Usage","Razveljavitev uporabe točk","module","Magento_Paypal"
-"Reversal of hold for Dispute Investigation","Razveljavitev zadržanja zaradi preiskave spora","module","Magento_Paypal"
-"Reward Voucher Redemption","Odkup nagradnega kupona","module","Magento_Paypal"
-"Settlement Consolidation","Konsolidacija poravnave","module","Magento_Paypal"
-"Subscription Payment, either payment sent or payment received","Plačilo naročnine, bodisi poslano ali prejeto plačilo","module","Magento_Paypal"
-"User-initiated Currency Conversion","Pretvorba valute sprožena s strani uporabnika","module","Magento_Paypal"
-"Virtual PayPal Debit Card Transaction","Transakcija virtualne PayPal debetne kartice","module","Magento_Paypal"
-"Virtual Terminal Payment","Virtualno terminalno plačilo","module","Magento_Paypal"
-"Void","Nično","module","Magento_Paypal"
-"WorldLink Withdrawal","Dvig WorldLink","module","Magento_Paypal"
-"eBay Auction Payment","Plačilo dražbe eBay","module","Magento_Paypal"
-"The PayPal certificate file is empty.","Datoteka certifikata PayPal je prazna.","module","Magento_Paypal"
-"Header (center)","Glava (center)","module","Magento_Paypal"
-"Sidebar (right)","Stranska vrstica (desno)","module","Magento_Paypal"
-"Near PayPal Credit checkout button","V bližini PayPal Credit gumba za nakup","module","Magento_Paypal"
-"--Please Select--","--Izberite--","module","Magento_Paypal"
-"Daily","Dnevno","module","Magento_Paypal"
-"Every 3 days","Vsake 3 dni","module","Magento_Paypal"
-"Every 7 days","Vsakih 7 dni","module","Magento_Paypal"
-"Every 10 days","Vsakih 10 dni","module","Magento_Paypal"
-"Every 14 days","Vsakih 14 dni","module","Magento_Paypal"
-"Every 30 days","Vsakih 30 dni","module","Magento_Paypal"
-"Every 40 days","Vsakih 40 dni","module","Magento_Paypal"
-"No Logo","Brez logotipa","module","Magento_Paypal"
-"Yes (PayPal recommends this option)","Da (PayPal priporoča to možnot)","module","Magento_Paypal"
-"Created billing agreement #%1.","Ustvarjen sporazum obračunavanja #%1.","module","Magento_Paypal"
-"We can\'t create a billing agreement for this order.","Za to naročilo ni mogoče ustvariti sporazuma obračunavanja.","module","Magento_Paypal"
-"Pending PayPal","PayPal na čakanju","module","Magento_Paypal"
-"PayPal Reversed","PayPal Reversed","module","Magento_Paypal"
-"PayPal Canceled Reversal","PayPal je preklical razveljavitev","module","Magento_Paypal"
-"Error","Napaka","module","Magento_Paypal"
-"Billing Agreement","Sporazum zaračunavanja","module","Magento_Paypal"
-"Please Select","Izberite","module","Magento_Paypal"
-"Customer","Stranka","module","Magento_Paypal"
-"Created At","Ustvarjeno","module","Magento_Paypal"
-"Updated At","Posodobljeno","module","Magento_Paypal"
-"Not sure what PayPal payment method to use? Click ","Niste prepričani, katero plačilno metodo PayPal uporabiti? Kliknite ","module","Magento_Paypal"
-"here","tukaj","module","Magento_Paypal"
-" to learn more."," da izvedete več.","module","Magento_Paypal"
-"Important: ","Pomembno: ","module","Magento_Paypal"
-"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Za uporabo PayPal Payments Advanced, morate nastaviti vaš PayPal Payments Advanced račun na spletni strani PayPal.","module","Magento_Paypal"
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Ko se prijavite v vaš račun PayPal Advanced, pojdite na Service Settings - Hosted Checkout Pages - Set Up meni in spodaj nastavite željene možnosti","module","Magento_Paypal"
-"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Za uporabo PayPal Payflow Link, morate nastaviti vaš PayPal Payflow Link račun na spletni strani PayPal.","module","Magento_Paypal"
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Ko se prijavite v vaš račun PayPal Payflow Link, pojdite na Service Settings - Hosted Checkout Pages - Set Up meni in spodaj nastavite željene možnosti","module","Magento_Paypal"
-"Billing Agreement # ","Sporazum zaračunavanja # ","module","Magento_Paypal"
-"Agreement Information","Informacije o sporazumu","module","Magento_Paypal"
-"Reference ID:","Referenčna številka:","module","Magento_Paypal"
-"Status:","Stanje:","module","Magento_Paypal"
-"Created:","Ustvarjeno:","module","Magento_Paypal"
-"Updated:","Posodobljeno:","module","Magento_Paypal"
-"Payment Method:","Način plačila:","module","Magento_Paypal"
-"Order #","Naročilo #","module","Magento_Paypal"
-"Date","Datum","module","Magento_Paypal"
-"Ship To","Dostava na","module","Magento_Paypal"
-"Order Status","Stanje naročila","module","Magento_Paypal"
-"View Order","Ogled naročila","module","Magento_Paypal"
-"Back to Billing Agreements","Nazaj na sporazume zaračunavanja","module","Magento_Paypal"
-"Payment Method","Plačilna metoda","module","Magento_Paypal"
-"View","Pogled","module","Magento_Paypal"
-"There are no billing agreements yet.","Ni še nobenih sporazumov obračunavanja.","module","Magento_Paypal"
-"New Billing Agreement","Nov sporazum zaračunavanja","module","Magento_Paypal"
-"You will be redirected to the payment system website.","Preusmerjeni boste na spletno stran plačilnega sistema.","module","Magento_Paypal"
-"-- Please Select --","-- Izberite --","module","Magento_Paypal"
-"Create...","Ustvari ...","module","Magento_Paypal"
-"Your credit card will be charged for","Vaša kreditna kartica bo bremenjena za","module","Magento_Paypal"
-"Your billing agreement # is: ","Vaša # sporazuma obračunavanja je: ","module","Magento_Paypal"
-"Shipping Method","Način pošiljanja","module","Magento_Paypal"
-"Please select a shipping method...","Izberite način pošiljanja ...","module","Magento_Paypal"
-"Update Shipping Method","Posodobi način dostave","module","Magento_Paypal"
-"Sorry, no quotes are available for this order right now.","Žal za to naročilo trenutno ni na voljo ponudbe.","module","Magento_Paypal"
-"Shipping Address","Naslov za dostavo","module","Magento_Paypal"
-"Edit","Uredi","module","Magento_Paypal"
-"Buy now with PayPal","Kupi zdaj s PayPal","module","Magento_Paypal"
-"Edit Payment Information","Uredi informacije o plačilu","module","Magento_Paypal"
-"Items in Your Shopping Cart","Elementi v vaši košarici","module","Magento_Paypal"
-"Edit Shopping Cart","Posodobi košarico","module","Magento_Paypal"
-"Place Order","Oddaj naročilo","module","Magento_Paypal"
-"Submitting order information...","Pošiljanje informacij o naročilu...","module","Magento_Paypal"
-"Item","Element","module","Magento_Paypal"
-"Price","Cena","module","Magento_Paypal"
-"Qty","Količina","module","Magento_Paypal"
-"Subtotal","Delna vsota","module","Magento_Paypal"
-"Please update order data to get shipping methods and rates","Posodobite podatke naročila, da dobite načine pošiljanja in stopnje","module","Magento_Paypal"
-"or","ali","module","Magento_Paypal"
-"Checkout with PayPal","Nakup s PayPal","module","Magento_Paypal"
-"Please do not refresh the page until you complete payment.","Ne osvežite strani, dokler ne zaključite plačila.","module","Magento_Paypal"
-"You will be required to enter your payment details after you place an order.","Vnesti boste morali podrobnosti vašega plačila, ko oddate naročilo.","module","Magento_Paypal"
-"Continue","Nadaljuj","module","Magento_Paypal"
-"Additional Options","Dodatne možnosti","module","Magento_Paypal"
-"-- Please Select Billing Agreement--","-- Izberite sporazum zaračunavanja --","module","Magento_Paypal"
-"Acceptance Mark","Znamka sprejetja","module","Magento_Paypal"
-"What is PayPal?","Kaj je PayPal?","module","Magento_Paypal"
-"Sign a billing agreement to streamline further purchases  with PayPal.","Podpišite sporazum o zaračunavanju za poenostavitev nadaljnih nakupov s PayPal.","module","Magento_Paypal"
-"Sorry, something went wrong.","Se opravičujemo, vendar nekaj ni v redu.","module","Magento_Paypal"
-"Sorry, something went wrong. Please try again later.","Nekaj je šlo narobe. Prosimo, poskusite znova.","module","Magento_Paypal"
+Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
+"Sort Order PayPal Credit","Vrstni red PayPal Credit",module,Magento_Paypal
+"Payments Advanced","Payments Advanced",module,Magento_Paypal
+"Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Sprejemajte plačila s PCI-podprtim nakupom, ki obdrži kupce na vaši strani. (<u>Vključuje Express Checkout</u>)",module,Magento_Paypal
+"Payflow Link","Payflow Link",module,Magento_Paypal
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Povežite vaš trgovski račun s PCI-skladnim prehodom, ki omogoča strankam plačati brez, da zapustijo vašo stran. (<u>Vključuje Express Checkout</u>)",module,Magento_Paypal
+"Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Sprejemajte plačila s PCI-podprtim nakupom, ki obdrži kupce na vaši strani. (<u>Vključuje Express Checkout</u>)",module,Magento_Paypal
+"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Povežite vaš trgovski račun s polno prilagodljivim prehodom, ki omogoča strankam plačati brez, da zapustijo vašo stran. (<u>Vključuje Express Checkout</u>)",module,Magento_Paypal
+"Vault Enabled","Trezor omogočen",module,Magento_Paypal
+"Vault enabled","Trezor omogočen",module,Magento_Paypal
+"Vault Title","Naslov trezorja",module,Magento_Paypal
+"Billing Agreements","Sporazumi zaračunavanja",module,Magento_Paypal
+"ID","ID",module,Magento_Paypal
+"Email","E-pošta",module,Magento_Paypal
+"First Name","Ime",module,Magento_Paypal
+"Last Name","Priimek",module,Magento_Paypal
+"Reference ID","Referenčna številka",module,Magento_Paypal
+"Status","Stanje",module,Magento_Paypal
+"Created","Ustvarjeno",module,Magento_Paypal
+"N/A","ni na voljo",module,Magento_Paypal
+"Updated","Posodobljeno",module,Magento_Paypal
+"Back","Nazaj",module,Magento_Paypal
+"Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_Paypal
+"Cancel","Prekliči",module,Magento_Paypal
+"Billing Agreement #%1","Sporazum zaračunavanja #%1",module,Magento_Paypal
+"General Information","Splošne informacije",module,Magento_Paypal
+"Related Orders","Povezana naročila",module,Magento_Paypal
+"Order","Naročilo",module,Magento_Paypal
+"Purchased","Kupljeno",module,Magento_Paypal
+"Bill-to Name","Račun na ime",module,Magento_Paypal
+"Ship-to Name","Dostava na ime",module,Magento_Paypal
+"Order Total","Skupno naročilo",module,Magento_Paypal
+"Purchase Point","Točka nakupa",module,Magento_Paypal
+"Billing Agreement View","Pogled sporazuma zaračunavanja",module,Magento_Paypal
+"View Transaction Details","Ogled podrobnosti transakcije",module,Magento_Paypal
+"Reference Information","Referenčne informacije",module,Magento_Paypal
+"Transaction Information","Informacije o transakcijah",module,Magento_Paypal
+"PayPal Fee Information","Informacije pristojbine za PayPal",module,Magento_Paypal
+"PayPal Settlement Reports","Poročilo poravnav PayPal",module,Magento_Paypal
+"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Povezujemo se s PayPal strežnikom SFTP za pridobitev novih poročil. Ali ste prepričani, da želite nadaljevati?",module,Magento_Paypal
+"Fetch Updates","Pridobi posodobitve",module,Magento_Paypal
+"button_label","button_label",module,Magento_Paypal
+"sandbox_button_label","sandbox_button_label",module,Magento_Paypal
+"Help","Pomoč",module,Magento_Paypal
+"Configure","Konfiguriranje",module,Magento_Paypal
+"Close","Zapri",module,Magento_Paypal
+"Learn More","Izvedite več",module,Magento_Paypal
+"View Demo","Ogled demonstracije",module,Magento_Paypal
+"See terms","Glej pogoje",module,Magento_Paypal
+"You will be redirected to the PayPal website.","Preusmerjeni boste na spletno stran PayPal.",module,Magento_Paypal
+"You will be redirected to the PayPal website when you place an order.","Ko oddate naročilo, boste preusmerjeni na spletno stran PayPal.",module,Magento_Paypal
+"Incl. Tax","Z davkom",module,Magento_Paypal
+"Billing Information","Informacije računa",module,Magento_Paypal
+"Shipping Information","Informacije dostave",module,Magento_Paypal
+"Would you like to sign a billing agreement to streamline further purchases with PayPal?","Ali bi želeli podpisati sporazum obračunavanja za poenostavitev nadaljnjih nakupov s PayPal?",module,Magento_Paypal
+"Invalid block type","Neveljavna vrsta bloka",module,Magento_Paypal
+"Please specify the correct billing agreement ID and try again.","Določite pravilni ID sporazuma obračunavanja in poskusite znova.",module,Magento_Paypal
+"You canceled the billing agreement.","Sporazum zaračunavanja ste preklicali.",module,Magento_Paypal
+"We can\'t cancel the billing agreement.","Sporazuma zaračunavanja ni mogoče preklicati.",module,Magento_Paypal
+"You deleted the billing agreement.","Sporazum zaračunavanja ste izbrisali.",module,Magento_Paypal
+"We can\'t delete the billing agreement.","Sporazuma zaračuvanja ni mogoče izbrisati.",module,Magento_Paypal
+"Reports","Poročila",module,Magento_Paypal
+"Sales","Prodaja",module,Magento_Paypal
+"View Transaction","Pogled transakcije",module,Magento_Paypal
+"We found nothing to fetch because of an empty configuration.","Zaradi praznih nastavitev ni mogoče najti ničesar za zajetje.",module,Magento_Paypal
+"We fetched %1 report rows from ""%2@%3.""","Zajetih je bilo %1 vrstic poročil iz ""%2@%3.""",module,Magento_Paypal
+"We can\'t fetch reports from ""%1@%2.""","Poročil od ""%1@%2"" ni mogoče zajeti.",module,Magento_Paypal
+"The billing agreement ""%1"" has been canceled.","Sporazum obračunavanja ""%1"" je bil preklican.",module,Magento_Paypal
+"The billing agreement ""%1"" has been created.","Sporazum obračunavanja ""%1"" je bil ustvarjen.",module,Magento_Paypal
+"We couldn\'t finish the billing agreement wizard.","Čarovnika sporazuma obračunavanja ni mogoče zaključiti.",module,Magento_Paypal
+"We can\'t start the billing agreement wizard.","Čarovnika sporazuma obračunavanja ni mogoče začeti.",module,Magento_Paypal
+"Billing Agreement # %1","Sporazum zaračunavanja # %1",module,Magento_Paypal
+"We can\'t initialize Express Checkout.","Express Checkout ni mogoče inicializirati.",module,Magento_Paypal
+"PayPal Express Checkout Token does not exist.","Žeton PayPal Express Checkot ne obstaja.",module,Magento_Paypal
+"A wrong PayPal Express Checkout Token is specified.","Določen je napačen žeton PayPal Express Checkout.",module,Magento_Paypal
+"Express Checkout and Order have been canceled.","Express Checkout in naročilo sta bila preklicana.",module,Magento_Paypal
+"Express Checkout has been canceled.","Express Checkout je bil preklican.",module,Magento_Paypal
+"Unable to cancel Express Checkout","Express Checkout ni mogoče preklicati",module,Magento_Paypal
+"Please agree to all the terms and conditions before placing the order.","Preden oddate naročilo, se morate strinjati z vsemi pravili in pogoji.",module,Magento_Paypal
+"We can\'t place the order.","Naročila ni mogoče oddati.",module,Magento_Paypal
+"We can\'t process Express Checkout approval.","Potrditve Express Checkout ni mogoče obdelati.",module,Magento_Paypal
+"We can\'t initialize Express Checkout review.","Pregleda Express Checkout ni mogoče inicializirati.",module,Magento_Paypal
+"We can\'t update shipping method.","Načina dostave ni mogoče posodobiti.",module,Magento_Paypal
+"To check out, please sign in with your email address.","Za naročilo se prijavite z uporabo vaše e-pošte.",module,Magento_Paypal
+"We can\'t start Express Checkout.","Express Checkout ni mogoče zagnati.",module,Magento_Paypal
+"Your payment has been declined. Please try again.","Vaše plačilo je bilo zavrnjeno. Prosimo, poskusite znova.",module,Magento_Paypal
+"Requested payment method does not match with order.","Zahtevani način plačila se ne ujema z naročilom.",module,Magento_Paypal
+"We can\'t contact the PayPal gateway.","Prehoda PayPal ni mogoče kontaktirati.",module,Magento_Paypal
+"PayPal response hasn't required fields.","Odziv PayPal nima zahtevanih polj.",module,Magento_Paypal
+"Something went wrong while processing your order.","Med obdelavo vašega naročila je šlo nekaj narobe.",module,Magento_Paypal
+"PayPal gateway has rejected request. %1","Prehod PayPal je zavrnil zahtevek. %1",module,Magento_Paypal
+"The PayPal gateway rejected the request. %1","Prehod PayPal je zavrnil zahtevek. %1",module,Magento_Paypal
+"I\'m sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Žal, vendar vašega plačila ni mogoče obdelati. Poskusite drug način plačila ali pa nas kontaktirajte, da vam lahko pomagamo.",module,Magento_Paypal
+"I\'m sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Žal, vendar vaše transakcije ni mogoče zaključiti. Prosimo, da nas kontaktirate, da vam lahko pomagamo.",module,Magento_Paypal
+"The payment method code is not set.","Koda načina plačila ni nastavljena.",module,Magento_Paypal
+"The reference ID is not set.","ID reference ni nastavljen.",module,Magento_Paypal
+"Unable to save Billing Agreement:","Sporazuma obračunavanja ni mogoče shraniti:",module,Magento_Paypal
+"Active","Aktivno",module,Magento_Paypal
+"Canceled","Preklicano",module,Magento_Paypal
+"The customer ID is not set.","ID kupca ni nastavljen.",module,Magento_Paypal
+"The Billing Agreement status is not set.","Stanje sporazuma obračunavanja ni nastavljeno.",module,Magento_Paypal
+"The PayPal certificate does not exist.","Certifikat PayPal ne obstaja.",module,Magento_Paypal
+"We prefer PayPal (150 X 60)","Prednost dajemo PayPal (150 x 60)",module,Magento_Paypal
+"We prefer PayPal (150 X 40)","Prednost dajemo PayPal (150 x 40)",module,Magento_Paypal
+"Now accepting PayPal (150 X 60)","Sedaj sprejemamo PayPal (150 x 60)",module,Magento_Paypal
+"Now accepting PayPal (150 X 40)","Sedaj sprejemamo PayPal (150 x 40)",module,Magento_Paypal
+"Payments by PayPal (150 X 60)","Plačila PayPal (150 X 60)",module,Magento_Paypal
+"Payments by PayPal (150 X 40)","Plačila PayPal (150 X 40)",module,Magento_Paypal
+"Shop now using (150 X 60)","Nakupujte sedaj (150 x 60)",module,Magento_Paypal
+"Shop now using (150 X 40)","Nakupujte sedaj (150 x 40)",module,Magento_Paypal
+"Dynamic","Dinamično",module,Magento_Paypal
+"Static","Statično",module,Magento_Paypal
+"Shortcut","Bližnjica",module,Magento_Paypal
+"Acceptance Mark Image","Slika znamke sprejetja",module,Magento_Paypal
+"Authorization","Avtorizacija",module,Magento_Paypal
+"Sale","Prodaja",module,Magento_Paypal
+"Yes","Da",module,Magento_Paypal
+"No","Ne",module,Magento_Paypal
+"For Virtual Quotes Only","Samo za virtualne ponudbe",module,Magento_Paypal
+"Auto","Avtomatsko",module,Magento_Paypal
+"Ask Customer","Vprašajte stranko",module,Magento_Paypal
+"Never","Nikoli",module,Magento_Paypal
+"IPN (Instant Payment Notification) Only","Samo IPN (Instant Payment Notification)",module,Magento_Paypal
+"API Signature","Podpis API",module,Magento_Paypal
+"API Certificate","Certifikat API",module,Magento_Paypal
+"The ordering amount of %1 is pending approval on the payment gateway.","Znesek naročila %1 čaka na odobritev na prehodu plačila.",module,Magento_Paypal
+"Ordered amount of %1","Naročena količina %1",module,Magento_Paypal
+"We\'ll authorize the amount of %1 as soon as the payment gateway approves it.","Znesek %1 bomo avtorizirali, takoj ko ga plačilni prehod odobri.",module,Magento_Paypal
+"The authorized amount is %1.","Avtorizirani znesek je %1.",module,Magento_Paypal
+"The maximum number of child authorizations is reached.","Največje število podrejenih avtorizacij je doseženo.",module,Magento_Paypal
+"PayPal can\'t process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne more obdelati naročil z ničelnim stanjem. Da zaključite vaše naročilo, prosimo pojdite skozi standardni proces naročila.",module,Magento_Paypal
+"A payer is not identified.","Plačnik ni opredeljen.",module,Magento_Paypal
+"Cannot get secure form URL from PayPal","Obrazca varnega URL PayPal ni mogoče dobiti",module,Magento_Paypal
+"Last Transaction ID","ID zadnje transakcije",module,Magento_Paypal
+"This customer didn\'t include a confirmed address.","Ta kupec ni vključil potrjenega naslova.",module,Magento_Paypal
+"The payment is authorized but not settled.","Plačilo je bilo avtorizirano vendar ne poravnano.",module,Magento_Paypal
+"The payment eCheck is not cleared.","eCheck plačila ni počiščen.",module,Magento_Paypal
+"The merchant holds a non-U.S. account and doesn\'t have a withdrawal mechanism.","Trgovec nima računa iz ZDA in nima mehanizma dviga.",module,Magento_Paypal
+"The payment currency doesn\'t match any of the merchant\'s balances currency.","Plačilna valuta se ne ujema z nobeno od valut stanja trgovca.",module,Magento_Paypal
+"The payment is pending while it is being reviewed by PayPal for risk.","Plačilo je na čakanju med pregledovanjem tveganja pri PayPal-u.",module,Magento_Paypal
+"The payment is pending because it was made to an email address that is not yet registered or confirmed.","Plačilo je na čakanju, ker je bilo izvedeno iz e-poštnega naslova, ki ni registriran ali potrjen.",module,Magento_Paypal
+"The merchant account is not yet verified.","Račun trgovca še ni potrjen.",module,Magento_Paypal
+"The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","Plačilo je bilo narejeno s kreditno kartico. Da prejmete sredstva, mora trgovec nadgraditi račun na Business ali Premier.",module,Magento_Paypal
+"Sorry, but something went wrong. Please contact PayPal customer service.","Žal je šlo nekaj narobe. Prosimo, kontaktirajte storitev za stranke PayPal.",module,Magento_Paypal
+"A reversal has occurred on this transaction due to a chargeback by your customer.","Na tej transakciji je prišlo do razveljavitve zaradi poračuna vašega kupca.",module,Magento_Paypal
+"A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","Na tej transakciji je prišlo do razveljavitve, ker je vaš kupec sprožil garancijo povračila denarja.",module,Magento_Paypal
+"A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","Na tej transakciji je prišlo do razveljavitve zaradi pritožbe glede transakcije pri vašem kupcu.",module,Magento_Paypal
+"A reversal has occurred on this transaction because you have given the customer a refund.","Na tej transakciji je prišlo do razveljavitve, ker ste dali kupcu povračilo.",module,Magento_Paypal
+"Reversal of an adjustment.","Razveljavitev prilagoditev.",module,Magento_Paypal
+"Transaction reversal due to fraud detected by PayPal administrators.","Razveljavitev transakcije zaradi zaznane goljufije administratorjev PayPal.",module,Magento_Paypal
+"Transaction reversal by PayPal administrators.","Razveljavitev transakcije skrbnikov PayPal.",module,Magento_Paypal
+"Reimbursement for a chargeback.","Povračilo za bremenitev.",module,Magento_Paypal
+"Settlement of a chargeback.","Poravnava poračuna.",module,Magento_Paypal
+"A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","Pri tej transakciji je prišlo do razveljavitve zaradi spora kupca, kjer obstaja sum neavtorizirane prevare.",module,Magento_Paypal
+"Buyer claims that he did not receive goods or service.","Kupec trdi, da ni prejel blaga ali storitve.",module,Magento_Paypal
+"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Kupec trdi, da se prejeto blago ali storitev razlikuje od opisa trgovca.",module,Magento_Paypal
+"Buyer claims that he/she did not authorize transaction.","Kupec trdi, da ni odobril transakcije.",module,Magento_Paypal
+"A case that has been resolved and close requires a reimbursement.","Primer je bil razrešen in zaprtje zahteva povračilo.",module,Magento_Paypal
+"Buyer claims that a possible duplicate payment was made to the merchant.","Kupec trdi, da je bilo izvedeno možno dvojno plačilo trgovcu.",module,Magento_Paypal
+"Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Kupec trdi, da je prejeto blago nezadovoljivo, z napako ali poškodovano.",module,Magento_Paypal
+"Unknown reason. Please contact PayPal customer service.","Neznan razlog. Prosimo, kontaktirajte storitev za stranke PayPal.",module,Magento_Paypal
+"Payer ID","ID plačnika",module,Magento_Paypal
+"Payer Email","E-pošta plačnika",module,Magento_Paypal
+"Payer Status","Stanje plačnika",module,Magento_Paypal
+"Payer Address ID","ID naslova plačnika",module,Magento_Paypal
+"Payer Address Status","Stanje naslova plačnika",module,Magento_Paypal
+"Merchant Protection Eligibility","Upravičenost varstva trgovca",module,Magento_Paypal
+"Triggered Fraud Filters","Filtri sproženih goljufij",module,Magento_Paypal
+"Last Correlation ID","ID zadnje korelacije",module,Magento_Paypal
+"Address Verification System Response","Odziv sistema potrjevanja naslova",module,Magento_Paypal
+"CVV2 Check Result by PayPal","Rezultat prevejanja CVV2 PayPal",module,Magento_Paypal
+"AVS Street Match","Ujemanje ulice AVS",module,Magento_Paypal
+"AVS zip","AVS poštna številka",module,Magento_Paypal
+"International AVS response","Mednarodni odziv AVS",module,Magento_Paypal
+"Buyer\'s Tax ID","ID davka kupca",module,Magento_Paypal
+"Buyer\'s Tax ID Type","Vrsta ID davka kupca",module,Magento_Paypal
+"Chargeback","Poračun",module,Magento_Paypal
+"Complaint","Pritožba",module,Magento_Paypal
+"Dispute","Spor",module,Magento_Paypal
+"Matched Address only (no ZIP)","Ujemajo se samo naslovi (brez poštne številke)",module,Magento_Paypal
+"Matched Address only (no ZIP) International","Ujemajo se samo naslovi (brez poštne številke) mednarodno",module,Magento_Paypal
+"No Details matched","Nobene podrobnosti se ne ujemajo",module,Magento_Paypal
+"No Details matched. International","Ne ujemajo se nobene podrobnosti. Mednarodno",module,Magento_Paypal
+"Exact Match.","Natančno ujemanje.",module,Magento_Paypal
+"Exact Match. Address and Postal Code. International","Točno ujemanje. Naslov in poštna številka. Mednarodno",module,Magento_Paypal
+"Exact Match. Address and Postal Code. UK-specific","Točno ujemanje. Naslov in poštna številka. Posebno za UK",module,Magento_Paypal
+"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Ni dovoljeno za transakcije MOTO (Internet/Phone)",module,Magento_Paypal
+"N/A. Global Unavailable","N/A. Globalno nedosegljivo",module,Magento_Paypal
+"N/A. International Unavailable","N/A. Mednarodno nedosegljivo",module,Magento_Paypal
+"Matched five-digit ZIP only (no Address)","Ujemajo se samo 5-meste pošne številke (brez naslova)",module,Magento_Paypal
+"Matched Postal Code only (no Address)","Ujema se samo poštna številka (brez naslova)",module,Magento_Paypal
+"N/A. Retry","Ni na voljo. Poskusite znova",module,Magento_Paypal
+"N/A. Service not Supported","N/A. Storitev ni podprta",module,Magento_Paypal
+"N/A. Unavailable","N/A ni na voljo",module,Magento_Paypal
+"Matched whole nine-didgit ZIP (no Address)","Ujema se celotna 9-mestna poštna številka (brez naslova)",module,Magento_Paypal
+"Yes. Matched Address and five-didgit ZIP","Da. Naslov in 9-mestna poštna številka se ujemata",module,Magento_Paypal
+"All the address information matched","Vse informacije naslova se ujemajo",module,Magento_Paypal
+"None of the address information matched","Nobena od informacij naslova se ne ujema",module,Magento_Paypal
+"Part of the address information matched","Informacije naslova se ujemajo le delno",module,Magento_Paypal
+"N/A. The merchant did not provide AVS information","N/A. Trgovec ni podal informacij AVS",module,Magento_Paypal
+"N/A. Address not checked, or acquirer had no response. Service not available","N/A. Naslov ni preverjen ali pa pridobitelj ni prejel odgovora. Storitev ni na voljo",module,Magento_Paypal
+"Matched (CVV2CSC)","Se ujema (CVV2CSC)",module,Magento_Paypal
+"No match","Nobenega zadetka",module,Magento_Paypal
+"N/A. Not processed","N/A. Ni procesirano",module,Magento_Paypal
+"N/A. Service not supported","N/A. Storitev ni podprta",module,Magento_Paypal
+"N/A. Service not available","N/A. Storitev ni na voljo",module,Magento_Paypal
+"N/A. No response","N/A ni odziva",module,Magento_Paypal
+"Matched (CVV2)","Se ujema (CVV2)",module,Magento_Paypal
+"N/A. The merchant has not implemented CVV2 code handling","N/A. Trgovec ni implementiral ravnanja s kodo CVV2",module,Magento_Paypal
+"N/A. Merchant has indicated that CVV2 is not present on card","N/A. Trgovec je označil, da CVV2 ni prisotna na kartici",module,Magento_Paypal
+"CNPJ","CNPJ",module,Magento_Paypal
+"CPF","CPF",module,Magento_Paypal
+"Note: %1","Opomba: %1",module,Magento_Paypal
+"IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Vrsta primera ""%2"". ID primera ""%3"" %4",module,Magento_Paypal
+"IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". Spor je bil rešen in zaprt. Znesek %3 transakcije %2.",module,Magento_Paypal
+"You notified customer about invoice #%1.","Kupca ste obvestili o računu #%1.",module,Magento_Paypal
+"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". Znesek %3 transakcije %2. ID transakcije: ""%4""",module,Magento_Paypal
+"You notified customer about creditmemo #%1.","Kupca ste obvestili o dobropisu #%1.",module,Magento_Paypal
+"IPN ""%1""","IPN ""%1""",module,Magento_Paypal
+"Payflow PNREF: #%1.","Payflow PNREF: #%1.",module,Magento_Paypal
+"Unable to fetch transaction details.","Podrobnosti transakcije ni bilo mogoče zajeti.",module,Magento_Paypal
+"Invalid method %1::%2(%3)","Neveljavna metoda %1::%2(%3)",module,Magento_Paypal
+"Transaction has been declined","Transakcija je bila zavrnjena",module,Magento_Paypal
+"Error processing payment, please try again later.","Napaka pri obdelavi plačila. Poskusite znova kasneje.",module,Magento_Paypal
+"We cannot send the new order email.","E-pošte novega naročila ni mogoče poslati.",module,Magento_Paypal
+"You cannot void a verification transaction.","Transakcije preverjanja ne morete razveljaviti.",module,Magento_Paypal
+"You need an authorization transaction to void.","Za razveljavitev potrebujete transakcijo avtorizacije.",module,Magento_Paypal
+"We can\'t issue a refund transaction because there is no capture transaction.","Transakcije nadomestila ni mogoče izvršiti, ker ni transakcije zajetja.",module,Magento_Paypal
+"We cannot create a target file for reading reports.","Ciljne datoteke ni mogoče ustvariti za branje poročil.",module,Magento_Paypal
+"Report Date","Datum poročila",module,Magento_Paypal
+"Merchant Account","Račun trgovca",module,Magento_Paypal
+"Transaction ID","ID transakcije",module,Magento_Paypal
+"Invoice ID","ID računa",module,Magento_Paypal
+"PayPal Reference ID","PayPal referenčna številka",module,Magento_Paypal
+"PayPal Reference ID Type","Vrsta ID referenčne številke PayPal",module,Magento_Paypal
+"Event Code","Koda dogodka",module,Magento_Paypal
+"Event","Dogodek",module,Magento_Paypal
+"Start Date","Začetni datum",module,Magento_Paypal
+"Finish Date","Končni datum",module,Magento_Paypal
+"Debit or Credit","Debetna ali kreditna",module,Magento_Paypal
+"Gross Amount","Bruto znesek",module,Magento_Paypal
+"Fee Debit or Credit","Debetna ali kreditna",module,Magento_Paypal
+"Fee Amount","Znesek stroška",module,Magento_Paypal
+"Custom","Po meri",module,Magento_Paypal
+"Order ID","ID naročila",module,Magento_Paypal
+"Preapproved Payment ID","Vnaprej odobren ID plačila",module,Magento_Paypal
+"Subscription ID","ID naročnine",module,Magento_Paypal
+"Credit","Kredit",module,Magento_Paypal
+"Debit","Breme",module,Magento_Paypal
+"ACH Deposit (Hold for Dispute or Other Investigation)","ACH Deposit (zadržano zaradi spora ali druge preiskave)",module,Magento_Paypal
+"ACH Deposit (Reversal)","ACH Deposit (razveljavitev)",module,Magento_Paypal
+"ACH Funding for Funds Recovery from Account Balance","ACH financiranje za okrevanje skladov iz stanja računa",module,Magento_Paypal
+"ACH Withdrawal","Dvig ACH",module,Magento_Paypal
+"Account-to-Account Payment, initiated by PayPal","Plačilo iz računa na račun, podira PayPal",module,Magento_Paypal
+"Auction Payment other than through eBay","Plačilo dražbe preko eBay",module,Magento_Paypal
+"AutoSweep","AutoSweep",module,Magento_Paypal
+"Available Balance","Razpoložljivo stanje",module,Magento_Paypal
+"Balance Manager Account Bonus","Bonus stanja računa upravljalca",module,Magento_Paypal
+"Bonus for first ACH Use","Bonus za prvo uporabo ACH",module,Magento_Paypal
+"Buyer Credit Payment","Kreditno plačilo kupca",module,Magento_Paypal
+"Charge-off","Dajatev",module,Magento_Paypal
+"Coupon Redemption","Odkup kupona",module,Magento_Paypal
+"Currency Conversion required to cover negative balance","Zahtevana je pretvorba valute za pokritve negativnega stanja",module,Magento_Paypal
+"Debit Card Cash Back","Povračilo gotovine debetne kartice",module,Magento_Paypal
+"Debit Card Transaction","Transakcija debetne kartice",module,Magento_Paypal
+"Direct Payment API","API direktnega plačila",module,Magento_Paypal
+"EFT Funding (German banking)","EFT Funding (German banking)",module,Magento_Paypal
+"Express Checkout APIs","API Express Checkout",module,Magento_Paypal
+"Fee Reversal","Provizija razveljavitve",module,Magento_Paypal
+"Fee: Foreign ACH Withdrawal","Provizija: Dvig tujine ACH",module,Magento_Paypal
+"Fee: Mass Pay Request","Provizija: Zahteva za množično plačilo",module,Magento_Paypal
+"Fee: Web Site Payments Pro Account Monthly","Provizija: Mesečni račun Web Site Payments Pro",module,Magento_Paypal
+"Fee: WorldLink Check Withdrawal","Provizija: Dvig WorldLink Check",module,Magento_Paypal
+"Funding","Financiranje",module,Magento_Paypal
+"General (Authorization)","Splošno (dovoljenje)",module,Magento_Paypal
+"General (Dividend)","Splošno (dividende)",module,Magento_Paypal
+"General (Funds Transfer from PayPal Account to Another)","Splošno (Prenos sredstev iz računa PayPal na drugega)",module,Magento_Paypal
+"General (Purchase with a credit card)","Splošno (nakup s kreditno kartico)",module,Magento_Paypal
+"General Adjustment without businessrelated event","Splošna prilagoditev brez poslovno povezanega dogodka",module,Magento_Paypal
+"General Currency Conversion","Splošna pretvorba valut",module,Magento_Paypal
+"General Funding of PayPal Account ","Splošno financiranje računa PayPal",module,Magento_Paypal
+"General Redemption","Splošni odkup",module,Magento_Paypal
+"General Withdrawal from PayPal Account","Splošni dvig iz računa PayPal",module,Magento_Paypal
+"General. Product no longer supported","Splošno. Izdelek ni več podprt",module,Magento_Paypal
+"General: Use of PayPal account for purchasing as well as receiving payments","Splošno: uporaba računa PayPal za nakup kot tudi za prejemanje plačil",module,Magento_Paypal
+"General: Withdrawal from PayPal Account","Splošno: dvig iz računa PayPal",module,Magento_Paypal
+"General: Withdrawal to Non-Bank Entity","Splošno: Dvig na ne-bančno entiteto",module,Magento_Paypal
+"General: adjustment of a type not belonging to the other T12xx categories","Splošno: prilagoditev vrste, ki ne pripada drugim kategorija T12xx",module,Magento_Paypal
+"General: bonus of a type not belonging to the other T08xx categories","Splošno: bonus vrste nepripadanja drugim kategorijam T08xx",module,Magento_Paypal
+"General: event not yet categorized","Splošno: dogodek še ni kategoriziran",module,Magento_Paypal
+"General: non-payment fee of a type not belonging to the other T01xx categories","Splošno: provizija ne-plačila vrste nepripadanja drugim kategorija T01xx",module,Magento_Paypal
+"General: received payment of a type not belonging to the other T00xx categories","Splošno: prejeto plačilo vrste nepripadanja ostalim kategorijam T00xx",module,Magento_Paypal
+"General: reversal of a type not belonging to the other T11xx categories","Splošno: razveljavitev vrste nepripadanja drugim kategorija T11xx",module,Magento_Paypal
+"General: temporary hold of a type not belonging to the other T15xx categories","Splošno: začasno na čakanju vrste nepripadanja ostalim kategorijam T15xx",module,Magento_Paypal
+"Gift Certificate Payment: purchase of Gift Certificate","Plačilo darilnega bona: nakup darilnega bona",module,Magento_Paypal
+"Gift Certificate Redemption","Odkup darilnega bona",module,Magento_Paypal
+"Hidden Virtual PayPal Debit Card Transaction","Transakcija skrite virtualne kreditne kartice PayPal",module,Magento_Paypal
+"Hold for Dispute Investigation","Zadržano zaradi preiskave spora",module,Magento_Paypal
+"Incentive","Spodbuda",module,Magento_Paypal
+"Mass Pay Payment","Množično plačilo",module,Magento_Paypal
+"Merchant Referral Bonus","Bonus napotitve trgovca",module,Magento_Paypal
+"Mobile Payment (made via a mobile phone)","Mobilno plačilo (izvedeno preko mobilnega telefona)",module,Magento_Paypal
+"Negative Balance","Negativno stanje",module,Magento_Paypal
+"Open Authorization","Odpri avtorizacijo",module,Magento_Paypal
+"PayPal Balance Manager function of PayPal account","Funkcija PayPal Balance Manager računa PayPal",module,Magento_Paypal
+"PayPal Buyer Warranty Bonus","Bonus garancije kupcev PayPal",module,Magento_Paypal
+"PayPal Debit Card Cash Advance","PayPal Debit Card Cash Advance",module,Magento_Paypal
+"PayPal Debit Card Withdrawal from ATM","Dvig iz avtomata debetne kartice PayPal",module,Magento_Paypal
+"PayPal Protection Bonus","PayPal Protection Bonus",module,Magento_Paypal
+"Payment Refund initiated by merchant","Povračilo plačila izvedeno s strani trgovca",module,Magento_Paypal
+"Points Incentive Redemption","Spodbudni odkup točk",module,Magento_Paypal
+"Postage Payment to either USPS or UPS","Plačilo pošte na bodisi USPS ali UPS",module,Magento_Paypal
+"Preapproved Payment (BillUser API, either sent or received","Vnaprej odobreno plačilo (BillUser API, bodisi poslano ali prejeto)",module,Magento_Paypal
+"Reauthorization","Ponovna avtorizacija",module,Magento_Paypal
+"Reimbursement of Chargeback","Povračilo dajatve",module,Magento_Paypal
+"Reversal","Razveljavitev",module,Magento_Paypal
+"Reversal of General Account Hold","Razveljavitev ali splošno zadržanje računa",module,Magento_Paypal
+"Reversal of Points Usage","Razveljavitev uporabe točk",module,Magento_Paypal
+"Reversal of hold for Dispute Investigation","Razveljavitev zadržanja zaradi preiskave spora",module,Magento_Paypal
+"Reward Voucher Redemption","Odkup nagradnega kupona",module,Magento_Paypal
+"Settlement Consolidation","Konsolidacija poravnave",module,Magento_Paypal
+"Subscription Payment, either payment sent or payment received","Plačilo naročnine, bodisi poslano ali prejeto plačilo",module,Magento_Paypal
+"User-initiated Currency Conversion","Pretvorba valute sprožena s strani uporabnika",module,Magento_Paypal
+"Virtual PayPal Debit Card Transaction","Transakcija virtualne PayPal debetne kartice",module,Magento_Paypal
+"Virtual Terminal Payment","Virtualno terminalno plačilo",module,Magento_Paypal
+"Void","Nično",module,Magento_Paypal
+"WorldLink Withdrawal","Dvig WorldLink",module,Magento_Paypal
+"eBay Auction Payment","Plačilo dražbe eBay",module,Magento_Paypal
+"The PayPal certificate file is empty.","Datoteka certifikata PayPal je prazna.",module,Magento_Paypal
+"Header (center)","Glava (center)",module,Magento_Paypal
+"Sidebar (right)","Stranska vrstica (desno)",module,Magento_Paypal
+"Near PayPal Credit checkout button","V bližini PayPal Credit gumba za nakup",module,Magento_Paypal
+"--Please Select--","--Izberite--",module,Magento_Paypal
+"Daily","Dnevno",module,Magento_Paypal
+"Every 3 days","Vsake 3 dni",module,Magento_Paypal
+"Every 7 days","Vsakih 7 dni",module,Magento_Paypal
+"Every 10 days","Vsakih 10 dni",module,Magento_Paypal
+"Every 14 days","Vsakih 14 dni",module,Magento_Paypal
+"Every 30 days","Vsakih 30 dni",module,Magento_Paypal
+"Every 40 days","Vsakih 40 dni",module,Magento_Paypal
+"No Logo","Brez logotipa",module,Magento_Paypal
+"Yes (PayPal recommends this option)","Da (PayPal priporoča to možnot)",module,Magento_Paypal
+"Created billing agreement #%1.","Ustvarjen sporazum obračunavanja #%1.",module,Magento_Paypal
+"We can\'t create a billing agreement for this order.","Za to naročilo ni mogoče ustvariti sporazuma obračunavanja.",module,Magento_Paypal
+"Pending PayPal","PayPal na čakanju",module,Magento_Paypal
+"PayPal Reversed","PayPal Reversed",module,Magento_Paypal
+"PayPal Canceled Reversal","PayPal je preklical razveljavitev",module,Magento_Paypal
+"Error","Napaka",module,Magento_Paypal
+"Billing Agreement","Sporazum zaračunavanja",module,Magento_Paypal
+"Please Select","Izberite",module,Magento_Paypal
+"Customer","Stranka",module,Magento_Paypal
+"Created At","Ustvarjeno",module,Magento_Paypal
+"Updated At","Posodobljeno",module,Magento_Paypal
+"Not sure what PayPal payment method to use? Click ","Niste prepričani, katero plačilno metodo PayPal uporabiti? Kliknite ",module,Magento_Paypal
+"here","tukaj",module,Magento_Paypal
+" to learn more."," da izvedete več.",module,Magento_Paypal
+"Important: ","Pomembno: ",module,Magento_Paypal
+"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Za uporabo PayPal Payments Advanced, morate nastaviti vaš PayPal Payments Advanced račun na spletni strani PayPal.",module,Magento_Paypal
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Ko se prijavite v vaš račun PayPal Advanced, pojdite na Service Settings - Hosted Checkout Pages - Set Up meni in spodaj nastavite željene možnosti",module,Magento_Paypal
+"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Za uporabo PayPal Payflow Link, morate nastaviti vaš PayPal Payflow Link račun na spletni strani PayPal.",module,Magento_Paypal
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Ko se prijavite v vaš račun PayPal Payflow Link, pojdite na Service Settings - Hosted Checkout Pages - Set Up meni in spodaj nastavite željene možnosti",module,Magento_Paypal
+"Billing Agreement # ","Sporazum zaračunavanja # ",module,Magento_Paypal
+"Agreement Information","Informacije o sporazumu",module,Magento_Paypal
+"Reference ID:","Referenčna številka:",module,Magento_Paypal
+"Status:","Stanje:",module,Magento_Paypal
+"Created:","Ustvarjeno:",module,Magento_Paypal
+"Updated:","Posodobljeno:",module,Magento_Paypal
+"Payment Method:","Način plačila:",module,Magento_Paypal
+"Order #","Naročilo #",module,Magento_Paypal
+"Date","Datum",module,Magento_Paypal
+"Ship To","Dostava na",module,Magento_Paypal
+"Order Status","Stanje naročila",module,Magento_Paypal
+"View Order","Ogled naročila",module,Magento_Paypal
+"Back to Billing Agreements","Nazaj na sporazume zaračunavanja",module,Magento_Paypal
+"Payment Method","Plačilna metoda",module,Magento_Paypal
+"View","Pogled",module,Magento_Paypal
+"There are no billing agreements yet.","Ni še nobenih sporazumov obračunavanja.",module,Magento_Paypal
+"New Billing Agreement","Nov sporazum zaračunavanja",module,Magento_Paypal
+"You will be redirected to the payment system website.","Preusmerjeni boste na spletno stran plačilnega sistema.",module,Magento_Paypal
+"-- Please Select --","-- Izberite --",module,Magento_Paypal
+"Create...","Ustvari ...",module,Magento_Paypal
+"Your credit card will be charged for","Vaša kreditna kartica bo bremenjena za",module,Magento_Paypal
+"Your billing agreement # is: ","Vaša # sporazuma obračunavanja je: ",module,Magento_Paypal
+"Shipping Method","Način pošiljanja",module,Magento_Paypal
+"Please select a shipping method...","Izberite način pošiljanja ...",module,Magento_Paypal
+"Update Shipping Method","Posodobi način dostave",module,Magento_Paypal
+"Sorry, no quotes are available for this order right now.","Žal za to naročilo trenutno ni na voljo ponudbe.",module,Magento_Paypal
+"Shipping Address","Naslov za dostavo",module,Magento_Paypal
+"Edit","Uredi",module,Magento_Paypal
+"Buy now with PayPal","Kupi zdaj s PayPal",module,Magento_Paypal
+"Edit Payment Information","Uredi informacije o plačilu",module,Magento_Paypal
+"Items in Your Shopping Cart","Elementi v vaši košarici",module,Magento_Paypal
+"Edit Shopping Cart","Posodobi košarico",module,Magento_Paypal
+"Place Order","Oddaj naročilo",module,Magento_Paypal
+"Submitting order information...","Pošiljanje informacij o naročilu...",module,Magento_Paypal
+"Item","Element",module,Magento_Paypal
+"Price","Cena",module,Magento_Paypal
+"Qty","Količina",module,Magento_Paypal
+"Subtotal","Delna vsota",module,Magento_Paypal
+"Please update order data to get shipping methods and rates","Posodobite podatke naročila, da dobite načine pošiljanja in stopnje",module,Magento_Paypal
+"or","ali",module,Magento_Paypal
+"Checkout with PayPal","Nakup s PayPal",module,Magento_Paypal
+"Please do not refresh the page until you complete payment.","Ne osvežite strani, dokler ne zaključite plačila.",module,Magento_Paypal
+"You will be required to enter your payment details after you place an order.","Vnesti boste morali podrobnosti vašega plačila, ko oddate naročilo.",module,Magento_Paypal
+"Continue","Nadaljuj",module,Magento_Paypal
+"Additional Options","Dodatne možnosti",module,Magento_Paypal
+"-- Please Select Billing Agreement--","-- Izberite sporazum zaračunavanja --",module,Magento_Paypal
+"Acceptance Mark","Znamka sprejetja",module,Magento_Paypal
+"What is PayPal?","Kaj je PayPal?",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases  with PayPal.","Podpišite sporazum o zaračunavanju za poenostavitev nadaljnih nakupov s PayPal.",module,Magento_Paypal
+"Sorry, something went wrong.","Se opravičujemo, vendar nekaj ni v redu.",module,Magento_Paypal
+"Sorry, something went wrong. Please try again later.","Nekaj je šlo narobe. Prosimo, poskusite znova.",module,Magento_Paypal
 "Grouped Products","Združeni proizvodi",module,Magento_GroupedProduct
 "Please specify the quantity of product(s).","Navedite količino izdelkov.",module,Magento_GroupedProduct
 "Cannot process the item.","Elementa ni mogoče obdelati.",module,Magento_GroupedProduct
@@ -2842,6 +2864,7 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "Maximum Order Total","Največji skupni znesek naročila",module,Magento_Authorizenet
 "Sort Order","Vrstni red",module,Magento_Authorizenet
 "Place Order","Oddaj naročilo",module,Magento_Authorizenet
+"Unable to place order. Please try again later.","Naročila ni mogoče oddati. Prosimo, poskusite ponovno kasneje.",module,Magento_Authorizenet
 "Please correct the data sent.","Popravite poslane podatke.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Modela vrste entitete '%1' ni mogoče najti",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model vrste entitete mora biti instanca \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
@@ -3250,6 +3273,9 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "Delete","Izbriši",module,Magento_Vault
 "PayPal Account","Račun PayPal",module,Magento_Vault
 "Cancel","Prekliči",module,Magento_Vault
+"Credit Card was successfully removed","Kreditna kartica je bila uspešno odstranjena",module,Magento_Vault
+"My Credit Cards","Moje kreditne kartice",module,Magento_Vault
+"You have no credit cards.","Nimate kreditnih kartic.",module,Magento_Vault
 "Edit URL Rewrite for a Category","Uredi prepis URL za kategorijo",module,Magento_UrlRewrite
 "Add URL Rewrite for a Category","Dodaj prepis URL za kategorijo",module,Magento_UrlRewrite
 "Category:","Kategorija:",module,Magento_UrlRewrite
@@ -6436,6 +6462,7 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "Only 1 shipping assignment can be set","Nastavljena je lahko samo 1 dodelitev pošiljanja",module,Magento_Quote
 "Carts","Košarice",module,Magento_Quote
 "Manage carts","Upravljanje košaric",module,Magento_Quote
+"Unable to place order. Please try again later.","Naročila ni mogoče oddati. Prosimo, poskusite kasneje.",module,Magento_Quote
 "Add configurable attributes to the current Attribute Set (""%1"")","Dodaj nastavljive atribute trenutnemu naboru atributov (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Dodaj nastavljive atribute novemu naboru atributov, ki temelji na trenutnem",module,Magento_ConfigurableProduct
 "New attribute set name","Novo ime nabora atributov",module,Magento_ConfigurableProduct
@@ -6475,6 +6502,7 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "Some product variations fields are not valid.","Nekatera polja variacij produktov niso veljavna.",module,Magento_ConfigurableProduct
 "Configuration must have specified attributes","Konfiguracija mora imeti določene atribute",module,Magento_ConfigurableProduct
 "Configurable product ""%1"" do not have sub-products","Nastavljivi izdelek ""%1"" nima podproizvodov",module,Magento_ConfigurableProduct
+"Configurable product ""%1"" does not have sub-products","Nastavljivi izdelek ""%1"" nima podproizvodov",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","Ta skupina vsebuje atribute, ki se uporabljajo v nastavljivih izdelkih. Prosimo, premaknite te atribute v drugo skupino in poskusite znova.",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products. You cannot remove it from the attribute set.","Ta atribut je uporabljen v nastavljivih izdelkih. Ne morete ga odstraniti iz nabora atributov.",module,Magento_ConfigurableProduct
 "Associated Products","Povezani izdelki",module,Magento_ConfigurableProduct
@@ -7216,6 +7244,8 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "Select a new payment method","Izberite nov način plačila",module,Magento_Checkout
 "Display Billing Address On","Prikaži naslov za račun na",module,Magento_Checkout
 "Summary","Povzetek",module,Magento_Checkout
+"No Payment Methods","Ni plačilnih metod",module,Magento_Checkout
+"Unable to place order. Please try again later.","Naročila ni mogoče oddati. Prosimo, poskusite kasneje.",module,Magento_Checkout
 "Not you?","To niste vi?",module,Magento_Persistent
 "Your shopping cart has been updated with new prices.","Vaša košarica je bil posodobljena z novimi cenami.",module,Magento_Persistent
 "Welcome, %1!","Pozdravljeni, %1!",module,Magento_Persistent
@@ -7308,6 +7338,7 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "An error occurred on the server. Please try to place the order again.","Na strežniku je prišlo do napake. Prosimo, poskusite ponovno oddati naročilo.",module,Magento_Payment
 "Payment Methods Section","Oddelek plačilnih metod",module,Magento_Payment
 "Payment Services","Plačilne storitve",module,Magento_Payment
+"Unable to place order. Please try again later.","Naročila ni mogoče oddati. Prosimo, poskusite kasneje.",module,Magento_Payment
 "General","Splošno",module,Magento_Sales
 "Hide Customer IP","Skrij IP kupca",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Izberi, ali naj bo IP kupca prikazan v naročilih, računih, dobavnicah in dobropisih.",module,Magento_Sales
@@ -7477,26 +7508,26 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "We can't update the transaction details.","Podrobnosti transakcije trenutno ni mogoče posodobiti.",module,Magento_Sales
 "We can't find this wish list.","Tega seznama želja ni mogoče najti.",module,Magento_Sales
 "-- Please Select --","-- Izberite --",module,Magento_Sales
-"Invoice Document Validation Error(s):\n"" .""","Napake preverjanja dokumenta računa:\n"".""",module,Magento_Sales
+"""Invoice Document Validation Error(s):\n"" .","Napake preverjanja dokumenta računa:\n .",module,Magento_Sales
 "Could not save an invoice, see error log for details","Računa ni mogoče shraniti. Za podrobnosti glejte dnevnik napak",module,Magento_Sales
 "Requested entity doesn't exist","Zahtevana količina ne obstaja",module,Magento_Sales
 "The creditmemo contains product item that is not part of the original order.","Dobropis vsebuje element izdelka, ki ni del originalnega naročila.",module,Magento_Sales
 "The quantity to refund must not be greater than the unrefunded quantity.","Količina za povračilo ne sme biti večja kot nepovrnjena količina.",module,Magento_Sales
 "Order Id is required for creditmemo document","Id naročila je zahtevan za dokument dobropisa",module,Magento_Sales
-"The creditmemo contains product SKU %1"" that is not part of the original order.""","Dobropis vsebuje SKU izdelka %1, ki ni del originalnega naročila.",module,Magento_Sales
-"The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU %1"".""","Količina dobropisa ne sme biti večja kot nepovrnjena količina za SKU izdelka %1.",module,Magento_Sales
+"The creditmemo contains product SKU ""%1"" that is not part of the original order.","Dobropis vsebuje SKU izdelka %1, ki ni del originalnega naročila.",module,Magento_Sales
+"The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1"".","Količina dobropisa ne sme biti večja kot nepovrnjena količina za SKU izdelka %1.",module,Magento_Sales
 "You can't create a creditmemo without products.","Dobropisa brez izdelkov ni mogoče ustvariti.",module,Magento_Sales
 "We can't create creditmemo for the invoice.","Dobropisa za račun ni mogoče ustvariti.",module,Magento_Sales
 "Order Id is required for invoice document","Id naročila je zahtevan za dokument računa",module,Magento_Sales
-"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU %1"".""","Količina za zaračun ne sme biti večja kot nezaračunana količina za SKU izdelka %1.",module,Magento_Sales
+"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","Količina za zaračun ne sme biti večja kot nezaračunana količina za SKU izdelka %1.",module,Magento_Sales
 "The invoice contains one or more items that are not part of the original order.","Račun vsebuje enega ali več elementov, ki niso del originalnega naročila.",module,Magento_Sales
 "You can't do this without a transaction object.","Tega ne morete narediti brez objekta transakcije.",module,Magento_Sales
 "We don't recognize the draw line data. Please define the lines"" array.""","Podatkov vrstice risbe ni mogoče prepoznati. Definirajte polje vrstic.",module,Magento_Sales
 "Parent shipment cannot be loaded for track object.","Nadrejena pošiljka ne sme biti naložena za objekt sledenja.",module,Magento_Sales
 "Order Id is required for shipment document","Id naročila je obvezen za dokument pošiljke",module,Magento_Sales
 "You can't create a shipment without products.","Pošiljke brez izdelkov ni mogoče ustvariti.",module,Magento_Sales
-"The shipment contains product SKU %1"" that is not part of the original order.""","Pošiljka vsebuje SKU izdelka %1, ki ni del originalnega naročila.",module,Magento_Sales
-"The quantity to ship must not be greater than the unshipped quantity for product SKU %1"".""","Količina za pošiljanje ne sme biti večja od neposlane količine za SKU izdelka %1.",module,Magento_Sales
+"The shipment contains product SKU ""%1"" that is not part of the original order.","Pošiljka vsebuje SKU izdelka %1, ki ni del originalnega naročila.",module,Magento_Sales
+"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","Količina za pošiljanje ne sme biti večja od neposlane količine za SKU izdelka %1.",module,Magento_Sales
 "The last status can't be unassigned from its current state.","Zadnjega stanja ni mogoče dodeliti iz njegovega trenutnega stanja.",module,Magento_Sales
 "Status can't be unassigned, because it is used by existing order(s).","Stanja ni mogoče razveljaviti, ker je uporabljeno pri obstoječih naročilih.",module,Magento_Sales
 "An invoice cannot be created when an order has a status of %1","Računa ni mogoče ustvariti, ko ima naročilo stanje %1",module,Magento_Sales
@@ -7504,10 +7535,10 @@ Merchant Account ID""","Merchant Account ID","module","Magento_Paypal"
 "The order does not allow a creditmemo to be created.","Naročilo ne dovoljuje ustvariti dobropisa.",module,Magento_Sales
 "A shipment cannot be created when an order has a status of %1","Pošiljke ni mogoče ustvariti, ko ima naročilo stanje %1",module,Magento_Sales
 "The order does not allow a shipment to be created.","Naročilo ne omogoča ustvarjenja pošiljke.",module,Magento_Sales
-"Creditmemo Document Validation Error(s):\n"" .""","Napake preverjanja dokumenta dobropisa:\n",module,Magento_Sales
+"""Creditmemo Document Validation Error(s):\n"" .","Napake preverjanja dokumenta dobropisa:\n",module,Magento_Sales
 "Could not save a Creditmemo, see error log for details","Dobropisa ni mogoče shraniti, za podrobnosti glejte dnevnik napak",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","Nimamo dovolj informacij, da bi shranili ID nadrejene transakcije.",module,Magento_Sales
-"Shipment Document Validation Error(s):\n"" .""","Napake preverjanja dokumenta pošiljke:\n",module,Magento_Sales
+"""Shipment Document Validation Error(s):\n"" .","Napake preverjanja dokumenta pošiljke:\n",module,Magento_Sales
 "Could not save a shipment, see error log for details","Pošiljke ni mogoče shraniti, za podrobnosti glejte dnevnik napak",module,Magento_Sales
 "Authorized amount of %1.","Avtorizirani znesek %1.",module,Magento_Sales
 "Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Avtorizirani znesek %1. Naročilo je začasno ukinjeno, saj za avtorizirani znesek %1 obstaja sum goljufije.",module,Magento_Sales

@@ -1,8 +1,0 @@
-"Product View Optimization","Optimizacija pogleda izdelka",module,Magento_GoogleOptimizer
-"Page View Optimization","Optimizacija pogleda strani",module,Magento_GoogleOptimizer
-"Google Analytics Content Experiments Code","Koda Google Analytics za ekperimentalno vsebino",module,Magento_GoogleOptimizer
-"Experiment Code","Eksperimentalna koda",module,Magento_GoogleOptimizer
-"Experiment code should be added to the original page only.","Eksperimentalna koda mora biti dodana samo prvotni strani.",module,Magento_GoogleOptimizer
-"Category View Optimization","Optimizacija pogleda kategorije",module,Magento_GoogleOptimizer
-"Enable Content Experiments","Omogoči eksperimentalne vsebine",module,Magento_GoogleOptimizer
-"Data key is missing: %1","Manjka ključ podatkov: %1",module,Magento_GoogleOptimizer

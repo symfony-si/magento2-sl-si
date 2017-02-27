@@ -2,7 +2,6 @@
     "name": "symfony-si/magento2-sl_si",
     "description": "Slovenian (Slovenia) language package for Magento 2",
     "homepage" : "https://github.com/symfony-si/magento2-sl_si",
-    "version": "100.0.0",
     "license": "OSL-3.0",
     "type": "magento2-language",
     "keywords" : [
@@ -14,17 +13,19 @@
         {
             "name": "Peter Kokot",
             "email": "peterkokot@gmail.com"
+        },
+        {
+            "name": "Symfony Slovenia Community",
+            "homepage": "https://github.com/symfony-si/magento2-sl_si/graphs/contributors"
         }
     ],
     "require": {
         "magento/framework": "~100.0"
     },
-    "require-dev": {
-        "league/commonmark": "^0.13"
-    },
     "autoload": {
         "files": [
             "registration.php"
         ]
-    }
+    },
+    "minimum-stability": "dev",
 }
