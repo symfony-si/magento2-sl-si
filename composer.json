@@ -27,5 +27,6 @@
             "registration.php"
         ]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "version": "v1.0.1"
 }
