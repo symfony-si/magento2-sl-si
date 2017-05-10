@@ -21,6 +21,8 @@ the following in your Magento 2 root folder:
 $ composer require symfony-si/magento2-sl_si
 $ bin/magento setup:static-content:deploy sl_SI
 $ bin/magento cache:clean
+$ bin/magento setup:upgrade
+$ bin/magento cache:flush
 ```
 
 ### Option 2: Manual Installation
@@ -31,6 +33,7 @@ static files for the locale, run the upgrade setup script and cleaning cache:
 
 ```bash
 $ bin/magento setup:static-content:deploy sl_SI
+$ bin/magento cache:clean
 $ bin/magento setup:upgrade
 $ bin/magento cache:flush
 ```
