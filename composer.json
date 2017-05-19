@@ -1,7 +1,7 @@
 {
-    "name": "symfony-si/magento2-sl_si",
+    "name": "symfonysi/magento2-sl-si",
     "description": "Slovenian (Slovenia) language package for Magento 2",
-    "homepage" : "https://github.com/symfony-si/magento2-sl_si",
+    "homepage" : "https://github.com/symfony-si/magento2-sl-si",
     "license": "OSL-3.0",
     "type": "magento2-language",
     "keywords" : [
@@ -16,7 +16,7 @@
         },
         {
             "name": "Symfony Slovenia Community",
-            "homepage": "https://github.com/symfony-si/magento2-sl_si/graphs/contributors"
+            "homepage": "https://github.com/symfony-si/magento2-sl-si/graphs/contributors"
         }
     ],
     "require": {
@@ -28,5 +28,5 @@
         ]
     },
     "minimum-stability": "dev",
-    "version": "v1.0.1"
+    "version": "v1.0.2"
 }
