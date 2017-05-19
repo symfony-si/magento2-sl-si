@@ -1125,6 +1125,7 @@ Yahoo Finance Exchange""","Yahoo Finance Exchange",module,Magento_Directory
 "Image Position","Pozicija slike",module,Magento_Swatches
 "Default Store View","Privzeti pogled trgovine",module,Magento_Swatches
 "Admin","Admin",module,Magento_Swatches
+"Show Swatches in Product List","Prikaži vzorce na seznamu izdelkov",module,Magento_Swatches
 "ALL GROUPS","VSE SKUPINE",module,Magento_CatalogInventory
 "Customer Group","Skupina strank",module,Magento_CatalogInventory
 "Minimum Qty","Najmanjša količina",module,Magento_CatalogInventory
