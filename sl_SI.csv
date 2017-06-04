@@ -9164,6 +9164,7 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Image Resolution","Ločljivost slike",module,Magento_ProductVideo
 "{width}^{height} px","{width}^{height} px",module,Magento_ProductVideo
 "Images And Videos","Slike in video posnetki",module,Magento_ProductVideo
+"Disallowed file type.","Nedovoljena vrsta datoteke.",module,Magento_ProductVideo
 "Now Shopping by","Zdaj nakupuje po","theme","frontend/Magento/luma"
 "Previous","Prejšnja","theme","frontend/Magento/luma"
 "Remove","Odstrani","theme","frontend/Magento/luma"
