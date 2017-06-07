@@ -21,12 +21,10 @@ $ git commit -m "Update files"
 $ git push origin
 ```
 
-
 ## Translation Rules
 
 Translations must follow Slovenian translation rules from
 [Lugos](https://wiki.lugos.si/slovenjenje:pravila).
-
 
 ## Development Practices
 
@@ -40,7 +38,6 @@ composer config repositories.magento composer https://repo.magento.com --global
 # Install dependencies for development
 composer install
 ```
-
 
 ## Release Process
 

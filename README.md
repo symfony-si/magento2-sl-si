@@ -5,10 +5,11 @@
 [![Open Software License v. 3.0](https://img.shields.io/badge/License-OSL--3.0-blue.svg)][license]
 [![Latest Release](https://img.shields.io/github/release/symfony-si/magento2-sl-si.svg)][latest-release]
 
-Slovenian (Slovenia) - `sl_SI` translations for [Magento][magento] Community Edition
-2.x.
+Slovenian (Slovenia) - `sl_SI` translations for [Magento](https://magento.com/)
+Community Edition 2.x.
 
-Translations follow Slovenian grammar and translation rules from [Lugos][lugos].
+Translations follow Slovenian grammar and translation rules from
+[Lugos](https://wiki.lugos.si/slovenjenje:pravila).
 
 ## Installation
 
@@ -18,30 +19,30 @@ To install this language package with [Composer](https://getcomposer.org), run
 the following in your Magento 2 root folder:
 
 ```bash
-$ composer require symfony-si/magento2-sl-si
-$ bin/magento setup:static-content:deploy sl_SI
-$ bin/magento cache:clean
-$ bin/magento setup:upgrade
-$ bin/magento cache:flush
+composer require symfonysi/magento2-sl-si
+bin/magento setup:static-content:deploy sl_SI
+bin/magento cache:clean
+bin/magento setup:upgrade
+bin/magento cache:flush
 ```
 
 ### Option 2: Manual Installation
 
-Download the ZIP file of the latest available [release][latest-release] and extract it to your
-Magento root folder at `app/i18n/SymfonySi/sl_SI`. Also don't forget to deploy
-static files for the locale, run the upgrade setup script and cleaning cache:
+Download the ZIP file of the latest available [release][latest-release] and extract
+it to your Magento root folder at `app/i18n/SymfonySi/sl_SI`. Also don't forget
+to deploy static files for the locale, run the upgrade setup script and cleaning
+cache:
 
 ```bash
-$ bin/magento setup:static-content:deploy sl_SI
-$ bin/magento cache:clean
-$ bin/magento setup:upgrade
-$ bin/magento cache:flush
+bin/magento setup:static-content:deploy sl_SI
+bin/magento cache:clean
+bin/magento setup:upgrade
+bin/magento cache:flush
 ```
 
 ### Option 3: Marketplace
 
-Magento [Marketplace][marketplace] stores free and paid extensions. Coming up
-soon...
+Magento [Marketplace][marketplace] stores free and paid extensions.
 
 ## See Also
 
@@ -57,32 +58,20 @@ soon...
 
 ## Supported Magento versions
 
-The following Magento Community Edition versions work with this translation:
+Supported Magento Community Edition `2.1.x` and `2.0.x` versions:
 
-* `2.1.7`
-* `2.1.6`
-* `2.1.5`
-* `2.1.4`
-* `2.1.3`
-* `2.1.2`
-* `2.1.1`
-* `2.1.0`
-* `2.0.4`
-* `2.0.3`
-* `2.0.2`
-* `2.0.1`
-* `2.0.0`
+* `2.1.7`, `2.1.6`, `2.1.5`, `2.1.4`, `2.1.3`, `2.1.2`, `2.1.1`, `2.1.0`
+* `2.0.4`, `2.0.3`, `2.0.2`, `2.0.1`, `2.0.0`
 
 ## Contributing and License
 
 Project is open sourced and contributors are welcome. Please check the
-[contributing](CONTRIBUTING.md) document how to help.
+[contributing](https://github.com/symfony-si/magento2-sl-si/blob/master/CONTRIBUTING.md)
+document how to help.
 
 This repository is released under the [Open Software License v. 3.0][license].
 
 
 [license]: https://github.com/symfony-si/magento2-sl-si/blob/master/LICENSE
-[lugos]: https://wiki.lugos.si/slovenjenje:pravila
-[magento]: https://magento.com/
 [marketplace]: https://marketplace.magento.com
 [latest-release]: https://github.com/symfony-si/magento2-sl-si/releases/latest

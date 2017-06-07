@@ -1,0 +1,8 @@
+# https://www.kernel.org/pub/software/scm/git/docs/gitattributes.html
+
+/.editorconfig   export-ignore
+/.gitattributes  export-ignore
+/.gitignore      export-ignore
+/CHANGELOG.md    export-ignore
+/CONTRIBUTING.md export-ignore
+/LICENSE         export-ignore
