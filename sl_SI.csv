@@ -8805,6 +8805,7 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Street Address","Naslov ulice",module,Magento_Customer
 "Street Address %1","Naslov ulice %1",module,Magento_Customer
 "VAT Number","ID za DDV",module,Magento_Customer
+"VAT number","ID za DDV",module,Magento_Customer
 "City","Mesto",module,Magento_Customer
 "State/Province","Država/območje",module,Magento_Customer
 "Please select a region, state or province.","Izberite regijo, državo ali provinco.",module,Magento_Customer
