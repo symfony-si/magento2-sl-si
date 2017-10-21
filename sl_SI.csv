@@ -9250,3 +9250,17 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Account Dashboard","Plošča računa","theme","frontend/Magento/luma"
 "Account Information","Informacije o računu","theme","frontend/Magento/luma"
 "Address Book","Adresar","theme","frontend/Magento/luma"
+"Delete %1","Izbriši %1",module,Magento_Cms
+"Are you sure you wan't to delete a %1 record?","Ste prepričani, da želite izbrisati vnos %1?",module,Magento_Cms
+"All Store Views","Vsi pogledi trgovine",module,Magento_Cms
+"Invalid login or password.","Neveljavna prijava ali geslo.",module,Magento_Customer
+"You entered incorrect data. Please try again.","Vnesli ste napačne podatke. Prosimo, poskusite ponovno.",module,Magento_Sales
+"Edit Customer","Urejanje kupca",module,Magento_Sales
+"First-Class Package Service - Retail","First-Class Package Service - Retail",module,Magento_Usps
+"Content translation","Prevod vsebine",module,Magento_Backend
+"Catalog Section","Sekcija kataloga",module,Magento_CatalogSearch
+"Access Token Expiration","Potek žetona dostopa",module,Magento_Integration
+"Customer Token Lifetime (hours)","Življenska doba žetona kupca (v urah)",module,Magento_Integration
+"Admin Token Lifetime (hours)","Življenska doba žetona administratorja (v urah)",module,Magento_Integration
+"Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!","Dovoljene vrste datotek: ico, png, gif, jpg, jpeg, apng. Vseh teh formatov ne podpirajo vsi brskalniki!",module,Magento_Theme
+"Allowed file types: png, gif, jpg, jpeg.","Dovoljene vrste datotek: png, gif, jpg, jpeg.",module,Magento_Theme
