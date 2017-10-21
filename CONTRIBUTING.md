@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution guidelines
 
 You are most welcome to suggest improvements, report
 [issues](https://github.com/symfony-si/magento2-sl-si/issues), or send pull
@@ -21,12 +21,12 @@ $ git commit -m "Update files"
 $ git push origin
 ```
 
-## Translation Rules
+## Translation rules
 
 Translations must follow Slovenian translation rules from
 [Lugos](https://wiki.lugos.si/slovenjenje:pravila).
 
-## Development Practices
+## Development practices
 
 Developing the language module and the main Magento store separately requires
 a different workflow. After cloning the repository locally, you can just do the
@@ -39,7 +39,7 @@ composer config repositories.magento composer https://repo.magento.com --global
 composer install
 ```
 
-## Release Process
+## Release process
 
 *(For repository maintainers)*
 
@@ -47,14 +47,14 @@ This repository follows [semantic versioning](http://semver.org). When source
 code changes or new features are implemented, a new version (e.g. 1.x.y) is
 released by the following release process:
 
-* **1. Update Changelog:**
+* **1. Update changelog:**
 
   Create an entry in [CHANGELOG.md](CHANGELOG.md) describing all the changes
   from previous release.
 
 * **2. Tag a new release:**
 
-  Tag a new version on GitHub.
+  Tag a new release version on GitHub.
 
 * **3. Attach a ZIP archive of the language package to a GitHub release**
 
