@@ -6814,10 +6814,20 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
                         Če pravilo izberete in shranite, boste lahko zgenerirali več kod kuponov.
                     ",module,Magento_SalesRule
 "
+                    If you select and save the rule you will be able to generate multiple coupon codes.
+                ","
+                    Če pravilo izberete in shranite, boste lahko zgenerirali več kod kuponov.
+                ",module,Magento_SalesRule
+"
                         Usage limit enforced for logged in customers only.
                     ","
                         Omejitev uporabe izvršena samo za prijavljene kupce.
                     ",module,Magento_SalesRule
+"
+                    Usage limit enforced for logged in customers only.
+                ","
+                    Omejitev uporabe izvršena samo za prijavljene kupce.
+                ",module,Magento_SalesRule
 "Discount amount is applied to subtotal only","Znesek popusta je uporabljen samo za delno vsoto",module,Magento_SalesRule
 "Discount amount is applied to subtotal and shipping amount separately","Znesek popusta je uporabljen ločeno za delno vsoto in znesek pošiljanja",module,Magento_SalesRule
 "System Backup","Varnostna kopija sistema",module,Magento_Backup
@@ -9264,3 +9274,441 @@ Merchant Account ID""","Merchant Account ID",module,Magento_Paypal
 "Admin Token Lifetime (hours)","Življenska doba žetona administratorja (v urah)",module,Magento_Integration
 "Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!","Dovoljene vrste datotek: ico, png, gif, jpg, jpeg, apng. Vseh teh formatov ne podpirajo vsi brskalniki!",module,Magento_Theme
 "Allowed file types: png, gif, jpg, jpeg.","Dovoljene vrste datotek: png, gif, jpg, jpeg.",module,Magento_Theme
+"Electronic payments save the trees.","Elektronska plačila varujejo drevesa.",module,Magento_Authorizenet
+"Please Select","Izberite",module,Magento_Authorizenet
+"You can't change status of cache type(s) in production mode","Statusa vrste predpomnilnika ne morete spremeniti v produkcijskem načinu",module,Magento_Backend
+"All Stores","Vse trgovine",module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Vse pravice pridržane.",module,Magento_Backend
+"Report an Issue","Sporočite težavo",module,Magento_Backend
+"Are you sure you want to delete this PayPal account","Ste prepričani, da želite izbrisati ta račun PayPal",module,Magento_Braintree
+"'Entity type model must be an instance of ' .","'Entity type model must be an instance of ' .",module,Magento_CatalogImportExport
+"Wrong attribute set code ""%1"", please correct it and try again.","Wrong attribute set code ""%1"", please correct it and try again.",module,Magento_CatalogImportExport
+". "" which is inconsistent with state of scope resolver""",". "" which is inconsistent with state of scope resolver""",module,Magento_CatalogSearch
+"Invalid URL key","Invalid URL key",module,Magento_CatalogUrlRewrite
+"You moved the category.","You moved the category.",module,Magento_Catalog
+"The value of Admin scope can't be empty.","The value of Admin scope can't be empty.",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
+"Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
+Discount,Discount,module,Magento_Catalog
+"Percentage value must be a number between 0 and 100.","Percentage value must be a number between 0 and 100.",module,Magento_Catalog
+"Invalid attribute %fieldName = %fieldValue.","Invalid attribute %fieldName = %fieldValue.",module,Magento_Catalog
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
+"Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
+"Could not save Prices.","Could not save Prices.",module,Magento_Catalog
+"Could not delete Prices","Could not delete Prices",module,Magento_Catalog
+"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Could not save Tier Prices","Could not save Tier Prices",module,Magento_Catalog
+"Could not replace Tier Prices","Could not replace Tier Prices",module,Magento_Catalog
+"Could not delete Tier Prices","Could not delete Tier Prices",module,Magento_Catalog
+"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
+"Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
+"Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
+"Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
+"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
+"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
+"Database connection error","Database connection error",module,Magento_Catalog
+"Database deadlock found when trying to get lock","Database deadlock found when trying to get lock",module,Magento_Catalog
+"Database lock wait timeout exceeded","Database lock wait timeout exceeded",module,Magento_Catalog
+"Some exception","Some exception",module,Magento_Catalog
+"Could not get extension attributes","Could not get extension attributes",module,Magento_Catalog
+"Lock wait timeout","Lock wait timeout",module,Magento_Catalog
+"Customer Group Price","Customer Group Price",module,Magento_Catalog
+"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.",module,Magento_Catalog
+"Please select a node.","Please select a node.",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists.","An attribute group named ""/name/"" already exists.",module,Magento_Catalog
+"Are you sure you want to delete a %1 record?","Are you sure you want to delete a %1 record?",module,Magento_Cms
+"Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Config
+"%1 should implement %2","%1 should implement %2",module,Magento_Config
+"The value you set has already been locked. To change the value, use the --%1 option.","The value you set has already been locked. To change the value, use the --%1 option.",module,Magento_Config
+"Configuration for path: ""%1"" doesn't exist","Configuration for path: ""%1"" doesn't exist",module,Magento_Config
+"The ""%1"" path does not exist","The ""%1"" path does not exist",module,Magento_Config
+"Visible section not found.","Visible section not found.",module,Magento_Config
+"%1: Instance of %2 is expected, got %3 instead","%1: Instance of %2 is expected, got %3 instead",module,Magento_Config
+"Filesystem is not writable.","Filesystem is not writable.",module,Magento_Config
+"Some error","Some error",module,Magento_Config
+"Some message","Some message",module,Magento_Config
+"You cannot run this command because the Magento application is not installed.","You cannot run this command because the Magento application is not installed.",module,Magento_Config
+"This command is unavailable right now.","This command is unavailable right now.",module,Magento_Config
+"The ""test/test/test"" path does not exists","The ""test/test/test"" path does not exists",module,Magento_Config
+"error message","error message",module,Magento_Config
+"Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.",module,Magento_ConfigurableProduct
+"An error occurred while processing your form. Please try again later.","An error occurred while processing your form. Please try again later.",module,Magento_Contact
+"Name is missing","Name is missing",module,Magento_Contact
+"Comment is missing","Comment is missing",module,Magento_Contact
+"Invalid email address","Invalid email address",module,Magento_Contact
+"Some error","Some error",module,Magento_Cron
+"Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called",module,Magento_Cron
+"Test exception","Test exception",module,Magento_Cron
+"You are subscribed to our newsletter.","You are subscribed to our newsletter.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter.",module,Magento_Customer
+"You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Customer
+"Password cannot be the same as email address.","Password cannot be the same as email address.",module,Magento_Customer
+"region is a required field.","region is a required field.",module,Magento_Customer
+"regionId is a required field.","regionId is a required field.",module,Magento_Customer
+"You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
+"Phone Number","Phone Number",module,Magento_Customer
+"Import failed: %1","Import failed: %1",module,Magento_Deploy
+"Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Deploy
+"%1 does not implement %2","%1 does not implement %2",module,Magento_Deploy
+"File app/etc/%1 can't be read. Please check if it exists and has read permissions.","File app/etc/%1 can't be read. Please check if it exists and has read permissions.",module,Magento_Deploy
+"There are no sensitive configurations to fill","There are no sensitive configurations to fill",module,Magento_Deploy
+"Value can't be empty","Value can't be empty",module,Magento_Deploy
+"A configuration with this path does not exist or is not sensitive","A configuration with this path does not exist or is not sensitive",module,Magento_Deploy
+"Wrong logger interface specified.","Wrong logger interface specified.",module,Magento_Deploy
+"Hash has not been saved.","Hash has not been saved.",module,Magento_Deploy
+"Parameter ""importer_class"" must be present.","Parameter ""importer_class"" must be present.",module,Magento_Deploy
+"The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration.","The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration.",module,Magento_Deploy
+"Wrong type specified: '%1'","Wrong type specified: '%1'",module,Magento_Deploy
+"Wrong queue type specified.","Wrong queue type specified.",module,Magento_Deploy
+"Some error","Some error",module,Magento_Deploy
+"some message","some message",module,Magento_Deploy
+"Exception","Exception",module,Magento_Deploy
+"Client side compilation doesn't work in production mode","Client side compilation doesn't work in production mode",module,Magento_Developer
+"Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Dhl
+"The response is in the wrong format","The response is in the wrong format",module,Magento_Dhl
+"Is this a downloadable Product?","Is this a downloadable Product?",module,Magento_Downloadable
+"Unique constraint violation found","Unique constraint violation found",module,Magento_Eav
+"Attribute group with same code already exist. Please rename ""%1"" group","Attribute group with same code already exist. Please rename ""%1"" group",module,Magento_Eav
+"An attribute code must not be less than %1 and more than %2 characters.","An attribute code must not be less than %1 and more than %2 characters.",module,Magento_Eav
+"Attribute with ID: ""%1"" does not exist","Attribute with ID: ""%1"" does not exist",module,Magento_Eav
+"We're sorry, an error has occurred while generating this content.","We're sorry, an error has occurred while generating this content.",module,Magento_Email
+"Add Gift Options","Add Gift Options",module,Magento_GiftMessage
+"Add Gift Options for Individual Items","Add Gift Options for Individual Items",module,Magento_GiftMessage
+"Fixed Price: From","Fixed Price: From",module,Magento_ImportExport
+"Stop on Error","Stop on Error",module,Magento_ImportExport
+"Skip error entries","Skip error entries",module,Magento_ImportExport
+"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4",module,Magento_ImportExport
+"Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors",module,Magento_ImportExport
+"Integration not secure","Integration not secure",module,Magento_Integration
+"title","title",module,Magento_Integration
+"This user has no tokens.","This user has no tokens.",module,Magento_Integration
+"This customer has no tokens.","This customer has no tokens.",module,Magento_Integration
+"Some addresses cannot be used due to country-specific configurations.","Some addresses cannot be used due to country-specific configurations.",module,Magento_Multishipping
+"This email address is already subscribed.","This email address is already subscribed.",module,Magento_Newsletter
+"Unsupported varnish version","Unsupported varnish version",module,Magento_PageCache
+"Matched whole nine-digit ZIP (no Address)","Matched whole nine-digit ZIP (no Address)",module,Magento_Paypal
+"Yes. Matched Address and five-digit ZIP","Yes. Matched Address and five-digit ZIP",module,Magento_Paypal
+"Invalid state change requested","Invalid state change requested",module,Magento_Quote
+"Some addresses cannot be used due to country-specific configurations.","Some addresses cannot be used due to country-specific configurations.",module,Magento_Quote
+"Minimum Order Amount Exceeded.","Minimum Order Amount Exceeded.",module,Magento_Quote
+"Please enter the company.","Please enter the company.",module,Magento_Sales
+"Please enter the fax number.","Please enter the fax number.",module,Magento_Sales
+"Could not delete the comment.","Could not delete the comment.",module,Magento_Sales
+"Could not save the comment.","Could not save the comment.",module,Magento_Sales
+"Could not delete the credit memo item.","Could not delete the credit memo item.",module,Magento_Sales
+"Could not save the credit memo item.","Could not save the credit memo item.",module,Magento_Sales
+"Could not delete the invoice comment.","Could not delete the invoice comment.",module,Magento_Sales
+"Could not save the invoice comment.","Could not save the invoice comment.",module,Magento_Sales
+"Could not delete the invoice item.","Could not delete the invoice item.",module,Magento_Sales
+"Could not save the invoice item.","Could not save the invoice item.",module,Magento_Sales
+"Received check doesn't match interface","Received check doesn't match interface",module,Magento_Sales
+"Could not delete the shipment comment.","Could not delete the shipment comment.",module,Magento_Sales
+"Could not save the shipment comment.","Could not save the shipment comment.",module,Magento_Sales
+"Could not delete the shipment item.","Could not delete the shipment item.",module,Magento_Sales
+"Could not save the shipment item.","Could not save the shipment item.",module,Magento_Sales
+"Could not delete the shipment tracking.","Could not delete the shipment tracking.",module,Magento_Sales
+"Could not save the shipment tracking.","Could not save the shipment tracking.",module,Magento_Sales
+"Could not delete the order status history.","Could not delete the order status history.",module,Magento_Sales
+"Could not save the order status history.","Could not save the order status history.",module,Magento_Sales
+%1,%1,module,Magento_Store
+"Website was not found","Website was not found",module,Magento_Store
+"Group was not found","Group was not found",module,Magento_Store
+"Store was not found","Store was not found",module,Magento_Store
+"Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Store
+"%1 should implement %2","%1 should implement %2",module,Magento_Store
+"The following stores are not associated with a root category: ' . . '. For the store to be displayed in the storefront, it must be associated with a root category.","The following stores are not associated with a root category: ' . . '. For the store to be displayed in the storefront, it must be associated with a root category.",module,Magento_Store
+"Group with the same code","Group with the same code",module,Magento_Store
+"An error occurred while loading tax rates.","An error occurred while loading tax rates.",module,Magento_Tax
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ",module,Magento_Tax
+"Error while translating phrase ""%s"" in file %s.","Error while translating phrase ""%s"" in file %s.",module,Magento_Translation
+"Error while generating js translation dictionary: ""%s""","Error while generating js translation dictionary: ""%s""",module,Magento_Translation
+"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Ui
+".",".",module,Magento_Ui
+"For Category","For Category",module,Magento_UrlRewrite
+"For Product","For Product",module,Magento_UrlRewrite
+"Create URL Rewrite","Create URL Rewrite",module,Magento_UrlRewrite
+"URL key for specified store already exists","URL key for specified store already exists",module,Magento_UrlRewrite
+"Exception instance doesn't match %1 type","Exception instance doesn't match %1 type",module,Magento_UrlRewrite
+"message %1","message %1",module,Magento_UrlRewrite
+"message","message",module,Magento_UrlRewrite
+"The value specified in the URL Key field would generate a URL that already exists.","The value specified in the URL Key field would generate a URL that already exists.",module,Magento_UrlRewrite
+"To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:","To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:",module,Magento_UrlRewrite
+"Small Flat-Rate Box","Small Flat-Rate Box",module,Magento_Usps
+"Medium Flat-Rate Box","Medium Flat-Rate Box",module,Magento_Usps
+"Large Flat-Rate Box","Large Flat-Rate Box",module,Magento_Usps
+"Small Flat-Rate Envelope","Small Flat-Rate Envelope",module,Magento_Usps
+"Window Flat-Rate Envelope","Window Flat-Rate Envelope",module,Magento_Usps
+"Gift Card Flat-Rate Envelope","Gift Card Flat-Rate Envelope",module,Magento_Usps
+"Legal Flat-Rate Envelope","Legal Flat-Rate Envelope",module,Magento_Usps
+"Padded Flat-Rate Envelope","Padded Flat-Rate Envelope",module,Magento_Usps
+"Please activate ""Magento Social"" integration at System->Integrations","Please activate ""Magento Social"" integration at System->Integrations",module,Shopial_Facebook
+"Integrations page","Integrations page",module,Shopial_Facebook
+"2. Setup your Facebook store","2. Setup your Facebook store",module,Shopial_Facebook
+"Launch store","Launch store",module,Shopial_Facebook
+Phone,Phone,module,Magento_Contact
+Message,Message,module,Magento_Contact
+"Please enter a number greater 0 in this field.","Please enter a number greater 0 in this field.",lib,lib/web/mage/backend/validation.js
+"Please select one of each ratings above.","Please select one of each ratings above.",lib,lib/web/mage/backend/validation.js
+"Please specify Url.","Please specify Url.",lib,lib/web/mage/backend/validation.js
+"Please enter {0} words or less.","Please enter {0} words or less.",lib,lib/web/mage/validation.js
+"Please enter at least {0} words.","Please enter at least {0} words.",lib,lib/web/mage/validation.js
+"Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",lib,lib/web/mage/validation.js
+"Letters or punctuation only please","Letters or punctuation only please",lib,lib/web/mage/validation.js
+"Letters, numbers, spaces or underscores only please","Letters, numbers, spaces or underscores only please",lib,lib/web/mage/validation.js
+"Letters only please","Letters only please",lib,lib/web/mage/validation.js
+"No white space please","No white space please",lib,lib/web/mage/validation.js
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx",lib,lib/web/mage/validation.js
+"A positive or negative non-decimal number please","A positive or negative non-decimal number please",lib,lib/web/mage/validation.js
+"The specified vehicle identification number (VIN) is invalid.","The specified vehicle identification number (VIN) is invalid.",lib,lib/web/mage/validation.js
+"Please enter a correct date","Please enter a correct date",lib,lib/web/mage/validation.js
+"Please enter a valid time, between 00:00 and 23:59","Please enter a valid time, between 00:00 and 23:59",lib,lib/web/mage/validation.js
+"Please enter a valid time, between 00:00 am and 12:00 pm","Please enter a valid time, between 00:00 am and 12:00 pm",lib,lib/web/mage/validation.js
+"Please specify a valid phone number","Please specify a valid phone number",lib,lib/web/mage/validation.js
+"Please specify a valid mobile number","Please specify a valid mobile number",lib,lib/web/mage/validation.js
+"Please enter at least {0} characters","Please enter at least {0} characters",lib,lib/web/mage/validation.js
+"Please enter a valid credit card number.","Please enter a valid credit card number.",lib,lib/web/mage/validation.js
+"Please enter a valid IP v4 address.","Please enter a valid IP v4 address.",lib,lib/web/mage/validation.js
+"Please enter a valid IP v6 address.","Please enter a valid IP v6 address.",lib,lib/web/mage/validation.js
+"Invalid format.","Invalid format.",lib,lib/web/mage/validation.js
+"HTML tags are not allowed.","HTML tags are not allowed.",lib,lib/web/mage/validation.js
+"Please select an option.","Please select an option.",lib,lib/web/mage/validation.js
+"Empty Value.","Empty Value.",lib,lib/web/mage/validation.js
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.",lib,lib/web/mage/validation.js
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",lib,lib/web/mage/validation.js
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.",lib,lib/web/mage/validation.js
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.",lib,lib/web/mage/validation.js
+"Please enter a valid fax number (Ex: 123-456-7890).","Please enter a valid fax number (Ex: 123-456-7890).",lib,lib/web/mage/validation.js
+"Please enter a valid email address (Ex: johndoe@domain.com).","Please enter a valid email address (Ex: johndoe@domain.com).",lib,lib/web/mage/validation.js
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",lib,lib/web/mage/validation.js
+"Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic.",lib,lib/web/mage/validation.js
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.",lib,lib/web/mage/validation.js
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",lib,lib/web/mage/validation.js
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://).",lib,lib/web/mage/validation.js
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",lib,lib/web/mage/validation.js
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",lib,lib/web/mage/validation.js
+"Please enter a valid social security number (Ex: 123-45-6789).","Please enter a valid social security number (Ex: 123-45-6789).",lib,lib/web/mage/validation.js
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Please enter a valid zip code (Ex: 90602 or 90602-1234).",lib,lib/web/mage/validation.js
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",lib,lib/web/mage/validation.js
+"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00.",lib,lib/web/mage/validation.js
+"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",lib,lib/web/mage/validation.js
+"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field.",lib,lib/web/mage/validation.js
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).",lib,lib/web/mage/validation.js
+"Please enter a valid number in this field.","Please enter a valid number in this field.",lib,lib/web/mage/validation.js
+"The value is not within the specified range.","The value is not within the specified range.",lib,lib/web/mage/validation.js
+"Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field.",lib,lib/web/mage/validation.js
+"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",lib,lib/web/mage/validation.js
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.",lib,lib/web/mage/validation.js
+"Please enter a valid date.","Please enter a valid date.",lib,lib/web/mage/validation.js
+"Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",lib,lib/web/mage/validation.js
+"Please make sure your passwords match.","Please make sure your passwords match.",lib,lib/web/mage/validation.js
+"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",lib,lib/web/mage/validation.js
+"Please enter a valid zip code.","Please enter a valid zip code.",lib,lib/web/mage/validation.js
+"Please select one of the options above.","Please select one of the options above.",lib,lib/web/mage/validation.js
+"Please select State/Province.","Please select State/Province.",lib,lib/web/mage/validation.js
+"Please select a file.","Please select a file.",lib,lib/web/mage/validation.js
+"The field isn't complete.","The field isn't complete.",lib,lib/web/mage/validation.js
+"This is a required field.","This is a required field.",lib,lib/web/mage/validation.js
+"Please select one of the options.","Please select one of the options.",lib,lib/web/mage/validation.js
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.",lib,lib/web/mage/validation.js
+"Card type does not match credit card number.","Card type does not match credit card number.",lib,lib/web/mage/validation.js
+"Credit card number does not match credit card type.","Credit card number does not match credit card type.",lib,lib/web/mage/validation.js
+"Incorrect credit card expiration date.","Incorrect credit card expiration date.",lib,lib/web/mage/validation.js
+"Please enter a valid credit card verification number.","Please enter a valid credit card verification number.",lib,lib/web/mage/validation.js
+"Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",lib,lib/web/mage/validation.js
+"Please enter less or equal than %1 symbols.","Please enter less or equal than %1 symbols.",lib,lib/web/mage/validation.js
+"Please enter more or equal than %1 symbols.","Please enter more or equal than %1 symbols.",lib,lib/web/mage/validation.js
+"Please enter positive number in this field.","Please enter positive number in this field.",lib,lib/web/mage/validation.js
+"Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30",lib,lib/web/mage/validation.js
+"Please enter a valid value from list","Please enter a valid value from list",lib,lib/web/mage/validation.js
+"Please enter valid SKU key.","Please enter valid SKU key.",lib,lib/web/mage/validation.js
+"Please enter a valid number.","Please enter a valid number.",lib,lib/web/mage/validation.js
+"This is required field","This is required field",lib,lib/web/mage/validation.js
+"Admin is a required field in the each row.","Admin is a required field in the each row.",lib,lib/web/mage/validation.js
+"Password cannot be the same as email address.","Password cannot be the same as email address.",lib,lib/web/mage/validation.js
+"Please fix this field.","Please fix this field.",lib,lib/web/mage/validation.js
+"Please enter a valid email address.","Please enter a valid email address.",lib,lib/web/mage/validation.js
+"Please enter a valid URL.","Please enter a valid URL.",lib,lib/web/mage/validation.js
+"Please enter a valid date (ISO).","Please enter a valid date (ISO).",lib,lib/web/mage/validation.js
+"Please enter only digits.","Please enter only digits.",lib,lib/web/mage/validation.js
+"Please enter the same value again.","Please enter the same value again.",lib,lib/web/mage/validation.js
+"Please enter no more than {0} characters.","Please enter no more than {0} characters.",lib,lib/web/mage/validation.js
+"Please enter at least {0} characters.","Please enter at least {0} characters.",lib,lib/web/mage/validation.js
+"Please enter a value between {0} and {1} characters long.","Please enter a value between {0} and {1} characters long.",lib,lib/web/mage/validation.js
+"Please enter a value between {0} and {1}.","Please enter a value between {0} and {1}.",lib,lib/web/mage/validation.js
+"Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}.",lib,lib/web/mage/validation.js
+"Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",lib,lib/web/mage/validation.js
+"Please specify the quantity of product(s).","Please specify the quantity of product(s).",lib,lib/web/mage/validation/validation.js
+"Please select one of the options.","Please select one of the options.",lib,lib/web/mage/validation/validation.js
+"This is a required field.","This is a required field.",lib,lib/web/mage/validation/validation.js
+"Please enter a valid full date.","Please enter a valid full date.",lib,lib/web/mage/validation/validation.js
+"Please enter a valid month (1-12).","Please enter a valid month (1-12).",lib,lib/web/mage/validation/validation.js
+"Sorry, but something went wrong. Please contact the seller.","Sorry, but something went wrong. Please contact the seller.",module,Magento_Authorizenet
+"Warning message","Warning message",module,Magento_Backend
+"This operation can take a long time","This operation can take a long time",module,Magento_Backend
+"This value does not follow the specified format (for example, 200X300).","This value does not follow the specified format (for example, 200X300).",module,Magento_Catalog
+"does not implement Storage Interface","does not implement Storage Interface",module,Magento_Catalog
+"Field ","Field ",module,Magento_Checkout
+" is required."," is required.",module,Magento_Checkout
+"New Address","New Address",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Checkout
+"Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
+"Choose this option to delete and replace extension data for all past configurations.","Choose this option to delete and replace extension data for all past configurations.",module,Magento_ConfigurableProduct
+"When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.","When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.",module,Magento_ConfigurableProduct
+"Buy %1 for %2 each and","Buy %1 for %2 each and",module,Magento_ConfigurableProduct
+"save","save",module,Magento_ConfigurableProduct
+"There are {placeholder} messages requires your attention.","There are {placeholder} messages requires your attention.",module,Magento_Ui
+"from","from",module,Magento_Ui
+"to","to",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Ui
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.",module,Magento_Ui
+"Pagination Frame Skip","Pagination Frame Skip",module,Magento_Backend
+"Special Price","Special Price",module,Magento_Bundle
+"Rule Name","Rule Name",module,Magento_CatalogRule
+Description,Description,module,Magento_CatalogRule
+Websites,Websites,module,Magento_CatalogRule
+"Customer Groups","Customer Groups",module,Magento_CatalogRule
+From,From,module,Magento_CatalogRule
+To,To,module,Magento_CatalogRule
+Priority,Priority,module,Magento_CatalogRule
+Apply,Apply,module,Magento_CatalogRule
+"Discount Amount","Discount Amount",module,Magento_CatalogRule
+"Discard subsequent rules","Discard subsequent rules",module,Magento_CatalogRule
+Small,Small,module,Magento_Catalog
+Main,Main,module,Magento_Catalog
+"Custom image","Custom image",module,Magento_Catalog
+"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Catalog
+"Lifetime of products in Recently Viewed Widget","Lifetime of products in Recently Viewed Widget",module,Magento_Catalog
+"Lifetime of products in Recently Compared Widget","Lifetime of products in Recently Compared Widget",module,Magento_Catalog
+"Synchronize widget products with backend storage","Synchronize widget products with backend storage",module,Magento_Catalog
+"Product Info Column","Product Info Column",module,Magento_Catalog
+"Block after Info Column","Block after Info Column",module,Magento_Catalog
+"Recently Viewed Products","Recently Viewed Products",module,Magento_Catalog
+"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Catalog
+"UI Component","UI Component",module,Magento_Catalog
+"Number of Products to display","Number of Products to display",module,Magento_Catalog
+"Product attributes to show","Product attributes to show",module,Magento_Catalog
+Image,Image,module,Magento_Catalog
+"Learn More Link","Learn More Link",module,Magento_Catalog
+"Buttons to show","Buttons to show",module,Magento_Catalog
+"Add to Wishlist","Add to Wishlist",module,Magento_Catalog
+"Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Catalog
+"Viewed Products List Template","Viewed Products List Template",module,Magento_Catalog
+"Viewed Products Sidebar Template","Viewed Products Sidebar Template",module,Magento_Catalog
+"Recently Compared Products","Recently Compared Products",module,Magento_Catalog
+"List of Products Recently Compared by Visitor","List of Products Recently Compared by Visitor",module,Magento_Catalog
+"Compared Products Grid Template","Compared Products Grid Template",module,Magento_Catalog
+"Compared Products List Template","Compared Products List Template",module,Magento_Catalog
+Description,Description,module,Magento_Catalog
+"Display Mode","Display Mode",module,Magento_Catalog
+"Available Product Listing Sort By","Available Product Listing Sort By",module,Magento_Catalog
+"Default Product Listing Sort By","Default Product Listing Sort By",module,Magento_Catalog
+"Skip to the end of the images gallery","Skip to the end of the images gallery",module,Magento_Catalog
+"Skip to the beginning of the images gallery","Skip to the beginning of the images gallery",module,Magento_Catalog
+"Recently Compared","Recently Compared",module,Magento_Catalog
+"Add To Cart","Add To Cart",module,Magento_Catalog
+"Add To Compare","Add To Compare",module,Magento_Catalog
+"Learn more","Learn more",module,Magento_Catalog
+"Recently Viewed","Recently Viewed",module,Magento_Catalog
+"Shipping Address","Shipping Address",module,Magento_Checkout
+"Are you sure you want to delete selected items?","Are you sure you want to delete selected items?",module,Magento_Cms
+"As low as: ","As low as: ",module,Magento_ConfigurableProduct
+"Enable Autocomplete on login/forgot password forms","Enable Autocomplete on login/forgot password forms",module,Magento_Customer
+"Show Telephone","Show Telephone",module,Magento_Customer
+"Show Company","Show Company",module,Magento_Customer
+"Show Fax","Show Fax",module,Magento_Customer
+"Customer Data Lifetime","Customer Data Lifetime",module,Magento_Customer
+"Please specify value in minutes.","Please specify value in minutes.",module,Magento_Customer
+"Assign a Customer Group","Assign a Customer Group",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","Are you sure to assign selected customers to new group?",module,Magento_Customer
+"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.",module,Magento_Customer
+"Log to File","Log to File",module,Magento_Developer
+"Not available in production mode.","Not available in production mode.",module,Magento_Developer
+"Header Template","Header Template",module,Magento_Email
+"Anonymize IP","Anonymize IP",module,Magento_GoogleAnalytics
+"Authentication Locks","Authentication Locks",module,Magento_Integration
+"Maximum Login Failures to Lock Out Account","Maximum Login Failures to Lock Out Account",module,Magento_Integration
+"Lockout Time (seconds)","Lockout Time (seconds)",module,Magento_Integration
+"Grace period","Grace period",module,Magento_PageCache
+"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.",module,Magento_PageCache
+"Card Issuer Is Outside The United States","Izdajatelj kartice je izven Zveznih držav Amerike",module,Magento_Paypal
+"RSS","RSS",module,Magento_Rss
+"Currently Active","Trenutno aktivno",module,Magento_SalesRule
+"Logo Attribute Width","Širina atributa logotipa",module,Magento_Theme
+"Logo Attribute Height","Višina atributa logotipa",module,Magento_Theme
+"Default Robots","Privzeti roboti",module,Magento_Theme
+"Edit custom instruction of robots.txt File","Urejanje navodil po meri za datoteko robots.txt",module,Magento_Theme
+"This action will delete your custom instructions and reset robots.txt file to system's default settings.","To dejanje bo izbrisalo vaša navodila po meri in ponastavilo datoteko robots.txt na sistemske privzete nastavitve.",module,Magento_Theme
+"Reset To Defaults","Ponastavitev na privzete vrednosti",module,Magento_Theme
+"Label Button 2","Oznaka gumba 2",module,Magento_Ui
+"Label Actions One","Oznaka dejanja ena",module,Magento_Ui
+"Label Actions Two","Oznaka dejanja dve",module,Magento_Ui
+"Some Dynamic Actions","Nekatera dinamična dejanja",module,Magento_Ui
+"Enable Free Shipping Threshold","Omogočite mejno količino za brezplačno dostavo",module,Magento_Ups
+"Add To Wishlist","Dodaj na seznam želja",module,Magento_Wishlist
+"Favicon Icon","Ikona favicon",module,Magento_Theme
+"Default Page Title","Privzeti naslov strani",module,Magento_Theme
+"Page Title Prefix","Predpona naslova strani",module,Magento_Theme
+"Page Title Suffix","Pripona naslova strani",module,Magento_Theme
+"Default Meta Description","Privzeti meta opis",module,Magento_Theme
+"Default Meta Keywords","Privzete meta ključne besede",module,Magento_Theme
+"This will be included before head closing tag in page HTML.","To bo vključeno pred zaključnim head elementom na strani HTML.",module,Magento_Theme
+"Track your order","Sledite vašemu naročilu",module,Magento_Shipping
+"Track All Shipments","Sledenje vseh pošiljk",module,Magento_Shipping
+"Swatches","Vzorci",module,Magento_Swatches
+"Copyright © 2013-2017 Magento, Inc. All rights reserved.","Copyright © 2013-2017 Magento, Inc. Vse pravice pridržane.",module,Magento_Theme
+settings/label,settings/label,module,Magento_Ui
+settings/confirm/title,settings/confirm/title,module,Magento_Ui
+"settings/confirm/message
+                        ","settings/confirm/message
+                        ",module,Magento_Ui
+"
+                            settings/callback/provider
+                        ","
+                            settings/callback/provider
+                        ",module,Magento_Ui
+"settings/callback/target
+                        ","settings/callback/target
+                        ",module,Magento_Ui
+"settings/newViewLabel
+                    ","settings/newViewLabel
+                    ",module,Magento_Ui
+settings/title,settings/title,module,Magento_Ui
+settings/description,settings/description,module,Magento_Ui
+"
+                        settings/addButtonLabel
+                    ","
+                        settings/addButtonLabel
+                    ",module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    ",module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    ",module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ",module,Magento_Ui
+settings/placeholder,settings/placeholder,module,Magento_Ui
+settings/caption,settings/caption,module,Magento_Ui
+settings/subTitle,settings/subTitle,module,Magento_Ui
+settings/visible,settings/visible,module,Magento_Ui
+settings/showLabel,settings/showLabel,module,Magento_Ui
+settings/breakLine,settings/breakLine,module,Magento_Ui
+settings/required,settings/required,module,Magento_Ui
+settings/size,settings/size,module,Magento_Ui
+settings/notice,settings/notice,module,Magento_Ui
+settings/tooltip/description,settings/tooltip/description,module,Magento_Ui
+settings/addBefore,settings/addBefore,module,Magento_Ui
+settings/addAfter,settings/addAfter,module,Magento_Ui
