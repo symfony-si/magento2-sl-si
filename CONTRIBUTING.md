@@ -8,18 +8,18 @@ requests:
 * Set up your local repository
 
   ```bash
-$ git clone git@github.com:your_username/magento2-sl-si
-$ cd magento2-sl-si
-$ git remote add upstream git://github.com/symfony-si/magento2-sl-si
-$ git config branch.master.remote upstream
-```
+  git clone git@github.com:your_username/magento2-sl-si
+  cd magento2-sl-si
+  git remote add upstream git://github.com/symfony-si/magento2-sl-si
+  git config branch.master.remote upstream
+  ```
 * Make changes and send pull request
 
   ```bash
-$ git add .
-$ git commit -m "Update files"
-$ git push origin
-```
+  git add .
+  git commit -m "Update files"
+  git push origin
+  ```
 
 ## Translation rules
 
