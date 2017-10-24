@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file. This projec
 * Updated translations for current Magento 2 versions and added support for
   Magento 2.2.0
 * Loosened Magento version restrictions in composer.json
+* Fixed `VAT number` translation ([Dean Podgornik](https://github.com/deanpodgornik))
 
 ## [1.0.3] - 2017-06-07
 
