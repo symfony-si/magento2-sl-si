@@ -12,16 +12,12 @@
     ],
     "authors": [
         {
-            "name": "Peter Kokot",
-            "email": "peterkokot@gmail.com"
-        },
-        {
             "name": "Symfony Slovenia Community",
             "homepage": "https://github.com/symfony-si/magento2-sl-si/graphs/contributors"
         }
     ],
     "require": {
-        "magento/framework": "~100.0"
+        "magento/framework": ">=100"
     },
     "autoload": {
         "files": [
