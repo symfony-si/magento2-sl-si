@@ -9712,3 +9712,39 @@ settings/notice,settings/notice,module,Magento_Ui
 settings/tooltip/description,settings/tooltip/description,module,Magento_Ui
 settings/addBefore,settings/addBefore,module,Magento_Ui
 settings/addAfter,settings/addAfter,module,Magento_Ui
+"Tracking information must contain title, carrier code, and tracking number","Informacije o sledenju morajo vsebovati naslov, kodo nosilca in številko sledenja",module,Magento_Shipping
+"Approved","Odobreno",module,Magento_Signifyd
+"Declined","Zavrnjeno",module,Magento_Signifyd
+"Pending","V teku",module,Magento_Signifyd
+"Canceled","Preklicano",module,Magento_Signifyd
+"In Review","V pregledu",module,Magento_Signifyd
+"Unrequested","Neprebrano",module,Magento_Signifyd
+"Learn more","Izvedite več",module,Magento_Signifyd
+"This order already has associated case entity","To naročilo že ima povezavno entiteto primera",module,Magento_Signifyd
+"The case entity should not be empty.","Entiteta primera ne sme biti prazna.",module,Magento_Signifyd
+"Cannot update Case entity.","Entitete primera ni mogoče posodobiti.",module,Magento_Signifyd
+"The ""%1"" should not be empty.","Element ""%1"" ne sme biti prazen.",module,Magento_Signifyd
+"Case entity not found.","Entitete primera ni mogoče najti.",module,Magento_Signifyd
+"Case Update: New score for the order is %1. Previous score was %2.","Posodobitev primera: Nove točke za naročilo so %1. Prejšnje točke so bile %2.",module,Magento_Signifyd
+"Awaiting the Signifyd guarantee disposition.","Garancija podjetja Signifyd je na čakanju.",module,Magento_Signifyd
+"Only single entrance of ""%1"" node is required.","Zahtevano je samo eno vhodno vozlišče ""%1"".",module,Magento_Signifyd
+"Not empty value for ""%1"" node is required.","Neprazna vrednost za vozlišče ""%1"" je zahtevana.",module,Magento_Signifyd
+"%1 must implement %2","%1 mora implementirati %2",module,Magento_Signifyd
+"Error","Napaka",module,Magento_Signifyd
+"Cannot generate message.","Sporočila ni mogoče generirati.",module,Magento_Signifyd
+"Message is generated.","Sporočilo je generirano.",module,Magento_Signifyd
+"Case with the same order id already exists.","Primer z enakim id naročila že obstaja.",module,Magento_Signifyd
+"Fraud Protection Information","Informacije o zaščiti pred goljufijami",module,Magento_Signifyd
+"Signifyd Guarantee Decision","Odločba o jamstvu Signifyd",module,Magento_Signifyd
+"Checkout as a new customer","Opravite nakup kot nov kupec",module,Magento_Customer
+"Checkout using your account","Zaključek nakupa z uporabo vašega računa",module,Magento_Customer
+"Please select one of each of the ratings above.","Izberite eno izmed vsake ocene zgoraj.",module,Magento_Review
+"Fraud Protection Section","Sekcija zaščite pred goljufijami",module,Magento_Signifyd
+"Fraud Protection","Zaščita pred goljufijami",module,Magento_Signifyd
+"Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.","Zaščitite vašo trgovino pred goljufijami z Guaranteed Fraud Protection od Signifyd.",module,Magento_Signifyd
+"Configuration","Nastavitve",module,Magento_Signifyd
+"Enable this Solution","Omogoči to rešitev",module,Magento_Signifyd
+"API Key","API ključ",module,Magento_Signifyd
+"API URL","API URL",module,Magento_Signifyd
+"Debug","Razhroščevanje",module,Magento_Signifyd
+"Webhook URL","Webhook URL",module,Magento_Signifyd

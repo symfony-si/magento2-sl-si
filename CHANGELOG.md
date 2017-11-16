@@ -8,6 +8,10 @@ All notable changes to this project will be documented in this file. This projec
 
 * ...
 
+## [1.0.5] - 2017-11-16
+
+* Translations for Magento 2.2.1 and 2.1.10
+
 ## [1.0.4] - 2017-10-24
 
 * Updated translations for current Magento 2 versions and added support for
