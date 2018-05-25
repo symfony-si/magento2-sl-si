@@ -559,7 +559,7 @@
 "No shipping information available","Ni razpoložljivih informacij o dostavi",module,Magento_Shipping
 "Shipping and Tracking Information","Informacije o dostavi in sledenju",module,Magento_Shipping
 "Track this shipment","Sledite tej pošiljki",module,Magento_Shipping
-"Items Shipped","Dobavljeni elementi",module,Magento_Shipping
+"Items Shipped","Odposlani elementi",module,Magento_Shipping
 "Order Total","Skupno naročilo",module,Magento_Shipping
 "Shipment History","Zgodovina pošiljanja",module,Magento_Shipping
 "Qty Shipped","Poslana količina",module,Magento_Shipping
@@ -7584,7 +7584,7 @@
 "Update to your %store_name invoice","Posodobite na vaš račun %store_name",module,Magento_Sales
 "Your %store_name order confirmation","Potrditev vašega naročila %store_name",module,Magento_Sales
 "Update to your %store_name order","Posodobite na vaše naročilo %store_name",module,Magento_Sales
-"Your %store_name order has shipped","Vaše naročilo %store_name je dobavljeno",module,Magento_Sales
+"Your %store_name order has shipped","Vaše naročilo %store_name je odposlano",module,Magento_Sales
 "Update to your %store_name shipment","Posodobite na vašo pošiljko %store_name",module,Magento_Sales
 "Operations","Operacije",module,Magento_Sales
 "Create","Ustvari",module,Magento_Sales
@@ -9255,7 +9255,7 @@
 "Update to your %store_name invoice","Posodobite na vaš račun %store_name","theme","frontend/Magento/luma"
 "Your %store_name order confirmation","Potrditev vašega naročila %store_name","theme","frontend/Magento/luma"
 "Update to your %store_name order","Posodobite na vaše naročilo %store_name","theme","frontend/Magento/luma"
-"Your %store_name order has shipped","Vaše naročilo %store_name je dobavljeno","theme","frontend/Magento/luma"
+"Your %store_name order has shipped","Vaše naročilo %store_name je odposlano","theme","frontend/Magento/luma"
 "Update to your %store_name shipment","Posodobite na vašo pošiljko %store_name","theme","frontend/Magento/luma"
 "Account Dashboard","Plošča računa","theme","frontend/Magento/luma"
 "Account Information","Informacije o računu","theme","frontend/Magento/luma"
