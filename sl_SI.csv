@@ -716,7 +716,7 @@
 "The page URL key contains capital letters or disallowed symbols.","Ključ URL strani vsebuje velike črke ali nedovoljene simbole.",module,Magento_Cms
 "The page URL key cannot be made of only numbers.","Ključa URL strani ni mogoče narediti le iz številk.",module,Magento_Cms
 "Please rename the folder using only letters, numbers, underscores and dashes.","Preimenujte mapo z uporabo le črk, številk, podčrtajev in pomišljajev.",module,Magento_Cms
-"We found a directory with the same name. Please try another folder name.","Našli smo mapo z istim imenom. Poskusite drugo ime mape.",module,Magento_Cms
+"We found a directory with the same name. Please try another folder name.","Našli smo mapo z enakim imenom. Poskusite drugo ime mape.",module,Magento_Cms
 "We cannot create a new directory.","Nove mape ni mogoče ustvariti.",module,Magento_Cms
 "We cannot delete directory %1.","Imenika %1 ni mogoče izbrisati.",module,Magento_Cms
 "We can\'t upload the file right now.","Datoteke trenutno ni mogoče naložiti.",module,Magento_Cms
@@ -4873,7 +4873,7 @@
 "We can't update the attribute.","Atributa ni mogoče posodobiti.",module,Magento_Catalog
 "You saved the product attribute.","Shranili ste atribut izdelka.",module,Magento_Catalog
 "An attribute with this code already exists.","Atribut s to kodo že obstaja.",module,Magento_Catalog
-"An attribute with the same code (%1) already exists.","Atribut z isto kodo (%1) že obstaja.",module,Magento_Catalog
+"An attribute with the same code (%1) already exists.","Atribut z enako kodo (%1) že obstaja.",module,Magento_Catalog
 "The value of Admin must be unique.","Vrednost admin mora biti edinstvena.",module,Magento_Catalog
 "You duplicated the product.","Podvojili ste izdelek.",module,Magento_Catalog
 "This product no longer exists.","Ta izdelek več ne obstaja.",module,Magento_Catalog
@@ -5870,7 +5870,7 @@
 "Synonyms","Sopomenke",module,Magento_Search
 "Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for shoes"""," the search results will include any product or content with term “shoes"" or ""footwear.”""","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for shoes"""," the search results will include any product or content with term “shoes"" or ""footwear.”""",module,Magento_Search
 "Merge existing synonyms","Združi obstoječe sopomenke",module,Magento_Search
-"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Samodejno spoji sopomenke v skupine, ki si delijo isto območje. Če to polje potrdite in dodate enega ali več enakih pogojev različnim skupinam sinonimov v istem obsegu, samodejno spoji vse pogoje v eno skupino. Če to ni tisto, kar želite, odznačite polje in prikaže se napaka, če poskušate dodati enake pogoje.",module,Magento_Search
+"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Samodejno spoji sopomenke v skupine, ki si delijo isto območje. Če to polje potrdite in dodate enega ali več enakih pogojev različnim skupinam sinonimov v enakem obsegu, samodejno spoji vse pogoje v eno skupino. Če to ni tisto, kar želite, odznačite polje in prikaže se napaka, če poskušate dodati enake pogoje.",module,Magento_Search
 "Store View","Pogled trgovine",module,Magento_Search
 "Website","Spletna stran",module,Magento_Search
 "Delete items","Izbriši elemente",module,Magento_Search
@@ -5993,8 +5993,8 @@
 "We couldn't change indexer(s)' mode because of an error.","Načina indeksa ni mogoče spremeniti zaradi napake.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indeks(ov) je v načinu ""Posodobi pri shranjevanju"".",module,Magento_Indexer
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Eden ali več <a href=""%1"">indeksov je neveljavnih</a>. Poskrbite, da se vaše <a href=""%2"" target=""_blank"">periodično opravilo Magento</a> poganja.",module,Magento_Indexer
-"State for the same indexer","Stanje za isti indeks",module,Magento_Indexer
-"State for the same view","Stanje za isti pogled",module,Magento_Indexer
+"State for the same indexer","Stanje za enak indeks",module,Magento_Indexer
+"State for the same view","Stanje za enak pogled",module,Magento_Indexer
 "Some Exception Message","Nekatero sporočilo izjeme",module,Magento_Indexer
 "Test Phrase","Preskusni stavek",module,Magento_Indexer
 "Indexer","Indeks",module,Magento_Indexer
@@ -7224,7 +7224,7 @@
 "Email Address","E-poštni naslov",module,Magento_Checkout
 "Password","Geslo",module,Magento_Checkout
 "Forgot Your Password?","Ali ste pozabili vaše geslo?",module,Magento_Checkout
-"My billing and shipping address are the same","Moj naslov za pošiljanje in račun sta isti",module,Magento_Checkout
+"My billing and shipping address are the same","Moj naslov za pošiljanje in račun sta enaka",module,Magento_Checkout
 "Update","Posodobitev",module,Magento_Checkout
 "Save in address book","Shrani v adresar",module,Magento_Checkout
 "Estimated Total","Ocenjena skupna vsota",module,Magento_Checkout
@@ -9534,7 +9534,7 @@
 "Please enter a valid URL.","Vnesite veljaven URL.","lib","lib/web/mage/validation.js"
 "Please enter a valid date (ISO).","Vnesite veljaven datum (ISO).","lib","lib/web/mage/validation.js"
 "Please enter only digits.","Vnesite samo števke.","lib","lib/web/mage/validation.js"
-"Please enter the same value again.","Znova vnesite isto vrednost.","lib","lib/web/mage/validation.js"
+"Please enter the same value again.","Znova vnesite enako vrednost.","lib","lib/web/mage/validation.js"
 "Please enter no more than {0} characters.","Ne vnesite več kot {0} znakov.","lib","lib/web/mage/validation.js"
 "Please enter at least {0} characters.","Vnesite vsaj {0} znakov.","lib","lib/web/mage/validation.js"
 "Please enter a value between {0} and {1} characters long.","Vnesite vrednost dolgo med {0} in {1} znaki.","lib","lib/web/mage/validation.js"
