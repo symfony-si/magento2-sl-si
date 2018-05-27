@@ -4,8 +4,13 @@ All notable changes to this project will be documented in this file. This projec
 [keeps a CHANGELOG](http://keepachangelog.com/) and adheres to
 [Semantic Versioning](http://semver.org/).
 
-## [UNREALEASED] - 2017-01-01
+## [UNREALEASED] - 2018-01-01
 
+* Fixes for the adjectives isto/enako
+* Fixes for some translations of the word shipped
+* Translations for Magento 2.1.11
+* Translations for Magento 2.1.12
+* Translations for Magento 2.1.13
 * ...
 
 ## [1.0.5] - 2017-11-16
